@@ -138,7 +138,7 @@ http://207.164.82.197:8001/mjpg/video.mjpg
 
 # https://www.youtube.com/channel/UCY58ggqQB70vAG_ZEce4U8g http://marinadeneuville.org/nouveau/index.php/webcams #
 #EXTINF:-1 tvg-logo="http://marinadeneuville.org/nouveau/images/CNV1/LOGO%20CNV_petit_n.png" group-title="Cam",Marina de Neuville (YT)
-plugin://plugin.video.youtube/play/?video_id=3Z4FBuXECsw
+plugin://plugin.video.youtube/play/?video_id=A4Cx2hsSw9A
 
 # update link: https://montcastor.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor,Matane
