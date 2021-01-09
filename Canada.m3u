@@ -10,6 +10,10 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/afcf31635334cca.m3u8|User-Agent=stream
 
+# https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="",Alberta Legislature (YT)
+plugin://plugin.video.youtube/play/?video_id=uNSThPz32Zw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
@@ -32,7 +36,7 @@ https://2-fss-1.streamhoster.com/pl_122/200226-88032-1/playlist.m3u8
 https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
 
 # update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
@@ -45,7 +49,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
 # https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
@@ -260,7 +264,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/20ea0094f8b372
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ahcVrCO1scY
+plugin://plugin.video.youtube/play/?video_id=MCy0ErHSXSc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
@@ -419,7 +423,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=IDkum5PnPMI
+plugin://plugin.video.youtube/play/?video_id=NYFVnKw6VVU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b06d7d239929527.m3u8|User-Agent=stream
