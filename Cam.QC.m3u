@@ -3,8 +3,8 @@
 # Cam QC #
 
 # update link: https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (YT)
-plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=dnn9B0vPlws
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
@@ -32,7 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=CO-OoqqeQT0
+plugin://plugin.video.youtube/play/?video_id=YlsGffKSHoo
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD)
