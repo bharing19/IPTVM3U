@@ -132,7 +132,7 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Quebec TV",Yoppa 720p
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f6bbf54a292ea23.m3u8|User-Agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/8b4255c484cf984.m3u8|User-Agent=stream
 
 #########
 
@@ -143,7 +143,7 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43a.m3u8|User-Agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/9eefb9e1799fa8e.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Canadian TV",Weather Network (event Only)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
@@ -157,7 +157,7 @@ plugin://plugin.video.youtube/play/?video_id=VpqHJpDHXTk
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=TOsFT6XexUI
+plugin://plugin.video.youtube/play/?video_id=dSR2zUHkc4E
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OFFLINE)
@@ -196,7 +196,7 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 # https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=E_On7QrwQn0
+plugin://plugin.video.youtube/play/?video_id=eHnKF_KnGqY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
