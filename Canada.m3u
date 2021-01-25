@@ -92,7 +92,8 @@ https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RulfaHI.png" group-title="News",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RulfaHI.png" group-title="News",CBC Toronto (OPT-2)
+https://cdn006.teleuptv.net/ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSqpI4g.png" group-title="News",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 
@@ -129,6 +130,9 @@ https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/53309
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/edfae04f7f50b8a.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
+https://cdn006.teleuptv.net/iSykLSKMFr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",► COMEDY GOLD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/ed8b377e88910ca.m3u8|User-Agent=stream
 
@@ -156,6 +160,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/1e3bd03ca5b7eb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2H707B.png" group-title="",► CTV TWO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/9f5f5e948037a97.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
+https://cdn006.teleuptv.net/zxsJFt6VvY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",► CTV VANCOUVER
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/ec9e16790541f2a.m3u8|User-Agent=stream
@@ -424,13 +431,15 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids (OPT-2)
+https://cdn006.teleuptv.net/OMZsmYVUMp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-3)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/8cb925d6667b43c.m3u8|User-Agent=stream
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=aTLkyE5gYNc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/8cb925d6667b43c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J406yXY.png" group-title="Kids",W NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/fb7e3678e602c75.m3u8|User-Agent=stream
