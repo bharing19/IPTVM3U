@@ -90,11 +90,11 @@ http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
 
-#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT)
+#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT) (OFFLINE)
 plugin://script.tvtap/play/689/play.pvr
 #plugin://script.module.tt/play/689/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT) (OFFLINE)
 plugin://script.tvtap/play/690/play.pvr
 
 # update link : #
@@ -131,7 +131,7 @@ plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=aSI5DgbP-dU
+plugin://plugin.video.youtube/play/?video_id=pqJhdXIZbZw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -178,12 +178,12 @@ https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT) (OFFLINE)
 plugin://script.tvtap/play/724/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
 http://188.35.9.5:10007/stolen/237p/parasite.install
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT) (OFFLINE)
 plugin://script.tvtap/play/725/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
@@ -202,7 +202,7 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w104167
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT)
-plugin://plugin.video.youtube/play/?video_id=N-3ynBS-otw
+plugin://plugin.video.youtube/play/?video_id=3oNx5HCaxZk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
 http://176.10.117.3:5000/play/a03t
@@ -251,13 +251,8 @@ http://176.10.117.3:5000/play/a03i
 
 # https://sportalhd.com/all/live #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
-http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
-
-
-
-
-
-
+https://content.jwplatform.com/manifests/DugFggiJ.m3u8
+#http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
 #########
 
