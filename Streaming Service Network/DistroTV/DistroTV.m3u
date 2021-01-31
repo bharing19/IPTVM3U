@@ -16,6 +16,9 @@ https://a.jsrdn.com/broadcast/ghk33s9x/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/bambu/logo_20191213_194558.png" group-title="DistroTV",Bambu
 https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/logo_20210113_193912_68.png" group-title="DistroTV",Black Enterprise
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/dac78125-ebb7-4107-8aaa-28a02f72d9d5/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="DistroTV",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 
@@ -216,6 +219,9 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/saveur-1/logo_20200204_134616.png" group-title="DistroTV",Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/sightline/logo_20210113_003939_68.png" group-title="DistroTV",Sightline
+https://42c9536e84ed4714b36cddc445cf99c2.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-64-SIGHTLINE-DISTROTV/addb8a31-27f1-4cfa-ad48-4bdc084dd150/1.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://a.jsrdn.com/hls/22882/sqad/logo_20201005_155120_68.png" group-title="DistroTV",SKWAD (UPD)
 https://stream.ads.ottera.tv/cl/8a0f5ee0-54d0-4dfa-89e9-5145adbb4d5f/960x540_980313_2.m3u8
