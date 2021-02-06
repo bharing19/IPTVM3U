@@ -11,8 +11,7 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]stream temporaire / Evenement[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qbY1WbE.jpg" group-title="",Dette Publique Française et Mondiale EN DIRECT (YT)
-plugin://plugin.video.youtube/play/?video_id=TKC-PZEl3rU
+
 
 #######
 
@@ -32,7 +31,7 @@ https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Kt70kb9Ub-Y
+plugin://plugin.video.youtube/play/?video_id=mpNb1_T7Z_8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
@@ -60,6 +59,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Animaux" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="France",Animaux (OPT-2)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/844607232c665ed.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="France",Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (TT) 
 plugin://script.tvtap/play/327/play.pvr
@@ -86,7 +88,10 @@ plugin://plugin.video.youtube/play/?video_id=yyIqrKqdTCY
 
 # update link: https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA #
 #EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=i3blaq-G_C4
+plugin://plugin.video.youtube/play/?video_id=CIC87bQ7CVA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="France",Ateliler des chefs
+https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : https://www.azur-tv.fr/live/  #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
@@ -101,8 +106,8 @@ plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 
 # https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="",Barbie Français (YT)
-plugin://plugin.video.youtube/play/?video_id=9vZOcZdMf6Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="",Barbie Français (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=Us2IoDdW68I
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
 http://connectiktv.ddns.me:8080/bblack/index.m3u8
@@ -178,6 +183,9 @@ http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/Dk0rx4M/grand-littoral.png" group-title="France",BFM Littoral
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w1683899868_b1464000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIE2Zh6.png" group-title="France",Big Name
+https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : # https://biptv.tv/live/ #
 #EXTINF:-1 tvg-id="France" tvg-name="BipTV" tvg-logo="https://i.imgur.com/YFEqBS7.png"group-title="France",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
@@ -211,13 +219,16 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 plugin://script.tvtap/play/503/play.pvr
 #plugin://script.module.tt/play/503/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zw08bQy.jpg" group-title="France",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="France",Canal J
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Kids/8e694d83aeec319.m3u8|User-Agent=stream
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=nrfzRhTA8eU
+plugin://plugin.video.youtube/play/?video_id=1hekfXo7ha0
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
@@ -303,11 +314,14 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/6063d7560adc87
 plugin://script.tvtap/play/334/play.pvr
 #plugin://script.module.tt/play/334/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/booxBLK.jpg" group-title="France",Classical Harmony
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 EXTINF:-1 tvg-id="France"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/ClubbingTV_live/index.m3u8
 
 # https://www.youtube.com/channel/UCZ_3XN3kr6ShGxXmt6jwSsQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCqGcZr.jpg" group-title="",Coilbook France (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCqGcZr.jpg" group-title="",Coilbook France (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=GrJPuswCZhA
 
 # update link : https://www.dailymotion.com/video/x7qp7mo #
@@ -363,8 +377,8 @@ https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b19280
 plugin://plugin.video.youtube/play/?video_id=mQwLev-Dqcc
 
 # https://www.youtube.com/channel/UCtqh974Np62qGOcvs3aYDrg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MGHXyvo.jpg" group-title="",DC Kids - Super Hero Girls en Français (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=q97ofEmFknM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGHXyvo.jpg" group-title="",DC Kids - Super Hero Girls en Français (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=CiDMaGhISqM
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="France",Dici TV
@@ -413,9 +427,12 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/es1-14552304/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Euronews_live/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Euronews (OPT-2)
+Https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 # update link : # https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg #
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=MsN0_WNXvh8
+
 
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
@@ -436,8 +453,8 @@ plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
 
 # https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
 # https://www.youtube.com/user/lefigaro
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
-plugin://plugin.video.youtube/play/?video_id=iaZQsAWDUh0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=ZCN6BJcLRls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (TWITCH)
 plugin://plugin.video.twitch/?channel_id=75965671&amp;mode=play
 
@@ -454,8 +471,8 @@ plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/img/apple-touch-icon-180x180-precomposed.png" group-title="France",France Inter (DM)
 plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/img/apple-touch-icon-180x180-precomposed.png" group-title="France",France Inter (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=wsTEvDMzMdM
+#EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/img/apple-touch-icon-180x180-precomposed.png" group-title="France",France Inter (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=5JHIgJYE-78
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2
@@ -529,6 +546,9 @@ plugin://plugin.video.dailymotion_com/?url=x7qhse0&mode=playLiveVideo
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Francophonie" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/tv-francophonie.png" group-title="France",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyreYPj.png" group-title="France",Fashion TV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/fashiontv-14423623/hls/index.m3u8
@@ -650,6 +670,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/04.m3u8
 plugin://script.tvtap/play/324/play.pvr
 #plugin://script.module.tt/play/324/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvNmSKM.jpg" group-title="France",Humanity 
+https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -661,10 +684,6 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="Infosport+" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="France",Infosport+ (TT)
-plugin://script.tvtap/play/721/play.pvr
-#plugin://script.module.tt/play/721/play.pvr
-
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (UPD-EXP)
 https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1602118330~exp=1602118730~acl=/i/dclive_1@103544*~hmac=244518797774ec2f090c6c34b458878639e96e29e4e22f4909f3fa09bb72f7fd
@@ -673,17 +692,27 @@ https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=160211
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Infosport+" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="France",Infosport+ (TT)
+plugin://script.tvtap/play/721/play.pvr
+#plugin://script.module.tt/play/721/play.pvr
+
+# https://www.youtube.com/user/imineo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNU8EVk.jpg" group-title="France",imineo (YT)
+plugin://plugin.video.youtube/play/?video_id=gTFN7gGX7mA
+
+
+
 # https://www.youtube.com/channel/UCkIKnMCyc2hNSj-dUuG9o-g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 1 (YT)
-plugin://plugin.video.youtube/play/?video_id=PpGc5WhC3MQ
+plugin://plugin.video.youtube/play/?video_id=3-GfTthqel4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=dBLXPTzvK9A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=_Ey68Vqy3KA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 3 (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=djz5RcbBDjc
 
 # https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=JcSmmDLfZDU
+plugin://plugin.video.youtube/play/?video_id=9_jYSjpqzOk
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
@@ -718,6 +747,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/lcplive-22828/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="LCP TV" tvg-logo="https://www.lcp.fr/sites/lcp.fr/themes/eclydre_zen/img/logo-presse.png" group-title="France",LCP TV (DM)
 plugin://plugin.video.dailymotion_com/?url=xji3qy&mode=playLiveVideo
 
+# https://www.youtube.com/channel/UCfkgw9Pslowp6znlAOnjHOg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6sgHCNt.jpg" group-title="France",LeTopDuTop (YT)
+plugin://plugin.video.youtube/play/?video_id=N6JuvPqWa6c
 
 #EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
@@ -738,7 +770,7 @@ plugin://plugin.video.dailymotion_com/?url=x3x5e37&mode=playLiveVideo
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist_w1491857041.m3u8
 
 # https://www.youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XCJZVvf.jpg" group-title="",Le Monde.fr (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCJZVvf.jpg" group-title="",Le Monde.fr (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=PrBN_vCHWJ0
 
 # update link : #
@@ -752,7 +784,7 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=taPJcJn6ABU
 
 # https://www.youtube.com/channel/UCvYqgo9dGBPVvaa4paVIhwQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/02ZMxO4.jpg" group-title="",LOU! Officiel (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02ZMxO4.jpg" group-title="",LOU! Officiel (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=3jiVL01RiPI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vxJd9Za.png" group-title="",LuckyJack.tv
@@ -760,6 +792,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/LuckyJack_live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKgMpCL.png" group-title="",LUXE.TV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/luxetv-14366338/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHTk9q.png" group-title="France",Luxe TV (OPT-2)
+https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
 plugin://script.tvtap/play/321/play.pvr
@@ -781,6 +815,10 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/a6117ccdc32557
 
 #EXTINF:-1 tvg-logo="https://www.masterfm.fr/img/upload/favicon.png" group-title="",MasterHipHouse (TWITCH)
 plugin://plugin.video.twitch/?channel_id=438032606&amp;mode=play
+
+# https://www.youtube.com/channel/UCva-htH2wvmKsG6SkcEJ4Vw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mEJz451.jpg" group-title="France",Maurienne TV (YT)
+plugin://plugin.video.youtube/play/?video_id=HyWm6zHnRbY
 
 # update link : https://www.dailymotion.com/video/x6142rr #
 #EXTINF:-1 tvg-id="France" tvg-name="MB Live TV" tvg-logo="https://www.pixagility.com/wp-content/uploads/2017/11/mb-live-tv_logo01.png" group-title="France",MB Live TV (DM)
@@ -806,13 +844,19 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Monaco Info" tvg-logo="https://www.monacochannel.mc/extension/mon_channel/design/channel_v2_fre/images/skin/mcchanne-ipad-144x144.png" group-title="France",Monaco Info 
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lK5Cu63.png" group-title="France",Moods
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : https://www.youtube.com/channel/UCQC0xLG_W0QpqAXQ4-yhwBA #
-#EXTINF:-1 tvg-id="France" tvg-name="Mosaik Cristal" tvg-logo="https://i.ibb.co/4KybCjd/Mosaik-Cristal.png" group-title="France",Mosaik Cristal (YT)
-plugin://plugin.video.youtube/play/?video_id=dSls9-EKGBI
+#EXTINF:-1 tvg-id="France" tvg-name="Mosaik Cristal" tvg-logo="https://i.ibb.co/4KybCjd/Mosaik-Cristal.png" group-title="France",Mosaik Cristal (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=-Ag1WtMkyes
 
 # update link : https://www.dailymotion.com/video/x5ddv09 #
 #EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv TV(DM)
 plugin://plugin.video.dailymotion_com/?url=x5ddv09&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WiHXh7.jpg" group-title="France",Movies Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="",MOUV' - TA RADIO HIP HOP (DM)
 plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
@@ -863,8 +907,8 @@ plugin://script.tvtap/play/319/play.pvr
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/4d732a1c4cfaa76.m3u8|User-Agent=stream
 
 # https://www.youtube.com/channel/UC0xfmhDKaxXRZvywOatQyzw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4XfkY6j.jpg" group-title="",Oddbods (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=Qk7y-9lnv6U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XfkY6j.jpg" group-title="",Oddbods (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=1EejeP0RRmM
 
 #EXTINF:-1 tvg-id="France" tvg-name="OLTV HD" tvg-logo="https://i.imgur.com/fc19kCV.png" group-title="France",OLTV HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/acaf9b0e75b69e4.m3u8|User-Agent=stream
@@ -875,12 +919,15 @@ http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQGtNzk.png" group-title="",PARIS PREMIERE
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d9I1s.jpg" group-title="France",Passion Fiction
+https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
-plugin://plugin.video.youtube/play/?video_id=4RVZ1N-ykXA
+plugin://plugin.video.youtube/play/?video_id=EnVcjeN-ku0
 
 # https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="",Peppa Pig (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="",Peppa Pig (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Uq5MCXgw3_Y
 
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="",Pétanque avec Boulistenaute (DM)
@@ -901,8 +948,8 @@ plugin://script.tvtap/play/322/play.pvr
 plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="",POCOYO FRANÇAIS (YT)
-plugin://plugin.video.youtube/play/?video_id=HPCr98dlS-E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="",POCOYO FRANÇAIS (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=rlbXb8eL-ss
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
@@ -933,19 +980,34 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/chunklist_w1
 https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 # https://www.youtube.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51G14Rp.jpg" group-title="",Pyjamasques Français (YT)
-plugin://plugin.video.youtube/play/?video_id=FMBcLN8sy5o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51G14Rp.jpg" group-title="",Pyjamasques Français (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=O8w9dRAg28E
 
 # https://www.youtube.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrPgHQG.jpg" group-title="",Pyjamasques-2 (YT)
-plugin://plugin.video.youtube/play/?video_id=_fEsb9TdFPo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrPgHQG.jpg" group-title="",Pyjamasques-2 (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=tfBe7KXq3mA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Action Movies
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Comedy Movies
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Rakuten Euronews
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Spotlight
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten TV Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiocity-website.weebly.com/uploads/1/2/2/3/122378910/background-images/1278325930.png" group-title="",RCity (TWITCH)
 plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
 
 # https://www.youtube.com/channel/UCdnE__Jh8az0raxk8jytucg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0baguJK.jpg" group-title="",Ricky Zoom (YT)
-plugin://plugin.video.youtube/play/?video_id=3K8GlZT_be0
+plugin://plugin.video.youtube/play/?video_id=z9SQaohv5WM
 
 #EXTINF:-1 tvg-logo="https://www.rjrradio.fr/sites/all/themes/rjr2015/img/logo2016.png" group-title="",rjrradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=160670081&amp;mode=play
@@ -956,19 +1018,19 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 
 # update link : https://www.youtube.com/channel/UCszBccoIWK0-0uBMv5eKiHg  #
 #EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=nTvc6sTzBZg
+plugin://plugin.video.youtube/play/?video_id=KNHlo1DEgE0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="",Radio Melodie Story (TWITCH)
 plugin://plugin.video.twitch/?channel_id=569416637&amp;mode=play
 
 # https://www.youtube.com/channel/UC6V-tTuTNwnnysyYkiHkZ2Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTCXWBZ.png" group-title="",Radio Notre Dame (YT)
-plugin://plugin.video.youtube/play/?video_id=WzytIbgky3A
+plugin://plugin.video.youtube/play/?video_id=5Sew6cLzqrQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
 http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=LJnhxrwZavI
+plugin://plugin.video.youtube/play/?video_id=EEVHXNn1Yzw
 
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/ac8bbaf89f65d0a.m3u8|User-Agent=stream
@@ -988,7 +1050,7 @@ plugin://plugin.video.youtube/play/?video_id=lB8PLSKfXpo
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 # update link : # https://www.youtube.com/channel/UCgGb7tN3tIH5_Kk05D1J_bA
-#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT)
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=-9dzrRDRHJ0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte
@@ -1041,6 +1103,9 @@ plugin://plugin.video.youtube/play/?video_id=_zEUTa4n2n8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Iqdws.jpg" group-title="",Simon Officiel (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=U_Ej-GKP4jo
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFCHuPF.jpg" group-title="France",Sofy TV (VOSF)
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+
 # http://www.souvenirsfromearth.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3bM4Kt.png" group-title="",SouvenirsFrome>Earth (UPD-EXP)
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1602118705~exp=1602119105~acl=/i/dclive_1@122827*~hmac=6e17fb7483bded1e508514788746c2e49a12f32794b25f7d3e1b4c781d3211fd
@@ -1048,13 +1113,17 @@ https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=16021
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?url=x797sy0&mode=playLiveVideo
-
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/tech_sportsenfrance_ott_mobile-14552637/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gg3Bizj.png" group-title="France",Sport en France (OPT-2)
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0OhsPp.jpg" group-title="France",Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : https://www.studioqualita.com/direct https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw #
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ZcR7m1twQwA
+plugin://plugin.video.youtube/play/?video_id=_lOXP8H1ENQ
 
 # https://stylfm.fr/reagir-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SG0sPGE.png" group-title="",Stylfm (TWITCH)
@@ -1065,6 +1134,9 @@ plugin://plugin.video.twitch/?channel_id=190883654&amp;mode=play
 plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=523696365&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20Vzf5S.jpg" group-title="France",Supertoons TV
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
@@ -1106,8 +1178,8 @@ http://51.15.3.161:8080/Teva/index.m3u8?token=test
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/teva-37149/hls/index.m3u8
 
 # https://www.youtube.com/channel/UC9XXHsquIdhme3gOTo2wiEw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oq9YTOz.jpg" group-title="",TuTiTu (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=W79CICb_FQY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oq9YTOz.jpg" group-title="",TuTiTu (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=tirkUrxPi8g
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TL7" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="France",TL7  Loire (DM)
@@ -1253,8 +1325,8 @@ plugin://plugin.video.dailymotion_com/?url=x52iluh&mode=playLiveVideo
 
 
 # update link : https://www.youtube.com/channel/UCwDb2_ymJ_tBLE1t3rrUurg #
-#EXTINF:-1 tvg-id="France" tvg-name="TV8 Moselle-Est" tvg-logo="https://www.tv8.fr/images/logo.png"group-title="France",TV8 Moselle-Est (YT) (UPD) (Off LIne)
-plugin://plugin.video.youtube/play/?video_id=BlpwdMAUODc
+#EXTINF:-1 tvg-id="France" tvg-name="TV8 Moselle-Est" tvg-logo="https://www.tv8.fr/images/logo.png"group-title="France",TV8 Moselle-Est (YT) (UPD) 
+plugin://plugin.video.youtube/play/?video_id=nYeuU-dZ2YY
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TVR" tvg-logo="https://i.ibb.co/tMTstXT/TVR-Rennes35-Bretagne.png" group-title="France",TVR Rennes35 Bretagne
