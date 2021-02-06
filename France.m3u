@@ -459,6 +459,10 @@ https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7ssUfW.jpg" group-title="",f1dqm - CHAINE RADIOAMATEUR (TWITCH)
 plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
 
+# https://www.dailymotion.com/feria-rocks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOkyqwA.png" group-title="",Feria TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7y66yv&mode=playLiveVideo
+
 # https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
 # https://www.youtube.com/user/lefigaro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT) (UPD)
@@ -791,6 +795,10 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rih4m4n.png" group-title="",La Chaîne Voyance (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=taPJcJn6ABU
 
+# https://www.dailymotion.com/LMTVofficiel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR0GeiL.png" group-title="",LMTV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7x3gqy&mode=playLiveVideo
+
 # https://www.youtube.com/channel/UCvYqgo9dGBPVvaa4paVIhwQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02ZMxO4.jpg" group-title="",LOU! Officiel (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=3jiVL01RiPI
@@ -802,6 +810,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/LuckyJack_live/index.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/luxetv-14366338/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9CHTk9q.png" group-title="France",Luxe TV (OPT-2)
 https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+# https://www.dailymotion.com/LyonCapTV https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSCUjj5.jpg" group-title="",Lyon Capitale TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
 plugin://script.tvtap/play/321/play.pvr
@@ -1034,6 +1046,10 @@ plugin://plugin.video.youtube/play/?video_id=KNHlo1DEgE0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="",Radio Melodie Story (TWITCH)
 plugin://plugin.video.twitch/?channel_id=569416637&amp;mode=play
+
+# https://www.dailymotion.com/Airshowradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dG3Rn0P.jpg" group-title="",Radio MRG (DM)
+plugin://plugin.video.dailymotion_com/?url=x69a2vh&mode=playLiveVideo
 
 # https://www.youtube.com/channel/UC6V-tTuTNwnnysyYkiHkZ2Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTCXWBZ.png" group-title="",Radio Notre Dame (YT)
