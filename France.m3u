@@ -22,6 +22,10 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-id="France" tvg-name="1net" tvg-logo="https://img.bfmtv.com/c/709/360/c1d/6563bed295ce02d829725b9899b31.png" group-title="France",1net (DM)
 plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 
+# https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KtpSSXU.jpg" group-title="France",3ABN fr (YT)
+plugin://plugin.video.youtube/play/?video_id=M0z8PGuWPcA
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
 
@@ -282,6 +286,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/04.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (OPT-2)
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
+
+# https://www.youtube.com/channel/UCkgh6GghsFZUQnhSGVraL7Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7s5uHVF.jpg" group-title="France",chess24 en français(YT)
+plugin://plugin.video.youtube/play/?video_id=rBHxlYfKT2c
 
 #EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/85727f72481091f.m3u8|User-Agent=stream
@@ -865,6 +873,10 @@ plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="MYComedy" tvg-logo="https://i.ibb.co/8PV3vp3/MYComedy.png" group-title="France",MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
 
+# https://www.youtube.com/channel/UCDCcr_N3OsqbH7FItELttvw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9FZpxU.png" group-title="France",My Little Pony EN DIRECT (YT)
+plugin://plugin.video.youtube/play/?video_id=kGaAMMgUQ9o
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-title="",N31 - La chaine des gamers (DM)
 plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 
@@ -1421,8 +1433,8 @@ plugin://script.tvtap/play/503/play.pvr
 #plugin://script.module.tt/play/503/play.pvr
 
 # https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jc8Y5se.jpg" group-title="",WB Kids (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=KQPvHMhhxiE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jc8Y5se.jpg" group-title="",WB Kids (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=HSl2WRXFImU
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Wéo" tvg-logo="https://www.weo.fr/wp-content/themes/weo2017/build/img/logo_footer.png" group-title="France",Wéo (DM)
