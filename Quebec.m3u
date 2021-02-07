@@ -48,8 +48,8 @@ https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_950_av-p.m3u8?sd=1
 https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_750_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 240 
 https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 480  (OPT-2)
-https://assimilator.tv/lcn/7f164448fa998ee627de53e5495c26da21bbbe3a/index_750_av-p.m3u8?title=lcn&sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 (OPT-2)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Montreal
@@ -199,10 +199,10 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 # https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=pHLaAY96HZU
+plugin://plugin.video.youtube/play/?video_id=Qr36PWKb55s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=_2sDS5StD0o
+plugin://plugin.video.youtube/play/?video_id=VZKlPVeBziA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
