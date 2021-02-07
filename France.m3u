@@ -1254,8 +1254,8 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TFX" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="France",TFX (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nt1live-27867/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="TIJI" tvg-logo="https://i.imgur.com/1quH8K2.png" group-title="France",TIJI
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Kids/db72af2cd99f177.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="",TIJI
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.m3u8|User-Agent=stream
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="France",TMC
@@ -1351,9 +1351,6 @@ plugin://plugin.video.dailymotion_com/?url=x7ugcxl&mode=playLiveVideo
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="France;Kids",TéléToon+ (OPT-2)
 http://144.217.253.140/Teletoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="",TIJI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
