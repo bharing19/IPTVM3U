@@ -5,6 +5,30 @@
 0.0.0.0
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Chesapeake Conservancy Osprey Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=7oqtyFRHok4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Spirit Bluff Cliff Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=xYInTHcdkWc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Alligator and Spoonbill Swamp Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=EnxRJii_dp8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",The Hummingbird Trees (YT)
+plugin://plugin.video.youtube/play/?video_id=OQLZIojJ-5s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Fraser Point Bald Eagle Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=PtTZIRwGTF0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Honey Bee Hive (YT)
+plugin://plugin.video.youtube/play/?video_id=HOgKDQp2BHE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Honey Bee Landing Zone (YT)
+plugin://plugin.video.youtube/play/?video_id=Snltgg02e30
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",The Mixed Species Flying Fox cam (YT)
+plugin://plugin.video.youtube/play/?video_id=OuW5jvSxRi8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Brooks Falls - Katmai National Park, Alaska (YT)
 plugin://plugin.video.youtube/play/?video_id=IcWTPFnqOLo
 
