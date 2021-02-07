@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=dnn9B0vPlws
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=D7URqbuQuEE
+plugin://plugin.video.youtube/play/?video_id=CbimS3tfdLU
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
@@ -35,14 +35,14 @@ plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 plugin://plugin.video.youtube/play/?video_id=YlsGffKSHoo
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
 # https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=aPyhti-XKIc
+plugin://plugin.video.youtube/play/?video_id=LniRdNDkfZk
 
 # https://www.youtube.com/channel/UCOfTJ2Bx0NANF26D44We_Lg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD) (OFFLINE)
@@ -53,8 +53,8 @@ plugin://plugin.video.youtube/play/?video_id=LgsrygiCfjw
 plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
 
 # https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=PBpGL2x6EqY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=HXZ7sZvixcc
 
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier vers Montreal
@@ -82,11 +82,11 @@ plugin://plugin.video.youtube/play/?video_id=P_nKS1DfCnY
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/Lmd36euWkBsWw1P7DK9_mw/1609611920/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/OMsclwNx38zhtaST0_bxyw/1612815832/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/HKKhaz5QOXEHbbth4JKqAQ/1609611951/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/Wmu7KM8peePT_DY-fet-9g/1612815867/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -98,7 +98,7 @@ plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
 
 # https://www.youtube.com/channel/UCCwETdRBGMzrHa1yXs8NETw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXKcDp.png" group-title="",Paroisse Ste-Hélène de Pointe-à-la-Croix (YT)
-plugin://plugin.video.youtube/play/?video_id=SpcDtek1WeU
+plugin://plugin.video.youtube/play/?video_id=4l41lYpbTyA
 
 # update link: https://www.shmp.qc.ca/ #
 #EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
@@ -123,12 +123,12 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=9retVhLOwGk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=GJgqrQmbEDI
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=-YCSBKB4oZ8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT)
+plugin://plugin.video.youtube/play/?video_id=ZPmKYWbct6U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis 2 (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
 
@@ -154,11 +154,15 @@ plugin://plugin.video.youtube/play/?video_id=ws-VacdWtsU
 
 # https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=r5lChtcvGkg
+plugin://plugin.video.youtube/play/?video_id=vdOKFb5_TWk
 
 # https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=CmZNf0DH_dg
+plugin://plugin.video.youtube/play/?video_id=yQGRpOB0o7w
+
+# https://www.youtube.com/channel/UCQ9A7p6ZCy6dFEwQ_nEYllg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAD9tzy.jpg" group-title="",Montreal/Verdun Quiet Street and Bird Feeder Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=LLwrolYVxLI
 
 # https://www.youtube.com/channel/UCUioB5e7rgqjAOjJUtwme1Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usG2vgO.jpg" group-title="",Fermette Douce Sérénité (Drummondville) (YT) (Off Line)
