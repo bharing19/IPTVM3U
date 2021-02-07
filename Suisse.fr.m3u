@@ -90,12 +90,11 @@ http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
 
-#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT) (OFFLINE)
-plugin://script.tvtap/play/689/play.pvr
-#plugin://script.module.tt/play/689/play.pvr
+#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT)
+plugin://script.module.7of9-live/play/689/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT) (OFFLINE)
-plugin://script.tvtap/play/690/play.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT)
+plugin://script.module.7of9-live/play/690/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
@@ -178,13 +177,13 @@ https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT) (OFFLINE)
-plugin://script.tvtap/play/724/play.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT)
+plugin://script.module.7of9-live/play/724/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
 http://188.35.9.5:10007/stolen/237p/parasite.install
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT) (OFFLINE)
-plugin://script.tvtap/play/725/play.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
+plugin://script.module.7of9-live/play/725/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
 http://195.154.252.221:8000/play/rtvislamweb/index.m3u8
