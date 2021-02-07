@@ -490,6 +490,10 @@ https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_199680_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXvU87l.png" group-title="Canada",Deshe Bideshe TV
 https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHWC2ZS.png" group-title="",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kge5xv4.png" group-title="Music",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
