@@ -5,6 +5,78 @@
 0.0.0.0
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Pasture at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=Ru1E_hSKPLU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cattle Pasture Panorama at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=fs9sppPWXXo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Wisconsin Pasture Cam at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=HqffCwgE9u0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Anacapa Island Cove - Channel Islands National Park Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=jF_2BWaGdHg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Anacapa Ocean - Channel Islands National Park Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=ueik_Uu4xbo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes Outdoor Kennels - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=rfR1JFJv3BU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cape East Camera - Churchill Cam, Wapusk National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=4t1xGfgDPi8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Feeding Station - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=FjT1wbez0Do
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Windsong Memorial Cat Hospital - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=_-ybzKvHz84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Vacation Rotation - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=QVsbXomMEx8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",spcaLA Cat Room (YT)
+plugin://plugin.video.youtube/play/?video_id=C1ZM6G4MmZU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Redwood River Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=ktPv2E-FmmM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sky Tower cam (YT)
+plugin://plugin.video.youtube/play/?video_id=75XRqQZXyTE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Mount Diablo Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=AlthfCT2j7Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Catalina West End Overlook (YT)
+plugin://plugin.video.youtube/play/?video_id=I95I8f928lU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Waimea Bay Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=wnNrd-VjLsQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Nkorho Bush Lodge (YT)
+plugin://plugin.video.youtube/play/?video_id=gUZjDCZEMDA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Ocean Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=vGimsBVpuN8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Sea Level Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=bqaXUYOBf_o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",OrcaLab Sea Lion Beach (YT)
+plugin://plugin.video.youtube/play/?video_id=f6KyNadD2zs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Rosie's Pan (YT)
+plugin://plugin.video.youtube/play/?video_id=TL0weAv8C9s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Channel Islands Live Adventures (YT)
+plugin://plugin.video.youtube/play/?video_id=H3EeIRQIgmA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Barn Cam at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=tPdKmQyh6W8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Squam Lakes Fox Den (YT)
+plugin://plugin.video.youtube/play/?video_id=SNiysLgjfrM
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Chesapeake Conservancy Osprey Cam (YT)
 plugin://plugin.video.youtube/play/?video_id=7oqtyFRHok4
 
