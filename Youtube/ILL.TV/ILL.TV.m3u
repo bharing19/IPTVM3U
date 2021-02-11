@@ -16,7 +16,7 @@ plugin://plugin.video.youtube/play/?video_id=_1IFL7UUTcE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKdtIXv.jpg" group-title="",CantoneseClass101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=ze6QJDWyJa4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV ( No Live ,last stream )(YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV ( No Live ,last stream ) (YT)
 plugin://plugin.video.youtube/play/?video_id=1FoXDXYmAMg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCQjWxU.jpg" group-title="",CzechClass101 TV (YT)
