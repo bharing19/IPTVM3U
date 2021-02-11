@@ -4,6 +4,9 @@
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
 
+# https://www.youtube.com/channel/UCzLB2h38nyHSIaALzwtPvfg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBfBtGk.jpg" group-title="",24/7 LIVE | Webcams (YT)
+plugin://plugin.video.youtube/play/?video_id=XfnADfPnyIE
 
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (Off Line)
@@ -130,7 +133,7 @@ plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=pqJhdXIZbZw
+plugin://plugin.video.youtube/play/?video_id=NGWsg7GEKbs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -201,7 +204,7 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w104167
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT)
-plugin://plugin.video.youtube/play/?video_id=3oNx5HCaxZk
+plugin://plugin.video.youtube/play/?video_id=rQ1F0wMqNRs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
 http://176.10.117.3:5000/play/a03t
