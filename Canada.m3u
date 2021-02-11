@@ -12,7 +12,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/026f46e9812825
 
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="",Alberta Legislature (YT)
-plugin://plugin.video.youtube/play/?video_id=uNSThPz32Zw
+plugin://plugin.video.youtube/play/?video_id=aOsu6zcCLEs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
@@ -428,7 +428,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/8cb925d6667b43
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=aTLkyE5gYNc
+plugin://plugin.video.youtube/play/?video_id=G6E-LDcs-2Q
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J406yXY.png" group-title="Kids",W NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/fb7e3678e602c75.m3u8|User-Agent=stream
@@ -516,12 +516,12 @@ http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSvS1rp.png" group-title="",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT)
-plugin://plugin.video.youtube/play/?video_id=I2lUTEctXa8
+plugin://plugin.video.youtube/play/?video_id=vFI8DoJqI9c
 
 #EXTINF:-1 tvg-logo="EWx4xALxqr0" group-title="",Gurdwara Sahib - DCC Calgary (YT)
-plugin://plugin.video.youtube/play/?video_id=EWx4xALxqr0
+plugin://plugin.video.youtube/play/?video_id=Bt6jHl3Jous
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough) (OFFLINE)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="Canada",Hamdard TV
