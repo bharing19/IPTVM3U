@@ -1,0 +1,121 @@
+#EXTM3U
+
+# Class101 TV  Pod101 TV  101 TV  https://www.innovativelanguage.com/online-language-courses/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkUdwz1.jpg" group-title="",★★★★★★★★★★ Inno[COLOR blue]V[/COLOR]ative Language Learning ★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Vhd3Gn.jpg" group-title="",AfrikaansPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=uxHNzKmZc04
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W11rmD0.jpg" group-title="",ArabicPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=Wq5jXcFj5AE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk6CMfy.jpg" group-title="",BulgarianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=_1IFL7UUTcE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKdtIXv.jpg" group-title="",CantoneseClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=ze6QJDWyJa4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV ( No Live ,last stream )(YT)
+plugin://plugin.video.youtube/play/?video_id=1FoXDXYmAMg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCQjWxU.jpg" group-title="",CzechClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=Z4bzm0rLH38
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bM0yfQU.jpg" group-title="",DanishClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=AzX6aq_IgDc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TpcUzO.jpg" group-title="",DutchPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=fwzh-XfsGpU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV (Speaking Practice) (YT)
+plugin://plugin.video.youtube/play/?video_id=jfPDd2giYX4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV (Words and Expressions) (YT)
+plugin://plugin.video.youtube/play/?video_id=08UDhjQizbo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV (Listening Practice) (YT)
+plugin://plugin.video.youtube/play/?video_id=eIDdzyMxvEY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zrax78r.jpg" group-title="",FilipinoPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=9zBmx70ykEM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Az34bTL.jpg" group-title="",FinnishPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=HafBhumC9jk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=WCnIYH7SkFQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=jDqlWLsRXV8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzthPBb.jpg" group-title="",GreekPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=CxAqXncnhps
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjYS33J.jpg" group-title="",HebrewPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=grO-3BWovto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILDhUFn.jpg" group-title="",HindiPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=cB_lt_uUHH8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUSbShU.jpg" group-title="",HungarianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=2IdaUDF68HE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O2gZUJ.jpg" group-title="",IndonesianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=aRwgYsNXjNw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KfWzDO.jpg" group-title="",ItalianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=LZJIZjkUOLM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Daily Conversations) (YT)
+plugin://plugin.video.youtube/play/?video_id=SyICCIJVjo0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Words and Expressions) (YT)
+plugin://plugin.video.youtube/play/?video_id=pWw95CTlG98
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Writing Practice) (YT)
+plugin://plugin.video.youtube/play/?video_id=wzTpZR1fpss
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6raQ5Q.jpg" group-title="",KoreanClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=dpOurYEbPa4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pB33xHI.jpg" group-title="",NorwegianClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=qDIixsi1IIE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmJjbwc.jpg" group-title="",PersianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=l-Ds3IUOMA4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEMzhv5.jpg" group-title="",PolishPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=LAe8FK4U8jw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrioeYt.jpg" group-title="",PortuguesePod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=3ZCcziABzms
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rBKnWG.jpg" group-title="",RomanianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=rUHni0iZ8-g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G12KixG.jpg" group-title="",RussianPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=_lsowLZ3tsw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=j5o1x7zicsk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOJQppQ.jpg" group-title="",SwahiliPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=RTnXJKG-POM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNCOpJj.jpg" group-title="",SwedishPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=8QQk2Yy0Cv8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7B6GNb.png" group-title="",ThaiPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=C_nZ5vImlls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UavWVUr.jpg" group-title="",TurkishClass101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=0BUs1gGz_Go
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE6HN9i.jpg" group-title="",UrduPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=EQj_94kcgOA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSmqZ7y.jpg" group-title="",VietnamesePod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=odSR2yZ8IhQ
+
+##########
