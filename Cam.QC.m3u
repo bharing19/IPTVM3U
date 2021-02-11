@@ -12,11 +12,11 @@ plugin://plugin.video.youtube/play/?video_id=CbimS3tfdLU
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=yr4luBSVH3s
+plugin://plugin.video.youtube/play/?video_id=hFZUCCoKe0w
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=0To_ooBv57Q
+plugin://plugin.video.youtube/play/?video_id=leH-WEDETD4
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
@@ -24,7 +24,7 @@ plugin://plugin.video.youtube/play/?video_id=6oqEstWc5Z0
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=w45Y-vzvWGI
+plugin://plugin.video.youtube/play/?video_id=MlIniqtdEKw
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (YT)
@@ -124,10 +124,10 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=GJgqrQmbEDI
+plugin://plugin.video.youtube/play/?video_id=hS1hbv-unHA
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=ZPmKYWbct6U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis 2 (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
