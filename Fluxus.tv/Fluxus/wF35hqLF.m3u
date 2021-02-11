@@ -1,0 +1,25 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema - Japanese
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= JUL-12-2018
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DRa3SUJ.jpg" group-title="2016",One Piece Film - Gold (2016)
+https://archive.org/download/OnePieceFilmGold2016JAP1080pBluRayX264DTSJYK/One%20Piece%20Film%20Gold%202016%20JAP%201080p%20BluRay%20x264%20DTS-JYK.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Bleach_-_The_DiamondDust_Rebellion.jpg" group-title="2007",Bleach - The DiamondDust Rebellion (2007)
+https://archive.org/download/BleachMovie2-TheDiamondDustRebellionBluray720P8BitSoftsub/BLM02_Al3asq_Upload_Team_MODy92.mp4
+
+#EXTINF:-1 tvg-logo="http://middleagedread.com/wp-content/uploads/2016/10/spirited-away.jpg" group-title="2001",Spirited Away (2001)
+https://archive.org/download/PAESESSpiritedAway2001HDTV1080pHi10AAC/[PAESES]%20Spirited%20Away%202001%20(HDTV%201080p%20Hi10%20AAC).mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aalTziefHGUVLg44iyWS8B7ee5u.jpg" group-title="1998",Pokemon - The First Movie - Mewtwo Strikes Back (1998)
+https://archive.org/download/PokemonMovie1Japanese/Pocket%20Monsters%20Movie%2001%20-%20Mewtwo%20no%20Gyakushuu%20(1998%20Theatrical%20Version)%20[LD]%20[h264%2C%20AC3%2C%20Dual-Audio].mp4

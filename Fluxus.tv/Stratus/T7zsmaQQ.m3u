@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="201" tvg-logo="https://pbs.twimg.com/profile_images/895766074452566016/uZx3koXo.jpg" group-title="COLOMBIA",CNC
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+ 
+#EXTINF:-1 tvg-id="203" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="205" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14
+http://181.143.238.252/live/livestream/index.m3u8
+ 
+#EXTINF:-1 tvg-id="206" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/8a/9b/ee/8a9bee13-bf45-d8c8-8ee6-b9dd1111cd73/source/512x512bb.jpg" group-title="COLOMBIA",PYC TV
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="207" tvg-logo="https://pbs.twimg.com/profile_images/830175884283875328/oudc8eAY.jpg" group-title="COLOMBIA",Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+ 
+#EXTINF:-1 tvg-id="208" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="COLOMBIA",Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="210" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/mundomas-tv.png" group-title="COLOMBIA",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="211" tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8

@@ -1,0 +1,115 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1000" tvg-name="" tvg-logo="http://bestmediainfo.com/uploads/2016/08/btvi-logo-top.jpg" group-title="INDIA",Bloomberg India
+http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1001" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" group-title="INDIA",CNBC Awaaz
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+
+#EXTINF:0 tvg-id="1002" tvg-logo="http://takshashila.org.in/wp-content/uploads/2015/07/CNBC_TV18_350x175.png" group-title="INDIA",CNBC Bajar
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+
+#EXTINF:-1 tvg-id="1003" tvg-name="" tvg-logo="http://uploads.tapatalk-cdn.com/20161102/a108a219f47ca81b4ecf33525429ffd4.jpg" group-title="INDIA",JK 24x7 News
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1004" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch678.jpg" group-title="INDIA",NDTV 24x7
+http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1 tvg-id="1005" tvg-name="" tvg-logo="https://yt3.ggpht.com/-UYUhwHCm7bA/AAAAAAAAAAI/AAAAAAAAAAA/WxYiwYadTxw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+ 
+#EXTINF:-1 tvg-id="1006" tvg-name="" tvg-logo="http://outofline.co.in/wp-content/uploads/2016/09/RSTV-678x381.jpg" group-title="INDIA",Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1 tvg-id="1007" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
+http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
+
+#EXTINF:-1 tvg-id="1008" tvg-name="" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" group-title="INDIA",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+ 
+#EXTINF:-1 tvg-id="1009" tvg-name="" tvg-logo="http://content.vidgyor.com/live/abp_ananada.jpg" group-title="INDIA",ABP Ananda
+http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8
+ 
+#EXTINF:-1 tvg-id="1010" tvg-name="" tvg-logo="http://i.imgur.com/QUDXicC.jpg" group-title="INDIA",ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+
+#EXTINF:-1 tvg-id="1011" tvg-name="" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+ 
+#EXTINF:-1 tvg-id="1012" tvg-name="" tvg-logo="http://www.newsgalaxy.org/wp-content/uploads/2016/10/DD-Punjabi-logo-400x150.jpg" group-title="INDIA",DD Punjabi
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+
+#EXTINF:-1 tvg-id="1013" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/34_181.png" group-title="INDIA",Sony Pix
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+ 
+#EXTINF:-1 tvg-id="1014" tvg-name="" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODgwOTM4MTM2NjU4/z-living-networkjpg.jpg" group-title="INDIA",Z Living Network
+https://y5w8j4a9.ssl.hwcdn.net/zliving-ord/index.m3u8
+ 
+#EXTINF:-1 tvg-id="1015" tvg-name="" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" group-title="INDIA",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1 tvg-id="1017" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="INDIA",NDTV
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
+
+#EXTINF:-1 tvg-id="1018" tvg-name="" tvg-logo="http://images.jdmagicbox.com/chennai/e6/044pxx44.xx44.121015162838.h7e6/logo/eb28694445bcefbea53fff28807770f5.jpg" group-title="INDIA",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1019" tvg-name="" tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="INDIA",Paras TV
+http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
+
+#EXTINF:-1 tvg-id="1020" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="INDIA",Murasu TV
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1021" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-HS1HOVc8Pco/V1KzBxqnwGI/AAAAAAAAPSk/jpsX35-SQegjSuSXmVJF3-oya_YL0-jpQCLcB/s1600/vasanth_tv.png" group-title="INDIA",Vasanth TV
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+
+#EXTINF:0 tvg-id="1022" tvg-logo="https://i.imgur.com/xXi8HX2.png" group-title="INDIA",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="1023" tvg-logo="https://i.imgur.com/HSjk10W.png" group-title="INDIA",Wah Punjabi (Canada)
+http://cdn.samtv.ca/wahpunjabi/index.m3u8
+ 
+#EXTINF:-1 tvg-id="1024" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1025" tvg-name="" tvg-logo="http://i63.tinypic.com/28w2akj.jpg" group-title="USA",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1026" tvg-logo="http://ncrkhabar.co.in/wp-content/uploads/2018/04/DD-Sports.png" group-title="INDIA",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+
+#EXTINF:-1 tvg-id="1027" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg" group-title="INDIA",DSport
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+
+#EXTINF:-1 tvg-id="1028" tvg-logo="https://3.bp.blogspot.com/-9TLHarsIzbo/WvFmovmrdqI/AAAAAAAABp0/5zEv0YfageQfYSSCehlSi8nS_v_BP0r3gCLcBGAs/s320/neo%2Bsports%2B-%2Bpapontv.jpg" group-title="INDIA",Neo Sports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1 tvg-id="1030" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="PAKISTAN",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="1031" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1032" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="PAKISTAN",Dawn News
+http://199.167.151.237:1935/live/sp15_23.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="1033" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="PAKISTAN",Dunya News
+http://199.167.151.237:1935/live/sp15_7.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="1034" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1035" tvg-name="" tvg-logo="http://www.ptv.com.pk/public/user/assets/images/ptv-familyNews.jpg" group-title="PAKISTAN",PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+
+#EXTINF:-1 tvg-id="1036" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1037" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="USA",Eye 95 TV
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1 tvg-id="1038" tvg-name="" tvg-logo="http://i65.tinypic.com/2hoemb9.png" group-title="PAKISTAN",Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8

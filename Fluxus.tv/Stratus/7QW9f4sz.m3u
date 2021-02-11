@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+ 
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/juUhwHh.png" group-title="MEXICO",Ciudad TV
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",FOROtv
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="MEXICO",Justicia TV
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/zXJPqDn.png" group-title="MEXICO",Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MEXICO",Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/cs16OLz.png" group-title="MEXICO",Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+ 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/STvPGVc.png" group-title="MEXICO",Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/Ir3XJmb.png" group-title="MEXICO",Canal 15 Fresnillo
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/zA61jld.png" group-title="MEXICO",CB TV Morelia
+http://streamingcws20.com:1935/cbtv/videocbtv/chunklist_w404614212.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/YtnqXQO.png" group-title="MEXICO",Hidalgo TV
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+ 
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco TV 17.1
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w2083906151.m3u8
+ 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco TV 17.2
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/chunklist_w1795618424.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/wYvobPG.png" group-title="MEXICO",Irapuato TV
+http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://i.imgur.com/kGv3cg5.png" group-title="MEXICO",MVM Noticias Oaxaca
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/Haxkj0I.png" group-title="MEXICO",Nuestravision Michoacan
+http://189.204.137.189:8888/m3u8/canal6.m3u8
+ 
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/8v0WFP0.png" group-title="MEXICO",Presumiendo Mexico
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="30" tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="31" tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="32" tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="33" tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+ 
+#EXTINF:-1 tvg-id="34" tvg-logo="https://corporativo.sipse.com/wp-content/uploads/revslider/corporativo-sipse/gsipse-logo-medium.png" group-title="MEXICO",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="35" tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO",SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://i.imgur.com/Cod8aTA.png" group-title="MEXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="37" tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+ 
+#EXTINF:-1 tvg-id="38" tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Tele Yucatan
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="39" tvg-logo="https://i.imgur.com/unIacu1.png" group-title="MEXICO",Transmedia TV Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+ 
+#EXTINF:-1 tvg-id="40" tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO",Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="41" tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO",Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8

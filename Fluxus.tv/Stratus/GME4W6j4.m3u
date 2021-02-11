@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="500" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="LATIN AMERICA",CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="502" tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="LATIN AMERICA",HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-id="510" tvg-logo="https://i.imgur.com/DQSHHTS.png" group-title="LATIN AMERICA",America Teve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+ 
+#EXTINF:-1 tvg-id="511" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="LATIN AMERICA",HBO 2 (SAP)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="512" tvg-logo="https://i.imgur.com/etndUmR.png" group-title="LATIN AMERICA",Latinos Up TV
+https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="513" tvg-logo="https://i.imgur.com/lXF5y7F.png" group-title="LATIN AMERICA",MAS TV (WCEA)
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="514" tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="LATIN AMERICA",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="515" tvg-logo="https://i.imgur.com/aqalhw6.png" group-title="LATIN AMERICA",Univision
+http://185.246.209.109:8080/UNIVISION/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-id="516" tvg-logo="https://i.imgur.com/n5AjNup.png" group-title="LATIN AMERICA",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="520" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATIN AMERICA",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+ 
+#EXTINF:-1 tvg-id="521" tvg-logo="https://i.imgur.com/7SjPZSp.png" group-title="LATIN AMERICA",Locomotion TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-id="522" tvg-logo="https://i.imgur.com/oSUvnDF.png" group-title="LATIN AMERICA",Los Simpson
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/5571.m3u8
+
+#EXTINF:-1 tvg-id="530" tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="531" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/27274_logo_melody_channel2.png" group-title="LATIN AMERICA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="532" tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="LATIN AMERICA",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8

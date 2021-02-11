@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema - Italian
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= JUL-12-2018
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zW2C8SHThYc/VMzgH88KxZI/AAAAAAAADEE/0BX1XJ9e3Pg/s1600/posters-image-4.jpg" group-title="2014",Ex Machina (2014)
+https://archive.org/download/ExMachina2015M1080pX264ItaEng5.1Sciencefun/Ex%20Machina%20%282015%29%201080p%20x265%2010bit%20Ita%205.1%20Eng%205....1%20big.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zW2C8SHThYc/VMzgH88KxZI/AAAAAAAADEE/0BX1XJ9e3Pg/s1600/posters-image-4.jpg" group-title="2014",Ex Machina (2014)*
+https://archive.org/download/ExMachina2015M1080pX264ItaEng5.1Sciencefun/Ex%20Machina%20%282015%29%20m1080p%20x264%20%20Ita%20Eng%205.1%20%5bSciencefun%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/42/f5/08/42f508ba627b68f20c6df87adabc51df.jpg" group-title="2014",Penguins of Madagascar (2014)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/I%20Pinguini%20Di%20Madagascar%201080p%20HEVC.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/04/John-Carter-2012-dvdplanetstorepk.jpg" group-title="2012",John Carter (2012)
+https://archive.org/download/John.Carter.2012.iTAENG.Bluray.1080p.x264TRL/John.Carter.2012.iTA-ENG.Bluray.1080p.x264-TRL.mp4
+
+#EXTINF:-1 tvg-logo="http://www.yifysubtitles.com/images/movies/movie-1210.jpg" group-title="2011",Sanctum (2011)
+https://archive.org/download/John.Carter.2012.iTAENG.Bluray.1080p.x264TRL/Sanctum%20(2011)%201080p.mp4
+
+#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2016/03/Cover_image-Little-Fockers-2010.jpg" group-title="2010",Little Fockers (2010)
+https://archive.org/download/MiPresentiITuoi20041080pHevcSciencefunEncoding/Vi%20Presento%20i%20Nostri%20%282010%29%201080p%20Hevc%20%20%28Sciencefun%20Encoding%29.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ExP-FAogsBA/Vjk3-k59C8I/AAAAAAAAQiU/KtNheB3ldGA/s1600/qos_poster.jpg" group-title="2008",Quantum of Solace (2008)
+https://archive.org/download/John.Carter.2012.iTAENG.Bluray.1080p.x264TRL/007.Quantum.of.Solace.ITA.ENG.AC3.BDRip.1080p.X265_ZMachine.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Maradona%2C_the_Hand_of_God.jpg" group-title="2007",Maradona - la mano di Dio (2007)
+https://archive.org/download/maradona_201706/maradona.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a3/65/98/a36598fbdc5dc8875f4f6bd45ec1e7e9.jpg" group-title="2004",Alexander (2004)
+https://archive.org/download/Alexander20041080pHevcItaEngaudioCorrettoSciencefunEncoding/Alexander%202004%201080p%20Hevc%20ita-eng%20(audio%20corretto)%20[Sciencefun%20Encoding].mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Movie_poster_i_robot.jpg" group-title="2004",I Robot (2004)
+https://archive.org/download/IoRobot20041080pHevcItaEngSciencefunEncoding/Io%20Robot%20(2004)%201080p%20Hevc%20Ita-eng%20[Sciencefun%20Encoding].mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/meet-the-fockers-2004.11353.jpg" group-title="2004",Meet the Fockers (2004)
+https://archive.org/download/MiPresentiITuoi20041080pHevcSciencefunEncoding/Mi%20Presenti%20I%20Tuoi%20%282004%29%201080p%20Hevc%20%28Sciencefun%20Encoding%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.jwfan.com/wp-content/uploads/2012/04/aiposter2.jpg" group-title="2001",A.I. Artificial Intelligence (2001)
+https://archive.org/download/A.I.IntelligenzaArtificiale20011080pHevcSciencefunEncodingSharing/A.I.%20-%20Intelligenza%20artificiale%20(2001)%201080p%20Hevc%20[Sciencefun%20Encoding]%20sharing.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/bridget-joness-diary-2001.12550.jpg " group-title="2001",Bridget Jones's Diary (2001)
+https://archive.org/download/IlDiarioDiBridgetJones20011080pX26510bitItaEng/Il%20diario%20di%20Bridget%20Jones%20(2001)%201080p%20x265%2010bit%20Ita%20Eng%20.mp4
+
+#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2017/04/Cover_image-Vanilla-Sky-2001-720p-free-movie-download.jpg" group-title="2001",Vanilla Sky (2001)
+https://archive.org/download/VanillaSky2001ITAENG1080pHevcveronesiumbServerEncoding/Vanilla%20Sky%20(2001)%20iTA-ENG%201080p%20Hevc%20%20(veronesiumb%20server%20Encoding).mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/cast-away-2000/large_w515BrZvczKIxbHurG6HIiYYrba.jpg" group-title="2000",Cast Away (2000)
+https://archive.org/download/GiovannaD.Arcocast.away/Cast%20Away%20%282000%29%201080p%20%20ITA%20ENG%20Hevc%20%5bSciencefun%20Encoding%5d%20%28audio%20ok%29.mp4
+
+#EXTINF:-1 tvg-logo="http://cartelesmix.es/images/CartelesP/padresdeella00003.jpg" group-title="2000",Meet the Parents (2000)
+https://archive.org/download/TiPresentoIMiei20001080pHevcItaEngSciencefunEncoding/Ti%20Presento%20I%20Miei%20%282000%29%201080p%20Hevc%20Ita%20Eng%20%28Sciencefun%20Encoding%29.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JhU3CAJ5QAE/Te2buWp6oUI/AAAAAAAAdgQ/YXRBkBgj3fM/s1600/joanofarc%2Bposter.jpg" group-title="1999",The Messenger - The Story of Joan of Arc (1999)
+https://archive.org/download/GiovannaD.Arcocast.away/Giovanna%20d.Arco%20%281999%29%201080p%20Hevc%20%5bSciencefun%20Encoding%5d%20%28audio%20ok%29.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Juniorposter.jpg/220px-Juniorposter.jpg" group-title="1994",Junior (1994)
+https://archive.org/download/Junior19941080pHevcEnItaveronesiumbServerEncodingaudioOK/Junior%20(1994)%201080p%20Hevc%20En%20ita%20(veronesiumb%20server%20encoding)%20[audio%20OK].mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-aFu_6qKwe84/Uo6wtf6jDxI/AAAAAAAABL4/powrrYPqyjc/s1600/legend+of+the+fall.jpg" group-title="1994",Legends of the Fall (1994)
+https://archive.org/download/VentoDiPassioniLegendsToTheFall19941080pX265SciencefunEncoding/Vento%20di%20Passioni%20-%20Legends%20to%20the%20Fall%20(1994)%20[1080p]%20x265%20[Sciencefun%20Encoding].mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-aFu_6qKwe84/Uo6wtf6jDxI/AAAAAAAABL4/powrrYPqyjc/s1600/legend+of+the+fall.jpg" group-title="1994",Legends of the Fall (1994)*
+https://archive.org/download/VentoDiPassioni19941080pX265ItaEngDtsAc3SubItaEng/Vento%20di%20Passioni%20(1994)%20[1080p]%20x265%20Ita%20Eng%20Dts%20Ac3%20-%20Sub%20Ita%20Eng.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Richierichposter.jpg/220px-Richierichposter.jpg" group-title="1994",Richie Rich (1994)
+https://archive.org/download/RichieRich19941080pX264WEBDLVUEmux2OK/Richie%20Rich%20(1994)%201080p%20x264%20WEB-DL%20VUE%20(mux%202%20OK).mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/American_gigolo_post.jpg" group-title="1980",American Gigolo (1980)
+https://archive.org/download/AmericanGigolo19801080pHevcSciencefunEncoding/American%20Gigol%C3%B2%20(1980)%201080p%20Hevc[Sciencefun%20Encoding].mp4

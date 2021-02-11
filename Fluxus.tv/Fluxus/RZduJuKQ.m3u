@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema - German
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= JUL-12-2018
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.winwallpapers.net/w1/2014/02/Der-Untergang-2004-Wallpapers-5.jpg" group-title="2004",Der Untergang (2004)
+https://archive.org/download/DerUntergangDownfall20041080pX264Jalucian/Der%20Untergang%20(Downfall)%20(2004)%20[1080p]%20x264%20-%20Jalucian.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xYtbaQq.jpg" group-title="1974",Fruhling auf Immenhof (1974)
+https://archive.org/download/FruhlingAufImmenhof1974/Fr%C3%BChling%20auf%20Immenhof%201974.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Necronomicon-poster.jpg" group-title="1968",Necronomicon - Getraumte Sunden (1968)
+https://archive.org/download/NecronomiconGetrumteSSnden1968/Necronomicon%20-%20Getr%C3%A4umte%20S%C3%BCnden%201968.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmportal.de/sites/default/files/imagecache/material_image/4382ABD956D244CD9BEEA91D2AC1940C_Riesenradx-Das_01.jpg" group-title="1961",Das Riesenrad (1961)
+https://archive.org/download/DasRiesenrad1961/Das%20Riesenrad%201961.mp4
+
+#EXTINF:-1 tvg-logo="http://ringostrack.com/bundles/soundtrackindex/img/cover/18360_drei-weibe-birken.jpg" group-title="1961",Drei weisse Birken (1961)
+https://archive.org/download/DreiWeisseBirken1961/Drei%20wei%C3%9Fe%20Birken%201961.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4wxPDD126wgZo6mgbpIFA08pbRZ.jpg" group-title="1959",Alle Tage ist kein Sonntag (1959)
+https://archive.org/download/AlleTageIstKeinSonntag1959/Alle%20Tage%20ist%20kein%20Sonntag%201959.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/7/1/9/2/0/171920-das-posthaus-im-schwarzwald-0-230-0-345-crop.jpg" group-title="1958",Das Posthaus im Schwarzwald (1958)
+https://archive.org/download/DasPosthausImSchwarzwald1958/Das%20Posthaus%20Im%20Schwarzwald%201958.mp4
+
+#EXTINF:-1 tvg-logo="http://www.virtual-history.com/movie/program/12/large/ajk.jpg" group-title="1958",Heimatlos (1958)
+https://archive.org/download/Heimatlos1958/Heimatlos%201958.mp4
+
+#EXTINF:-1 tvg-logo="http://der-film-noir.de/v1/sites/default/files/imagepicker/1/Nachts%20wenn%20der%20Teufel%20kam-Poster-web1_1.jpg" group-title="1957",Nachts wenn der Teufel kam (1957)
+https://archive.org/download/NachtsWennDerTeufelKam1957/Nachts%2C%20wenn%20der%20Teufel%20kam%201957.mp4
+
+#EXTINF:-1 tvg-logo="http://www.encyclocine.com/films/en35554.jpg" group-title="1957",Der Kaiser und das Waschermadel (1957)
+https://archive.org/download/DerKaiserUndDasWschermmdel1957/Der%20Kaiser%20und%20das%20W%C3%A4scherm%C3%A4del%201957.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.kurier.at/img/100/104/848/img.jpg" group-title="1957",Der schonste Tag meines Lebens (1957)
+https://archive.org/download/DerSchonsteTagMeinesLebens1957/Der%20sch%C3%B6nste%20Tag%20meines%20Lebens%201957.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.kurier.at/img/100/119/063/img.jpg" group-title="1957",Heimweh... dort wo die Blumen bluh'n (1957)
+https://archive.org/download/Heimweh...DortWoDieBlumenBluhn1957/Heimweh...%20dort%20wo%20die%20Blumen%20bl%C3%BCh%27n%201957.mp4
+
+#EXTINF:-1 tvg-logo="http://www.virtual-history.com/movie/program/12/large/ama.jpg" group-title="1957",Skandal in Ischl (1957)
+https://archive.org/download/SkandalInIschl1957/Skandal%20in%20Ischl%201957.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rarefilmsandmore.com/Media/Thumbs/0003/0003293-weisser-holunder-1957.jpg" group-title="1957",Weisser Holunder (1957)
+https://archive.org/download/WeisserHolunder1957/Weisser%20Holunder%201957.mp4
+
+#EXTINF:-1 tvg-logo="http://www.operetten-lexikon.info/files/.cms/1/8996f7f6_1956___wo_die_lerche_singt___nfp_0080.jpg" group-title="1956",Wo die Lerche singt (1956)
+https://archive.org/download/WoDieLercheSingt1956/Wo%20die%20Lerche%20singt%201956.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/1ScWHBdaj57ToQJsuhh2qnrMzmF.jpg" group-title="1956",Das Hirtenlied vom Kaisertal (1956)
+https://archive.org/download/DasHirtenliedVomKaisertal1956/Das%20Hirtenlied%20vom%20Kaisertal%201956.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rarefilmsandmore.com/Media/Thumbs/0001/0001875-kaiserball-1956.jpg" group-title="1956",Kaiserball (1956)
+https://archive.org/download/Kaiserball1956/Kaiserball%201956.mp4
+
+#EXTINF:-1 tvg-logo="http://fs5.directupload.net/images/170301/2vhr7s7v.jpg" group-title="1956",Opernball (1956)
+https://archive.org/download/Opernball1956/Opernball%201956.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/fe/30/15/fe3015fac7de1ae79702db32e7b71368.jpg" group-title="1955",Flucht in die Dolomiten (1955)
+https://archive.org/download/FluchtInDieDolomiten1955/Flucht%20in%20die%20Dolomiten%201955.mp4
+
+#EXTINF:-1 tvg-logo="http://www.autorevue.at/files/uploads/2011/11/B-Förster-Silberwald.jpg" group-title="1954",Der Forster vom Silberwald (1954)
+https://archive.org/download/DerForsterVomSilberwaldEchoDerBerge1954/Der%20F%C3%B6rster%20vom%20Silberwald%20(Echo%20der%20Berge)%201954.mp4
+
+#EXTINF:-1 tvg-logo="http://www.virtual-history.com/movie/program/12/large/abu.jpg" group-title="1954",Drei vom Variete (1954)
+https://archive.org/download/DreiVomVariet1954/Drei%20vom%20Variet%C3%A9%201954.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vt1XuyRnhir7u65nrdcXQGrOgEP.jpg" group-title="1952",Das weisse Abenteuer (1952)
+https://archive.org/download/DasWeisseAbenteuer1952/Das%20wei%C3%9Fe%20Abenteuer%201952.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BvBOagq.jpg" group-title="1951",Der Wildschutz vom Schliersee (1951)
+https://archive.org/download/DerWildschutzVomSchliersee1951/Der%20Wildsch%C3%BCtz%20vom%20Schliersee%201951.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51LgU2jgXbL.jpg" group-title="1950",Wer fuhr den grauen Ford? (1950)
+https://archive.org/download/WerFuhrDenGrauenFord1950/Wer%20fuhr%20den%20grauen%20Ford%201950.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rarefilmsandmore.com/Media/Thumbs/0000/0000371-madchen-fur-alles-1937.jpg" group-title="1937",Madchen fur alles (1937)
+https://archive.org/download/MdchenFFrAlles1937/M%C3%A4dchen%20f%C3%BCr%20alles%201937.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rarefilmsandmore.com/Media/Thumbs/0004/0004088-der-himmel-auf-erden-1935.jpg" group-title="1935",Der Himmel auf Erden (1935)
+https://archive.org/download/DerHimmelAufErden1935/Der%20Himmel%20auf%20Erden%201935.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/dnXXyzU9mbDVLDLwD50n72jKx9L.jpg" group-title="1931",Der Draufganger (1931)
+https://archive.org/download/DerDraufgnger1931/Der%20Draufg%C3%A4nger%201931.mp4
