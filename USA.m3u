@@ -129,6 +129,27 @@ https://playout4multirtmp.tulix.tv/live39/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",40
 https://playout4multirtmp.tulix.tv/live40/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Lone Ranger TV
+https://api.airy.tv/hls/main/3/Lone%20Ranger%20TV.m3u8
+https://api.airy.tv/hls/part/360/3/Lone%20Ranger%20TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Airy Westerns TV 1
+https://api.airy.tv/hls/main/4/Airy%20Westerns%201.m3u8
+https://api.airy.tv/hls/part/1080/4/Airy%20Westerns%201.m3u8
+https://api.airy.tv/hls/part/720/4/Airy%20Westerns%201.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Airy Action Movies
+https://api.airy.tv/hls/part/1080/7/Airy%20Action%20Movies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Wrestling TV
+https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Rope 2 Rope
+https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
+https://api.airy.tv/hls/part/1080/5/ECPW%20Wrestling%20TV.m3u8
+https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
+
 #########
 
 
