@@ -5,6 +5,205 @@
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
 
+
+#########
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4anKUn.jpg" group-title="airy.tv",Payam Javan TV
+https://playout4multirtmp.tulix.tv/live1/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6XnZB9u.png" group-title="airy.tv",Kayhan TV
+https://playout4multirtmp.tulix.tv/live2/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",3
+https://playout4multirtmp.tulix.tv/live3/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",4
+https://playout4multirtmp.tulix.tv/live4/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fZ0SIk.png" group-title="airy.tv",Fight TV Plus
+https://playout4multirtmp.tulix.tv/live5/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yfrXO8.jpg" group-title="airy.tv",Sports TV Plus
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvxPYgi.jpg" group-title="airy.tv",Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNjiwOP.jpg" group-title="airy.tv",Celebrity Scene TV
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",9
+https://playout4multirtmp.tulix.tv/live9/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",10
+https://playout4multirtmp.tulix.tv/live10/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",11
+https://playout4multirtmp.tulix.tv/live11/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIoUlnC.jpg" group-title="airy.tv",ESPN XEPE Radio 1700am
+https://playout4multirtmp.tulix.tv/live12/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",13
+https://playout4multirtmp.tulix.tv/live1/Stream13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",wrestling tv
+https://playout4multirtmp.tulix.tv/live14/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0WPxVv7.jpg" group-title="airy.tv",iRead2Know tv
+https://playout4multirtmp.tulix.tv/live15/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",16
+https://playout4multirtmp.tulix.tv/live16/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",17
+https://playout4multirtmp.tulix.tv/live17/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",18
+https://playout4multirtmp.tulix.tv/live18/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Travel & Food
+https://playout4multirtmp.tulix.tv/live19/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",20
+https://playout4multirtmp.tulix.tv/live20/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0prwaY.png" group-title="airy.tv",Crown of Life Global TV
+https://playout4multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgdrA3Z.jpg" group-title="airy.tv",Race Central TV
+https://playout4multirtmp.tulix.tv/live22/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNY24oZ.jpg" group-title="airy.tv",Atlanta United Fan TV
+https://playout4multirtmp.tulix.tv/live23/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGwQgl1.jpg" group-title="airy.tv",Capitol Wrestling TV
+https://playout4multirtmp.tulix.tv/live24/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Plj8yPh.jpg" group-title="airy.tv",Billy C Boxing TV
+https://playout4multirtmp.tulix.tv/live25/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BORrkMf.png" group-title="airy.tv",Mad Dog & Merrill TV
+https://playout4multirtmp.tulix.tv/live26/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",27
+https://playout4multirtmp.tulix.tv/live27/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",28
+https://playout4multirtmp.tulix.tv/live28/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBN4eY9.jpg" group-title="airy.tv",CES Boxing TV
+https://playout4multirtmp.tulix.tv/live29/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",30
+https://playout4multirtmp.tulix.tv/live30/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKxqwE0.jpg" group-title="airy.tv",No Huddle TV
+https://playout4multirtmp.tulix.tv/live31/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",32
+https://playout4multirtmp.tulix.tv/live32/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",33
+https://playout4multirtmp.tulix.tv/live33/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",34
+https://playout4multirtmp.tulix.tv/live34/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",35
+https://playout4multirtmp.tulix.tv/live35/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",36
+https://playout4multirtmp.tulix.tv/live36/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",37
+https://playout4multirtmp.tulix.tv/live37/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKH4eCL.jpg" group-title="airy.tv",Hot Rock TV
+https://playout4multirtmp.tulix.tv/live38/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hwoc7F.jpg" group-title="airy.tv",IIPC
+https://playout4multirtmp.tulix.tv/live39/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",40
+https://playout4multirtmp.tulix.tv/live40/Stream1/playlist.m3u8
+
+#########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKV7xh5.png" group-title="simultv",Spydar
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kue7yEG.png" group-title="simultv",Kartoon Circus
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2WcEKz.png" group-title="simultv",Real Family
+https://simultv.s.llnwi.net/n4s4/RealFamilyTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPl7jdh.png" group-title="simultv",2A Network
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzoUKu0.png" group-title="simultv",Switch
+https://simultv.s.llnwi.net/n4s4/Switch/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4emjAi.png" group-title="simultv",Slap Tech
+https://simultv.s.llnwi.net/n4s4/Slaptech/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AIrL3ws.png" group-title="simultv",Kid Central
+https://simultv.s.llnwi.net/n4s4/KidCentral/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/135vxqW.png" group-title="simultv",BatteryPOP
+https://simultv.s.llnwi.net/n4s4/BatteryPOP/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cuZDs9u.png" group-title="simultv",Lifestyle
+https://simultv.s.llnwi.net/n4s4/Lifestyle/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBr5Z73.png" group-title="simultv",Funnybone
+https://simultv.s.llnwi.net/n4s4/Funnybone/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4mKwXs.png" group-title="simultv",Mythos
+https://simultv.s.llnwi.net/n4s4/Mythos/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRuTfAS.png" group-title="simultv",iTown TV
+https://simultv.s.llnwi.net/n4s4/iTownTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHFdFOv.png" group-title="simultv",Cowboy theater
+https://simultv.s.llnwi.net/n4s4/Cowboytheater/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uNFHXLe.png" group-title="simultv",iSHE TV
+https://simultv.s.llnwi.net/n4s4/iSHETV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBKvxqa.png" group-title="simultv",Dimensions
+https://simultv.s.llnwi.net/n4s4/Dimensions/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCOecMc.png" group-title="simultv",JEMH
+https://simultv.s.llnwi.net/n4s4/JEMH/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYMUvaV.png" group-title="simultv",Pryme Focus
+https://simultv.s.llnwi.net/n4s4/PrymeFocus/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GldU1uF.png" group-title="simultv",Prime Time Drama
+https://simultv.s.llnwi.net/n4s4/PrimeTimeDrama/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgDDAlO.png" group-title="simultv",Simsi
+https://simultv.s.llnwi.net/n4s4/SimsiTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98U9mlg.png" group-title="simultv",Comfy TV
+https://simultv.s.llnwi.net/n4s4/ComfyTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAEKfww.png" group-title="simultv",Thrillerz
+https://simultv.s.llnwi.net/n4s4/Thrillerz/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xj1UGy.png" group-title="simultv",The Syndicate
+https://simultv.s.llnwi.net/n4s4/TheSyndicate/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXls7LJ.png" group-title="simultv",iHolyfield TV
+https://simultv.s.llnwi.net/n4s4/iHolyfield/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlzATWC.png" group-title="simultv",X Zone TV
+https://simultv.s.llnwi.net/n4s4/XZone/interlink.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 0.0.0.0
 
