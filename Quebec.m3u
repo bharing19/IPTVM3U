@@ -150,7 +150,7 @@ plugin://plugin.video.youtube/play/?video_id=Z-_K2ee2Wcc
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=HdbwyR8jcWY
+plugin://plugin.video.youtube/play/?video_id=4RYeVKBOG0E
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OFFLINE)
@@ -199,6 +199,10 @@ plugin://plugin.video.youtube/play/?video_id=gn3N-G9w_sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
+
+# https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec. (YT)
+plugin://plugin.video.youtube/play/?video_id=6YZ19b4JPx0
 
 ########
 
