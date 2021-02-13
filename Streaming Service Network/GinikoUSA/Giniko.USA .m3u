@@ -1,0 +1,626 @@
+﻿#EXTM3U
+
+# https://ginikousa.com/channels.php
+#EXTINF:-1 tvg-logo="https://ginikousa.com/images/logo-dark.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRzfyQ2.jpg" group-title="Giniko USA",5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Fb5H8.jpg" group-title="Giniko USA",5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLuu19h.jpg" group-title="Giniko USA",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnDD0xH.jpg" group-title="Giniko USA",4kchannel
+https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/30a-tv.jpg" group-title="Giniko USA",30A TV
+https://nrpus.bozztv.com/36bay2/gusa-30atv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-30atv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/style-city-music.jpg" group-title="Giniko USA",30A Music Channel
+https://nrpus.bozztv.com/36bay2/gusa-30atvmusic/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-30atvmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/action-sports-4u.jpg" group-title="Giniko USA",Action Sports 4U
+https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lthj6WJ.jpg" group-title="Giniko USA",Alright TV
+https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-alright/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/american-music.png" group-title="Giniko USA",American Music
+https://nrpus.bozztv.com/36bay2/gusa-americanmusic/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-americanmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O60LGgH.jpg" group-title="Giniko USA",Animal Here
+https://bozztv.com/36bay2/gin/giniko_animalhere_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/answers-that-count.png" group-title="Giniko USA",Answers That Count
+https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-atc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/apple-sauce-tv.jpg" group-title="Giniko USA",Apple Sauce TV
+https://nrpus.bozztv.com/36bay2/gusa-applesaucetv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-applesaucetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9V6lMCC.png" group-title="Giniko USA",Atlanta TV
+https://bozztv.com/36bay2/giniko_atlantachannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/atlanta-united-fan-tv.jpg" group-title="Giniko USA",Atlanta United Fan TV
+https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-auftv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/autoplay-tv-network.jpg" group-title="Giniko USA",AutoPlay TV Network
+https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-autoplay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eN6z78l.jpg" group-title="Giniko USA",Bad Driver
+https://bozztv.com/36bay2/gin/giniko_baddrivers_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QN8ZIL.jpg" group-title="Giniko USA",Bass Channel
+https://bozztv.com/36bay2/gin/giniko_basschannel_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/battery-pop.png" group-title="Giniko USA",Battery Pop
+https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-batterypop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJgOe9k.jpg" group-title="Giniko USA",BBC 1
+http://nimlive5.giniko.com/bbcone/bbcone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDE6MTE6MTYgQU0maGFzaF92YWx1ZT1zNzVYTXg0YklzNE9MK1Y2UmFrUmZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p515D8m.png" group-title="Giniko USA",BBC 2
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPJJJLe.jpg" group-title="Giniko USA",BBC 3 
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/billy-c-boxing.jpg" group-title="Giniko USA",Billy C Boxing
+https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-billycboxing/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/-black-music-artist.jpg" group-title="Giniko USA",Black Music Artist TV
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/bluegrass-music-4u.jpg" group-title="Giniko USA",Bluegrass Music 4U
+https://nrpus.bozztv.com/36bay2/gusa-bluegrassmusic4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-bluegrassmusic4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDVOzu9.png" group-title="USA",Blues TN
+https://nrpus.bozztv.com/36bay2/gusa-btn/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-btn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/217.jpg" group-title="Giniko USA",# Bloomberg Europe
+http://nimlive5.giniko.com/bloomberg/bloomberg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDE6MTE6MTYgQU0maGFzaF92YWx1ZT1zNzVYTXg0YklzNE9MK1Y2UmFrUmZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1042.png" group-title="Giniko USA",Brics TV
+https://bozztv.com/36bay2/gin/giniko_bricstv_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_bricstv_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/c3.png" group-title="Giniko USA",C3
+https://nrpus.bozztv.com/36bay2/gusa-c3/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-c3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBmwngz.png" group-title="Giniko USA",CA Music
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/camera-smile-tv.png" group-title="Giniko USA",Camera Smile TV
+https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-camerasmile/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/capitol-wrestling.jpg" group-title="Giniko USA",Capitol Wrestling
+https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/captiva-tv.png" group-title="Giniko USA",Captiva TV
+https://nrpus.bozztv.com/36bay2/gusa-wanztv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-wanztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg" group-title="Giniko USA",Cartoon Classics
+https://nrpus.bozztv.com/36bay2/gusa-cartoonclassics/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cartoons-4u.jpg" group-title="Giniko USA",Cartoons 4U
+https://nrpus.bozztv.com/36bay2/gusa-cartoons4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-cartoons4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/celebrity-scene-tv-.png" group-title="Giniko USA",Celebrity Scene TV
+https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-champion.jpg" group-title="Giniko USA",Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-roc.jpg" group-title="Giniko USA",Chef Roc
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QUQw6rJ.png" group-title="Giniko USA",Christmas Song
+https://bozztv.com/36bay2/gin/giniko_christmassongs_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_christmassongs_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuXsw8Z.png" group-title="Giniko USA",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/honybLI.png" group-title="Giniko USA",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xA5ylvQ.jpg" group-title="Giniko USA",Classic Films
+https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqdyBEQ.jpg" group-title="Giniko USA",CMC TV
+https://bozztv.com/36bay2/giniko_cmctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qrd9y5w.png" group-title="Giniko USA",CNC World
+https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comedy-classics.jpg" group-title="Giniko USA",Comedy Classics
+https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comfy-tv.jpg" group-title="Giniko USA",Comfy TV
+https://nrpus.bozztv.com/36bay2/gusa-comfytv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-comfytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cooking-4u.jpg" group-title="Giniko USA",Cooking 4U
+https://nrpus.bozztv.com/36bay2/gusa-cooking4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-cooking4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/country-music-4u.jpg" group-title="Giniko USA",Country Music 4U
+https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSUyZpS.png" group-title="Giniko USA",D2D TV
+https://bozztv.com/36bay2/gusa-d2dtv/index.m3u8
+https://bozztv.com/36bay2/gusa-d2dtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/darcizzle-offshore.jpg" group-title="Giniko USA",Darcizzle Offshore
+https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZVNbkR.jpg" group-title="Giniko USA",Daystar
+https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CI4Hew2.jpg" group-title="Giniko USA",Deutsche Welle News
+https://bozztv.com/36bay2/gin/giniko_deutschewelle-en_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_deutschewelle-en_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/dimensions.png" group-title="Giniko USA",Dimensions
+https://nrpus.bozztv.com/36bay2/gusa-dimensions/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-dimensions/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/documentaries-4u.jpg" group-title="Giniko USA",Documentaries 4U
+https://nrpus.bozztv.com/36bay2/gusa-documentaries4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-documentaries4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/333.jpg" group-title="Giniko USA",Enlace TV Latino
+https://bozztv.com/36bay2/gin/giniko_enlacelat_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_enlacelat_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgaWAn3.jpg" group-title="Giniko USA",Euro News
+https://gintna100.tulix.tv/gin_live/euronews/80d839fee6ca7e1b7907c802e0df68d2/60286425/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjtQa8D.jpg" group-title="Giniko USA",Everybody Is Dancing
+https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/exercise-4u.jpg" group-title="Giniko USA",Exercise 4U
+https://nrpus.bozztv.com/36bay2/gusa-exercise4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-exercise4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJOohkr.jpg" group-title="Giniko USA",EWTN Catholic TV
+https://bozztv.com/36bay2/giniko_ewtn/index.m3u8
+https://bozztv.com/36bay2/giniko_ewtn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPWnq28.jpg" group-title="Giniko USA",Fashiong1
+https://bozztv.com/36bay2/gin/giniko_fashiong_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keiKmVO.png" group-title="Giniko USA",Fashion HD
+https://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fishing-offshore.jpg" group-title="Giniko USA",Fishing Offshore
+https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fite-tv.jpeg" group-title="Giniko USA",FITE TV
+https://nrpus.bozztv.com/36bay2/gusa-fite/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-fite/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/funny-bone-tv.png" group-title="Giniko USA",Funny Bone TV
+https://nrpus.bozztv.com/36bay2/gusa-funnybone/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-funnybone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/georgia-hollywood.png" group-title="Giniko USA",Georgia Hollywood
+https://nrpus.bozztv.com/36bay2/gusa-gh/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-gh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/classic-cinema.png" group-title="Giniko USA",Giniko Classic Cinema TV
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/golden-tv.png" group-title="Giniko USA",Giniko Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/going-to-war.jpg" group-title="Giniko USA",Going to War
+https://nrpus.bozztv.com/36bay2/gusa-goingtowar/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-goingtowar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEtAu1Q.png" group-title="Giniko USA",Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3k7nDM.png" group-title="Giniko USA",Guiding Star TV
+https://nrpus.bozztv.com/36bay2/gusa-guidingstar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3pRfnm.jpg" group-title="UGiniko USA",Guitar Relax
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEzrstQ.jpg" group-title="Giniko USA",Guitar Riffs
+https://bozztv.com/36bay2/gin/giniko_guitarsriffs_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hbcu-gameday.png" group-title="Giniko USA",HBCU Gameday
+https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-HBCU/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/honor-tv.png" group-title="Giniko USA",HONOR TV
+https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-honortv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hot-rock-tv.jpg" group-title="Giniko USA",Hot Rock TV
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/313.jpg" group-title="Giniko USA",iFILM English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iholyfield-tv.png" group-title="Giniko USA",iHolyfield TV
+https://nrpus.bozztv.com/36bay2/gusa-myholyfield/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-myholyfield/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/investment-pitch-news.jpg" group-title="Giniko USA",Investment Pitch News
+https://nrpus.bozztv.com/36bay2/gusa-invpit/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-invpit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/236.jpg" group-title="Giniko USA",# Impact TV
+http://nimlive6.giniko.com/impacttv/impacttv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDM6NDA6NTcgQU0maGFzaF92YWx1ZT11SzEzMndCcWFPMVM0RVlIUVBqb2Z3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iread2know.jpg" group-title="Giniko USA",iRead2Know
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ishe-tv.png" group-title="Giniko USA",iShe TV
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-shetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/it-s-coming-soon.jpg" group-title="Giniko USA",It's Coming Soon
+https://nrpus.bozztv.com/36bay2/gusa-itscomingsoon/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-itscomingsoon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEsJ6MH.jpg" group-title="Giniko USA",Jasmin TV
+https://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj34cm0.png" group-title="Giniko USA",Juce TV
+https://bozztv.com/36bay2/gin/giniko_jucetv_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kartoon-circus.png" group-title="Giniko USA",Kartoon Circus
+https://nrpus.bozztv.com/36bay2/gusa-kartoon/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-kartoon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kathryn-raaker-s-world.jpg" group-title="Giniko USA",Kathryn Raaker's World
+https://nrpus.bozztv.com/36bay2/gusa-kathrynraaker/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-kathrynraaker/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kid-central.png" group-title="Giniko USA",Kid Central
+https://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-kidcentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/let-s-talk-about-it.jpg" group-title="Giniko USA",Let's Talk About It
+https://nrpus.bozztv.com/36bay2/gusa-letstalkaboutit/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-letstalkaboutit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lifestyle.png" group-title="Giniko USA",Lifestyle
+https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
+https://bozztv.com/36bay2/gusa-lifestyle/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lionel-nation.png" group-title="Giniko USA",Lionel Nation
+https://nrpus.bozztv.com/36bay2/gusa-ln/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-ln/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/loomered-tv.jpg" group-title="Giniko USA",Loomered TV
+https://nrpus.bozztv.com/36bay2/gusa-loomered/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-loomered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mad-dog-and-merrill.jpg" group-title="Giniko USA",Mad Dog and Merrill
+https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-mwg/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwLuj21.jpg" group-title="Giniko USA",Magic Science
+https://bozztv.com/36bay2/gin/giniko_magicscene_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9ydk17.jpg" group-title="Giniko USA",Melody Channel TV
+https://bozztv.com/36bay2/giniko_melodychannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/men-motors.png" group-title="Giniko USA",Men & Motors
+https://nrpus.bozztv.com/36bay2/gusa-menandmotors/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-menandmotors/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gq7VwvM.png" group-title="Giniko USA",Miami TV
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DxkyFiL.jpg" group-title="Giniko USA",Mighty Car Mods
+https://bozztv.com/36bay2/gin/giniko_mcm_1000kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozztv.com/36bay2/gin/giniko_mcm_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHVP9rU.jpg" group-title="Giniko USA",Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/movee-4u-tv.jpg" group-title="Giniko USA",Movee 4U TV
+https://nrpus.bozztv.com/36bay2/gusa-movee4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-movee4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mvp-tv.png" group-title="Giniko USA",MVP TV Network
+https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-mvptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BaP4Sl.jpg" group-title="Giniko USA",My Jam Music
+https://bozztv.com/36bay2/gusa-musicjam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/my-life-4u-tv.jpg" group-title="Giniko USA",My Life 4U TV
+https://nrpus.bozztv.com/36bay2/gusa-mylife4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-mylife4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mythos.png" group-title="Giniko USA",MYTHOS
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-mythos/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/new-beginning-tv.jpg" group-title="Giniko USA",New Beginning TV
+https://bozztv.com/36bay2/gusa-newbeginning/index.m3u8
+https://bozztv.com/36bay2/gusa-newbeginning/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/news-net.jpg" group-title="Giniko USA",News Net
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KtTg4a.jpg" group-title="Giniko USA",News Net
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nothing-scripted.jpg" group-title="Giniko USA",Nothing Scripted
+https://nrpus.bozztv.com/36bay2/gusa-nothingscripted/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-nothingscripted/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/npowered-tv.jpg" group-title="Giniko USA",NPowered TV
+https://36bay2.tulix.tv/gusa-npowered/index.m3u8
+https://36bay2.tulix.tv/gusa-npowered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nrbtv.jpg" group-title="Giniko USA",NRBTV
+https://nrpus.bozztv.com/36bay2/gusa-nrbtv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-nrbtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbqjwIf.jpg" group-title="Giniko USA",Old Russian Movies
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ok-tv.jpg" group-title="Giniko USA",OK TV
+https://nrpus.bozztv.com/36bay2/gusa-oktv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-oktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/outdoor-lifestyles.png" group-title="Giniko USA",Outdoor Lifestyle
+https://bozztv.com/36bay2/gusa-outdoorlifstyle/index.m3u8
+https://bozztv.com/36bay2/gusa-outdoorlifstyle/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/planet-music.png" group-title="Giniko USA",Planet Music
+https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-planetmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1154.png" group-title="Giniko USA",POSI TV
+https://bozztv.com/36bay2/gin/giniko_positiv_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_positiv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/barUksP.jpg" group-title="Giniko USA",Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/prime-time-drama.png" group-title="Giniko USA",Prime Time Drama
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-ptd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zLUNKBE.jpg" group-title="Giniko USA",Quick Beauty Tricks
+https://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUOm65h.jpg" group-title="Giniko USA",QVC
+https://bozztv.com/36bay2/gin/giniko_qvctven_800kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07Er8K0.jpg" group-title="Giniko USA",RA Music
+https://bozztv.com/36bay2/gin/giniko_ramusic_1200kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/race-central-tv.jpg" group-title="Giniko USA",Race Central TV
+https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-racecentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Zu8GLQ.png" group-title="Giniko USA",Rally Show
+https://bozztv.com/36bay2/gin/giniko_rallyshow_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ready-set-action.png" group-title="Giniko USA",Ready Set Action
+https://nrpus.bozztv.com/36bay2/gusa-readysetaction/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-readysetaction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/real-family-tv.png" group-title="Giniko USA",Real Family TV
+https://nrpus.bozztv.com/36bay2/gusa-realfamily/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-realfamily/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/regalia-tv-network.jpg" group-title="Giniko USA",Regalia Tv Network
+https://nrpus.bozztv.com/36bay2/gusa-regalia/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-regalia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/right-now-tv.jpg" group-title="Giniko USA",Right Now TV
+https://nrpus.bozztv.com/36bay2/gusa-rightnowtv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-rightnowtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl641no.jpg" group-title="Giniko USA",Roofing
+https://bozztv.com/36bay2/gin/giniko_roofing_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/rope2rope.jpg" group-title="Giniko USA",Rope2Rope
+https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-rope2rope/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZlntPz1.png" group-title="Giniko USA",Russia Today
+https://gintna100.tulix.tv/gin_live/russiatoday/5304850698efb526cf5bb16f16f0452b/602873ad/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/331.jpg" group-title="Giniko USA",SBN
+https://gintna100.tulix.tv/gin_live/sbntv/abb16f863c09984b85f14030125ab4bb/60289bf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sci-fi-4u-tv.jpeg" group-title="Giniko USA",Sci-Fi 4U TV
+https://nrpus.bozztv.com/36bay2/gusa-scifi4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-scifi4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsDqO4M.png" group-title="Giniko USA",Sent TV Global Network
+https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/shopping-4u.jpg" group-title="Giniko USA",Shopping 4U
+https://nrpus.bozztv.com/36bay2/gusa-shopping4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-shopping4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sidewalks.jpg" group-title="Giniko USA",Sidewalks
+https://nrpus.bozztv.com/36bay2/gusa-sidewalks/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-sidewalks/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sim-si-tv.png" group-title="Giniko USA",Sim Si TV
+https://nrpus.bozztv.com/36bay2/gusa-simsitv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-simsitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/74.png" group-title="Giniko USA",# Skynews International
+http://nimlive6.giniko.com/skynews/skynews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDE6MTE6MTYgQU0maGFzaF92YWx1ZT1zNzVYTXg0YklzNE9MK1Y2UmFrUmZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/slaptech.png" group-title="Giniko USA",SlapTech
+https://nrpus.bozztv.com/36bay2/gusa-slaptech/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-slaptech/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG8lb03.jpg" group-title="Giniko USA",Smile Of A Child
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sound-emerge.png" group-title="Giniko USA",Sound Emerge
+https://nrpus.bozztv.com/36bay2/gusa-soundemerge/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-soundemerge/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sport-tv-plus.jpg" group-title="Giniko USA",SPORT TV Plus
+https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/spydar-tv.png" group-title="Giniko USA",Spydar TV
+https://nrpus.bozztv.com/36bay2/gusa-spydar/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-spydar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/stgn-tv.png" group-title="Giniko USA",STGN-49 TV
+https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-stgn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/street-music-4u.jpg" group-title="Giniko USA",Street Music 4U
+https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUNgn8l.jpg" group-title="Giniko USA",Supercar Blondie
+https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/switch.png" group-title="Giniko USA",Switch
+https://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-switch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/301.png" group-title="Giniko USA",TBN TV
+https://gintna100.tulix.tv/gin_live/tbntv/9880355d64709fea71a017bed0565ae4/6027ffcd/index.m3u8
+#http://nimlive6.giniko.com/tbntv/tbntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjE3OjM0IEFNJmhhc2hfdmFsdWU9MldwcWRsWHJCUW1Gd01xTWdkU3p5Zz09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/the-beach-show.jpg" group-title="Giniko USA",The Beach Show
+https://nrpus.bozztv.com/36bay2/gusa-beachshow/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-beachshow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/302.png" group-title="Giniko USA",# The Church Channel
+http://nimlive6.giniko.com/churchchannel/churchchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDM6NDI6MjYgQU0maGFzaF92YWx1ZT0zaGp6c3ZZTVBuSVlKdllsZGJKQlZnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8v05mF0.png" group-title="Giniko USA",The Grid
+https://nrpus.bozztv.com/36bay2/gusa-thegrid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/the-syndicate.png" group-title="Giniko USA",The Syndicate
+https://nrpus.bozztv.com/36bay2/gusa-thesyndicate/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-thesyndicate/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTJhRTH.png" group-title="Giniko USA",The Word Network
+https://bozztv.com/36bay2/gin/giniko_wordnet_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_wordnet_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/thrillerz.png" group-title="Giniko USA",Thrillerz
+https://nrpus.bozztv.com/36bay2/gusa-thrillerz/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-thrillerz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCcVSer.jpg" group-title="Giniko USA",Top 10
+https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF8PETN.png" group-title="Giniko USA",Top Latino TV
+https://bozztv.com/36bay2/giniko_toplatinotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4E3RyJ.jpg" group-title="Giniko USA",ToroS-BullS
+https://bozztv.com/36bay2/gin/giniko_torosbulls_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/travel-food-tv.jpg" group-title="Giniko USA",Travel & Food TV
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/traveling-4u.jpg" group-title="Giniko USA",Traveling 4U
+https://nrpus.bozztv.com/36bay2/gusa-travel4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-travel4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/urban-music-4u.jpg" group-title="Giniko USA",Urban Music 4U
+https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/uts-tv-.png" group-title="Giniko USA",UTS TV
+https://nrpus.bozztv.com/36bay2/gusa-utstv/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-utstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/veteran-s-success-tv.png" group-title="Giniko USA",Veteran's Success TV
+https://nrpus.bozztv.com/36bay2/gusa-veteransuccess/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-veteransuccess/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/wlpc.jpg" group-title="Giniko USA",WLPC
+https://nrpus.bozztv.com/36bay2/gusa-wlpc/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-wlpc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mTcwnO.jpg" group-title="Giniko USA",Women exercises
+https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/xcorps.png" group-title="Giniko USA",xCorps
+https://nrpus.bozztv.com/36bay2/gusa-xcorps/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-xcorps/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/xzone.png" group-title="Giniko USA",xZone
+https://nrpus.bozztv.com/36bay2/gusa-xzone/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-xzone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/youth-success.png" group-title="Giniko USA",Youth Success
+https://nrpus.bozztv.com/36bay2/gusa-youthsuccess/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-youthsuccess/tracks-v1a1/mono.m3u8
+
+###############
+
+
+
+
+
+
