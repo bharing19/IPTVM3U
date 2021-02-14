@@ -136,6 +136,9 @@ https://nrpus.bozztv.com/36bay2/gusa-cartoons4u/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1167.png" group-title="Giniko USA",Channel 4
+https://gintna100.tulix.tv/gin_live/channel4/67aad3627e755db4813bc80f2e554a47/602b0098/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-champion.jpg" group-title="Giniko USA",Chef Champion
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
@@ -232,6 +235,9 @@ https://bozztv.com/36bay2/gin/giniko_fashiong_2000kb_36bay2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/keiKmVO.png" group-title="Giniko USA",Fashion HD
 https://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1169.png" group-title="Giniko USA",Film4 HD
+https://gintna100.tulix.tv/gin_live/film4-hd/da43a7e4c2fbcacdf75b502cc3eaf90e/602b025e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fishing-offshore.jpg" group-title="Giniko USA",Fishing Offshore
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
