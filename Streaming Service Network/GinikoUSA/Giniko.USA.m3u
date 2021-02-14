@@ -70,7 +70,7 @@ https://bozztv.com/36bay2/gin/giniko_basschannel_2000kb_36bay2/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-batterypop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yJgOe9k.jpg" group-title="Giniko USA",BBC 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJgOe9k.jpg" group-title="Giniko USA",# BBC 1
 http://nimlive5.giniko.com/bbcone/bbcone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDEwOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9eFdvNEFFQ1FnT0IvMVBrS0tVOEJZdz09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p515D8m.png" group-title="Giniko USA",BBC 2
