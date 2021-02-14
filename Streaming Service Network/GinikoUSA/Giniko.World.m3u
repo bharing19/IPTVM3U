@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="http://www.giniko.com/images/logo.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR] World TV★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1163.png" group-title="Giniko USA", AF | Afghanistan
+https://gintna100.tulix.tv/gin_live/afghanistan/cd6a68907ed490e8fad7e5d375cfb1d7/602b0690/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/654.png" group-title="Giniko USA",# AF | AMC TV
 http://nimlive3.giniko.com/amctv/amctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDEwOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9eFdvNEFFQ1FnT0IvMVBrS0tVOEJZdz09JnZhbGlkbWludXRlcz0xNDQw
 
@@ -57,6 +60,14 @@ http://nimlive6.giniko.com/kentron/kentron/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/970.jpg" group-title="Giniko USA",AM | Public Television of Armenia
 https://gintna100.tulix.tv/gin_live/1tvarm/815648efbff3a793464e055553badcdd/60286312/index.m3u8
+
+######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1185.png" group-title="Giniko USA", BR | Band News
+https://gintna100.tulix.tv/gin_live/band-news-hd/4e5395b3b07eff2139b419b3352c6889/602b072c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1193.png" group-title="Giniko USA", BR | GLOBO
+https://gintna100.tulix.tv/gin_live/globo/938dd3c4f63ab6adc16e105ea68170eb/602b0743/index.m3u8
 
 ######
 
@@ -153,10 +164,19 @@ https://gintna100.tulix.tv/gin_live/tv-first/c2b00f29ac6337448a8c98ddbee70327/60
 
 ######
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1172.jpg" group-title="Giniko USA",DE | RTL
+https://gintna100.tulix.tv/gin_live/rtl/80d4f7ba93f9292139d5eb0325ba5ca8/602b07ec/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1156.jpg" group-title="Giniko USA",DE | Super RTL
 https://gintna100.tulix.tv/gin_live/superrtl/8c7695c191e3020f38b30b311c87a83a/602865ef/index.m3u8
 #https://bozztv.com/36bay2/gin/giniko_superrtl_1200kb_36bay2/index.m3u8
 #https://bozztv.com/36bay2/gin/giniko_superrtl_1200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1175.png" group-title="Giniko USA",DE | VOX
+https://gintna100.tulix.tv/gin_live/vox/c94f7c63705642c7765201c2b0f54c18/602b0815/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1176.png" group-title="Giniko USA",DE | VOX UP
+https://gintna100.tulix.tv/gin_live/vox-up/c4c92a47710584955887cfe0ea2a5605/602b082d/index.m3u8
 
 ######
 
@@ -178,6 +198,9 @@ https://gintna100.tulix.tv/gin_live/angel/d36826eede4e9a5fd69981b8992e2a97/60286
 #https://bozztv.com/36bay2/gin/giniko_angeltv_900kb_36bay2/index.m3u8
 #https://bozztv.com/36bay2/gin/giniko_angeltv_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1191.png" group-title="Giniko USA",IN | India TV
+https://gintna100.tulix.tv/gin_live/india-tv/63b5a95e23a2dfc6bed6eb771482e826/602b08ec/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1020.png" group-title="Giniko USA",IN | INIYAN TV
 https://bozztv.com/36bay2/giniko_iniyantv/index.m3u8
 https://bozztv.com/36bay2/giniko_iniyantv/tracks-v1a1/mono.m3u8
@@ -185,6 +208,9 @@ https://bozztv.com/36bay2/giniko_iniyantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1080.jpg" group-title="Giniko USA",IN | K NEWS-INDIA
 https://bozztv.com/36bay2/giniko_knewsindia/index.m3u8
 https://bozztv.com/36bay2/giniko_knewsindia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1195.jpg" group-title="Giniko USA",IN | SABTV
+https://gintna100.tulix.tv/gin_live/sab-tv/d0206ac5d5d26dfcf1ac17d0d2e47796/602b08ad/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1157.jpg" group-title="Giniko USA",IN | SMTV
 https://bozztv.com/36bay2/giniko_smtv/index.m3u8
@@ -283,6 +309,12 @@ https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 
 ######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1196.jpg" group-title="Giniko USA", IT | Canale 5
+https://gintna100.tulix.tv/gin_live/canale-5/45291226191c616bdadf844daa3e1c7f/602b0618/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1186.png" group-title="Giniko USA", IT | Cielo
+https://gintna100.tulix.tv/gin_live/cielo/ac4887c3a243e0ff7921043376af92dc/602b0638/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/40.jpeg" group-title="Giniko USA",IT | HSE24
 https://bozztv.com/36bay2/gin/giniko_hse24_800kb_36bay2/index.m3u8
