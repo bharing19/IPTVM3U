@@ -390,6 +390,7 @@ https://bozztv.com/36bay2/gin/giniko_rtpi_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1142.png" group-title="Giniko USA",RU | 100% News
 https://bozztv.com/36bay2/giniko_100procnews/index.m3u8
+https://bozztv.com/36bay2/giniko_100procnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg" group-title="Giniko USA",RU | 1MUS COM
 https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/index.m3u8
@@ -403,6 +404,9 @@ https://gintna100.tulix.tv/gin_live/cnltv/ba1ebcebca1e462e43ad7d1f1bda2cd6/60287
 #https://bozztv.com/36bay2/gin/giniko_cnltv_1000kb_36bay2/index.m3u8
 #https://bozztv.com/36bay2/gin/giniko_cnltv_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1189.jpg" group-title="Giniko USA",RU | Dom Kino
+https://gintna100.tulix.tv/gin_live/dom-kino/1caf7f346bd525f0896ce211b41d5b7d/602b0af8/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1155.png" group-title="Giniko USA",RU | Karusel TV
 https://bozztv.com/36bay2/gin/giniko_karuseltv_800k_36bay2/index.m3u8
 
@@ -413,6 +417,9 @@ https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1145.jpg" group-title="Giniko USA",RU | MIR 24 TV
 https://bozztv.com/36bay2/giniko_mir24/index.m3u8
 https://bozztv.com/36bay2/giniko_mir24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1190.jpg" group-title="Giniko USA",RU | NTV Ru
+https://gintna100.tulix.tv/gin_live/ntv-fhd/5c991503e0ee577174b01e68c31df892/602b0b7a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1192.png" group-title="Giniko USA",RU | Perviy Kanal
 https://bozztv.com/36bay2/gin/giniko_perviykanal_900kb_36bay2/index.m3u8
@@ -490,6 +497,12 @@ http://nimlive6.giniko.com/sudantv/sudantv/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1188.png" group-title="Giniko USA",ES | Cadena Elite
 https://gintna100.tulix.tv/gin_live/cadena-elite/16f9cc77438723633a913440927c110b/60287564/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1204.png" group-title="Giniko USA",ES | Cuatro
+https://gintna100.tulix.tv/gin_live/cuatro/aa761013373fe7484a9364e9b6d0a2a9/602b0c4d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1187.jpg" group-title="Giniko USA",ES | La1 TV
+https://gintna100.tulix.tv/gin_live/la1/13228ccfe8cca60bf1653bf21ca5a163/602b0c83/index.m3u8
 
 ######
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/106.jpg" group-title="Giniko USA",TH | TGN
@@ -634,6 +647,9 @@ http://nimlive5.giniko.com/ahlulbayt/ahlulbayt/playlist.m3u8?wmsAuthSign=c2VydmV
 http://nimlive6.giniko.com/alkarmatv/alkarmatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDEwOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9eFdvNEFFQ1FnT0IvMVBrS0tVOEJZdz09JnZhbGlkbWludXRlcz0xNDQw
 
 #####
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/562.jpg" group-title="Giniko USA",# Vn | VBS Television
+http://nimlive3.giniko.com/vbstv/vbstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDEwOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9eFdvNEFFQ1FnT0IvMVBrS0tVOEJZdz09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/197.png" group-title="Giniko USA",Vn | Vietnam Net Giniko
 https://gintna100.tulix.tv/gin_live/netviet/af59f7a9d10f8220133dd7dc177518f1/60289c8f/index.m3u8
