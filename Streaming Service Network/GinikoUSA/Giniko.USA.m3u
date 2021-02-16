@@ -361,9 +361,11 @@ https://bozztv.com/36bay2/gin/giniko_magicscene_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9ydk17.jpg" group-title="Giniko USA",Melody Channel TV
 https://bozztv.com/36bay2/giniko_melodychannel/index.m3u8
 
+# https://menandmotors.com/
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/men-motors.png" group-title="Giniko USA",Men & Motors
-https://nrpus.bozztv.com/36bay2/gusa-menandmotors/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-menandmotors/tracks-v1a1/mono.m3u8
+https://live.serverside.ai/hls/62d3c643-c148-4e5a-99aa-d081a9df5012/master.m3u8?api-key=e569e390-0bf6-46d1-b183-ebc0e8386216
+#https://nrpus.bozztv.com/36bay2/gusa-menandmotors/index.m3u8
+#https://nrpus.bozztv.com/36bay2/gusa-menandmotors/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gq7VwvM.png" group-title="Giniko USA",Miami TV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
@@ -403,7 +405,8 @@ https://bozztv.com/36bay2/gusa-newbeginning/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KtTg4a.jpg" group-title="Giniko USA",News Net
-https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+https://gintna100.tulix.tv/gin_live/newsnet/d7cb5babf0f6328378b975180b28312d/602cb6f0/index.m3u8
+#https://bozztv.com/36bay2/gin-newsnet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nothing-scripted.jpg" group-title="Giniko USA",Nothing Scripted
 https://nrpus.bozztv.com/36bay2/gusa-nothingscripted/index.m3u8
@@ -595,6 +598,7 @@ https://nrpus.bozztv.com/36bay2/gusa-travel4u/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/tracks-v1a1/mono.m3u8
 
+# http://urbantrendsetters.com/uts-tv/
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/uts-tv-.png" group-title="Giniko USA",UTS TV
 https://nrpus.bozztv.com/36bay2/gusa-utstv/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-utstv/tracks-v1a1/mono.m3u8
