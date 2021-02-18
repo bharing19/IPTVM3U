@@ -182,9 +182,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Indie Artist Music TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25e3932c8368bdbfd87f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Slimo
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Gameplay
 https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
 
@@ -199,6 +196,9 @@ https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 #EXTINF:-1 tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fautomoto.png?w=80&h=45&fit=fit&blur=0&ixlib=js-1.2.0&s=2b76911fbfdbc03392023b5fa8dcc9c1" group-title="bumblebee.tv",AutoMoto
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w485262790.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Slimo
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Delicious TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9529aa932c837b493972cb/playlist.m3u8
