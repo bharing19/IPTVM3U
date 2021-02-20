@@ -44,7 +44,7 @@ plugin://plugin.video.youtube/play/?video_id=9zBmx70ykEM
 plugin://plugin.video.youtube/play/?video_id=HafBhumC9jk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV (YT)
-plugin://plugin.video.youtube/play/?video_id=WCnIYH7SkFQ
+plugin://plugin.video.youtube/play/?video_id=TwNW78ELWyU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=jDqlWLsRXV8
@@ -77,7 +77,7 @@ plugin://plugin.video.youtube/play/?video_id=pWw95CTlG98
 plugin://plugin.video.youtube/play/?video_id=wzTpZR1fpss
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P6raQ5Q.jpg" group-title="",KoreanClass101 TV (YT)
-plugin://plugin.video.youtube/play/?video_id=dpOurYEbPa4
+plugin://plugin.video.youtube/play/?video_id=wkjY3dp7WI8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pB33xHI.jpg" group-title="",NorwegianClass101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=qDIixsi1IIE
@@ -98,7 +98,7 @@ plugin://plugin.video.youtube/play/?video_id=rUHni0iZ8-g
 plugin://plugin.video.youtube/play/?video_id=_lsowLZ3tsw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV (YT)
-plugin://plugin.video.youtube/play/?video_id=j5o1x7zicsk
+plugin://plugin.video.youtube/play/?video_id=8EXfopnk4HA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOJQppQ.jpg" group-title="",SwahiliPod101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=RTnXJKG-POM
