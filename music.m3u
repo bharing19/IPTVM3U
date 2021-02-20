@@ -384,6 +384,9 @@ https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mxRekh.jpg" group-title="",FAN TV
 https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pho5gFM.png" group-title="",Figaro Radio (DM)
+plugin://plugin.video.dailymotion_com/?url=x7x0v7j&mode=playLiveVideo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gESSZUd.png" group-title="USA",Filmon.tv Radio
 https://edge-1192-ch-gv.filmon.com/live/4151.high.stream/playlist.m3u8
 
