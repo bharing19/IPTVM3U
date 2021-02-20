@@ -5,6 +5,10 @@
 0.0.0.0
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org"Tundra Connections Live Q&A Session (YT)
+plugin://plugin.video.youtube/play/?video_id=n_TrNNdiYTk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Pasture at Farm Sanctuary (YT)
 plugin://plugin.video.youtube/play/?video_id=Ru1E_hSKPLU
 
