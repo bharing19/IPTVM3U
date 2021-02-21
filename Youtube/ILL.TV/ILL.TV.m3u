@@ -17,7 +17,7 @@ plugin://plugin.video.youtube/play/?video_id=_1IFL7UUTcE
 plugin://plugin.video.youtube/play/?video_id=ze6QJDWyJa4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV ( No Live ,last stream ) (YT)
-plugin://plugin.video.youtube/play/?video_id=1FoXDXYmAMg
+plugin://plugin.video.youtube/play/?video_id=sMsiYUFofvU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCQjWxU.jpg" group-title="",CzechClass101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=Z4bzm0rLH38
@@ -71,7 +71,7 @@ plugin://plugin.video.youtube/play/?video_id=LZJIZjkUOLM
 plugin://plugin.video.youtube/play/?video_id=SyICCIJVjo0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Words and Expressions) (YT)
-plugin://plugin.video.youtube/play/?video_id=pWw95CTlG98
+plugin://plugin.video.youtube/play/?video_id=UPCoeGmRa9Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Writing Practice) (YT)
 plugin://plugin.video.youtube/play/?video_id=wzTpZR1fpss
