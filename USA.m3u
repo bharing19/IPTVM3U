@@ -1,5 +1,9 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",for more USA tv see https://github.com/Sphinxroot/IPTVM3U/tree/master/Streaming%20Service%20Network
+0.0.0.0
+
+
 # https://www.youtube.com/channel/UCju5Bpr3NY63ZBZoKDrCTbg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff7qiyL.jpg" group-title="",US National Debt Clock LIVE (YT)
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
@@ -845,9 +849,10 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/NRA/interrupt/nranews/images/nra-tv-logo.png" group-title="USA",NRA TV
 https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
 
-
-
-
+# https://nexttvc.com/watch-live/
+#EXTINF:-1 tvg-logo="https://nexttvc.com/wp-content/uploads/2020/01/1024x1024NextTVLogo.png" group-title="",NextTV
+https://f-tx-edge-87.christianworldmedia.com/nexttv/sm_nexttv.smil/playlist.m3u8
+https://f-tx-edge-87.christianworldmedia.com/nexttv/sm_nexttv.smil/chunklist_w1704835794_b3715072_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (SD)
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
@@ -1019,7 +1024,7 @@ https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",TDAmeritradeNetwork
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOBI78V.jpg" group-title="",TDAmeritradeNetwork
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhd6zx6.png" group-title="",Tennis Channel
