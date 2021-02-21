@@ -88,7 +88,7 @@ https://broadcastify.cdnstream1.com/33471
 https://broadcastify.cdnstream1.com/12829
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AchRfEE.png" group-title="", communication radio aéroport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AchRfEE.png" group-title="", communication radio aeroport
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CYUL Approach/Departure
@@ -116,15 +116,13 @@ https://s1-fmt2.liveatc.net/cyul_twr2?nocache=2021022116124798828
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CZUL Center (Montreal)
 https://s1-bos.liveatc.net/cyul_ctr_mtl?nocache=2021022116134178062
-#EXTINF:-1 tvg-logo="" group-title="",CZUL Center (Montreal)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CZUL Center (Montreal)
 https://s1-bos.liveatc.net/cyul_ctr_mtl?nocache=2021022116134853507
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CZUL Center (Vallie Sector)
 https://s1-fmt2.liveatc.net/czul_yow?nocache=2021022116145257119
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CZUL Center (Vallie Sector)
 https://s1-sjc.liveatc.net/czul_yow?nocache=2021022116150071965
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDR7Nfx.png" group-title="",CSB3 CTAF - St-Mathieu-De-Beloeil
 https://s1-fmt2.liveatc.net/csb3_1?nocache=2021022116194384217
