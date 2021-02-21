@@ -159,7 +159,7 @@ https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~~~~  USA TV ~~~~ 
 0.0.0.0
 
 
@@ -1176,7 +1176,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/public-icon-png-6.png" group-title="LABEL",~ USA Public TV ~
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/public-icon-png-6.png" group-title="LABEL",~~~~  USA Public TV ~~~~
 0.0.0.0
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wk8i4N3.png" group-title="USA PUBLIC",Access 19 Montgomery
@@ -1396,8 +1396,11 @@ http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxxRphV.png" group-title="USA PUBLIC",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
  
-#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
-http://167.88.154.169/wnycfm-tunein
+ 
+#########
+ 
+#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~~~~ USA Local News ~~~~
+0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7yrCSu0.png" group-title="USA LOCAL",Augusta: Fox 54 News Now
 http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
@@ -2950,7 +2953,836 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisehorror/
 
 ###########
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wd6wF91.jpg" group-title="CBS",CBS 
+0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCzf1jp.png" group-title="CBS",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCzf1jp.png" group-title="CBS",CBSN National
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCzf1jp.png" group-title="CBS",CBSN Live Event
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fb2ZEEk.png" group-title="CBS",CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZPqj6h.png" group-title="CBS",CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qu8T1Jp.png" group-title="CBS",CBSN Baltimore (NA)
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2Z31RY.png" group-title="CBS",CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhnURaN.png" group-title="CBS",CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3NS5t81.png" group-title="CBS",CBSN Dallas - Ft. Worth
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPybuei.png" group-title="CBS",CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfHRCQX.png" group-title="CBS",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GU2Vgd5.png" group-title="CBS",CBS Miami (WFOR)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyy7ggA.png" group-title="CBS",CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tgjm2c2.png" group-title="CBS",CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMxaGKV.png" group-title="CBS",CBSN Philladelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pa6MuGG.png" group-title="CBS",CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdvMd4d.png" group-title="CBS",CBSN Sacramento (NA)
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKri0kg.jpg" group-title="CBS",ET
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+
+#######
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/naturelive/general/db77d9e6-ee5c-42f5-92b5-9271ab5b5499" group-title="",Nature Live
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="" group-title="",Animal Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Aurora Borealis Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Forest Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Lakes and Ponds Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Mountains Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Rivers and Streams Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sunsets Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Tropical Nature Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Waterfalls LIVE
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",The Sea Live
+https://stitcher.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+
+#############
+
+#EXTINF:-1 group-title="News",ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 group-title="News",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 group-title="Local",Action News Jax (WJAX-TV)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 group-title="Local",Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="Local",Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 group-title="Local",Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="Religious",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="News",Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="Religious",Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 ,America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 ,American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1 ,American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 ,Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
+#EXTINF:-1 ,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV (CSULB)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 ,Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 ,Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1 group-title="Sport",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 ,Beto TV
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:-1 group-title="Religious",Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 ,Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 ,Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment",BlazeTV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="News",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV EMEA Live Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Europe
+http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 ,Bloomberg TV Live Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 ,Bloomberg TV Politics Live Event
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1 ,Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
+#EXTINF:-1 group-title="Local",Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
+#EXTINF:-1 group-title="Local",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 ,Brut.
+http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Local",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 group-title="Local",BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1 group-title="Entertainment",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 ,Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,byu TV
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Religious",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 ,CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 group-title="News",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="News",CBN News
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="News",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 group-title="Local",CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="News",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 group-title="News",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 group-title="News",CBS News New York
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="News",CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="News",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 ,CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CCX2
+https://nwct-tr-ls2.nwct.org/live/live.m3u8
+#EXTINF:-1 ,CCX2
+https://nwct-tr-ls2.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,CCX3
+https://nwct-tr-ls3.nwct.org/live/live.m3u8
+#EXTINF:-1 ,CCX3
+https://nwct-tr-ls3.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="Local",Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Legislative",CGTV
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 ,Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="News",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 group-title="News",Cheddar
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+#EXTINF:-1 group-title="News",Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 group-title="Religious",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1 ,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 ,CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 ,CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="Business",CNBC Arabiya
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 ,ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1 group-title="Local",CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 ,CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 group-title="Legislative",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 group-title="Legislative",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="Religious",Divine Vision
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 ,Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="Religious",Dr. Gene Scott
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 ,Dream TV
+https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
+#EXTINF:-1 group-title="Sport",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Legislative",Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1 group-title="Religious",ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 ,Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="Legislative",Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Religious",Faith & Life TV
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Faith USA
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+#EXTINF:-1 ,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Free Speech TV
+http://bit.ly/2xV7ewi
+#EXTINF:-1 ,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 group-title="Local",Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 group-title="Local",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 group-title="Local",Globesville (New York Institute of Technology)
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:-1 ,GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 ,Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 ,Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 ,Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:-1 ,Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+#EXTINF:-1 group-title="Religious",Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 group-title="Local",Ion 8 Christiansted VI (WSVI-TV)
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Religious",ISN
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 ,It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:-1 ,JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 group-title="Shop",Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 ,Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Local",Justice Network (WMGM)
+https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
+#EXTINF:-1 group-title="Local",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 ,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 group-title="Local",KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
+#EXTINF:-1 group-title="Religious",KNXT Catholic TV
+http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
+#EXTINF:-1 group-title="Local",KOMO News (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="Local",KTVB
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+#EXTINF:-1 ,Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Local",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1 group-title="Local",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Religious",LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 ,Local Now Philidelphia
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+#EXTINF:-1 group-title="Religious",LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 group-title="Local",MCN6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 group-title="",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 group-title="",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 ,Mo Laughter
+https://nimble.dashstreams.net/onestudio/molaughter/chunks.m3u8
+#EXTINF:-1 ,Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 ,Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
+#EXTINF:-1 group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 ,MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
+#EXTINF:-1 ,NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 ,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 ,NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="Local",NBC 11 Pittsburgh PA (WPXI-HD)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 group-title="Local",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="Local",NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="Local",NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 group-title="Local",NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="Local",NBC Charlotte NC (WCNC-TV)
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 ,New Orleans TV
+http://bit.ly/2N6lxn9
+#EXTINF:-1 ,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="News",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+#EXTINF:-1 group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="News",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 group-title="News",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 ,NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Local",Olelo 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1 group-title="Local",Olelo 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 group-title="Local",Olelo 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 ,Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 ,Opportunity Knocks
+https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
+#EXTINF:-1 group-title="Local",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 ,PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 ,Planet Cannabis Entertainment
+https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
+#EXTINF:-1 ,Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 ,QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1 ,QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 ,QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 ,Radio y Televisión Martí
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 ,Revelation TV
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 group-title="News",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,SafeTV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",SBN
+http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+#EXTINF:-1 group-title="Religious",SBN
+http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 group-title="Religious",SBN Global
+http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1 ,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="Shop",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+#EXTINF:-1 group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 ,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 ,SubRang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title="Sport",Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="Religious",TCT
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="Kids",TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 ,Telemundo 44
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 ,The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 ,The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 group-title="Movies",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 ,The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 ,The Now Network
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Shop",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 group-title="Shop",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 ,The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 ,The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Weather",The Weather Channel
+http://bit.ly/2wQwd1G
+#EXTINF:-1 group-title="Weather",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="Weather",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 ,The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 ,Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 ,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Religious",Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1 group-title="Local",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 group-title="Local",UALR TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 group-title="Religious",Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+#EXTINF:-1 group-title="Local",UWW-TV
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:-1 group-title="Religious",Victory Television Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:-1 ,VoA TV
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 ,VoA TV
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 ,VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 ,WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WCLF
+http://162.244.80.254:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Weather",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1 group-title="Weather",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="Local",WGN-TV (Chicago)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Local",WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
+#EXTINF:-1 ,White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 group-title="Local",WHPR
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1 ,Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
+#EXTINF:-1 ,WSJ
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 ,Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 ,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 ,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,United States: 30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 ,United States: 30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 ,United States: Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:-1 ,United States: California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 ,United States: Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 ,United States: CTN
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 ,United States: Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,United States: Ion 8 Christiansted VI (WSVI-TV)
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 ,United States: KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1 ,United States: MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 ,United States: WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 ,United States: WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1,US: AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1,US: BRAVO
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:-1,US: CAROLINA TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,US: CATCH 2 JAMAICA
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:-1,US: CHARGE TV PUBLIC ENTERTAINMENT ENGLISH
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,US: CLASSIC TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1,US: COMET TV GEO
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1,US: COOKING CHANNEL
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,US: CORNERSTONE TV
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:-1,US: CT N INSTANT
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:-1,US: CT N STREAMING MEDIA
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1,US: DAYTONA BEACH TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,US: DOYLESTOWN
+http://wms-prod-1.wetmet.net/live/207-10-01/playlist.m3u8
+#EXTINF:-1,US: FREEDOM BOAT CLUB
+http://wse1.resortcams.com/live-nDVR/freedomboatclub.stream/playlist.m3u8
+#EXTINF:-1,US: GARLAND TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,US: GREEN PARROT
+http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1,US: GREENEVILLE
+http://wse1.resortcams.com/live/greeneville.stream/playlist.m3u8
+#EXTINF:-1,US: GREENSBORO TV NETWORK
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1,US: HARVEST TV DOCUMENTARY IN MALAYALAM
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1,US: HVCC RO
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+#EXTINF:-1,US: LBN
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:-1,US: MADELINE ISLAND
+http://wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8
+#EXTINF:-1,US: MANASQUAN
+http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/playlist.m3u8
+#EXTINF:-1,US: MY9
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,US: CONTV OPT 1
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1,US: DOCURAMA
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1,US: NPOWERED TV
+https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
+#EXTINF:,US: 30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:,US: CTN WVLR
+http://wvlrdt481.srfms.com:2233/live/livestream/chunklist.m3u8
+#EXTINF:,US: CTNI ES
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:,US: GOOD LIFE 45
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:,US: MTA IS UK
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:,US: RANGARANG TV
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:,US: SALT AND LIGHT TV CA CANADA
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:,US: SCP TV ST CHARLES PARISH
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:,US: SIDEWALKS
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:,US: SPYDAR TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:,US: TBD TV PUBLIC ENTERTAINMENT ENGLISH
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:,US: TEMPE 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:,US: TIN IS TRINIDAD AND TOBAGO
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+#EXTINF:,US: VASANTHAM TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:,US: WBRZ TV BATON ROUGE
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:,US: WEST JEFFERSON
+http://wse1.resortcams.com/live/westjefferson.stream/playlist.m3u8
+#EXTINF:,US: WESTERN 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:,US: EVINE
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,United States: 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1,United States: 24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1,United States: 3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1,United States: 3News Now (KMTV-TV)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,United States: ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1,United States: ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1,United States: ABC 9 Orlando FL (WFTV-HD)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1,United States: Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1,United States: Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Us- TULALIP TV
+https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1,Us- 360 North
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
+#EXTINF:-1,Us- Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1,Us- Channel V6
+https://media.ksl.com/watchit/vod/41534/playlist.m3u8
+#EXTINF:-1,Us- Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,US- Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1576655910_b2592000.m3u8
+#EXTINF:-1,US- PCC TV
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1,US- Food 52
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1,US- Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1,US- Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1,US- Temple TV
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+#EXTINF:-1,US- Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1,US- Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1,US- Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,US- Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1,US- Nothing Scripted
+http://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1,US- My Life TV
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+#EXTINF:-1,US- Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,US- Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1,US- WABI 5 Bangor Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1,US- 7 News - Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1,US- CVTV Channel 21
+https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8
+#EXTINF:-1,US- Greenbelt TV
+https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1,US- HTV 1
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1,US- UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 
 
