@@ -36,6 +36,10 @@ https://nimble.dashstreams.net/onestudio/aptv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/aweencore/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/aweencore/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/08/AWEPlus-1280x720-1-196x126.jpg" group-title="Lifestyle TV Networks",AWE Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BCTV.jpg" group-title="Urban TV Networks",BCTV
 https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blackmedia/chunks.m3u8
@@ -122,6 +126,10 @@ https://nimble.dashstreams.net/onestudio/daystar/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" group-title="Movie Networks",Documentaries 4U
 https://nimble.dashstreams.net/onestudio/documentaries4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/documentaries4u/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Downtown_Beats-196x126.jpg" group-title="Music TV Networks",Downtown Beats
+https://broadcast.mytvtogo.net/downtownbeats/downtownbeats/playlist.m3u8
+https://broadcast.mytvtogo.net/downtownbeats/downtownbeats/chunklist_w960169626.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_DreamTV_1280x720.jpg" group-title="Music TV Networks",Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
@@ -386,6 +394,11 @@ https://nimble.dashstreams.net/onestudio/SouthernGospelmusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/StreetMusic_4U_1280x720.jpg" group-title="Music TV Networks",Street Music 4U
 https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/StreetMusic4U/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_ToonKrazyTV_1280x720-520x293.jpg" group-title="Children’s TV Networks",Toon Krazy TV
+https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/playlist.m3u8
+https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/chunklist_w821069857.m3u8
+https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/chunklist_w222646925.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Travel_4U_1280x720.jpg" group-title="Lifestyle TV Networks",Travel 4U
 https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
