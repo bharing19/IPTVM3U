@@ -130,6 +130,13 @@ https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Quebec TV",Yoppa 720p
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/8b4255c484cf984.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3k0O7fv.png" group-title="",Teletoon (TO)
+plugin://plugin.video.tvone1112/play/2099/play.pvr
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="",Yoopa (TO)
+plugin://plugin.video.tvone1112/play/2109/play.pv
+
+
 #########
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
