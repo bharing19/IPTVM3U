@@ -1,4 +1,6 @@
-﻿#EXTINF:-1 tvg-logo="https://i.imgur.com/7R1VSJx.jpg" group-title="",★★★★★★★★★★ Quebec Scanner ★★★★★★★★★★
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7R1VSJx.jpg" group-title="",★★★★★★★★★★ Quebec Scanner ★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://s.broadcastify.com/i/bcfy_social_logo.png" group-title="",VE2RVA 145.130 MHz Amateur Radio
