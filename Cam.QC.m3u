@@ -48,6 +48,9 @@ plugin://plugin.video.youtube/play/?video_id=LniRdNDkfZk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=LgsrygiCfjw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",Montreal Trudeau International Airport Webcam
+http://207.164.90.146:747/mjpg/video.mjpg
+
 # https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
