@@ -42,6 +42,10 @@ plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/42f8fc7226dc12a.m3u8|User-Agent=stream
 
+# http://camptv.ca/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guKuGPh.png" group-title="",camptv (OFFLINE)
+https://vse-na-us-ne66.secdn.net/camptv3800-live/play/dmp_stream/playlist.m3u8?key=camptv38.5c1069819900f8.83050633&pass=R8niByb5QZ
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
@@ -300,6 +304,12 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2RhJxrw.png" group-title="",► MOVIETIME CAN
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/587cc66aaa91075.m3u8|User-Agent=stream
 
+# http://nactv.tv/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="",NACTV
+http://stream.pivotalelements.com/nactv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="",NACTV (XSPF)
+https://s3.amazonaws.com/cdn.pivotalelements.com/NACTV-HLS.xspf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2NVXjc.png" group-title="",NET TV Toronto
 https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1495472612.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2NVXjc.png" group-title="",NET TV Toronto (OPT-2)
@@ -364,6 +374,12 @@ plugin://script.module.7of9-live/play/215/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkAqXSg.png" group-title="Canada",TAG TV
 http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
+
+# https://www.tsc.ca/pages/watchuslive?ic=HP_WatchUsLive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ach8VP4.jpg" group-title="",tsc.ca
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u8?sd=10&rebase=on
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
 
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT) (UPD)
@@ -435,6 +451,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/fb7e3678e602c7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",wcgtv
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
+
+# https://whl.ca/whllive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/didwYeQ.png" group-title="",WHL ( 26 FEB )
+0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/b4e40173c6e5d59.m3u8|User-Agent=stream
@@ -626,5 +646,7 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 
 ##########
 
-
+# http://itctv.ca/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWO5Xjz.png" group-title="",ITCTV (EXP-TK)
+0.0.0.0
 
