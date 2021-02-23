@@ -189,9 +189,6 @@ http://74.58.127.206:83/GetData.cgi?CH=2
 #EXTINF:-1 tvg-logo="" group-title="",MTL ?
 http://69.70.89.58:8001/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4HqQDlU.png" group-title="",Cap-Aux-Meules
-http://205.237.248.39/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3wssHJ.jpg" group-title="",Sainte-Anne-Des-Lacs
 http://209.54.75.46/mjpg/video.mjpg
 
