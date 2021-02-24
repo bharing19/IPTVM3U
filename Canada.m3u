@@ -639,6 +639,12 @@ http://206.47.41.166:8080/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
+# http://www.isuma.tv/fr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="",Uvagut TV
+http://dee7mwgg9dzvl.cloudfront.net/live.m3u8
+http://dee7mwgg9dzvl.cloudfront.net/hls/live640.m3u8
+http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="Canada",VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 
