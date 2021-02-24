@@ -8,23 +8,23 @@ plugin://plugin.video.youtube/play/?video_id=dnn9B0vPlws
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=CbimS3tfdLU
+plugin://plugin.video.youtube/play/?video_id=IBnWu7FCX-c
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=hFZUCCoKe0w
+plugin://plugin.video.youtube/play/?video_id=kz3N09jOEig
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=leH-WEDETD4
+plugin://plugin.video.youtube/play/?video_id=qGn-NeOzKaY
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=6oqEstWc5Z0
+plugin://plugin.video.youtube/play/?video_id=3RWqTQGNXgs
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=MlIniqtdEKw
+plugin://plugin.video.youtube/play/?video_id=CqLillLXrjI
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (YT)
@@ -32,7 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=YlsGffKSHoo
+plugin://plugin.video.youtube/play/?video_id=lqNRzZrldJE
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD) (OFFLINE)
@@ -70,7 +70,7 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Université Laval (YT)
-plugin://plugin.video.youtube/play/?video_id=swn7j3WDwyY
+plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
 # update link: https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming #
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Brossard et de A-10 (YT)
@@ -88,11 +88,11 @@ plugin://plugin.video.youtube/play/?video_id=P_nKS1DfCnY
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/OMsclwNx38zhtaST0_bxyw/1612815832/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/3YJ5UI05l4tZ6sx6edtDfw/1614289043/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/Wmu7KM8peePT_DY-fet-9g/1612815867/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/xN8JQDfZ7lWWFvFeMp498g/1614289070/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -130,7 +130,7 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=cPz_GkPQ_Vo
+plugin://plugin.video.youtube/play/?video_id=NaYxzAWcs3s
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT) (Off Line)
@@ -152,7 +152,7 @@ http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=K2fKaPSV9Mk
+plugin://plugin.video.youtube/play/?video_id=quRgY0OduBs
 
 # update link: https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil (YT) (UPD)
@@ -164,11 +164,11 @@ plugin://plugin.video.youtube/play/?video_id=vdOKFb5_TWk
 
 # https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=yQGRpOB0o7w
+plugin://plugin.video.youtube/play/?video_id=-BBjI8a_g1Y
 
 # https://www.youtube.com/channel/UCQ9A7p6ZCy6dFEwQ_nEYllg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAD9tzy.jpg" group-title="",Montreal/Verdun Quiet Street and Bird Feeder Cam (YT)
-plugin://plugin.video.youtube/play/?video_id=LLwrolYVxLI
+plugin://plugin.video.youtube/play/?video_id=nYTGzJvbrgk
 
 # https://www.youtube.com/channel/UCUioB5e7rgqjAOjJUtwme1Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usG2vgO.jpg" group-title="",Fermette Douce Sérénité (Drummondville) (YT) (Off Line)
@@ -204,11 +204,11 @@ https://s59.ipcamlive.com/streams/3bygvmnsfqhewpmb1/stream.m3u8
 
 # https://www.ville.senneterre.qc.ca/TOURISME/CAMERAS_PUBLIQUES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre (TK)
-https://s49.ipcamlive.com/streams/31dsaxwcchhqloibo/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre
-https://s49.ipcamlive.com/streams/316pbl0eiqfuuktdj/stream.m3u8
+https://s49.ipcamlive.com/streams/31uthcivbklzgfrmz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre (TK)
+https://s49.ipcamlive.com/streams/31ykmbvdoq9y2xzd8/stream.m3u8
 
 # https://mont-comi.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNJ2VW8.png" group-title="",Parc du Mont-Comi (TK)
-https://s13.ipcamlive.com/streams/0d3gk0crspflnikof/stream.m3u8
+https://s13.ipcamlive.com/streams/0dci9d5exqcp8hets/stream.m3u8
 
