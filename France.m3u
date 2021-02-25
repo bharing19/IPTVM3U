@@ -229,6 +229,9 @@ plugin://plugin.video.youtube/play/?video_id=djz5RcbBDjc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=9ykUyU_hKtU
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCF2zki.png" group-title="",lestream (TWITCH)
+plugin://plugin.video.twitch/?channel_id=147337432&amp;mode=play
+
 # https://www.youtube.com/channel/UCfkgw9Pslowp6znlAOnjHOg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sgHCNt.jpg" group-title="France",LeTopDuTop (YT)
 plugin://plugin.video.youtube/play/?video_id=ucwzXbSm37g
