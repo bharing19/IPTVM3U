@@ -199,8 +199,15 @@ http://148.59.220.54:8080/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZ0UH5D.png" group-title="",Parc Marin DU SAGUENAY–SAINT-LAURENT
 http://70.28.40.47:8080/axis-cgi/mjpg/video.cgi
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm
-https://s59.ipcamlive.com/streams/3bygvmnsfqhewpmb1/stream.m3u8
+# https://www.skigarceau.com/-webcam-ski-st-donat-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm Sommet (TK)
+https://s59.ipcamlive.com/streams/3bzd69wfysuyusq5j/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm b1 (TK)
+https://s28.ipcamlive.com/streams/1ca0fmnrhjdfevct7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm b2 (TK)
+https://s47.ipcamlive.com/streams/2f46vxblpwjidsggt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm PE (TK)
+https://s54.ipcamlive.com/streams/36mra1ygz2gnqvzkj/stream.m3u8
 
 # https://www.ville.senneterre.qc.ca/TOURISME/CAMERAS_PUBLIQUES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre (TK)
