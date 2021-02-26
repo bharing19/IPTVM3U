@@ -364,10 +364,14 @@ https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Windsor
 https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/playlist.m3u8
 
-##Autre##
-
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",##Autre Radio##
+0.0.0.0
 
 #https://radioendirect.net/canada/quebec/radio-communautaire
+
+
+#EXTINF:-1 tvg-logo="https://canalm.vuesetvoix.com/app/themes/canal-m/images/logo.png" group-title="",CanalM
+http://s4.streammonster.com:8460/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7kJZdc.jpg" group-title="",QUB radio
 https://19293.live.streamtheworld.com/QUB_RADIOAAC.aac
