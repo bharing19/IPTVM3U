@@ -5,18 +5,22 @@
 0.0.0.0
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRzfyQ2.jpg" group-title="Giniko USA",5m Kitchen Hacks
-https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRzfyQ2.jpg" group-title="Giniko USA",#5m Kitchen Hacks
+https://gintna100.tulix.tv/gin_live/5minkitchen/10209c0d5c75a72fbdc6d40ccab42300/6039d883/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Fb5H8.jpg" group-title="Giniko USA",5m Quick Crafts
-https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Fb5H8.jpg" group-title="Giniko USA",#5m Quick Crafts
+https://gintna100.tulix.tv/gin_live/quickcrafts/b55d0affb94d118a2d69e95b94693f74/6039d839/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLuu19h.jpg" group-title="Giniko USA",5m Life Hacks
-https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLuu19h.jpg" group-title="Giniko USA",#5m Life Hacks
+https://gintna100.tulix.tv/gin_live/5minlifehacks/cd8ad4e2190c576fa8e8011967ba9c86/6039d899/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnDD0xH.jpg" group-title="Giniko USA",4kchannel
-https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/index.m3u8
-https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnDD0xH.jpg" group-title="Giniko USA",#4kchannel
+https://gintna100.tulix.tv/gin_live/4kchann/e1f9f0f5e8839ed43aeaa50ee01ae8b8/6039d6f0/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/index.m3u8
+#https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/30a-tv.jpg" group-title="Giniko USA",30A TV
 https://nrpus.bozztv.com/36bay2/gusa-30atv/index.m3u8
