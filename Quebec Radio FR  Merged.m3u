@@ -808,3 +808,8 @@ https://listen.radioking.com/radio/304750/stream/351535
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6snEZk.png" group-title="",DJRADIO.ca – 100% HITS !
 https://n09.radiojar.com/c3729adtaseuv?rj-ttl
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abWn22C.png" group-title="",XpressCountry
+http://s7.streammonster.com:8385/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nboXjk5.jpg" group-title="",RetroSouvenirs
+http://listen.radioking.com/radio/108/stream/890
