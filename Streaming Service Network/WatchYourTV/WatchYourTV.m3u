@@ -110,6 +110,10 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsrarecollectibles/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsselect/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-silo-discount-network.png" group-title="",TVS Silo Discount Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8	
+https://nrpus.bozztv.com/36bay2/gusa-tvssilodiscount/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg" group-title="Sports",TVS Sports Bureau
 https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/tracks-v1a1/mono.m3u8
