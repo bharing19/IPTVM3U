@@ -795,3 +795,14 @@ http://64.118.87.22:8000/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pF6c0KM.jpg" group-title="",Francophonie Express
 http://listen.radioking.com/radio/11098/stream/63439
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYuBxJX.png" group-title="",Kebeka Liberata
+http://usa3.fastcast4u.com:5040/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38oYBUW.jpg" group-title="",103.1 FM Maskinongé
+http://www.ch2ofm.ca:85/broadwave.mp3
+
+
+
+
+
