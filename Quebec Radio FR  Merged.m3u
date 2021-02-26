@@ -397,7 +397,7 @@ http://canada1.reliastream.com:8052/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDejvba.png" group-title="",RQI
 http://104.194.9.142:8041/stream/;
 
-#EXTINF:-1 tvg-logo="https://ckaj.org/wp-content/uploads/2019/09/ckaj_new_black.png" group-title="",CKAJ FM 92.5 Saguenay	
+#EXTINF:-1 tvg-logo="https://ckaj.org/wp-content/uploads/2019/09/ckaj_new_black.png" group-title="",CKAJ FM 92.5 Saguenay
 http://stream.statsradio.com:8060/stream
 
 #EXTINF:-1 tvg-logo="https://streaming-player-assets.s3.amazonaws.com/JBCCS/custom/images/JBCCSDefault.jpg" group-title="",CHFG 101.1 Chisasibi
@@ -410,13 +410,13 @@ http://streamer01.sti.usherbrooke.ca:8000/cfak.mp3
 #EXTINF:-1 tvg-logo="https://www.cfbsradio.net/uploads/3/6/5/0/3650242/published/imageedit-8-9011571744.png" group-title="",CFBS 89.9 Blanc-Sablon
 http://stream02.ustream.ca:8000/cfbs128.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radio-acton.com/1037/wp-content/uploads/2017/10/fm1037_ma_radio_ma_region-300x127.png" group-title="",CFID 103.7 Acton Vale	
+#EXTINF:-1 tvg-logo="http://www.radio-acton.com/1037/wp-content/uploads/2017/10/fm1037_ma_radio_ma_region-300x127.png" group-title="",CFID 103.7 Acton Vale
 http://stream02.ustream.ca:8000/cfid128.mp3
 
-#EXTINF:-1 tvg-logo="https://cfim.ca/wp-content/uploads/2019/05/Iles-de-la-Madeleine-CFIM-Logo.png" group-title="",CFIM 92.7 Cap-aux-Meules	
+#EXTINF:-1 tvg-logo="https://cfim.ca/wp-content/uploads/2019/05/Iles-de-la-Madeleine-CFIM-Logo.png" group-title="",CFIM 92.7 Cap-aux-Meules
 http://stream02.ustream.ca:8000/cfim128.mp3
 
-#EXTINF:-1 tvg-logo="https://passion-fm.com/img/layout/logo-passionfm.jpg" group-title="",CFIN 100.5 Lac-Etchemin	
+#EXTINF:-1 tvg-logo="https://passion-fm.com/img/layout/logo-passionfm.jpg" group-title="",CFIN 100.5 Lac-Etchemin
 https://streaming.cloudmjs.com:8002/cfin.mp3
 
 #EXTINF:-1 tvg-logo="http://www.cflo.ca/sites/default/files/logo_cflo.png" group-title="",CFLO 104.7 Mont-Laurier
@@ -437,31 +437,31 @@ http://stream.statsradio.com:9700/stream
 #EXTINF:-1 tvg-logo="https://foifm.com/wp-content/uploads/2020/07/logo_poisson_CFOI-FM-1.png" group-title="",CFOI 104.1 Quebec
 http://edge.sermon.net/live-edge/21230/livefor20591220_tb96_in1_vb0_ab96_fps0x0_uuid3f5350e553004398801c6fe563a7d9bf/chunklist_w83977092310.m3u8
 
-#EXTINF:-1 tvg-logo="https://m105.ca/wp-content/themes/LaWebShop2/img/logo.png" group-title="",CFXM 104.9 M105 Granby	
+#EXTINF:-1 tvg-logo="https://m105.ca/wp-content/themes/LaWebShop2/img/logo.png" group-title="",CFXM 104.9 M105 Granby
 http://18123.live.streamtheworld.com/CFXMFMAAC.aac
 
-#EXTINF:-1 tvg-logo="http://www.radioboreale.com/wordpress/wp-content/uploads/2017/01/RB1053_LogoWeb.png" group-title="",CH0W 105.3 Radio Boréale Amos		
+#EXTINF:-1 tvg-logo="http://www.radioboreale.com/wordpress/wp-content/uploads/2017/01/RB1053_LogoWeb.png" group-title="",CH0W 105.3 Radio Boréale Amos
 http://stream.statsradio.com:8022/stream
 
-#EXTINF:-1 tvg-logo="http://fm1033.ca/wp-content/uploads/2017/01/logo-fm1033-300x151.png" group-title="",CHAA 103.3 La Radio allumée Longueuil	
+#EXTINF:-1 tvg-logo="http://fm1033.ca/wp-content/uploads/2017/01/logo-fm1033-300x151.png" group-title="",CHAA 103.3 La Radio allumée Longueuil
 http://stream.statsradio.com:8062/stream
 
-#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHAI-FM.png" group-title="",CHAI 101.9 Châteauguay	
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHAI-FM.png" group-title="",CHAI 101.9 Châteauguay
 http://stream.statsradio.com:8078/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n1t4PtA.png" group-title="",CHEF 99.9 Matagami
 http://37.59.37.173:7370/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHGA-FM.png" group-title="",CHGA 97.3 Maniwaki	
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHGA-FM.png" group-title="",CHGA 97.3 Maniwaki
 http://stream02.ustream.ca/chga128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.1031fm.ca/assets/images/Autres/img_default_actualites_concours.jpg" group-title="",CHHO 103.1 Louiseville	
+#EXTINF:-1 tvg-logo="https://www.1031fm.ca/assets/images/Autres/img_default_actualites_concours.jpg" group-title="",CHHO 103.1 Louiseville
 http://stream.statsradio.com:8076/stream
 
 #EXTINF:-1 tvg-logo="https://chicfm.weebly.com/uploads/1/1/7/5/117547971/published/chicfm3-1.png	" group-title="",CHIC 88.7 Rouyn-Noranda
 http://167.114.155.111:8888/chicradio.mp3
 
-#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHIP-FM.jpeg" group-title="",CHIP 101.9 Fort-Coulonge	
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHIP-FM.jpeg" group-title="",CHIP 101.9 Fort-Coulonge
 http://stream02.ustream.ca:8000/chip128.mp3
 
 #EXTINF:-1 tvg-logo="http://www.mix997.com/assets/img/logo-mix-997-entete.png" group-title="",CHJM 99.7 Saint-Georges
@@ -476,7 +476,7 @@ http://chme949.com:8670/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCodGre.png" group-title="",CHMK 93.1 Manawan
 https://s33.myradiostream.com/15364/listen.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radiochnc.com/images/designs/logo_chnc.png" group-title="",CHNC 107.1 New Carlisle	
+#EXTINF:-1 tvg-logo="http://www.radiochnc.com/images/designs/logo_chnc.png" group-title="",CHNC 107.1 New Carlisle
 https://stream2.statsradio.com:8098/stream
 
 #EXTINF:-1 tvg-logo="http://www.chnt.ca/img/logo_big_transparent.png" group-title="",CHNT 92.3 Notre-Dame-Du-Nord
@@ -749,7 +749,7 @@ http://91.121.162.224:9012/stream/;
 #EXTINF:-1 tvg-logo="http://www.radioquebec.biz/1950/images/photo0.jpg" group-title="",Radio Bizzz 1950a1999.ca
 http://94.23.26.193:9046/stream
 
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/KSYRetL.jpg" group-title="",Radio Country Courcelles
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSYRetL.jpg" group-title="",Radio Country Courcelles
 http://play.radiocountry.ca:7008/
 
 #EXTINF:-1 tvg-logo="http://www.radiocountryml.com/crbst%5fguitarB.png" group-title="",Radio Country ML Québec
