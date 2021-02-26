@@ -813,3 +813,15 @@ http://s7.streammonster.com:8385/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nboXjk5.jpg" group-title="",RetroSouvenirs
 http://listen.radioking.com/radio/108/stream/890
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toNKi6X.jpg" group-title="",Radio Vallacquoise au 106.5 fm - Val-des-lacs
+https://freeuk7.listen2myradio.com/live.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmeIujE.png" group-title="",Radio Mieux-être
+http://174.142.215.249:9960/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vw1d1r.jpg" group-title="",Teerex Radio Teerex - Montreal
+http://192.211.51.158:5173/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IrvinNL.png" group-title="",jbccs - Dolbeau-Mistassini 
+https://ais-sa1.streamon.fm/7175_24k.aac
