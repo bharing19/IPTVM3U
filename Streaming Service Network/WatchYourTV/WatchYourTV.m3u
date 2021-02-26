@@ -5,11 +5,16 @@
 #EXTINF:-1 tvg-logo="http://www.watchyour.tv/images/logo-dark@2x.png" group-title="",★★★★★★★★★★[COLOR green]Watch[/COLOR][COLOR orange]Your[/COLOR][COLOR green].[/COLOR][COLOR red]TV[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bazaar-of-all-nations.png" group-title="Home Shopping",TVS Bazaar of All Nations
+https://nrpus.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-tvsbazaar/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg" group-title="Sports",TVS Boxing Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg" group-title="Kids & Family",TVS Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg" group-title="Kids & Family",TVS Cartoon Network/Pinball Network
 https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/tracks-v1a1/mono.m3u8
 
@@ -29,7 +34,7 @@ https://nrpus.bozztv.com/36bay2/gusa-ConsumerDirect/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg" group-title="Kids & Family",TVS Family Channel
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg" group-title="Kids & Family",TVS Family Channel/Light Network
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/tracks-v1a1/mono.m3u8
 
@@ -45,7 +50,7 @@ https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg" group-title="TV Classics",TVS Frontier
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg" group-title="TV Classics",TVS Frontier/Buckboard Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/tracks-v1a1/mono.m3u8
 
@@ -73,11 +78,11 @@ https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/9pb3bfjq/1728/chunklist.m
 https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-music-network.jpg" group-title="Entertainment",TVS Music Network
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-music-network.jpg" group-title="Entertainment",TVS Music Network/Opus Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg" group-title="TV Classics",TVS Mystery Network
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg" group-title="TV Classics",TVS Mystery Network/Cipher Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/tracks-v1a1/mono.m3u8
 
@@ -117,6 +122,10 @@ https://nrpus.bozztv.com/36bay2/gusa-tvssports/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-talk-network.png" group-title="Mixed Programming",TVS Talk Network
+https://nrpus.bozztv.com/36bay2/gusa-TVStalk/index.m3u8	
+https://nrpus.bozztv.com/36bay2/gusa-TVStalk/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Entertainment",TVS Tally Ho
 https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/tracks-v1a1/mono.m3u8
@@ -133,7 +142,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Entertainment",TVS Travel Network
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Entertainment",TVS Travel Network/Port O Call
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/tracks-v1a1/mono.m3u8
 
