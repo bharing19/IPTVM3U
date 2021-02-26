@@ -13,6 +13,7 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]Nouveautes[/COLOR]★★★★★★★★★★
 0.0.0.0
+
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Séries",CATFISH TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 
@@ -229,7 +230,7 @@ plugin://plugin.video.youtube/play/?video_id=djz5RcbBDjc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=9ykUyU_hKtU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCF2zki.png" group-title="",lestream (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYg7JjV.jpg" group-title="",lestream (TWITCH)
 plugin://plugin.video.twitch/?channel_id=147337432&amp;mode=play
 
 # https://www.youtube.com/channel/UCfkgw9Pslowp6znlAOnjHOg
@@ -268,7 +269,7 @@ plugin://plugin.video.youtube/play/?video_id=kGaAMMgUQ9o
 plugin://plugin.video.youtube/play/?video_id=1EejeP0RRmM
 
 # https://www.youtube.com/user/PearlDiffusion
-#EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
+#EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://i.imgur.com/ZZJjM4J.png" group-title="France",PearlTV (YT)
 plugin://plugin.video.youtube/play/?video_id=LbxfHRLVdIE
 
 # https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw
