@@ -792,3 +792,6 @@ https://listen.radioking.com/radio/108/stream/62716
 
 #EXTINF:-1 tvg-logo="https://samrocks.com/wp-content/uploads/2012/11/logo-os-sam-rocks-radio.png" group-title="",Sam Rocks Radio Laval
 http://64.118.87.22:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pF6c0KM.jpg" group-title="",Francophonie Express
+http://listen.radioking.com/radio/11098/stream/63439
