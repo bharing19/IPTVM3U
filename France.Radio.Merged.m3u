@@ -544,6 +544,30 @@ https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3
 
 #############
 
+# https://www.swigg.fr/
+#EXTINF:-1 tvg-logo="" group-title="",★★★★★★★★★★swigg★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwTIVHB.png" group-title="",swigg
+https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Z9xZtf.jpg" group-title="",Swigg Morning
+https://swigg-morning.ice.infomaniak.ch/swigg-morning.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3cXpSI.png" group-title="",Swigg 93
+https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bz2mVhM.png" group-title="",Swigg Work
+https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRmxQVp.png" group-title="",Swigg Classic Fr
+https://swigg-classic-fr.ice.infomaniak.ch/swigg-classic-fr.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeqhYQM.png" group-title="",Swigg Classic Us
+https://swigg-classic-us.ice.infomaniak.ch/swigg-classic-us.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wm8d1gd.png" group-title="",Swigg Fr
+https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xhbeBx.png" group-title="",Swigg Marseille
+https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcIyeig.png" group-title="",Swigg Us
+https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
+
+#############
+
 # https://www.topmusic.fr/player/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaQnyxg.png" group-title="",★★★★★★★★★★Top Music★★★★★★★★★★
 0.0.0.0
