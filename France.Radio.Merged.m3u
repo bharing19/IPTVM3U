@@ -306,6 +306,20 @@ https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8?id=radiofran
 
 #############
 
+# https://www.hit-radio.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5pwCMn.jpg" group-title="",★★★★★★★★★★hit-radio★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ARzVhNa.jpg" group-title="",Hit FM Radio
+http://streamlive.syndicationradio.fr:8072/;stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp8aZYs.jpg" group-title="",Hit FM Culte
+http://server.syndicastream.com:8078/;stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZklBQt.jpg" group-title="",Hit FM Génération
+http://server.syndicastream.com:8062/;stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5pwCMn.jpg" group-title="",Hit FM Love Radio
+http://stream.studioradiomedia.com:8033/stream2.mp3
+
+#############
+
 # https://www.latina.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQna5yq.png" group-title="",★★★★★★★★★★Latina Radio★★★★★★★★★★
 0.0.0.0
