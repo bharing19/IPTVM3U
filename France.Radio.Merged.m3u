@@ -266,7 +266,7 @@ https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUW4HIO.jpg" group-title="",France Musique - La B.O. Musiques de Films
 https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
 
-
+################
 
 # https://www.galaxieradio.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tJaLDg.jpg" group-title="",★★★★★★★★★★Galaxie Radio★★★★★★★★★★
@@ -284,9 +284,11 @@ https://listen.radioking.com/radio/15685/stream/107467
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkHJMvD.png" group-title="",Galaxie Lounge
 https://listen.radioking.com/radio/45838/stream/82624
 
-
+#################
 
 # https://www.mouv.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",★★★★★★★★★★Le Mouv'★★★★★★★★★★
+0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",Le Mouv'
 https://icecast.radiofrance.fr/mouv-midfi.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whBsQVt.jpg" group-title="",Le Mouv’ - Rap Francais
@@ -401,6 +403,54 @@ https://oceanesaintnazaire.ice.infomaniak.ch/oceanesaintnazaire-128.mp3
 https://oceanevannes.ice.infomaniak.ch/oceanevannes-128.mp3
 #EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange410.png" group-title="",Océane NOEL
 https://listen.shoutcast.com/OCEANENOEL.mp3
+
+#############
+
+# https://www.ouifm.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbUT0UC.png" group-title="",★★★★★★★★★★OUI FM★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVltsZc.png" group-title="",OUI FM La Radio Du Rock
+https://stream.ouifm.fr/ouifm-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RrLanJ.png" group-title="",OUI FM Classic Rock
+https://classicrock.stream.ouifm.fr/ouifm3.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYotP3w.png" group-title="",OUI FM Alternatif
+https://alternatif.stream.ouifm.fr/ouifm2.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw1a4JV.png" group-title="",OUI FM Rock Indé
+https://rockinde.stream.ouifm.fr/ouifm5.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wz7BF4d.png" group-title="",OUI FM Bring The Noise
+https://bringthenoise.stream.ouifm.fr/ouifmbringthenoise.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmJj3UO.png" group-title="",OUI FM Blues’n’Rock
+https://bluesnrock.stream.ouifm.fr/ouifmbluesnrock-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLsHk6f.png" group-title="",OUI FM Rock 2000
+https://rock2000.stream.ouifm.fr/ouifmrock2000.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNRxA9.png" group-title="",OUI FM Rock 90’s
+https://rock90s.stream.ouifm.fr/ouifmnineties.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ix1cUGi.png" group-title="",OUI FM Rock 80’s
+https://rock80s.stream.ouifm.fr/ouifmeighties.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohGdW6w.png" group-title="",OUI FM Rock 70’s
+https://rock70s.stream.ouifm.fr/ouifmseventies.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QC1BZr.png" group-title="",OUI FM Rock 60’s
+https://rock60s.stream.ouifm.fr/ouifmsixties.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jL1V8OY.png" group-title="",OUI FM Reggae
+https://ganja.stream.ouifm.fr/ouifmganja-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2XDa3s.png" group-title="",OUI FM Summertime
+https://summertime.stream.ouifm.fr/ouifmsummertime.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K08JGMP.png" group-title="",OUI FM Génération Woodstock
+https://woodstock.stream.ouifm.fr/ouifmwoodstock.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSA6UWH.png" group-title="",OUI FM Top of the Week
+https://topweek.stream.ouifm.fr/ouifmtopweek.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJtvcIl.png" group-title="",OUI FM Rock’n’Food
+https://rocknfood.stream.ouifm.fr/ouifmrocknfood.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6osVxv.png" group-title="",OUI FM Johnny 100% Live
+https://johnnyislive.stream.ouifm.fr/ouifmjohnnyislive.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbKVIzs.jpg" group-title="",OUI FM Les Slows du Rock
+https://slowrock.stream.ouifm.fr/ouifmslowrock.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjsl4sk.png" group-title="",OUI FM Rock Français
+https://rockfrancais.stream.ouifm.fr/ouifmrockfrancais.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVl85CN.png" group-title="",OUI FM Girls Rock
+https://girlsrock.stream.ouifm.fr/ouifmgirlsrock.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElZvHb3.png" group-title="",OUI FM Acoustic
+https://acoustic.stream.ouifm.fr/ouifmacoustic.mp3
 
 #############
 
@@ -545,7 +595,7 @@ https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3
 #############
 
 # https://www.swigg.fr/
-#EXTINF:-1 tvg-logo="" group-title="",★★★★★★★★★★swigg★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RfZFWjI.png" group-title="",★★★★★★★★★★swigg★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mwTIVHB.png" group-title="",swigg
 https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
