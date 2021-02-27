@@ -652,6 +652,151 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 
 ##########
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",CN Tower 1
+https://videos-3.earthcam.com/fecnetwork/9299.flv/chunklist_w2006301804.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",CN Tower 2
+https://videos-3.earthcam.com/fecnetwork/9298.flv/chunklist_w146642150.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",CN Tower View
+https://videos-3.earthcam.com/fecnetwork/18701.flv/chunklist_w532218184.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Niagara Falls 1
+https://videos-3.earthcam.com/fecnetwork/4559.flv/chunklist_w1064459659.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Niagara Falls 2
+https://videos-3.earthcam.com/fecnetwork/15527.flv/chunklist_w1662246290.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Algonquin Park
+https://videos-3.earthcam.com/fecnetwork/17664.flv/chunklist_w1820615399.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Algonquin Park Wild Bird (YT)
+plugin://plugin.video.youtube/play/?video_id=qKKF1upYzVw
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Edmonton
+https://videos-3.earthcam.com/fecnetwork/15629.flv/chunklist_w1858194304.m3u8
+
+# https://myearthcam.com/tomfournier
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Kingston Peninsula Princess Ferry
+https://video1.earthcam.com/myearthcam/135e79dfb53f33a70b63c1e6384a5e16.flv/chunklist_w21188258.m3u8
+
+# https://www.timmins.ca/our_services/webcams/city_hall_webcam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2DwFfl.png" group-title="",timmins (TK)
+https://s57.ipcamlive.com/streams/39jbnjcedzmoixwkp/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2DwFfl.png" group-title="",timmins (TK)
+https://s57.ipcamlive.com/streams/39nzumaebt1iowysz/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",11 Street SW Calgary(YT)
+plugin://plugin.video.youtube/play/?video_id=iGxFLjqhkSA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",O-Train Line 1 (near Blair Station), Ottawa (YT)
+plugin://plugin.video.youtube/play/?video_id=zaloVaI37JU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Revelstoke, British Columbia (YT)
+plugin://plugin.video.youtube/play/?video_id=FEfNcfkfobA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Central Memorial Park, Calgary (YT)
+plugin://plugin.video.youtube/play/?video_id=xsRDTfuksyI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Peace Bridge - Fort Erie ON 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=dvmRgN1FMK0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Peace Bridge - Fort Erie ON 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=WPMgP2C3_co
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Garden Feeder Cam - In the Foothills of the Rockies, Canada  (YT)
+plugin://plugin.video.youtube/play/?video_id=wwD4ehClSSw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Bird Feeder Cam - In the Foothills of the Rockies, Canada  (YT)
+plugin://plugin.video.youtube/play/?video_id=hF0_xJqpXrM&t=0s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Main Street Livecam, Canmore, Alberta (YT)
+plugin://plugin.video.youtube/play/?video_id=hORCPr-jWhk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Little Kennisis Lake in Haliburton, Ontario (YT)
+plugin://plugin.video.youtube/play/?video_id=ho6fkZfP7pI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Calgary Live Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=aXClDkUunDk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Weather stream in Ontario (YT)
+plugin://plugin.video.youtube/play/?video_id=3auJnZUkJao
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Whistler Olympic Plaza (YT)
+plugin://plugin.video.youtube/play/?video_id=F0GmYDgR0r0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Crystal Cove Beach Resort, Tofino, B.C. (YT)
+plugin://plugin.video.youtube/play/?video_id=AovvFApVnKc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",bird feeding station. Ripley, Ontario (YT)
+plugin://plugin.video.youtube/play/?video_id=hQLuSSkhefA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Banff International Hostel (YT)
+plugin://plugin.video.youtube/play/?video_id=oT4s0SlQ89E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Railway Avenue Livecam, Canmore, Alberta (YT)
+plugin://plugin.video.youtube/play/?video_id=J4TaQqXX0aM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Banff Centre Mt. Norquay (YT)
+plugin://plugin.video.youtube/play/?video_id=b9JrjkPvP1A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Oak Bay Marina in beautiful Victoria, BC (YT)
+plugin://plugin.video.youtube/play/?video_id=hfEHCh1krrk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Downtown St. John's (YT)
+plugin://plugin.video.youtube/play/?video_id=pVuRLjlByW8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",downtown Ottawa skyline, Ontario (YT)
+plugin://plugin.video.youtube/play/?video_id=qA7KLw-IpLU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Vancouver Harbour  (YT)
+plugin://plugin.video.youtube/play/?video_id=jQ6HC4X9w94
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",St. Eugene Resort BC (YT)
+plugin://plugin.video.youtube/play/?video_id=1w3vDGPofvs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Swans Hotel - Victoria BC (YT)
+plugin://plugin.video.youtube/play/?video_id=K5IJHI-CNrM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Osoyoos Cottages BC (YT)
+plugin://plugin.video.youtube/play/?video_id=a58IgAAcxJs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",downtown Prince George facing west along 7th Avenue (YT)
+plugin://plugin.video.youtube/play/?video_id=PoDb04HdZ84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",downtown Prince George facing north along George Street (YT)
+plugin://plugin.video.youtube/play/?video_id=fDpNeUvss30
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Bill and Helen Norrie Library Winnipeg (YT)
+plugin://plugin.video.youtube/play/?video_id=BSTFwaGQCSk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Steinbach Manitoba(YT)
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",WC Oilers Hockey (YT)
+plugin://plugin.video.youtube/play/?video_id=2RLZnm5Z49M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",skyDeck studios in Toronto's Bloorcourt neighbourhood (YT)
+plugin://plugin.video.youtube/play/?video_id=cprq5y81S7g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Departure Bay Vancouver (YT)
+plugin://plugin.video.youtube/play/?video_id=-udQfmF3jnM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Confederation Bridge (YT)
+plugin://plugin.video.youtube/play/?video_id=YqDtoIrU38k
+
+
+
+
+
+
+
+
+
+############
 # http://itctv.ca/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWO5Xjz.png" group-title="",ITCTV (EXP-TK)
 0.0.0.0
