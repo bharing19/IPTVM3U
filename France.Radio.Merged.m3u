@@ -266,6 +266,26 @@ https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUW4HIO.jpg" group-title="",France Musique - La B.O. Musiques de Films
 https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
 
+
+
+# https://www.galaxieradio.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tJaLDg.jpg" group-title="",★★★★★★★★★★Galaxie Radio★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wwQPqPK.png" group-title="",Galaxie Radio
+https://listen.radioking.com/radio/15684/stream/29075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLBBKi7.jpg" group-title="",Galaxie Mix
+https://listen.radioking.com/radio/187063/stream/229192
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HORVzI7.jpg" group-title="",Galaxie Tek
+https://listen.radioking.com/radio/187066/stream/229201
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OhENEKD.jpg" group-title="",Galaxie Vintage
+https://listen.radioking.com/radio/15686/stream/85258
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c7KGP14.jpg" group-title="",Galaxie NewWave
+https://listen.radioking.com/radio/15685/stream/107467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkHJMvD.png" group-title="",Galaxie Lounge
+https://listen.radioking.com/radio/45838/stream/82624
+
+
+
 # https://www.mouv.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",Le Mouv'
 https://icecast.radiofrance.fr/mouv-midfi.mp3
