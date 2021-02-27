@@ -68,13 +68,13 @@ plugin://plugin.video.youtube/play/?video_id=aRwgYsNXjNw
 plugin://plugin.video.youtube/play/?video_id=LZJIZjkUOLM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Daily Conversations) (YT)
-plugin://plugin.video.youtube/play/?video_id=SyICCIJVjo0
+plugin://plugin.video.youtube/play/?video_id=W-O55ijQIvM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Words and Expressions) (YT)
 plugin://plugin.video.youtube/play/?video_id=UPCoeGmRa9Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (Writing Practice) (YT)
-plugin://plugin.video.youtube/play/?video_id=wzTpZR1fpss
+plugin://plugin.video.youtube/play/?video_id=DU3vgb9CpjY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P6raQ5Q.jpg" group-title="",KoreanClass101 TV (YT)
 plugin://plugin.video.youtube/play/?video_id=wkjY3dp7WI8
