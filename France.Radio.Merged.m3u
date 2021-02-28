@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", A venir https://www.allzicradio.com/fr/  https://mradio.fr/radio/webradio  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://www.rireetchansons.fr/webradios  https://www.nrj.fr/webradios bfm RMC Radio
+#EXTINF:-1 tvg-logo="" group-title="", A venir https://www.allzicradio.com/fr/  https://mradio.fr/radio/webradio  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios   https://www.nrj.fr/webradios bfm RMC Radio
 0.0.0.0
 
 #############
@@ -345,7 +345,7 @@ https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 #############
 
 # https://www.mistralfm.com/  #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exp1Ntl.png" group-title="",★★★★★★★★★★Mistral Fm★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exp1Ntl.png" group-title="",★★★★★★★★★★[COLOR red]M[/COLOR]istral Fm★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5b2296b05e4c70.59688524.png" group-title="",TOULON
 http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
@@ -491,6 +491,50 @@ https://stream.rfm.fr/rfm-wr10.aac
 https://stream.rfm.fr/rfm-wr9.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mrZ144.png" group-title="",RFM 70's
 https://stream.rfm.fr/rfm-wr16.aac
+
+#############
+
+# https://www.rireetchansons.fr/webradios
+#EXTINF:-1 tvg-logo="https://www.rireetchansons.fr/uploads/assets/rire/icons/android-icon-192x192.png" group-title="",★★★★★★★★★★[COLOR red]Rire[/COLOR] [COLOR yellow]& Chansons[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0E3uETm.png" group-title="",Rire et Chansons
+https://scdn.nrjaudio.fm/audio1/fr/30401/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRhYSWT.png" group-title="",Rire et Chansons - Sketches
+https://scdn.nrjaudio.fm/adwz1/fr/30407/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4uXI7m.png" group-title="",Rire et Chansons - Nouvelle Generation
+https://scdn.nrjaudio.fm/adwz1/fr/30405/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKphwoY.png" group-title="",Rire et Chansons - Open Du Rire
+https://scdn.nrjaudio.fm/adwz1/fr/30443/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYmrHTc.png" group-title="",Rire et Chansons - Canulars
+https://scdn.nrjaudio.fm/adwz1/fr/30413/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMnWGlE.png" group-title="",Rire et Chansons - Blagues
+https://scdn.nrjaudio.fm/adwz1/fr/30411/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIKHlAz.png" group-title="",Rire et Chansons - A La Maison
+https://scdn.nrjaudio.fm/adwz1/fr/57171/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUu0UiG.png" group-title="",Rire et Chansons - Francophonie
+https://scdn.nrjaudio.fm/adwz1/fr/57107/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xlg9kUb.png" group-title="",Rire et Chansons - Duos
+https://scdn.nrjaudio.fm/adwz1/fr/55601/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ax99zZZ.png" group-title="",Rire et Chansons - Bistro
+https://scdn.nrjaudio.fm/adwz1/fr/57622/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDF7712.png" group-title="",Rire et Chansons - Stand Up
+https://scdn.nrjaudio.fm/adwz1/fr/30417/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BXv5zw.png" group-title="",Rire et Chansons - Futurs Talents
+https://scdn.nrjaudio.fm/adwz1/fr/55818/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2YX0h.png" group-title="",Rire et Chansons - One Woman Show
+https://scdn.nrjaudio.fm/adwz1/fr/55576/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMJ8hcD.png" group-title="",Rire et Chansons - Chansons Droles
+https://scdn.nrjaudio.fm/adwz1/fr/56786/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LA6b2sq.png" group-title="",Rire et Chansons - Humour Du Sud
+https://scdn.nrjaudio.fm/adwz1/fr/55514/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOMzr8v.png" group-title="",Rire et Chansons - Collectors
+https://scdn.nrjaudio.fm/adwz1/fr/30421/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyFct3i.png" group-title="",Rire et Chansons - Hommage A Coluche
+https://scdn.nrjaudio.fm/audio1/fr/55670/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYWf334.png" group-title="",Rire et Chansons - Semoun
+https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvGarPb.png" group-title="",Rire et Chansons - Live
+https://scdn.nrjaudio.fm/adwz1/fr/30409/aac_64.mp3
 
 #############
 
