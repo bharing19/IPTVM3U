@@ -541,26 +541,26 @@ https://scdn.nrjaudio.fm/adwz1/fr/30409/aac_64.mp3
 # https://www.rjm-radio.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lStKptc.png" group-title="",★★★★★★★★★★RJM Radio★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNiRJ31.png" group-title="",RJM - Live
+EXTINF:-1 tvg-logo="https://i.imgur.com/xNiRJ31.png" group-title="",RJM - Live
 http://streamingv2.shoutcast.com/RJM-radio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C28aHk4.jpg" group-title="",RJM - Groove
 https://listen.radioking.com/radio/181675/stream/223462
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGsaJZu.jpg" group-title="",RJM - Love
-https://streamingv2.shoutcast.com/RJM-Love
+https://listen.radioking.com/radio/49831/stream/86743
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4iVz98.jpg" group-title="",RJM - Lounge
-https://streamingv2.shoutcast.com/RJM-Lounge
+https://listen.radioking.com/radio/372103/stream/422206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGuPKYz.jpg" group-title="",RJM - Dance
 https://listen.radioking.com/radio/120304/stream/159802
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mfGlgeM.jpg" group-title="",RJM - Jazzy
-https://streamingv2.shoutcast.com/RJM-Jazzy
+https://listen.radioking.com/radio/127546/stream/167344
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxKT80s.jpg" group-title="",RJM - RnB
-https://streamingv2.shoutcast.com/RJM-RnB
+https://listen.radioking.com/radio/260932/stream/305827
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9U8TFeK.jpg" group-title="",RJM - 80
-https://streamingv2.shoutcast.com/RJM-80
+https://listen.radioking.com/radio/4952/stream/13217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCXW1Ev.jpg" group-title="",RJM - French
-https://streamingv2.shoutcast.com/RJM-French
+https://listen.radioking.com/radio/277177/stream/322822
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmPiiwE.jpg" group-title="",RJM - Pop
-https://streamingv2.shoutcast.com/RJM-radio
+https://listen.radioking.com/radio/75868/stream/113899
 
 #############
 
