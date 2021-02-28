@@ -1,7 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", A venir https://www.allzicradio.com/fr/  https://mradio.fr/radio/webradio  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios   https://www.nrj.fr/webradios bfm RMC Radio
+#EXTINF:-1 tvg-logo="" group-title="", A venir https://www.allzicradio.com/fr/  https://mradio.fr/radio/webradio  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios   https://www.nrj.fr/webradios http://www.jazzradio.fr/radio/webradio
 0.0.0.0
+
+
+
+
+#############
+
+# https://www.chantefrance.com/player/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbEOCw8.png" group-title="",★★★★★★★★★★Chante France★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMBxPBw.png" group-title="",Chante France
+https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHL5hwl.png" group-title="",Nouveautes
+https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvCEqlm.png" group-title="",Emotion
+https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-96.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K6J9Rf.png" group-title="",80s
+https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-96.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRtdieT.png" group-title="",70s
+https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-96.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x09lZR3.png" group-title="",60s
+https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-96.aac
 
 #############
 
@@ -799,6 +820,11 @@ https://listen.radioking.com/radio/128992/stream/168832
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
 https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gw56YVZ.png" group-title="",BFM Business
+https://chai5she.cdn.dvmr.fr/bfmbusiness
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfYFgZ7.png" group-title="",BFMTV
+https://chai5she.cdn.dvmr.fr/bfmtv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 
@@ -838,6 +864,9 @@ http://str0.creacast.com/melodie2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
 https://trendsetter.streamakaci.com/trendsetter.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjvdNxB.jpg" group-title="",RMC
+http://chai5she.lb.vip.cdn.dvmr.fr/rmcinfo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
 https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
