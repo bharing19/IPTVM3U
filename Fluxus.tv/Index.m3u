@@ -9,6 +9,9 @@
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vdvTriH.png" group-title="Fluxus",[COLOR dodgerblue]Fluxus IPTV[/COLOR]
 Fluxus/ZzGTySZE.m3u
 
+name= Fluxus url= "Fluxus/ZzGTySZE.m3u" logo= "https://i.imgur.com/vdvTriH.png"
+
+
 # Update Link : https://pastebin.com/raw/ikshwe1W #
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4tMSTz1.png" group-title="Fluxus",[COLOR gold]Fluxus Faith[/COLOR]
 Fluxus/ikshwe1W.m3u
