@@ -13,6 +13,14 @@ plugin://plugin.video.youtube/play/?video_id=O-VvBpHlJbY
 #EXTINF:-1 tvg-logo="" group-title="",World Debt Live (YT)
 plugin://plugin.video.youtube/play/?video_id=q_cFlRI6020
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live
+https://tx.flv.nimo.tv/live/su2449511729040r40cfc3650e424dbfdd6264bad6a79200.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (TWITCH)
+plugin://plugin.video.twitch/?channel_id=192354183&amp;mode=play
+# https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (YT)
+plugin://plugin.video.youtube/play/?video_id=7jH535uXB74
+
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg Global Financial News (YT)
 plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
 
