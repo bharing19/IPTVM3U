@@ -584,6 +584,10 @@ plugin://script.module.7of9-live/play/503/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zw08bQy.jpg" group-title="France",Caillou
 https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+# https://www.canal32.fr/direct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guDUQOD.jpg" group-title="",canal32
+https://edge1.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="France",Canal J
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8|User-Agent=stream
