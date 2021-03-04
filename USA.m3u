@@ -220,6 +220,9 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwntoYd.png" group-title="",ABC 2 WMAR
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",ABC 4 Seattle (KOMO-TV)  
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 
@@ -377,6 +380,11 @@ https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CBS12 News (WPEC)
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cbs19.tv/assets/shared-images/logos/kytx.png" group-title="",CBS19 Nacogdoches, TX
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live-200.m3u8
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live-650.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
@@ -385,6 +393,9 @@ http://190.80.3.28/CBS/CBS.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
 https://www.cbsnews.com/common/video/dai_prod.m3u8
@@ -431,6 +442,11 @@ https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 # https://www.youtube.com/channel/UC6dB-iYVw8Lcs5_uFWUZCOQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjkSluT.jpg" group-title="",Create and Craft USA Live (YT)
 plugin://plugin.video.youtube/play/?video_id=yNZ8LOFhvNI
+
+# https://www.ctvn.org/watch/watch-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SoHO1y5.png" group-title="",Cornerstone
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/playlist.m3u8
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/chunklist_b2328000_sleng.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
@@ -554,7 +570,8 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?flux
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA",Food Network
 http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pa7wqxF.png" group-title="",Fairfax County Government Channel 16
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WSVN)
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
@@ -717,6 +734,15 @@ https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
+# https://www.kltv.com/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWtFjTd.jpg" group-title="",kltv
+https://dai2-playlistserver.aws.syncbak.com/playlist/18439558/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQzOTU1OCIsIm1kNSI6IjdjNmM5Yjk5YmMxNjUyMmVhM2E5Y2Q4ZmRiMmUzOThjIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.70BwybOv28vKpy1DlhpYkN8Y18r4ugp-1KXpuVV1mWs
+
+# https://www.ctnonline.com/watch-knlj.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SoHO1y5.png" group-title="",KNLJ TV
+https://ctntv.getstreamhosting.com:1936/KNLJ/KNLJ/playlist.m3u8
+https://ctntv.getstreamhosting.com:1936/KNLJ/KNLJ/chunklist_w174888426.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppsXxFu.png" group-title="USA",KLNM TV
 https://central.dashstreams.net/onestudio/jerrymiller/playlist.m3u8?fluxustv.m3u8
 
@@ -818,6 +844,9 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2UmRbE.png" group-title="USA",NBA TV
 http://45.92.69.76:8000/play/a05v
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dTfi25n.png" group-title="",NBC WTMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ) (Opt-1)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
@@ -1117,6 +1146,11 @@ https://content.uplynk.com/channel/a1fe37083d5f4e2ca39cf04b72278a5e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpOQ6jj.png" group-title="USA",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+# https://www.ctnonline.com/watch-wgnm.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFqxhnO.png" group-title="",WGNM TV
+https://ctntv.getstreamhosting.com:1936/WGNM/WGNM/playlist.m3u8
+https://ctntv.getstreamhosting.com:1936/WGNM/WGNM/chunklist_w726741662.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ajdPrL4.png" group-title="USA",WHAM Network
 https://live.cdn.wham.tv/hls/stream.m3u8
