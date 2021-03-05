@@ -984,6 +984,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/5a80d9399737c76.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (TT)
 plugin://script.module.7of9-live/play/326/play.pvr
+#EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (OPT-4)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vspU8Zl.png" group-title="",HistoireTV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/04.m3u8
