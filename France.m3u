@@ -1504,9 +1504,9 @@ plugin://plugin.video.dailymotion_com/?url=x71o73v&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="",Radio Mont Blanc (DM)
 plugin://plugin.video.dailymotion_com/?url=x52iluh&mode=playLiveVideo
 
-# update link : #
+# https://www.tvr.bzh/direct 
 #EXTINF:-1 tvg-id="France" tvg-name="TVR" tvg-logo="https://i.ibb.co/tMTstXT/TVR-Rennes35-Bretagne.png" group-title="France",TVR Rennes35 Bretagne
-https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/chunklist_b1096000.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv-vannes.fr/wp-content/uploads/2016/07/logo-header.png" group-title="",TV Vannes 1 (DM)
 plugin://plugin.video.dailymotion_com/?url=x7u5so8&mode=playLiveVideo
@@ -1548,11 +1548,11 @@ https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/in
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ViaMirabelle TV" tvg-logo="https://www.mirabelle.tv/wp-content/uploads/2018/09/viamirabelle-header@1.png" group-title="France",ViaMirabelle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1318271703_b1496000.m3u8
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1310752792_b896000.m3u8
 
 # https://viamoselle.tv/direct/
 #EXTINF:-1 tvg-logo="https://viamoselle.tv/wp-content/uploads/2020/11/Logo_footer.png" group-title="",ViaMoselle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1422441412_b896000.m3u8
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1462070180_b896000.m3u8
 
 # update link : https://viaoccitanie.tv/direct-tv/ #
 #EXTINF:-1 tvg-id="France" tvg-name="viaoccitanie" tvg-logo="https://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="France",ViaOccitanie
