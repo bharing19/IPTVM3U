@@ -1342,9 +1342,9 @@ plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20Vzf5S.jpg" group-title="France",Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-# update link : #
+# update link : https://superyacht.tv/en/superyacht-tv-en 
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+https://12858.cdn.mobibase.com/token/hls/733/258_5000k/playlist.m3u8?nva=20210305093634&service_id=12858&uuid=07986041ed928489b516305038&token=00c3d58c0f29d47078562
 
 #EXTINF:-1 tvg-id="France" tvg-name="SYFY FRANCE" tvg-logo="https://i.imgur.com/yfJsA8w.png" group-title="France",SYFY FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b9dc00d2904b374.m3u8|User-Agent=stream
@@ -1410,7 +1410,7 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w678893900.m3u8
 
 # update link : http://www.tvtours.fr/ https://www.dailymotion.com/video/x7srbgw #
 #EXTINF:-1 tvg-id="France" tvg-name="TV Tours Val de Loire" tvg-logo="http://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="France",TV Tours Val de Loire (DM)
-plugin://plugin.video.dailymotion_com/?url=x7srbgw&mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7zik43&mode=playLiveVideo
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TV Vendée" tvg-logo="https://tvvendee.fr/wp-content/uploads/2019/09/Icon-rouge.png" group-title="France",TV Vendée (DM)
