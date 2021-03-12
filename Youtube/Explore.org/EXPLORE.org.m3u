@@ -364,6 +364,9 @@ plugin://plugin.video.youtube/play/?video_id=7b5C2GN8C7s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Underwater Manatee-Cam at Blue Spring State Park (YT)
 plugin://plugin.video.youtube/play/?video_id=fPNGL0xMLkk
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Soothing Music & Homosassa Springs Underwater Manatees (YT)
+plugin://plugin.video.youtube/play/?video_id=GwpYqOi7M0s
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Senior Dog Gathering Room (YT)
 plugin://plugin.video.youtube/play/?video_id=AGpx0wH0gaM
 
@@ -384,6 +387,9 @@ plugin://plugin.video.youtube/play/?video_id=1a1z4M80BXg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Big Sur Condors (YT)
 plugin://plugin.video.youtube/play/?video_id=VOFTpk2O-8U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Big Sur Condor Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=U8vEaOd34Pc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs of America Nursery Cam (YT)
 plugin://plugin.video.youtube/play/?video_id=5EhQ5i60BwU
