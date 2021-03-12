@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/02/21
+#EXTINF:-1 tvg-logo="nologo.png",Update 21/03/12
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Temporaire[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
@@ -176,7 +176,7 @@ plugin://plugin.video.youtube/play/?video_id=Gc9yO0t_pDo
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=70HnpG666Us
+plugin://plugin.video.youtube/play/?video_id=GbpNzyJWnwU
 
 #https://www.twitch.tv/tvctklive/ https://www.tvctk.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH)
@@ -207,10 +207,10 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 
 # https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=kdei8o0LcJg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=V9PwuE2kBL4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
