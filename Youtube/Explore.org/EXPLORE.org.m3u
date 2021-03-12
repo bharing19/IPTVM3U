@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGBMnZg.jpg" group-title="",★★★★★★★★★★[COLOR green]EXPLORE.org[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Deep Sleep Relaxing Music & Aquarium Jellyfish Live (YT)
+plugin://plugin.video.youtube/play/?video_id=azpH0v2MdKw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",GRACE Gorilla Livestream (YT)
 plugin://plugin.video.youtube/play/?video_id=672cUSe69J0
 
