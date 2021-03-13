@@ -825,3 +825,9 @@ http://192.211.51.158:5173/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrvinNL.png" group-title="",jbccs - Dolbeau-Mistassini 
 https://ais-sa1.streamon.fm/7175_24k.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtKcjeN.png" group-title="",1450 AM Montreal
+https://s7.voscast.com:10567/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbqXFzX.png" group-title="",104.5 FM Montreal
+https://s2.voscast.com:7387/stream
