@@ -587,6 +587,19 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ur2zJQV.png" group-title="cam",LRT Radijas 1 (720p)
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ur2zJQV.png" group-title="cam",LRT Radijas 2 (720p)
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOFofqz.jpg" group-title="cam",LRT Klasika 1 (720p)
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_klasika_cam1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOFofqz.jpg" group-title="cam",LRT Klasika 2 (720p)
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_klasika_cam2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9u5VL5T.jpg" group-title="",LRT Opus (1080p)
+https://lrt-live.lrt.lt/opus/hls/opus-video.m3u8
+
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/fnHVDky.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",М2
 https://live.m2.tv/hls3/stream.m3u8
 
@@ -920,6 +933,7 @@ http://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpijTe5.png" group-title="",Power Hit Radio
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
 https://baltlive.tv3.lt/studija/smil:studija.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc42wkF.png" group-title="",PowerTürk TV
