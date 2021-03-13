@@ -118,6 +118,10 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Sport",CBC Olympic Channel  SD
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 
+# https://cfjctoday.com/streaming/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
+https://dcunilive72-lh.akamaihd.net/i/dclive_1@800677/master.m3u8?hdnea=st=1615599775~exp=1615600175~acl=/i/dclive_1@800677*~hmac=411b073718b1f5f303bf7372b6efb26c66b756b2bdfa47ca09667656a3b1cc1a
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/b67c7b55e5b9011.m3u8|User-Agent=stream
 
