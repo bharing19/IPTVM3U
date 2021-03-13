@@ -551,7 +551,7 @@ plugin://plugin.video.youtube/play/?video_id=vFI8DoJqI9c
 #EXTINF:-1 tvg-logo="EWx4xALxqr0" group-title="",Gurdwara Sahib - DCC Calgary (YT)
 plugin://plugin.video.youtube/play/?video_id=Bt6jHl3Jous
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="Canada",Hamdard TV
