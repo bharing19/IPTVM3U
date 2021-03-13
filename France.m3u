@@ -1224,6 +1224,8 @@ http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cv6mMJ.png" group-title="",Press TV Français
+https://live1.presstv.com/live/presstvfr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SD53Zl7.jpg" group-title="",Public Senat 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/publicsenat2424-14495872/hls/index.m3u8
