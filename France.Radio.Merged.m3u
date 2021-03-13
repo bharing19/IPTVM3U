@@ -865,6 +865,9 @@ http://str0.creacast.com/melodie2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
 https://trendsetter.streamakaci.com/trendsetter.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9S0nqet.png" group-title="",RADIO FMT
+https://listen.radioking.com/radio/408082/stream/460543
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjvdNxB.jpg" group-title="",RMC
 http://chai5she.lb.vip.cdn.dvmr.fr/rmcinfo
 
