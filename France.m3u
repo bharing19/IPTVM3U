@@ -306,6 +306,10 @@ plugin://plugin.video.youtube/play/?video_id=tfBe7KXq3mA
 #EXTINF:-1 tvg-logo="https://radiocity-website.weebly.com/uploads/1/2/2/3/122378910/background-images/1278325930.png" group-title="",RCity (TWITCH)
 plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
 
+# https://www.twitch.tv/recalbox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="facebook.com/recalbox.fr/",Recalbox.fr (TWITCH)
+plugin://plugin.video.twitch/?channel_id=115060112&amp;mode=play
+
 # https://www.youtube.com/channel/UCdnE__Jh8az0raxk8jytucg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0baguJK.jpg" group-title="",Ricky Zoom (YT)
 plugin://plugin.video.youtube/play/?video_id=z9SQaohv5WM
