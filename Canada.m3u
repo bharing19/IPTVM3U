@@ -522,7 +522,8 @@ https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_199680_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXvU87l.png" group-title="Canada",Deshe Bideshe TV
-https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
+https://db71.livebox.co.in/deshebideshehls/tv.m3u8
+#https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHWC2ZS.png" group-title="",Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
@@ -548,6 +549,9 @@ http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV (OPT-2)
 http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
+
+#EXTINF:-1 tvg-logo="https://globalpunjabtv.com/wp-content/uploads/2019/08/logo-2.png" group-title="",Global Punjab
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSvS1rp.png" group-title="",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT)
 plugin://plugin.video.youtube/play/?video_id=vFI8DoJqI9c
@@ -599,6 +603,9 @@ https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://nactv.tv/wp-content/uploads/2019/06/Logo-1-300x89.png" group-title="",nactv
+http://stream.pivotalelements.com/nactv/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",NAC TV (RTMP)
 rtmp://pivotalelements.com:1935/live/NACTV
 
@@ -649,6 +656,9 @@ http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wocTq8.png" group-title="",TET
 http://206.47.41.166:8080/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JdVdFUG.png" group-title="",Toronto360
+http://cdn3.toronto360.tv:8081/toronto360/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
