@@ -525,8 +525,6 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CNTV (OPT-2)
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_199680_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXvU87l.png" group-title="Canada",Deshe Bideshe TV
@@ -539,23 +537,17 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kge5xv4.png" group-title="Music",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kge5xv4.png" group-title="Music",EBC1 TV (OPT-2)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w995406417.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/al6RSFp.png" group-title="Canada",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T17cGne.png" group-title="",ektatv
-https://unirtmp.tulix.tv/ektatv/ektatv/chunklist_w505927771.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T17cGne.png" group-title="",ektatv (OPT-2)
 https://unirtmp.tulix.tv/ektatv/ektatv/playlist.m3u8
+https://unirtmp.tulix.tv/ektatv/ektatv/chunklist_w505927771.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV
 http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
-	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV (OPT-2)
 http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
 
 #EXTINF:-1 tvg-logo="https://globalpunjabtv.com/wp-content/uploads/2019/08/logo-2.png" group-title="",Global Punjab
@@ -583,14 +575,10 @@ https://ibctamilcanada-origin.ibctamil.com/transcode/ibccanada.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixUSfk3.png" group-title="Canada",IC Net
 http://70.52.163.119:1935/ICNET/ngrp:my.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixUSfk3.png" group-title="Canada",IC Net (OPT-2)
 http://70.52.163.119:1935/ICNET/ngrp:my.stream_all/chunklist_w436009258_b3604247.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV (OPT-2)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
 # https://www.youtube.com/channel/UC_CaZMJn76Wqg-CVzkVxyuQ/live #
