@@ -42,6 +42,15 @@ plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/42f8fc7226dc12a.m3u8|User-Agent=stream
 
+# https://cable14now.com/live-streams/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1615895114&iimae0UC2astarttime=1615880714&iimae0UC2ahash=XhhJNnTiz2pKJ_MgPR6k9F1F_nhxc9ZP-BlISTvWJ5A=
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1615901884&iimae0UC2astarttime=1615887484&iimae0UC2ahash=tmoRYUzJciBQ7HK0xoMWlVSPv2zlbXgPnO-l6CNjAfU=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2
+https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1615895265&iimae0UC2astarttime=1615880865&iimae0UC2ahash=L0toL6GuCEFascHEn8EHRa5Q7Zn13pEJwPyKdQFLziw=
+https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1615901836&iimae0UC2astarttime=1615887436&iimae0UC2ahash=7otg4Ttmin1Dp4GSs25XNkgCnFUknPWRQ61MIyPQqyo=
+
+
 # http://camptv.ca/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guKuGPh.png" group-title="",camptv (OFFLINE)
 https://vse-na-us-ne66.secdn.net/camptv3800-live/play/dmp_stream/playlist.m3u8?key=camptv38.5c1069819900f8.83050633&pass=R8niByb5QZ
