@@ -4163,6 +4163,26 @@ https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
 
 #######
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ttugxs.png" group-title="P.A.T.S",★★★★★★★★★★Delaware★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TbAlw3x.png" group-title="P.A.T.S",Delaware - New Castle County TV (NCC-TV)
+https://t06032-lh.akamaihd.net/i/t06032a_1@495872/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XlwtMd.png" group-title="P.A.T.S",Delaware - Government Access Channel (WITN-22)
+https://edge-f.swagit.com/live/wilmingtonde/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EyVRShx.jpg" group-title="P.A.T.S",Delaware - DelmarvaWx
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvdelmarva.com/wp-content/uploads/2019/10/cropped-TVD_Logo_512x512-1-1.png" group-title="P.A.T.S",Delaware - TV Delmarva	
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/chunklist_b2000000.m3u8
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/chunklist.m3u8
+
+#######
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NSS6oSk.png" group-title="P.A.T.S",★★★★★★★★★★District of Columbia★★★★★★★★★★
 0.0.0.0
 
@@ -4175,6 +4195,26 @@ https://securestream3.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8?dt=1616062197
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXghQXK.png" group-title="P.A.T.S",District of Columbia - DCTV Focus Channel
 https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1616062214379
 
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - DCN Live
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - DKN Live
+http://video.oct.dc.gov/out/u/DKN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - DCC Live
+http://video.oct.dc.gov/out/u/DCC.m3u8
+
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - Room 120 Live
+http://video.oct.dc.gov/out/u/120.m3u8
+
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - Room 123 Live
+http://video.oct.dc.gov/out/u/123.m3u8
+
+#EXTINF:-1 tvg-logo="https://oct.dc.gov/sites/default/files/dc/dcgov_logo.jpg" group-title="P.A.T.S",District of Columbia - Room 412 Live
+http://video.oct.dc.gov/out/u/412.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wusa9.com/assets/shared-images/logos/wusa.png" group-title="P.A.T.S",District of Columbia - WUSA 9
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 
 #######
 
@@ -4184,6 +4224,10 @@ https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1616062214
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OngSMDR.jpg" group-title="P.A.T.S",Florida - Pinellas County
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYjSVqI.png" group-title="P.A.T.S",Florida - TV Marti
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #######
 
