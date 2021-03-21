@@ -430,6 +430,13 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="",CNN (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (576p)
+http://203.162.235.41:16918
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDwAHF.png" group-title="USA",CONtv
 http://contv.sinclair.wurl.com/manifest/playlist.m3u8
 
