@@ -4330,7 +4330,32 @@ https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch2/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-768x783.png" group-title="P.A.T.S",Hawaii - AKAKU CHANNEL 55
 https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch3/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIK2xqu.png" group-title="P.A.T.S",Hawaii - Nā Leo TV Channel 53
+http://reflect-live1-naleo.cablecast.tv/live/live.m3u8
+http://reflect-live1-naleo.cablecast.tv/live/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSLgFaC.png" group-title="P.A.T.S",Hawaii - Nā Leo TV Channel 54
+http://reflect-live2-naleo.cablecast.tv/live/live.m3u8
+http://reflect-live2-naleo.cablecast.tv/live/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHqpiu7.png" group-title="P.A.T.S",Hawaii - Nā Leo TV Channel 55
+http://reflect-live3-naleo.cablecast.tv/live/live.m3u8
+http://reflect-live3-naleo.cablecast.tv/live/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVUPNdp.png" group-title="P.A.T.S",Hawaii - Ho‘ike Kaua'i Community TV Channel 54 A
+https://t06873-lh.akamaihd.net/i/t06873a_1@701016/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVUPNdp.png" group-title="P.A.T.S",Hawaii - Ho‘ike Kaua'i Community TV Channel 54 B
+https://t06873-lh.akamaihd.net/i/t06873b_1@701035/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://webpubcontent.gray.tv/khnl/livestream-poster.jpg" group-title="P.A.T.S",Hawaii - Hawaii News Now
+https://dai2-playlistserver.aws.syncbak.com/playlist/18552873/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU1Mjg3MyIsIm1kNSI6IjljNmRmYmViYjE0ZDA2NTY0NTVlNmQ1NDU0ZmUzYzI4IiwiaWF0IjoxNTk0NTgzODE3LCJpc3MiOiJTeW5jYmFrIChURykifQ.tCeNGZRKNnUjcpovBaGzNwtYMrQedbe79aDp2KHb1PQ
+
+#EXTINF:-1 tvg-logo="" group-title="P.A.T.S",Hawaii - PBS Kids KMEB
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+
+
+############
 
 
 
