@@ -4306,6 +4306,11 @@ https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tampa.gov/themes/custom/cotstyle/images/social-open-graph-image.jpg" group-title="P.A.T.S",Florida - City of Tampa CTTV
 https://api.new.livestream.com/accounts/12251681/events/4404733/broadcasts/219013863.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlFZsaM.png" group-title="P.A.T.S",Florida - WPTV
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlFZsaM.png" group-title="P.A.T.S",Florida - WPTV
+https://content-ause1-up-1.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 
 #######
 
