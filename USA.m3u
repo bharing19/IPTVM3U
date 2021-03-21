@@ -3364,8 +3364,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,MyHolyfield TV
-https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
+
 #EXTINF:-1 ,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 ,NASA TV
@@ -3416,8 +3415,7 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 ,Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 ,Opportunity Knocks
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
+
 #EXTINF:-1 group-title="Local",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1 ,PBC Tapesh TV
@@ -3581,8 +3579,6 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
 #EXTINF:-1,US: CHARGE TV PUBLIC ENTERTAINMENT ENGLISH
 http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1,US: CLASSIC TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1,US: COMET TV GEO
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1,US: COOKING CHANNEL
@@ -3693,6 +3689,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,United States: WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
 #EXTINF:-1,Us- TULALIP TV
 https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1,Us- 360 North
