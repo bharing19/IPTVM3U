@@ -400,6 +400,9 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgyZ8AM.png" group-title="",CBS Chicago (WBBM-TV)
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
 http://radio.7chan.org:8000/CH7
 
@@ -455,8 +458,8 @@ plugin://plugin.video.youtube/play/?video_id=yNZ8LOFhvNI
 https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/playlist.m3u8
 https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/chunklist_b2328000_sleng.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/05/4038d65d-courttv_logo_800x800.jpg" group-title="",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VscD1s5.png" group-title="USA",Cozi TV
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
@@ -715,7 +718,8 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8?fluxustv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://images.jtv.com/media/jtv-site/resources/images/logo-blue.png" group-title="",JTV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
@@ -2631,6 +2635,8 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/8wSctnw.png" group-title="Local",WALB
 https://player-api.new.livestream.com/accounts/11279058/events/3645614/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67YQWeZ.jpg" group-title="",WAFB 9 New
+https://dai2-playlistserver.aws.syncbak.com/playlist/18468396/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ2ODM5NiIsIm1kNSI6ImM2ZDQ5NDYwNTI2NmIxNzU1MmI2YjdlMWQ3ODFmZjk2IiwiaWF0IjoxNTkxOTExOTIwLCJpc3MiOiJTeW5jYmFrIChURykifQ.5iSa7ETvRPG9PyfP_5b9WXelyZ_EsSnFRdqc5t-QLAs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="",WCCA-TV (Worcester)
 https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctn.png" group-title="",WCLF
@@ -3827,4 +3833,381 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IOePur.png" group-title="P.A.T.S",★★★★★★★★★★P.A.T.S USA Playlist★★★★★★★★★★
+0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iICo7Vu.jpg" group-title="P.A.T.S",★★★★★★★★★★Alaska★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 1
+https://dai2-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI1LCJtZDUiOiI5NTZiM2RhZmViOTA4ZGUxZTdmMTc5NGFjYWQyYTQ5YiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.kUK2HTxg4bOFF_kcJtYni32gp3J0mJpBLD_V4apmHBo
+
+#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 2
+https://playlistserver.aws.syncbak.com/playlist/13736728/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI4LCJtZDUiOiI3NmYwNmUxNjdhNjJiNTBiYWYxODAzZWYzYmZjYTE3NiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ._e7T7Xkcr7e53TCJw2egb0SiDTaIEg-DV79v4fu-agQ
+
+#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 3
+https://dai2-playlistserver.aws.syncbak.com/playlist/18969413/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODk2OTQxMyIsImNpZCI6MTc4MTksInNpZCI6MzE5LCJtZDUiOiIxYzc4NmNmY2I1MGExYWIxZjlkZWJiZDhlMzMxZTU0NCIsImlhdCI6MTYxMzQwMzcwMiwiaXNzIjoiU3luY2JhayAoVEcpIn0.b035KRK1zQE7hwvHREiTEa_kAnkz8znksfRC4xMAHoo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MwikNA.jpg" group-title="P.A.T.S",Alaska - KTOO 360TV
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kIX1xXD.jpg" group-title="P.A.T.S",Alaska - KTVF 11
+https://dai2-playlistserver.aws.syncbak.com/playlist/13478513/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMTk3MjksImlzcyI6IldMUyIsIm1kNSI6IjZmZTg0N2U2MWIyYWE2ZWZkYTI1MmI1YTI3MWI2M2FkIiwibWlkIjoiMTM0Nzg1MTMifQ.0MCehl9UYUo7taqj3sdq0ZC2ummFC6qpIkJIFvUo57k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kIX1xXD.jpg" group-title="P.A.T.S",Alaska - KXDF 13
+https://playlistserver.aws.syncbak.com/playlist/13478519/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMTk3NjgsImlzcyI6IldMUyIsIm1kNSI6IjRmMDQ4YzlmYTM2ZGQ4MWMyZmM5N2M4NGVlZWE0ODQyIiwibWlkIjoiMTM0Nzg1MTkifQ.2jYxsvP77Am8TbsWLLC89Gu0JxT585nomK3M7TblbE4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kIX1xXD.jpg" group-title="P.A.T.S",Alaska - KFXF 7
+https://ad-playlistserver.aws.syncbak.com/playlist/13478527/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMTk3ODcsImlzcyI6IldMUyIsIm1kNSI6IjBhOTJkMjE4MGE5NmNkMzAyNDVlNmQzNGRhYWMxMDYzIiwibWlkIjoiMTM0Nzg1MjcifQ.ZAQ6rB-nlmcqkwn2VNB_5YrHj3UuAAkslzyOoPFRdsE
+
+########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHDJI9Z.jpg" group-title="P.A.T.S",★★★★★★★★★★Alabama★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlCoIfm.png" group-title="P.A.T.S",Alabama - wabm68 1
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlCoIfm.png" group-title="P.A.T.S",Alabama - wabm68 2
+https://content.uplynk.com/channel/f0435664817c4673adc60f4647554840.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXbvDrv.png" group-title="P.A.T.S",Alabama - City TV - Capital City
+https://pegstream-hls.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXbvDrv.png" group-title="P.A.T.S",Alabama - City TV - Capital City
+https://vse-na-us-ne86.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://webpubcontent.gray.tv/waff/livestream-poster.jpg" group-title="P.A.T.S",Alabama - WAFF 48
+https://dai2-playlistserver.aws.syncbak.com/playlist/18333088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODMzMzA4OCIsIm1kNSI6ImVjZDczNzNmMTM3ZjFhOTAyMjc2NmY3ZTQ5N2UyYzE0IiwiaWF0IjoxNTkyMzM5MzU1LCJpc3MiOiJTeW5jYmFrIChURykifQ.t_KdcallT8ZNV4qEPvXmg0KUptD-N5E9IzYRr-4yQY4
+
+#EXTINF:-1 tvg-logo="https://media.heartlandtv.com/designimages/WAAY31-CYCCO-400x80.png" group-title="P.A.T.S",Alabama - WAAY 31
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6d0881c6-d37d-4cb9-81f5-58cc760fc1f3.m3u8?sessionId=6949fe1a-ab69-4e6f-9523-ed7cf612af66&a-ap=0&a-mute=0&a-dnt=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntOoqWO.jpg" group-title="P.A.T.S",Alabama - WSFA 12 news
+https://dai2-playlistserver.aws.syncbak.com/playlist/18363126/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODM2MzEyNiIsIm1kNSI6Ijk5OGI0OGVhMGNiMmNhMWI4OTYxYzdiMWRmYzIwOWU2IiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.yHaqSh4WYntMFlKGiRrZScRqZlozfHrG_SxuX-V0h2M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pc0nkQ.png" group-title="P.A.T.S",Alabama - WTVY News 4
+https://dai2-playlistserver.aws.syncbak.com/playlist/893567/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjk0NDksImlzcyI6IldMUyIsIm1kNSI6ImIwODg5NzVjN2QwYTczNTM5N2M3ZjI2YTNkMDg5ZTZhIiwibWlkIjoiODkzNTY3In0.h9O05uBwf6VEtRIDL2NHY29aZgup8D8RBj9qpctQi4Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pc0nkQ.png" group-title="P.A.T.S",Alabama - WTVY Live Event
+https://playlistserver.aws.syncbak.com/playlist/13353758/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA2MzUxNzcsImlzcyI6IldMUyIsIm1kNSI6ImM3YWM0NzFiY2JhMWFmNmU2YjMyMDcwMjVlMjA4MTA5IiwibWlkIjoiMTMzNTM3NTgifQ.LbC9VM4WlpEMWitlT0Uj01GYWCVce1PQlGmGsa_0t1k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgYDGr1.jpg" group-title="P.A.T.S",Alabama - WRGX
+https://playlistserver.aws.syncbak.com/playlist/13353758/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA2MzUxNzcsImlzcyI6IldMUyIsIm1kNSI6ImM3YWM0NzFiY2JhMWFmNmU2YjMyMDcwMjVlMjA4MTA5IiwibWlkIjoiMTMzNTM3NTgifQ.LbC9VM4WlpEMWitlT0Uj01GYWCVce1PQlGmGsa_0t1k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSJQ5mP.jpg" group-title="P.A.T.S",Alabama - ABC 33/40 1
+https://content-ausouat1.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSJQ5mP.jpg" group-title="P.A.T.S",Alabama - ABC 33/40 2
+https://content.uplynk.com/channel/f0435664817c4673adc60f4647554840.m3u8?
+
+
+######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLycShz.jpg" group-title="P.A.T.S",★★★★★★★★★★Arizona★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/emtlers.png" group-title="P.A.T.S",Arizona - ABC 15
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mygoodnewstv.com/site_data/850/themes/gntv_2.9.5/assets/images/GNTVLarge.png" group-title="P.A.T.S",Arizona - GNTV NEWS TV
+https://stream.eleden.com/livegntv/ngrp:livegntv_all/playlist.m3u8
+https://stream.eleden.com/livegntv/ngrp:livegntv_all/chunklist_w1875415426_b2011136.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mygoodnewstv.com/site_data/850/themes/gntv_2.9.5/assets/images/GNTVLarge.png" group-title="P.A.T.S",Arizona - GNTV Latino
+https://stream.eleden.com/livemastv/ngrp:livemastv_all/playlist.m3u8
+https://stream.eleden.com/livemastv/ngrp:livemastv_all/chunklist_w201693298_b1584128.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mygoodnewstv.com/site_data/850/themes/gntv_2.9.5/assets/images/GNTVLarge.png" group-title="P.A.T.S",Arizona - GNTV Kids Channel
+https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
+https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/chunklist_w487154296_b1755136.m3u8
+
+#EXTINF:-1 tvg-logo="https://webpubcontent.gray.tv/kold/livestream-poster.jpg" group-title="P.A.T.S",Arizona - KOLD News 13
+https://dai2-playlistserver.aws.syncbak.com/playlist/18552900/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU1MjkwMCIsIm1kNSI6ImRhNjcxZGYxODBlNjJkMGNjZDM1YjQ0OTk0YmE4ZTExIiwiaWF0IjoxNTk0NTgzODE3LCJpc3MiOiJTeW5jYmFrIChURykifQ.uC4QTI0Yia1tIF2AU_uxhDjyCRh5F4ATSoQ_JkmML3k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOHFGqN.png" group-title="P.A.T.S",Arizona - KGUN 9
+https://content.uplynk.com/channel/77eb1cdd792346fc9da16ff23b7fc792.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HOfBPb.png" group-title="P.A.T.S",Arizona - TV4
+http://granicusliveus4-a.akamaihd.net/bullheadcity/G0860_001/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDhhd7j.jpg" group-title="P.A.T.S",Arizona - Chandler Channel 11
+https://edge-f.swagit.com/live/chandleraz/smil:hd-16x9-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FO7zZK8.png" group-title="P.A.T.S",Arizona - Glendale 11
+https://edge-f.swagit.com/live/glendaleaz/smil:hd-16x9-1-a/playlist.m3u8
+https://edge-f.swagit.com/live/glendaleaz/smil:hd-16x9-1-a/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lhcaz.gov/App_Master/img/LHC-Logo-and-Text.jpg" group-title="P.A.T.S",Arizona - Channel 4 (LHCAZTV)
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenix.gov/Style%20Library/CityOfPhx/images/logo-phxtv.png" group-title="P.A.T.S",Arizona - PHXTV (City TV)
+https://granicusliveus8-a.akamaihd.net/phoenix/G1498_002/playlist.m3u8
+https://granicusliveus8-a.akamaihd.net/phoenix/G1498_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nowmPrb.jpg" group-title="P.A.T.S",Arizona - Prescott Channel 56
+http://granicusliveus8-a.akamaihd.net/pvaz/G0301_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwbGsfo.png" group-title="P.A.T.S",Arizona - Scottsdale Municipal TV CityCable 11
+https://granicusliveus12-a.akamaihd.net/scottsdale/G0040_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5GaubA.jpg" group-title="P.A.T.S",Arizona - Tempe Channel 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyolhEo.png" group-title="P.A.T.S",Arizona - AWC TV
+https://t07111a-lh.akamaihd.net/i/t07111a_1@764904/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W09SP0K.png" group-title="P.A.T.S",Arizona - edTV
+https://t07111a-lh.akamaihd.net/i/t07111b_1@767850/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MGCQWM.png" group-title="P.A.T.S",Arizona - Yuma77 LIVE
+https://stream1.earthchannel.com/YumaCoAZLIVE/_definst_/YumaCoAZLIVE.stream/playlist.m3u8
+https://stream1.earthchannel.com/YumaCoAZLIVE/_definst_/YumaCoAZLIVE.stream/chunklist_w723892313.m3u8
+
+
+######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCJSx0P.png" group-title="P.A.T.S",★★★★★★★★★★Arkansas★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://www.5newsonline.com/assets/shared-images/logos/kfsm.png" group-title="P.A.T.S",Arkansas - KFSM 5
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live-650.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="P.A.T.S",Arkansas - KNOE news 8
+https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="P.A.T.S",Arkansas - KNOE Live Event
+https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ4MDgsImlzcyI6IldMUyIsIm1kNSI6ImRiYjE0OGQwMDQxNmE1YzBmMjQyZmY4MTVjNTBiYTlhIiwibWlkIjoiMTMzNTM2NDQifQ.ifqK3SjqEA9zxIzehzOADwGU3hh7l-T-kXpUQSs10sU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaWiHiz.png" group-title="P.A.T.S",Arkansas - WMC 5
+https://dai2-playlistserver.aws.syncbak.com/playlist/18497172/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ5NzE3MiIsIm1kNSI6IjYzOWYxNjJjOTZjZjJmZWFmYjQ1YWY1NTA4MzhmMGQ4IiwiaWF0IjoxNTk0MDU4Mjc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.m34pXxraDlVLkgkAtFOwXbZ4DqUaAXQjOrumoMi2Fso
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AkpB2q.jpg" group-title="P.A.T.S",Arkansas - KAIT 8
+https://dai2-playlistserver.aws.syncbak.com/playlist/18533680/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODUzMzY4MCIsIm1kNSI6Ijg2MTZhMDgxMGU0MjViNmZjMjE0YjcxZmM3N2ViMjU1IiwiaWF0IjoxNTk0NTgzNTc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.iMmFxpzDdyXuuhMVZm1jIN2JZ4B1Cl6ms5RwyuI2P-E
+
+#EXTINF:-1 tvg-logo="https://www.thv11.com/assets/shared-images/logos/kthv.png" group-title="P.A.T.S",Arkansas - KTHV
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live-650.m3u8
+
+#EXTINF:-1 tvg-logo="https://ualruniversitytelevision.viebit.com/custom/live_poster/Poster.jpg" group-title="P.A.T.S",Arkansas - UALR
+https://vse-na-us-ne86.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
+
+########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xP1lPh6.jpg" group-title="P.A.T.S",★★★★★★★★★★California★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.bcmtv.org/templates/icons/logo.png" group-title="P.A.T.S",California - BCMTV Channel 28
+http://bcm.cablecast.tv/live-9/live/live.m3u8
+http://bcm.cablecast.tv/live-9/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.delmartv.com/images/backgrounds/bg_branding.png" group-title="P.A.T.S",California - Delmartv
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmac.tv/wp-content/themes/cmac3/images/cmaclogo2.jpg" group-title="P.A.T.S",California - CMAC 1 - Public Channel
+https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
+https://reflect-vod-cmac.cablecast.tv/live-11/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmac.tv/wp-content/themes/cmac3/images/cmaclogo2.jpg" group-title="P.A.T.S",California- CMAC 2 - Education Channel
+https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
+https://reflect-vod-cmac.cablecast.tv/live-12/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmac.tv/wp-content/themes/cmac3/images/cmaclogo2.jpg" group-title="P.A.T.S",California -CMAC 3 - Government Channel
+https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
+https://reflect-vod-cmac.cablecast.tv/live-13/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moBMLtg.jpg" group-title="P.A.T.S",California - KCAT – Channel 15
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+https://reflect-kcat-live.cablecast.tv/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://padnet.tv/wp-content/themes/padnet-custom-theme/src/img/padnet_logo.png" group-title="P.A.T.S",California - PADNET TV
+https://reflect-padnet-live.cablecast.tv/live/live.m3u8	
+https://reflect-padnet-live.cablecast.tv/live/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wknchrA.png" group-title="P.A.T.S",California - Monterey County
+https://t06159-lh.akamaihd.net/i/t06159b_1@28993/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wknchrA.png" group-title="P.A.T.S",California -  Free Speech Channel
+https://t06159-lh.akamaihd.net/i/t06159a_1@20587/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wknchrA.png" group-title="P.A.T.S",California - City of Monterey Government
+https://t06159-lh.akamaihd.net/i/t06159c_1@28994/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wknchrA.png" group-title="P.A.T.S",California - Marina Government
+https://t06159-lh.akamaihd.net/i/t06159d_1@28995/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wknchrA.png" group-title="P.A.T.S",California - Peninsula Government
+https://t06159-lh.akamaihd.net/i/t06159e_1@29100/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="http://www.siskiyoumediacouncil.org/wp-content/uploads/2020/01/SMC-Logo-web.png" group-title="P.A.T.S",California - Siskiyou Media Council
+https://t07582-lh.akamaihd.net/i/t07582a_1@867771/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv
+https://t05747-lh.akamaihd.net/I/t05747b_1@442088/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv
+https://t05747-lh.akamaihd.net/i/t05747a_1@441978/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 30
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/chunklist_w1470196133_b2752000.m3u8
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 26
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/chunklist_w1745413565_b981072.m3u8
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 27
+https://reflect-channel27-creatv.cablecast.tv/live/live.m3u8
+https://reflect-channel27-creatv.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/chunklist_w1587148154_b981072.m3u8
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 29
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/chunklist_w1272534547_b981072.m3u8
+
+#EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California  - Midpen Media Channel 75
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/chunklist_w1828638004_b981072.m3u8
+
+#EXTINF:-1 tvg-logo="https://bavc.org/sites/all/themes/custom/bavctheme/logo.png" group-title="P.A.T.S",California - SF Commons 76
+https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
+https://reflect-bayarea.cablecast.tv/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://bavc.org/sites/all/themes/custom/bavctheme/logo.png" group-title="P.A.T.S",California - SF Commons 29
+https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
+https://reflect-bayarea.cablecast.tv/live-5/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="P.A.T.S",California - CTV 25
+https://t06755a-lh.akamaihd.net/i/t06755a_1@662438/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="P.A.T.S",California - CTV 26
+https://t06755a-lh.akamaihd.net/i/t06755b_1@662439/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="P.A.T.S",California - CTV 27
+https://t06755a-lh.akamaihd.net/i/t06755c_1@662440/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/riLqrUb.png" group-title="P.A.T.S",California - Santa Maria Channel 23
+https://t07577-lh.akamaihd.net/i/t07577a_1@891138/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/riLqrUb.png" group-title="P.A.T.S",California  - Santa Maria Channel 24
+https://t07577-lh.akamaihd.net/i/t07577b_1@891139/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/riLqrUb.png" group-title="P.A.T.S",California  - Santa Maria Channel 25
+https://t07577-lh.akamaihd.net/i/t07577c_1@891140/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://www.torranceca.gov/Project/Contents/CitiCABLE/_gfx/cmn/logo.png" group-title="P.A.T.S",California - CitiCABLE torrance
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vcat.tv/wp-content/uploads/2019/04/VCAT-Logo-12-Sample-SITE-low-transparent.png" group-title="P.A.T.S",California - V-CAT
+https://vallejo.cablecast.tv/live-3/live/live.m3u8
+https://vallejo.cablecast.tv/live-3/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.capsmedia.org/wp-content/uploads/2016/08/CAPSMediaRGBweb.png" group-title="P.A.T.S",California - CAPS Channel 6
+https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
+https://reflect-stream6-capsmedia.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.capsmedia.org/wp-content/uploads/2016/08/CAPSMediaRGBweb.png" group-title="P.A.T.S",California - CAPS Channel 15
+https://reflect-stream15-capsmedia.cablecast.tv//live/live.m3u8
+https://reflect-stream15-capsmedia.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iy5lU91.png" group-title="P.A.T.S",★★★★★★★★★★Colorado★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SIYMLZX.jpg" group-title="P.A.T.S",Colorado - GrassRoots TV Channel 12
+http://mc.grassrootstv.org/live-16/live/live.m3u8
+http://mc.grassrootstv.org/live-16/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6MmhF2.png" group-title="P.A.T.S",Colorado - Fort Collins Channel 97
+https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
+https://reflect-fcpublicmedia.cablecast.tv/live-3/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebWbYCE.jpg" group-title="P.A.T.S",Colorado - AuroraTV
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+https://reflect-aurora.cablecast.tv/live-8/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VKqVhA.jpg" group-title="P.A.T.S",★★★★★★★★★★Connecticut★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5db8a9e90d22075f8e8396f2/5dc35c2ab2b24eb07c818db7_Large-Icon.png" group-title="P.A.T.S",Connecticut - CVC 1
+https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5db8a9e90d22075f8e8396f2/5dc35c2ab2b24eb07c818db7_Large-Icon.png" group-title="P.A.T.S",Connecticut - CVC 2
+https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5db8a9e90d22075f8e8396f2/5dc35c2ab2b24eb07c818db7_Large-Icon.png" group-title="P.A.T.S",Connecticut - CVC 3
+https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://soundviewtv.org/wp-content/uploads/2015/03/logo-2.png" group-title="P.A.T.S",Connecticut - Soundviewtv
+https://t07288-lh.akamaihd.net/i/t07288a_1@792851/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="http://www.nctv.org/wp-content/uploads/2016/08/Logo-for-Website-Header-2016-08-13.png" group-title="P.A.T.S",Connecticut - nctv Channel 14
+https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nctv.org/wp-content/uploads/2016/08/Logo-for-Website-Header-2016-08-13.png" group-title="P.A.T.S",Connecticut - nctv Channel 16
+https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSS6oSk.png" group-title="P.A.T.S",★★★★★★★★★★District of Columbia★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXghQXK.png" group-title="P.A.T.S",District of Columbia - DCTV Flagship Channel
+https://securestream3.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8?dt=1616062040302
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXghQXK.png" group-title="P.A.T.S",District of Columbia - DCTV Enrichment Channel
+https://securestream3.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8?dt=1616062197323
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXghQXK.png" group-title="P.A.T.S",District of Columbia - DCTV Focus Channel
+https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1616062214379
+
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NB8rPX9.jpg" group-title="P.A.T.S",★★★★★★★★★★Florida★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OngSMDR.jpg" group-title="P.A.T.S",Florida - Pinellas County
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/chunklist.m3u8
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEhzcTZ.png" group-title="P.A.T.S",★★★★★★★★★★Hawaii★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/themes/ocm/images/logo.png" group-title="P.A.T.S",Hawaii - Olelo FOCUS 49
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/themes/ocm/images/logo.png" group-title="P.A.T.S",Hawaii - Olelo NATV 53
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/themes/ocm/images/logo.png" group-title="P.A.T.S",Hawaii - Olelo VIEWS 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/playlist.m3u8
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/themes/ocm/images/logo.png" group-title="P.A.T.S",Hawaii - Olelo OAHU 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel53-768x783.png" group-title="P.A.T.S",Hawaii - AKAKU CHANNEL 53
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel54-768x783.png" group-title="P.A.T.S",Hawaii - AKAKU CHANNEL 54
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-768x783.png" group-title="P.A.T.S",Hawaii - AKAKU CHANNEL 55
+https://s3-us-west-2.amazonaws.com/akaku.castus-vod/live/ch3/video.m3u8
