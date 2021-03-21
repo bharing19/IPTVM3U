@@ -3828,8 +3828,7 @@ https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8
 https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1,US- HTV 1
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
-#EXTINF:-1,US- UCTV - University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
 
 
 
@@ -4047,10 +4046,10 @@ https://t06159-lh.akamaihd.net/i/t06159e_1@29100/master.m3u8?set-akamai-hls-revi
 #EXTINF:-1 tvg-logo="http://www.siskiyoumediacouncil.org/wp-content/uploads/2020/01/SMC-Logo-web.png" group-title="P.A.T.S",California - Siskiyou Media Council
 https://t07582-lh.akamaihd.net/i/t07582a_1@867771/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv 1
 https://t05747-lh.akamaihd.net/I/t05747b_1@442088/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAyJOOY.jpg" group-title="P.A.T.S",California - Pacificcoast.tv 2
 https://t05747-lh.akamaihd.net/i/t05747a_1@441978/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
 #EXTINF:-1 tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="P.A.T.S",California - Midpen Media Channel 30
@@ -4118,6 +4117,10 @@ https://reflect-stream6-capsmedia.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360
 #EXTINF:-1 tvg-logo="https://www.capsmedia.org/wp-content/uploads/2016/08/CAPSMediaRGBweb.png" group-title="P.A.T.S",California - CAPS Channel 15
 https://reflect-stream15-capsmedia.cablecast.tv//live/live.m3u8
 https://reflect-stream15-capsmedia.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.uctv.tv/images/UCTV-logo-header.png" group-title="P.A.T.S",California - UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1566206515.m3u8
 
 
 #######
