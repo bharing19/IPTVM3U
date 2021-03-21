@@ -4141,6 +4141,168 @@ http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/chunklist.m3u8
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_1080_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQrbub1.jpg" group-title="P.A.T.S",Florida - Gainesville Community  Channel 12
+https://granicusliveus5-a.akamaihd.net/gainesville/G0152_003/playlist.m3u8
+https://granicusliveus5-a.akamaihd.net/gainesville/G0152_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brevardfl.gov/images/default-source/common/logo50h.png" group-title="P.A.T.S",Florida - Space Coast Government TV
+https://granicusliveus9-a.akamaihd.net/brevardfl/G2111_002/playlist.m3u8
+https://granicusliveus9-a.akamaihd.net/brevardfl/G2111_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBIVKg8.jpg" group-title="P.A.T.S",Florida - CC-TV
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.colliercountyfl.gov/Project/Contents/Main/_gfx/cmn/logo.png" group-title="P.A.T.S",Florida - Collier TV (CTV 97)
+https://granicusliveus10-a.akamaihd.net/collier/G0056_003/playlist.m3u8
+https://granicusliveus10-a.akamaihd.net/collier/G0056_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyXGei2.png" group-title="P.A.T.S",Florida - Hernando County Government Broadcasting (HCGB)
+http://mediadcartmp-cdn.iqm2.com/24x7/HernandoCountyFL_Encoder1_24x7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xefPAd7.png" group-title="P.A.T.S",Florida - Hillsborough TV (HTV)
+https://granicusliveus2-a.akamaihd.net/hillsboroughcounty/G2155_002/playlist.m3u8
+https://granicusliveus2-a.akamaihd.net/hillsboroughcounty/G2155_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEc5nJX.png" group-title="P.A.T.S",Florida - IRE TV
+https://5dcabf026b188.streamlock.net/sdirctest21/sdirtest21.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VrjdYw.jpg" group-title="P.A.T.S",Florida - LakeFront TV
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/live.m3u8
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/afxGm20.png" group-title="P.A.T.S",Florida - Manatee Schools Television (MSTV)
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoUfKi6.png" group-title="P.A.T.S",Florida - Martin County TV (MCTV-20)
+https://granicusliveus4-a.akamaihd.net/martin/G0074_002/playlist.m3u8
+https://granicusliveus4-a.akamaihd.net/martin/G0074_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QAqjZY.png" group-title="P.A.T.S",Florida - Monroe County Television (MCTV) 
+https://s3-us-west-2.amazonaws.com/monroe-fl.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Cy4Wi8.png" group-title="P.A.T.S",Florida - OrangeTV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w472816224_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Cy4Wi8.png" group-title="P.A.T.S",Florida - VisionTV
+http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
+http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/chunklist_w1685182622_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://discover.pbcgov.org/SiteImages/Newsroom/thumbnail/PBCLogo.jpg" group-title="P.A.T.S",Florida - PBCTV Channel 20 
+https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8
+https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/chunklist_w1026199698.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O944gw9.png" group-title="P.A.T.S",Florida - Pasco TV
+https://cpcdn.azureedge.net/PASCOCOFLLIVE1/%20PASCOCOFLLIVE1/playlist.m3u8
+https://cpcdn.azureedge.net/PASCOCOFLLIVE1/%20PASCOCOFLLIVE1/chunklist_w1748851426.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6Lqnaa.png" group-title="P.A.T.S",Florida - Pinellas County Connection Television (PCC-TV)
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://reflect-polk.cablecast.tv/Cablecast/WebFiles/5173/PGTV_Logo5.png" group-title="P.A.T.S",Florida - Polk County PGTV
+https://reflect-polk.cablecast.tv/live-8/live/live.m3u8
+https://reflect-polk.cablecast.tv/live-8/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sjcfl.us/images/sjc_seal2.jpg" group-title="P.A.T.S",Florida - St. Johns County Government TV
+https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/playlist.m3u8
+https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seminolecountyfl.gov/_/images/logo-seminole.jpg" group-title="P.A.T.S",Florida - SGTV
+https://live.seminolecountyfl.gov/live-2/live/live.m3u8
+https://live.seminolecountyfl.gov/live-2/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coralgables.com/media/Branding/coralgableslogo_shadow.png" group-title="P.A.T.S",Florida - Coral Gables Television (CG TV)
+https://granicusliveus5-a.akamaihd.net/coralgables/G0937_004/playlist.m3u8
+https://granicusliveus5-a.akamaihd.net/coralgables/G0937_004/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/785rDeY.jpg" group-title="P.A.T.S",Florida - Deltona TV
+https://stream1.earthchannel.com/DeltonaFLLIVE/_definst_/DeltonaFLLIVE.stream/playlist.m3u8
+https://stream1.earthchannel.com/DeltonaFLLIVE/_definst_/DeltonaFLLIVE.stream/chunklist_w1374843516.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFJaaPx.png" group-title="P.A.T.S",Florida - Fernandina Beach PEG Channel
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fortlauderdale.gov/Project/Contents/Main/_gfx/cmn/logo.png" group-title="P.A.T.S",Florida - Fort Lauderdale’s government-access channel (FLTV)
+https://granicusliveus1-a.akamaihd.net/fortlauderdale/G1118_002/playlist.m3u8
+https://granicusliveus1-a.akamaihd.net/fortlauderdale/G1118_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuZ2LQ8.png" group-title="P.A.T.S",Florida - CFM TV Channel 98
+http://granicusliveus10-a.akamaihd.net/cityftmyers/G2083_002/playlist.m3u8
+http://granicusliveus10-a.akamaihd.net/cityftmyers/G2083_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOS02mO.jpg" group-title="P.A.T.S",Florida - Gainesville Community 12 TV
+https://granicusliveus5-a.akamaihd.net/gainesville/G0152_003/playlist.m3u8
+https://granicusliveus5-a.akamaihd.net/gainesville/G0152_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.largo.com/_assets_/images/logo.png" group-title="P.A.T.S",Florida - Largo TV – Channel 15
+https://stream1.earthchannel.com/LargoFLLIVE/_definst_/LargoFLLIVE.stream/playlist.m3u8
+https://stream1.earthchannel.com/LargoFLLIVE/_definst_/LargoFLLIVE.stream/chunklist_w1908195122.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEZXQ8.png" group-title="P.A.T.S",Florida - City of Miami TV
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.miamibeachfl.gov/wp-content/themes/miami-beach/img/miamibeach-logo.png" group-title="P.A.T.S",Florida - Miami Beach TV
+https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
+https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJuAQYY.png" group-title="P.A.T.S",Florida - MiramarTV
+https://granicusliveus5-a.akamaihd.net/miramar/G1645_002/playlist.m3u8
+https://granicusliveus5-a.akamaihd.net/miramar/G1645_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jjup237.png" group-title="P.A.T.S",Florida - North Miami Beach TV (NMBTV)
+https://granicusliveus9-a.akamaihd.net/citynmb/G2044_002/playlist.m3u8
+https://granicusliveus9-a.akamaihd.net/citynmb/G2044_002/chunklist.m3u8
+
+# https://www.gulfcoast.edu/campus-life/gctv/index.html
+#EXTINF:-1 tvg-logo="https://www.gulfcoast.edu/_resources/img/logo-blue-oval.png" group-title="P.A.T.S",Florida - Gulf Coast State College Educational Access (GCSC)
+https://pegstream-hls.secdn.net/pegstream3-live/play/613ded24-8de4-447b-b079-914508d66f2e/playlist.m3u8
+https://pegstream-hls.secdn.net/pegstream3-live/play/613ded24-8de4-447b-b079-914508d66f2e/chunklist_sess446181605.m3u8
+
+#EXTINF:-1 tvg-logo="https://myescambia.com/assets/images/seal.jpg" group-title="P.A.T.S",Florida - ECTV
+https://wowzaprod238-i.akamaihd.net/hls/live/1020656/bfe8e9ef/playlist.m3u8
+https://wowzaprod238-i.akamaihd.net/hls/live/1020656/bfe8e9ef/bfe8e9ef_1_1024000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J514pjs.png" group-title="P.A.T.S",Florida - Pinellas Park CityTV
+https://granicusliveus5-a.akamaihd.net/pinellaspark/G1564_002/playlist.m3u8
+https://granicusliveus5-a.akamaihd.net/pinellaspark/G1564_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pompanobeachfl.gov/assets/images/header/logo_white_500x315.png" group-title="P.A.T.S",Florida - Pompano Beach TV – Channel 78
+https://granicusliveus2-a.akamaihd.net/pompano/G0765_005/playlist.m3u8
+https://granicusliveus2-a.akamaihd.net/pompano/G0765_005/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8h25x5.jpg" group-title="P.A.T.S",Florida - Port St. Lucie TV (PSL-TV20)
+http://granicusliveus4-a.akamaihd.net/psl/G0262_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rivierabch.com/images/WYL/rbtv/RBTV_COLOR.png" group-title="P.A.T.S",Florida - Riviera Beach TV (RBTV-18)
+https://stream.swagit.com/live-edge/rivierabeachfl/live-1-b/playlist.m3u8	
+https://stream.swagit.com/live-edge/rivierabeachfl/live-1-b/chunklist_w1404608165.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnMsBrK.png" group-title="P.A.T.S",Florida - St. Cloud TV (SCTV)
+http://wowzaprodhd50-lh.akamaihd.net/i/21299ceb_1@663111/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stpete.org/_images_/logo-nav.png" group-title="P.A.T.S",Florida - StPeteTV (WSPF-TV)
+https://granicusliveus12-a.akamaihd.net/stpete/G0187_002/playlist.m3u8
+https://granicusliveus12-a.akamaihd.net/stpete/G0187_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="P.A.T.S",Florida - WFSU PBS KIDS 360
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+#EXTINF:-1 tvg-logo="https://wfsu.org/images/index/story-fallback.png" group-title="P.A.T.S",Florida - WFSU Television
+https://59018eb29a278.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+https://59018eb29a278.streamlock.net/live/ngrp:livestream_all/chunklist_w1933802526_b3334144.m3u8
+
+#EXTINF:-1 tvg-logo="https://wfsu.org/images/index/story-fallback.png" group-title="P.A.T.S",Florida - FSU College of Music Live Stream Event only
+https://59018eb29a278.streamlock.net/live/ngrp:fsumusic_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1K7wALo.jpg" group-title="P.A.T.S",Florida - Tallahassee Government Access – Channel 13 (WCOT)
+https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
+
+
 #######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEhzcTZ.png" group-title="P.A.T.S",★★★★★★★★★★Hawaii★★★★★★★★★★
