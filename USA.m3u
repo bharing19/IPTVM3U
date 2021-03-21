@@ -4302,6 +4302,10 @@ https://59018eb29a278.streamlock.net/live/ngrp:fsumusic_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1K7wALo.jpg" group-title="P.A.T.S",Florida - Tallahassee Government Access – Channel 13 (WCOT)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 
+#https://livestream.com/cityoftampa/cttv
+#EXTINF:-1 tvg-logo="https://www.tampa.gov/themes/custom/cotstyle/images/social-open-graph-image.jpg" group-title="P.A.T.S",Florida - City of Tampa CTTV
+https://api.new.livestream.com/accounts/12251681/events/4404733/broadcasts/219013863.m3u8
+
 
 #######
 
