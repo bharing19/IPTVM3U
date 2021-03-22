@@ -4073,6 +4073,11 @@ https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.nctv.org/wp-content/uploads/2016/08/Logo-for-Website-Header-2016-08-13.png" group-title="P.A.T.S",Connecticut - nctv Channel 16
 https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.hpatv.org/wp-content/uploads/2015/07/logo-with-tagline.png" group-title="P.A.T.S",Connecticut - Hartford Government Access TV Channel 96
+https://t05692-lh.akamaihd.net/i/t05692b_1@199582/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+https://t05692-lh.akamaihd.net/i/t05692b_1@199582/index_1_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+
+
 #######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ttugxs.png" group-title="P.A.T.S",★★★★★★★★★★Delaware★★★★★★★★★★
@@ -4316,6 +4321,85 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 https://content-ause1-up-1.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 
 #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkMEbNK.png" group-title="P.A.T.S",★★★★★★★★★★Georgia★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9heBms.png" group-title="P.A.T.S",Georgia - ACTV Government Access Channel 
+https://s3-us-west-2.amazonaws.com/athens.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dekalbschoolsga.org/communications/files/2019/03/logo-tm-web.jpg" group-title="P.A.T.S",Georgia - DeKalb Schools TV (DSTV)
+https://stream1.earthchannel.com/DeKalbSchoolsGALIVE/_definst_/DeKalbSchoolsGALIVE.stream/playlist.m3u8
+https://stream1.earthchannel.com/DeKalbSchoolsGALIVE/_definst_/DeKalbSchoolsGALIVE.stream/chunklist_w1660336204.m3u8
+
+#http://douglascounty.viebit.com/
+#EXTINF:-1 tvg-logo="https://douglascounty.viebit.com/custom/live_poster/dctv23_LiveStream_Thumb.jpg" group-title="P.A.T.S",Georgia - Douglas County TV (DCTV 23)
+https://pegstream-hls.secdn.net/pegstream3-live/play/b5ca5d1e-8717-4ae4-8816-d8609c73d128/playlist.m3u8
+https://pegstream-hls.secdn.net/pegstream3-live/play/b5ca5d1e-8717-4ae4-8816-d8609c73d128/chunklist_sess427021560.m3u8
+
+# https://www.fultonschools.org/fcstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXMg3r8.png" group-title="P.A.T.S",Georgia - Fulton County School System TV (FSC TV)
+https://ecihls-14ddf.kxcdn.com/FultonCountySchoolsGALIVE/_definst_/FultonCountySchoolsGALIVE.stream/playlist.m3u8
+https://ecihls-14ddf.kxcdn.com/FultonCountySchoolsGALIVE/_definst_/FultonCountySchoolsGALIVE.stream/chunklist_w235679981.m3u8
+
+#EXTINF:-1 tvg-logo="https://play.champds.com/fultoncoga/img/FultonCoGALIVE.png" group-title="P.A.T.S",Georgia - Fulton County Government Access TV (FGTV)
+https://securestream3.champds.com/hlssstc/FultonCoGALIVE/FultonCoGALIVE.m3u8
+https://securestream3.champds.com/hlssstc/FultonCoGALIVE/FultonCoGALIVE_HQ.m3u8
+
+# https://publish.gwinnett.k12.ga.us/gcps/home/gcpstv/watch
+#EXTINF:-1 tvg-logo="http://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/og-image.jpg" group-title="P.A.T.S",Georgia - Gwinnett County Public Schools TV (GCPS TV)
+https://svuprohlslive.streamvucdn.com/svuone/d4d40ded78490d85.m3u8?xuhXCpNwyf3btH3jkYu6aFh5GY4ZDdBPsZCz3J-5cNN5928pEIpXTfP1ioUyEdY4bohBCFpgxIEb_GTxn3MbKPudrCKbNbOC_MYUif4NxxhbxzXGJfL-9VkfsLWojtI5FoGaXCupCeDf2siLU3ay_ZXhGZ_XSXxfL33hzNKTzvhCLvqz_AIKogpFvFRGIf9eea1VJrwNAqIwijR3MRKVeUGn8vNEnkh3KfpZk8bekTjoTlv6z0vzb9A2_L3AiIwI_-5ppFHMcwYla6XyxfQcwpquAJemAdzpcZpn_e7Oy38uKlahDrnA3_UZe7E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASK35UA.png" group-title="P.A.T.S",Georgia - TV Gwinnett 
+https://stream1.earthchannel.com/GwinnettCoGALIVE/_definst_/GwinnettCoGALIVE.stream/playlist.m3u8
+https://stream1.earthchannel.com/GwinnettCoGALIVE/_definst_/GwinnettCoGALIVE.stream/chunklist_w2029600753.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cau.edu/_global/_images/Clark-Atlanta-University-Logo.jpg" group-title="P.A.T.S",Georgia - Clark Atlanta University TV (CAU-TV)
+https://vse-na-us-ne86.secdn.net/pegstream3-live/play/680542e4-0d0a-4272-bd4d-585a0931456e/playlist.m3u8
+https://vse-na-us-ne86.secdn.net/pegstream3-live/play/680542e4-0d0a-4272-bd4d-585a0931456e/chunklist_sess656902970.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLhkBBI.png" group-title="P.A.T.S",Georgia - Atlanta Government Access (ATL-26)
+https://securestream3.champds.com/hlssstc/AtlantaGALIVE/AtlantaGALIVE.m3u8
+https://securestream3.champds.com/hlssstc/AtlantaGALIVE/AtlantaGALIVE_HQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://collegeparkga.viebit.com/custom/site_images/VieBit%20Banner.png" group-title="P.A.T.S",Georgia - College Park Government Access – Channel 23
+https://pegstream-hls.secdn.net/pegstream3-live/play/a18359a7-4b4c-44cd-af83-5c861dbce139/playlist.m3u8
+https://pegstream-hls.secdn.net/pegstream3-live/play/a18359a7-4b4c-44cd-af83-5c861dbce139/chunklist_sess491461267.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="P.A.T.S",Georgia - PBS GPB HD
+http://api.new.livestream.com/accounts/6264/events/8860817/broadcasts/219021824.m3u8
+
+# https://www.youtube.com/channel/UCNaTc-Sjmlyby6XoBK8ZtrQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DEtZN0O.png" group-title="P.A.T.S",Georgia - Savannah Government TV (SGTV) (YT)
+plugin://plugin.video.youtube/play/?video_id=HvptB5hn__g
+
+#EXTINF:-1 tvg-logo="https://www.13wmaz.com/assets/shared-images/logos/wmaz.png" group-title="P.A.T.S",Georgia - MACON WMAZ
+https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://webpubcontent.gray.tv/wtvm/livestream-poster.jpg" group-title="P.A.T.S",Georgia - COLUMBUS ABC 9 WTVM
+https://dai2-playlistserver.aws.syncbak.com/playlist/18551280/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU1MTI4MCIsIm1kNSI6ImFiYjY0NTk1M2M0NWEyOWU4MzVkYzQzYTc0ZjM2YTE4IiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.1z8XxJvx7N3bdSmQzmob3Gi2WGmarMkin1v0LLaisS4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJrKzI1.png" group-title="P.A.T.S",Georgia - TALLAHASSEE-THOMASVILLE ABC 27 WTXL
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstcoastnews.com/assets/shared-images/logos/wtlv.png" group-title="P.A.T.S",Georgia - First Coast News
+https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAvrNOU.png" group-title="P.A.T.S",Georgia - WTVY Newscast
+https://dai2-playlistserver.aws.syncbak.com/playlist/893567/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjk0NDksImlzcyI6IldMUyIsIm1kNSI6ImIwODg5NzVjN2QwYTczNTM5N2M3ZjI2YTNkMDg5ZTZhIiwibWlkIjoiODkzNTY3In0.h9O05uBwf6VEtRIDL2NHY29aZgup8D8RBj9qpctQi4Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAvrNOU.png" group-title="P.A.T.S",Georgia - WTVY Live Evnent
+https://playlistserver.aws.syncbak.com/playlist/13353758/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA2MzUxNzcsImlzcyI6IldMUyIsIm1kNSI6ImM3YWM0NzFiY2JhMWFmNmU2YjMyMDcwMjVlMjA4MTA5IiwibWlkIjoiMTMzNTM3NTgifQ.LbC9VM4WlpEMWitlT0Uj01GYWCVce1PQlGmGsa_0t1k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9M5uQIv.jpg" group-title="P.A.T.S",Georgia - WALB-TV
+https://dai2-playlistserver.aws.syncbak.com/playlist/18552861/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU1Mjg2MSIsIm1kNSI6IjM0YjgxMjk2ODQ3YzExZmNlYjJlNGY4YzIwNDhhMTM0IiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.OKo_-04AhKiY_QgmVc2DckkF3t06QEXwHPa45TlptZ8
+
+#EXTINF:-1 tvg-logo="https://www.gemshopping.com/media/logo/default/gemshopping-logo.png" group-title="P.A.T.S",Georgia - Gem Shopping Network
+https://stream.robertsstream.com/streammobile.m3u8?stream=gem_mbr&referer=GemShopping&t=1616370825&h=6f8abe8736a923ea793a9e57a52068fa&forceformat=ios&h
+
+
+#######
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEhzcTZ.png" group-title="P.A.T.S",★★★★★★★★★★Hawaii★★★★★★★★★★
 0.0.0.0
