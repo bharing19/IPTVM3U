@@ -3748,13 +3748,13 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iICo7Vu.jpg" group-title="P.A.T.S",★★★★★★★★★★Alaska★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MCiKuS.png" group-title="P.A.T.S",Alaska - KTUU Channel 1
 https://dai2-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI1LCJtZDUiOiI5NTZiM2RhZmViOTA4ZGUxZTdmMTc5NGFjYWQyYTQ5YiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.kUK2HTxg4bOFF_kcJtYni32gp3J0mJpBLD_V4apmHBo
 
-#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MCiKuS.png" group-title="P.A.T.S",Alaska - KTUU Channel 2
 https://playlistserver.aws.syncbak.com/playlist/13736728/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI4LCJtZDUiOiI3NmYwNmUxNjdhNjJiNTBiYWYxODAzZWYzYmZjYTE3NiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ._e7T7Xkcr7e53TCJw2egb0SiDTaIEg-DV79v4fu-agQ
 
-#EXTINF:-1 tvg-logo="https://www.burst.com/webapps-beta/assets/icon/apple-touch-icon-152x152.png" group-title="P.A.T.S",Alaska - KTUU Channel 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ggPuHE.jpg" group-title="P.A.T.S",Alaska - KTUU CBS 5 (KYES)
 https://dai2-playlistserver.aws.syncbak.com/playlist/18969413/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODk2OTQxMyIsImNpZCI6MTc4MTksInNpZCI6MzE5LCJtZDUiOiIxYzc4NmNmY2I1MGExYWIxZjlkZWJiZDhlMzMxZTU0NCIsImlhdCI6MTYxMzQwMzcwMiwiaXNzIjoiU3luY2JhayAoVEcpIn0.b035KRK1zQE7hwvHREiTEa_kAnkz8znksfRC4xMAHoo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MwikNA.jpg" group-title="P.A.T.S",Alaska - KTOO 360TV
@@ -4049,6 +4049,30 @@ https://reflect-fcpublicmedia.cablecast.tv/live-3/live/WIFI-696k-360p/WIFI-696k-
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 https://reflect-aurora.cablecast.tv/live-8/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
+#EXTINF:-1 tvg-logo="https://krdo.b-cdn.net/2019/10/1280x720-copy_3887106_ver1.0_1280_720-860x484.jpg" group-title="P.A.T.S",Colorado - ABC 13 KRDO
+https://x11.g-mana.net/media/51c9fa5f-743b-47cd-b230-2b845fe2209b/mainManifest.m3u8
+https://x11.g-mana.net/media/51c9fa5f-743b-47cd-b230-2b845fe2209b/profile/0/profileManifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OJ53Fd.jpg" group-title="P.A.T.S",Colorado - ABC 8 KJCT-LP Newscast
+https://dai2-playlistserver.aws.syncbak.com/playlist/898816/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcxMjksImlzcyI6IldMUyIsIm1kNSI6IjYzMjlhZmE3MmZhNzMxMWY4MTlmYTc4NDNhYTExMTY0IiwibWlkIjoiODk4ODE2In0.eArS2RfwYz0E7brdxYnnNPHWiEJMH15fFckWo2G3fow
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OJ53Fd.jpg" group-title="P.A.T.S",Colorado - ABC 8 KJCT-LP Live Event
+https://playlistserver.aws.syncbak.com/playlist/13353364/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA0NTg2MzUsImlzcyI6IldMUyIsIm1kNSI6IjRjM2VlZGE0YjMxMGJmYzAxMzg1MWU0M2RiYTUzZTk2IiwibWlkIjoiMTMzNTMzNjQifQ.g6OUkrai_ARBzv7HBgWZ7BLtpkc6jTn6PilIPVhoBbY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Us1Z36W.png" group-title="P.A.T.S",Colorado - Broomfield County Cable – Channel 8
+http://granicusliveus11-a.akamaihd.net/broomfieldco/G0440_002/playlist.m3u8
+http://granicusliveus11-a.akamaihd.net/broomfieldco/G0440_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://arvada.org/assets/img/logo-large-inverted.png" group-title="P.A.T.S",Colorado - Arvada Media Services (KATV-8)
+http://katv.arvada.org/live-5/live/live.m3u8
+http://katv.arvada.org/live-5/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.highfivemedia.org/sites/default/files/LiveOnFive_Splash.jpg" group-title="P.A.T.S",Colorado - High Five Access Media
+https://t06786-lh.akamaihd.net/i/t06786a_1@31030/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+https://t06786-lh.akamaihd.net/i/t06786a_1@31030/index_3000000_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5BFQBz.jpg" group-title="P.A.T.S",Colorado - Boulder Channel 8
+http://api.new.livestream.com/accounts/16855570/events/4667793/live.m3u8
 
 #######
 
