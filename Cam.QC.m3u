@@ -32,7 +32,15 @@ plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=lqNRzZrldJE
+plugin://plugin.video.youtube/play/?video_id=SanpjypXgI4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Base Nord (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=qL3dwf2SgRs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Base Sud (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=f3cQ20CAhO0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Place Saint-Bernard (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=CRRmFqVm-LQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Place des Voyageurs (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=FZL2b9Wn7yk
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD) (OFFLINE)
@@ -55,9 +63,17 @@ http://207.164.90.146:747/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
 
+# https://www.youtube.com/channel/UCGqncD4C_A-Vqi7exzIsMCQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwqLUyy.png" group-title="Cam",Aéroport Saint-Mathieu de Beloeil CSB3(YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=z0_dk7SP_eE
+
 # https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=HXZ7sZvixcc
+plugin://plugin.video.youtube/play/?video_id=QUmzgRF0y8Y
+
+
+#EXTINF:-1 tvg-logo="" group-title="", Église catholique à Montréal (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=7ZnawiMpxE8
 
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier vers Montreal
@@ -69,7 +85,7 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier / La Ronde (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Université Laval (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Université Laval (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
 # update link: https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming #
