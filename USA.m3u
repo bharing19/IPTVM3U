@@ -563,45 +563,89 @@ http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pa7wqxF.png" group-title="",Fairfax County Government Channel 16
 https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WSVN)
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox (WSVN) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",FOX 28 Savannah (WTGS)  
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-1)
-http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-2) (No-Audio)
-http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="USA",Fox Business
-https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-1)
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-2)
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="USA",Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="USA",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="USA",Fox Premium Comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",Fox News rtmp
+https://lnc-fox-news-now-rtmp.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93SIHbu.png" group-title="USA",Fox Premium Movies (SAP)
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Tubi TV",Fox Soul
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xs5ERr.jpg" group-title="USA",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjIKpMJ.png" group-title="USA",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBgiaiB.jpg" group-title="USA",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="USA",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TCzjchS.jpg" group-title="USA",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugLwGEY.png" group-title="USA",KTBC Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neBeQB6.jpg" group-title="USA",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18isSVd.png" group-title="USA",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="USA",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lf5sLNn.png" group-title="USA",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmOd9Yr.jpg" group-title="USA",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="USA",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="USA",WYNY Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOA8KKZ.jpg" group-title="USA",WOFL Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOOwMCS.png" group-title="USA",WTGS FOX 28 Savannah  
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pRKEMb1.jpg" group-title="Local",KOKI-TV FOX 23 Tulsa
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfJVjpd.jpg" group-title="USA",WSVN Fox 7 Miami
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="USA",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvkri2L.png" group-title="USA",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="USA",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="USA",Fox Sports pluto
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
