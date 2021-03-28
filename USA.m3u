@@ -156,7 +156,32 @@ https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
 
 #########
 
-
+#EXTINF:-1,Con TV -TCL
+https://contv-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Con TV Anime -TCL
+https://contvanime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Unbeaten -TCL
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Docurama -TCL
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Whistle Sports -TCL
+https://whistlesports-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dove Now -TCL
+https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bambu -TCL
+https://bambu-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloody Disgusting -TCL
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1, The Bob Ross Channel -TCL
+https://bobross-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Comedy Dynamics -TCL
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,My time Movies Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,So Real -TCL
+https://soreal-tcl.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~~~~  USA TV ~~~~ 
