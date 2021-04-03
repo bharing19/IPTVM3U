@@ -492,12 +492,18 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
 http://connectiktv.ddns.me:8080/bblack/index.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
+https://www.streamaway.net/fra/bein1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport1-fr.php
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
 plugin://script.module.7of9-live/play/49/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR
+https://www.streamaway.net/fra/bein2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport2-fr.php
 #EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR (TT)
 plugin://script.module.7of9-live/play/51/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="France",BeIN Sports 3 FR
+https://www.streamaway.net/fra/bein3/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport3-fr.php
 #EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="France",BeIN Sports 3 FR (TT)
 plugin://script.module.7of9-live/play/52/play.pvr
 
@@ -793,6 +799,9 @@ https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist
 # https://www.dailymotion.com/feria-rocks
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hOkyqwA.png" group-title="",Feria TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7y66yv&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYUemTo.jpg" group-title="",Foot+
+https://www.streamaway.net/fra/foot/mono.m3u8|Referer=https://www.streamaway.net/fr/Foot.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
@@ -1174,6 +1183,9 @@ plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQjqS4F.png" group-title="",Nancy WebTV
 https://edge5.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w1816442373.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ge7fkCe.jpg" group-title="",Novelas TV
+https://www.streamaway.net/fra/novelas/3000.m3u8|Referer=https://www.streamaway.net/fr/Novelas.php
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372968_b981072.m3u8
@@ -1242,6 +1254,9 @@ plugin://script.module.7of9-live/play/322/play.pvr
 http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
 http://51.15.254.60/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0l6gmTV.png" group-title="",Polar+
+https://www.streamaway.net/fra/polar/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Polar.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4cv6mMJ.png" group-title="",Press TV Français
 https://live1.presstv.com/live/presstvfr/index.m3u8
@@ -1319,6 +1334,11 @@ plugin://script.module.7of9-live/play/601/play.pvr
 #EXTINF:-1  tvg-id="France" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 (NA)
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPVOiOq.png" group-title="",RMC Sport Access 1
+https://www.streamaway.net/fra/rmc1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMCsp1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEcdK6j.png" group-title="",RMC Sport Access 2
+https://www.streamaway.net/fra/rmc2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMCsp2.php
+
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Story" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Story
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/numero23-850465/hls/index.m3u8
 
@@ -1337,6 +1357,9 @@ plugin://plugin.video.dailymotion_com/?url=x6mw7oz&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuIEEt8.jpg" group-title="",Sciences & Vie
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Encyclopedia_live/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJrWiCI.jpg" group-title="",Series Club
+https://www.streamaway.net/fra/serieclub/index.m3u8|Referer=https://www.streamaway.net/fr/Seriesclub.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFCHuPF.jpg" group-title="France",Sofy TV (VOSF)
 https://sofytv-samsungfr.amagi.tv/playlist.m3u8
