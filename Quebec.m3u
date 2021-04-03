@@ -5,8 +5,21 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 #EXTINF:-1 tvg-logo="nologo.png",Update 21/03/12
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Temporaire[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Test autre a venir[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="",Canal D
+https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Scr6Tl.png" group-title="",CASA
+https://www.streamaway.net/fra/casa/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Casa-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="",Historia
+https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Historia-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="",LCN
+https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/LCN.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nbvSBw.jpg" group-title="",Investigation
+https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Investigation.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQlgwsP.png" group-title="",TV5 Quebec
+https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TV5-ca.php
 
 
 
@@ -28,7 +41,6 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 # update link: https://zonevideo.telequebec.tv/endirect/ #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 720
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Station%20QC/NOOVO.png?raw=true" group-title="Quebec TV",Noovo (V-Tele)
@@ -167,7 +179,7 @@ plugin://plugin.video.youtube/play/?video_id=XMusLpBg_mM
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Rt8sUzMxxR8
+plugin://plugin.video.youtube/play/?video_id=fiWbqToqnR4
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OFFLINE)
@@ -178,7 +190,7 @@ plugin://plugin.video.youtube/play/?video_id=y_D4KVV-xnI
 plugin://plugin.video.youtube/play/?video_id=Gc9yO0t_pDo
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
-#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
+#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=GbpNzyJWnwU
 
 #https://www.twitch.tv/tvctklive/ https://www.tvctk.com/
