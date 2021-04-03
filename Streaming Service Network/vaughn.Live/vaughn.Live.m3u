@@ -60,6 +60,9 @@ https://stream-cdn.vaughnsoft.net/play/live_angieishere.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/animelemonade_320.jpg" group-title="Animes",AnimeLemonade
 https://stream-cdn.vaughnsoft.net/play/live_animelemonade.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/artful_dodger_320.jpg" group-title="Music",Artful_Dodger
+https://stream-cdn.vaughnsoft.net/play/live_artful_dodger.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1321/atpshow.jpg" group-title="Mixed",atpshow
 https://stream-cdn.vaughnsoft.net/play/live_atpshow.flv
 
@@ -162,6 +165,9 @@ https://stream-cdn.vaughnsoft.net/play/live_chevy.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/chillertheatre_320.jpg" group-title="Movies",ChillerTheatre
 https://stream-cdn.vaughnsoft.net/play/live_chillertheatre.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/chillouto9_320.jpg" group-title="Mixed",chilloutO9
+https://stream-cdn.vaughnsoft.net/play/live_chillouto9.flv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YDXxMu.jpg" group-title="Religion",christianitystream
 https://stream-cdn.vaughnsoft.net/play/live_christianitystream.flv
@@ -289,6 +295,9 @@ https://stream-cdn.vaughnsoft.net/play/live_geeklemonade.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YDXxMu.jpg" group-title="Animes",geeklemonade_live
 https://stream-cdn.vaughnsoft.net/play/live_geeklemonade_live.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/gilligansisland_320.jpg" group-title="Mixed",GilligansIsland
+https://stream-cdn.vaughnsoft.net/play/live_gilligansisland.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/glaucusandoval_320.jpg" group-title="Animes",glaucusandoval
 https://stream-cdn.vaughnsoft.net/play/live_glaucusandoval.flv
 
@@ -396,6 +405,9 @@ https://stream-cdn.vaughnsoft.net/play/live_juice_jwmedia.flv
 
 ##K##
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/k105_320.jpg" group-title="Music",k105
+https://stream-cdn.vaughnsoft.net/play/live_k105.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kartera_320.jpg" group-title="Mixed",Kartera
 https://stream-cdn.vaughnsoft.net/play/live_kartera.flv
 
@@ -429,6 +441,9 @@ https://stream-cdn.vaughnsoft.net/play/live_kartera_toons.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kartera_trilogies_320.jpg" group-title="Movies",kartera_trilogies
 https://stream-cdn.vaughnsoft.net/play/live_kartera_trilogies.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kavorka_320.jpg" group-title="Mixed",kavorka
+https://stream-cdn.vaughnsoft.net/play/live_kavorka.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kavorkaz_320.jpg" group-title="Docs",kavorKaz
 https://stream-cdn.vaughnsoft.net/play/live_kavorkaz.flv
 
@@ -437,6 +452,9 @@ https://stream-cdn.vaughnsoft.net/play/live_kazman.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kbhrsouth_320.jpg" group-title="Movies",kbhrsouth
 https://stream-cdn.vaughnsoft.net/play/live_kbhrsouth.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kermit_frog_320.jpg" group-title="Mixed",Kermit_Frog	
+https://stream-cdn.vaughnsoft.net/play/live_kermit_frog.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/kingzcourt_320.jpg" group-title="Mixed",kingzcourt
 https://stream-cdn.vaughnsoft.net/play/live_kingzcourt.flv
@@ -519,6 +537,9 @@ https://stream-cdn.vaughnsoft.net/play/live_megaradio.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/mdufres1_320.jpg" group-title="Mixed",mdufres1
 https://stream-cdn.vaughnsoft.net/play/live_mdufres1.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/misssusie_320.jpg" group-title="Music",MissSusie
+https://stream-cdn.vaughnsoft.net/play/live_misssusie.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/missymooovies_320.jpg" group-title="Movies",MissyMooovies
 https://stream-cdn.vaughnsoft.net/play/live_missymooovies.flv
@@ -700,6 +721,15 @@ https://stream-cdn.vaughnsoft.net/play/live_thejedshed.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/the_old_west_320.jpg" group-title="Mixed",The_Old_West
 https://stream-cdn.vaughnsoft.net/play/live_the_old_west.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/theoriginalseries_320.jpg" group-title="Mixed",TheOriginalSeries
+https://stream-cdn.vaughnsoft.net/play/live_theoriginalseries.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/thenextgeneration_320.jpg" group-title="Mixed",TheNextGeneration
+https://stream-cdn.vaughnsoft.net/play/live_thenextgeneration.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/thevoyagerseries_320.jpg" group-title="Mixed",TheVoyagerSeries
+https://stream-cdn.vaughnsoft.net/play/live_thevoyagerseries.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/timewarptv_320.jpg" group-title="Movies",TimewarpTV
 https://stream-cdn.vaughnsoft.net/play/live_the_timewarptv.flv
