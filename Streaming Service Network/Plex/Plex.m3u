@@ -22,8 +22,17 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZJPhtC.png" group-title="PLEX USA",Cheddar
 https://fd6703431b744e46b9ff0a66b7b3460b.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Bambu/82382293-9af3-473b-8ac0-1a41ee6a0726/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmQu6P4.jpg" group-title="PLEX USA",Chiquillines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/1920x1080_5605600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYysV6o.png" group-title="PLEX USA",Chopper Town
 https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/raVWZUA.png" group-title="PLEX USA",Cine Real
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/1920x1080_5055600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0NX2ZDU.png" group-title="PLEX USA",Cine Sureno
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/1920x1080_5605600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ep886NG.jpg" group-title="PLEX USA",Comedy Dynamics
 https://comedydynamics-plex.cinedigm.com/midroll/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=PizADmVq-Mi1V6a1J71j&channelId=5efe1de5e0b3f5003f5d9f76/amagi_hls_data_xumo-host-comedydynamics-plex/CDN/playlist.m3u8
@@ -64,6 +73,9 @@ https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO0gJO5.jpg" group-title="PLEX USA",Film Stream
 https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdUoJia.jpg" group-title="PLEX USA",Flash
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1920x1080_5055600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F65M8sk.png" group-title="PLEX USA",Game Show
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
 
@@ -94,17 +106,26 @@ https://vcnplex.teleosmedia.com/linear/ovation/journy/49734464-85aa-43f1-8d94-9b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaWzbl9.jpg" group-title="PLEX USA",Judge Faith
 https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/0a8de4ab-b7ba-4b63-af46-8c090ca6a9ef/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HoSvB5p.jpg" group-title="PLEX USA",Juntos
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZOAHVr.png" group-title="PLEX USA",KiDoodle TV
 https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXt36lB.png" group-title="PLEX USA",KMTV
 https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/59c0da77-8f64-4d20-aaa9-70875a251b7c/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngA2AhP.jpg" group-title="PLEX USA",LaCorriente
+https://stream.ads.ottera.tv/cl/589fa3ba-46e0-40d1-bdf9-79d01150768a/1280x720_2300000_4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsHqCfm.jpg" group-title="PLEX USA",Latido Music
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7wXWzqY.jpg" group-title="PLEX USA",Law and Crime
 https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/3764ff82-e9c3-4cd8-a6d7-fd42b777ed75/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81JK6AW.png" group-title="PLEX USA",Level Up
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/d2f90e92-083a-457b-af41-ccdfee7358ca/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAW4LIi.jpg" group-title="PLEX USA",LIT Entertainement News
 https://studio1-lit-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=BUWFUbuyszkQ_B1MteBQ&channelId=6025c38eb7f47e002cc831be/hls/amagi_hls_data_plexAAAAA-studio1-lit-plex/CDN/1920x1080_5640800/index.m3u8
@@ -184,6 +205,9 @@ https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swtewIE.jpg" group-title="PLEX USA",Ryan And Friends
 https://956932c241ba4437b53eb9e75ca35cd0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RyanAndFriends/bfa68dd7-b0d3-42bf-bb15-2a0b9f22f1ef/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlKE790.png" group-title="PLEX USA",Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1280x720_2855600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFkw4wr.jpg" group-title="PLEX USA",So...Real
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
 
@@ -211,6 +235,9 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lOjlJWM.png" group-title="PLEX USA",The Bob Ross Channel
 https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/a741f500-44c1-49b1-9350-ecdd0462158d/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26QKNk0.png" group-title="PLEX USA",The Design Network 
+https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/41c74229-886e-4d4c-be4b-744e7b918603/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/piZoGcS.jpg" group-title="PLEX USA",The Film Detective
 https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
 
@@ -225,6 +252,12 @@ https://lds-timeline-plex.amagi.tv/amRdirect/5f74cf83ffbe690040689f50/hls/amagi_
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLjGITN.jpg" group-title="PLEX USA",Toon Googles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OsoLGZ.png" group-title="PLEX USA",Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/1920x1080_5605600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TsVB77E.png" group-title="PLEX USA",Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MrBOoTm.png" group-title="PLEX USA",UnindentifiedTV
 https://studio1091-plex.amagi.tv/amRdirect/5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/playlist.m3u8
