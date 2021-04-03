@@ -1033,6 +1033,9 @@ plugin://script.module.7of9-live/play/721/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sNU8EVk.jpg" group-title="France",imineo (YT)
 plugin://plugin.video.youtube/play/?video_id=gTFN7gGX7mA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xDPHrz.jpg" group-title="",J-ONE
+https://www.streamaway.net/fra/jone/mono.m3u8|Referer=https://www.streamaway.net/fr/Jone-fr.php
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
@@ -1590,6 +1593,9 @@ plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="France" tvg-name="Voyage tv FR"  tvg-logo="https://i.imgur.com/NNqInil.png" group-title="France",Voyage tv FR (TT)
 plugin://script.module.7of9-live/play/765/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtiwhZK.jpg" group-title="",Warner
+https://www.streamaway.net/fra/warner/mono.m3u8|Referer=https://www.streamaway.net/fr/Warner.php
 
 # update link : https://www.dailymotion.com/video/x7mxymy #
 #EXTINF:-1 tvg-logo="https://operator-front-static-cdn.winamax.fr/img/style/v2/common/logo-highlight.png" group-title="",Winamax TV (DM)
