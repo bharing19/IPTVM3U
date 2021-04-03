@@ -516,6 +516,9 @@ plugin://script.module.7of9-live/play/454/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="",BET
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="",BET Film
+https://www.streamaway.net/fra/bet/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Bet-fr.php
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM Business FR" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -738,6 +741,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d5fcacea0e798f
 
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery France" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery France
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1ec60f941fb6135.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-id="France" tvg-name="Discovery France" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery France (OPT-2)
+https://www.streamaway.net/fra/disco/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Discovery-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery FR" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery FR (TT)
 plugin://script.module.7of9-live/play/763/play.pvr
@@ -1179,11 +1185,17 @@ https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forw
 #EXTINF:-1 tvg-id="France" tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0123ec29b67e77e.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE (OPT-2)
+https://www.streamaway.net/fra/natgeo/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Natgeo-fr.php
+
 #EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
 plugin://script.module.7of9-live/play/764/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b43597db64072d5.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE (OPT-2)
+https://www.streamaway.net/fra/natgeowild/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Natgeowild-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/aeda67b41eae7da.m3u8|User-Agent=stream
