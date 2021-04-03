@@ -92,15 +92,15 @@ plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Brossard et de A-10 (YT)
 plugin://plugin.video.youtube/play/?video_id=OA3wCiGTXJg
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Montréal (YT)
-plugin://plugin.video.youtube/play/?video_id=BWt87RvfZw4
+plugin://plugin.video.youtube/play/?video_id=JZo1hrLTXdc
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Brossard et de A-10 (YT)
-plugin://plugin.video.youtube/play/?video_id=ZWrpcjY4TuM
+plugin://plugin.video.youtube/play/?video_id=zIPKVojgh4E
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Montréal (YT)
-plugin://plugin.video.youtube/play/?video_id=5C4Y0mXsBXs
+plugin://plugin.video.youtube/play/?video_id=riqEtMe0NMU
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",PONT ÎLE-DES-SOEURS - Caméra en direction du Pont Samuel-De Champlain (YT)
-plugin://plugin.video.youtube/play/?video_id=vGsQy_QSsxs
+plugin://plugin.video.youtube/play/?video_id=__0xPOMasYc
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BLVD. GAÉTAN-LABERGE - Caméra en direction du Pont de l'Île-des-soeurs (YT)
-plugin://plugin.video.youtube/play/?video_id=P_nKS1DfCnY
+plugin://plugin.video.youtube/play/?video_id=JP_KTXKKwKs
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
@@ -166,6 +166,10 @@ plugin://plugin.video.youtube/play/?video_id=A4Cx2hsSw9A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor,Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
+# https://www.youtube.com/channel/UCjBAKoKan7DGOHCjIdt99_w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EyyVyU.jpg" group-title="cam",Zoo de Granby (YT)
+plugin://plugin.video.youtube/play/?video_id=7YfRIkHTThQ
+
 # update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=quRgY0OduBs
@@ -185,6 +189,9 @@ plugin://plugin.video.youtube/play/?video_id=-BBjI8a_g1Y
 # https://www.youtube.com/channel/UCQ9A7p6ZCy6dFEwQ_nEYllg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAD9tzy.jpg" group-title="",Montreal/Verdun Quiet Street and Bird Feeder Cam (YT)
 plugin://plugin.video.youtube/play/?video_id=nYTGzJvbrgk
+
+#EXTINF:-1 tvg-logo="" group-title="cam",Nichoir pour mésanges à tête noire (YT)
+plugin://plugin.video.youtube/play/?video_id=VCnFUaC7oYw
 
 # https://www.youtube.com/channel/UCUioB5e7rgqjAOjJUtwme1Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usG2vgO.jpg" group-title="",Fermette Douce Sérénité (Drummondville) (YT) (Off Line)
