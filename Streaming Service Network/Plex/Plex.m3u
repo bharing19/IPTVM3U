@@ -101,7 +101,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=141&live=1&avod
 https://ign-plex.amagi.tv/amRdirect/5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MizNguN.jpg" group-title="PLEX USA",Journy
-https://vcnplex.teleosmedia.com/linear/ovation/journy/49734464-85aa-43f1-8d94-9bbef5b783b3/seglist_1080p.m3u8
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?ptoken=fy69XvFvryVAzNA9QSAk&pid=5f5132df62fe160040f26bc2&did=undefined&dnt=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaWzbl9.jpg" group-title="PLEX USA",Judge Faith
 https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/0a8de4ab-b7ba-4b63-af46-8c090ca6a9ef/0.m3u8
@@ -116,7 +116,7 @@ https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/
 https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/59c0da77-8f64-4d20-aaa9-70875a251b7c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ngA2AhP.jpg" group-title="PLEX USA",LaCorriente
-https://stream.ads.ottera.tv/cl/589fa3ba-46e0-40d1-bdf9-79d01150768a/1280x720_2300000_4.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=fy69XvFvryVAzNA9QSAk&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&custom_6=fy69XvFvryVAzNA9QSAk&custom_7=602d6608f867c4002c897e27
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsHqCfm.jpg" group-title="PLEX USA",Latido Music
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
@@ -155,7 +155,7 @@ https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/
 https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjU5YQj.png" group-title="PLEX USA",MotorVision TV
-https://stream.ads.ottera.tv/cl/5de16d19-4803-4941-85f4-d3c645d144cc/1280x720_2300000_4.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=fy69XvFvryVAzNA9QSAk&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&custom_6=fy69XvFvryVAzNA9QSAk&custom_7=603fb593a99efc002dbf90e4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w7Q899m.jpg" group-title="PLEX USA",Newsmax
 https://newsmax-plex.amagi.tv/amRdirect/5fb81660b7ad2d002dcb7335/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
@@ -212,7 +212,7 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/128
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWngh34.png" group-title="PLEX USA",Space Channel
-https://stream.ads.ottera.tv/cl/b4d1dc89-1c6c-463f-ac4d-b50a83e35745/1920x1080_3650000_5.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=xQurbo2A6QZ9ZhBryuBm&content_series=6047e0d0a3c395002decfc9a&custom4=plex&gdpr=0&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&custom_6=xQurbo2A6QZ9ZhBryuBm&custom_7=6047e0d0a3c395002decfc9a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZfJ0aLG.jpg" group-title="PLEX USA",SportsGrid
 https://sportsgrid-plex.amagi.tv/amRdirect/5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
