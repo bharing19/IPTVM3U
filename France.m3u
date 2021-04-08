@@ -640,6 +640,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fac27a6757f7f5
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
 plugin://script.module.7of9-live/play/316/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zxx5bKn.jpg" group-title="",Cartoon Network
+https://www.streamaway.net/fra/cn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CN-fr.php
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/cn.png" group-title="China",CGTN Francais
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -741,6 +744,9 @@ https://edge8.vedge.infomaniak.com/livecast/ik:dciwebcam/manifest.m3u8?spark=6f9
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="DBM TV" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="France",DBM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/chunklist_w978878932_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGKRKfo.jpg" group-title="",Disney Channel
+https://www.streamaway.net/fra/disney/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Disney-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="Disney Cinemagic" tvg-logo="https://i.imgur.com/GgT4F0w.png" group-title="France",Disney Cinemagic
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d5fcacea0e798f3.m3u8|User-Agent=stream
