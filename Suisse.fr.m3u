@@ -9,30 +9,30 @@ plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 plugin://plugin.video.youtube/play/?video_id=XfnADfPnyIE
 
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=7acNkk5EB5s
+#EXTINF:-1 tvg-id="" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (Off Line)
+plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
+#EXTINF:-1 tvg-id="" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Canal 9" tvg-logo="https://canal9.ch/wp-content/uploads/2015/01/logo-canal9-white.png" group-title="Suisse",Canal 9
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://canal9.ch/wp-content/uploads/2015/01/logo-canal9-white.png" group-title="Suisse",Canal 9
 https://edge8.vedge.infomaniak.com/livecast/ik:livehd/chunklist_w1977644832.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Canal 9 (OPT-2)
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Canal Alpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",Canal Alpha
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",Canal Alpha
 https://edge6.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1815884040_b2500000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",CanalAlpha Jura bernois
+#EXTINF:-1 tvg-id="" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",CanalAlpha Jura bernois
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
+#EXTINF:-1 tvg-id="" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
 https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1687245770_b1115112.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPWoyZW5kZXB1dHEyYWZ1MGh0dThzdWh0MGVzJnVJRD0wJnVOYW1lPUd1ZXN0N2UyNGI%3D&id=X9Cpe-Ig5H2MNUhiAqDF
 
 
@@ -40,13 +40,13 @@ https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele
+#EXTINF:-1 tvg-id="" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele
 https://edge8.vedge.infomaniak.com/livecast/latele2/chunklist_w1798460365.m3u8
-#EXTINF:-1 tvg-id="Suisse" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele (OPT-2)
+#EXTINF:-1 tvg-id="" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele (OPT-2)
 http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Leman Bleu" tvg-logo="http://www.lemanbleu.ch/Htdocs/Images/ico/apple-touch-icon-144x144-precomposed.png" group-title="Suisse",Leman Bleu
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="http://www.lemanbleu.ch/Htdocs/Images/ico/apple-touch-icon-144x144-precomposed.png" group-title="Suisse",Leman Bleu
 https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w1332987521_b2000000.m3u8
 
 # update link : #
@@ -54,14 +54,17 @@ https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w1332987521_b2000
 https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w2097806596_b3000000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="MAXTV" tvg-logo="https://dieutv.com/img/maxtvlogo.png" group-title="Suisse",MAXTV
+#EXTINF:-1 tvg-id="" tvg-name="MAXTV" tvg-logo="https://dieutv.com/img/maxtvlogo.png" group-title="Suisse",MAXTV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w862344050_b3000000.m3u8
-#EXTINF:-1 tvg-id="Suisse" tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV (OTP-2)
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV (OTP-2)
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="",Parlement Suisse
+https://pd-l-p.akamaized.net/pd/ngrp:NR-O_all/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="",RadioCosmicDelights (TWITCH)
 plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
@@ -75,36 +78,36 @@ https://edge6.vedge.infomaniak.com/livecast/ik:rtn/manifest.m3u8?spark=e039367a-
 https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1184035176_b819678.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0NDkxNQ%3D%3D&id=5fgjM3MRxl_hsHCcAqDK
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Telebasel" tvg-logo="https://telebasel.ch/wp-content/uploads/2015/12/cropped-tb_fav_icon-180x180.png" group-title="Suisse",Telebasel
+#EXTINF:-1 tvg-id="" tvg-name="Telebasel" tvg-logo="https://telebasel.ch/wp-content/uploads/2015/12/cropped-tb_fav_icon-180x180.png" group-title="Suisse",Telebasel
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Télébielingue" tvg-logo="https://www.telebielingue.ch/sites/all/themes/telebielingue/img/footer/logos/telebielingue-neg.png" group-title="Suisse",Télébielingue
+#EXTINF:-1 tvg-id="" tvg-name="Télébielingue" tvg-logo="https://www.telebielingue.ch/sites/all/themes/telebielingue/img/footer/logos/telebielingue-neg.png" group-title="Suisse",Télébielingue
 https://edge3.vedge.infomaniak.com/livecast/ik:telebielinguech/chunklist_w1960722328.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="TVM3" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Suisse",TVM3
+#EXTINF:-1 tvg-id="" tvg-name="TVM3" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Suisse",TVM3
 https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w191085829.m3u8
 
-#EXTINF:-1 tvg-id="Suisse" tvg-name="TVM3" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Suisse",TVM3 (OPT-2)
+#EXTINF:-1 tvg-id="" tvg-name="TVM3" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Suisse",TVM3 (OPT-2)
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
+#EXTINF:-1 tvg-id="" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
 
-#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT)
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT)
 plugin://script.module.7of9-live/play/689/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT)
 plugin://script.module.7of9-live/play/690/play.pvr
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
 
 #########
-#EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV
@@ -130,6 +133,12 @@ http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (TWITCH)
 plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
+
+# https://www.handelsregister.tv/ https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT)
+plugin://plugin.video.youtube/play/?video_id=lAHXFa7cAfg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=522040568&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
@@ -204,7 +213,7 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w104167
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT)
-plugin://plugin.video.youtube/play/?video_id=rQ1F0wMqNRs
+plugin://plugin.video.youtube/play/?video_id=qaTcF9n-8Mw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
 http://176.10.117.3:5000/play/a03t
@@ -228,6 +237,10 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 
+# https://www.twitch.tv/telecasino/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrhhcLy.png" group-title="",Telecasino (TWITCH)
+plugin://plugin.video.twitch/?channel_id=203720615&amp;mode=play
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFbgNNm.png" group-title="Zwitserland",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
@@ -240,7 +253,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq
 
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.152.0/tvo/device-icons/512x512.png" group-title="",TVO
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSWC4r9.png" group-title="",TVO (OPT-2)
 http://176.10.117.3:5000/play/a03s
 
