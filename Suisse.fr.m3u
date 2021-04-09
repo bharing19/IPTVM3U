@@ -8,9 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBfBtGk.jpg" group-title="",24/7 LIVE | Webcams (YT)
 plugin://plugin.video.youtube/play/?video_id=XfnADfPnyIE
 
-# update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
-#EXTINF:-1 tvg-id="" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
+
 
 # update link : #
 #EXTINF:-1 tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
@@ -257,15 +255,20 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h4
 http://176.10.117.3:5000/play/a03s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEzsCqj.jpg" group-title="",Wetter.tv
-http://176.10.117.3:5000/play/a03i
+https://streaming.meteonews.net/hls/stream.m3u8
+#http://176.10.117.3:5000/play/a03i
 
 ######
 
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Update needed[/COLOR]★★★★★★★★★★
 
+# update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
+#EXTINF:-1 tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
+
 # https://sportalhd.com/all/live #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
-https://content.jwplatform.com/manifests/DugFggiJ.m3u8
+https://content.jwplatform.com/manifests/P5TFfacV.m3u8
 #http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
 #########
