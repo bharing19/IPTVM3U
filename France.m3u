@@ -525,44 +525,48 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="",BET Film
 https://www.streamaway.net/fra/bet/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Bet-fr.php
 
-# update link : #
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM Business FR" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business
-https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM Business FR" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business (OPT-2)
+# update link : # https://www.bfmtv.com/economie/en-direct/
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/bfmbusiness-655624/hls/index.m3u8
 
-# update link : #
+# update link : # https://www.bfmtv.com/paris/en-direct/
 #EXTINF:-1 tvg-id="France"  tvg-name="BMF Paris" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="France",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="France"  tvg-name="BMF Paris" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="France",BFM Paris (OPT-2)
-http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
 
 # update link : #
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV
-https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (opt-2)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/b0486ae3ca4147b0953f02e67e80ac8d/chunklist_ssaiV.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (opt-2)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8da1f52e0afa88f.m3u8|User-Agent=stream
 # update link : https://www.dailymotion.com/BFMTV #
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (DM) (OPT-3)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (DM) (OPT-3)
 plugin://plugin.video.dailymotion_com/?url=xgz4t1&mode=playLiveVideo
 
 # update link :https://www.youtube.com/channel/UCXwDLMDV86ldKoFVc_g8P0g #
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (opt-4) 
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (opt-4) 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/bfmtvlive-103182/hls/index.m3u8
 #plugin://plugin.video.youtube/play/?video_id=fjaT5H2abcU
 
-# update link : #
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="France",BFM Lille
+# update link : # https://www.bfmtv.com/grand-lille/en-direct/
+#EXTINF:-1  tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="France",BFM Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8
 
-# update link : #
+# update link : # https://www.bfmtv.com/lyon/en-direct/
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="France",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="France",BFM Lyon (OPT-2)
-http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?sd=10&rebase=on
 
-# update link : #
+
+# update link : # https://www.bfmtv.com/grand-littoral/en-direct/
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/Dk0rx4M/grand-littoral.png" group-title="France",BFM Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w1683899868_b1464000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIE2Zh6.png" group-title="France",Big Name
@@ -1316,7 +1320,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+https://www.streamaway.net/fra/rmcd/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMC-decouverte.php
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/cnTi1XC.png" group-title="France",RMC Sport 1 (TT)
 plugin://script.module.7of9-live/play/598/play.pvr
