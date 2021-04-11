@@ -161,10 +161,10 @@ https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24 (OFFLINE)
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhWg6C4.png" group-title="",QS24 (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhWg6C4.png" group-title="",QS24 (OPT-2) (OFFLINE)
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 
 # https://www.musig24.tv/ #
@@ -221,15 +221,19 @@ https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GX9LVu.png" group-title="",tele1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GX9LVu.png" group-title="",tele1 (OPT-2)
+https://klive.kaltura.com/env/cluster-1-b.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/1/t/U3g5Df_t2p_bEp-8Rc9OCg/index-s32.m3u8
 
+# https://www.telem1.ch/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="",Tele M1 HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/UZB_yHZMgWipb99qSGaXjQ/index-s32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn
+# https://www.telebaern.tv/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OFFLINE)
 https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-2) (OFFLINE)
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-3)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-3) (OFFLINE)
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",TeleBielingue
