@@ -23,9 +23,9 @@ https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (UPD)
-https://51-222-108-199.bestserver.online:5052/live14/9bKiYNveZxZT4qs8_7CvnQ/133100/1618265344/2054468.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
+https://51-161-86-100.bestserver.online:5052/live17/n5vyHHKJkG16LO8Y7Z76YQ/133100/1618438878/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions (UPD)
-https://51-222-108-199.bestserver.online:5052/live13/PLyd9l3Wwtz5nnFSBTvftQ/133100/1618265391/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
+https://51-161-86-100.bestserver.online:5052/live13/MZX-TrWzFLa1LGqj_wzusA/133100/1618438925/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
 
 
 
@@ -49,9 +49,9 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Station%20QC/NOOVO.png?raw=true" group-title="Quebec TV",Noovo (V-Tele)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+0.0.0.0
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Station%20QC/NOOVO.png?raw=true" group-title="Quebec TV",Noovo (V-Tele) (Audio)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/audio_0_fra/audio_0_fra.m3u8
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000001/716cf4c845225692/manifest.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="Quebec TV",ICI RDI 
