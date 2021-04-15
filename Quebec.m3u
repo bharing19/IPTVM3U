@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/04/08
+#EXTINF:-1 tvg-logo="nologo.png",Update 21/04/15
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Test autre a venir[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Test UPD = Stream Instable[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
