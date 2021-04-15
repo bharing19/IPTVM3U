@@ -828,8 +828,11 @@ https://chai5she.cdn.dvmr.fr/bfmtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuu9AWy.png" group-title="",DIRECT FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdP5kWP.png" group-title="",DIRECT FM Metz 
 https://directfm.ice.infomaniak.ch/directfm-128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdP5kWP.png" group-title="",DIRECT FM Nancy
+httpS://directfm-nancy.ice.infomaniak.ch/directfm-nancy-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qyTv4Cg.jpg" group-title="",Europe1
 https://ais-live.cloud-services.paris/europe1.mp3
