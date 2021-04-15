@@ -585,6 +585,24 @@ https://listen.radioking.com/radio/75868/stream/113899
 
 #############
 
+# https://www.radio-mrg.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QaSuVpG.png" group-title="",★★★★★★★★★★Radio MRG★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/587zKVy.jpg" group-title="",Radio MRG - Funk
+http://flux.radio-mrg.com:8888/Funk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WsR0op.png" group-title="",Radio MRG - Gold
+http://flux.radio-mrg.com:8888/Gold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVn7bql.png" group-title="",Radio MRG - Hits
+http://flux.radio-mrg.com:8888/MRG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60CWaVH.png" group-title="",Radio MRG - Lounge
+http://flux.radio-mrg.com:8888/Lounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtEHl5T.png" group-title="",Radio MRG - Millenium
+http://flux.radio-mrg.com:8888/Millenium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8s7YqR.png" group-title="",Radio MRG - Rock
+http://flux.radio-mrg.com:8888/Rock
+
+#############
+
 # https://www.radiofg.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9pHpXV.jpg" group-title="",★★★★★★★★★★RadioFG★★★★★★★★★★
 0.0.0.0
