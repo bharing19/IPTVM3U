@@ -489,8 +489,19 @@ plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur VAR (DM)
 plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="",BBlack-africa	
+https://edge8.vedge.infomaniak.com/livecast/bblackafrica/chunklist_w2121971628.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa (OPT-2)
 http://connectiktv.ddns.me:8080/bblack/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q8AbwQW.png" group-title="",BBlack-caribbean
+https://edge8.vedge.infomaniak.com/livecast/bblackcaribbean/chunklist_w2146528584.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pudkxwh.png" group-title="",BBlack-classic
+https://edge8.vedge.infomaniak.com/livecast/bblackclassik/chunklist_w620926095.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
 https://www.streamaway.net/fra/bein1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport1-fr.php
