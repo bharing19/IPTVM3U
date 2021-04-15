@@ -5,7 +5,7 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 #EXTINF:-1 tvg-logo="nologo.png",Update 21/04/15
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Test UPD = Stream Instable[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Nouveaute[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
@@ -21,11 +21,13 @@ https://www.streamaway.net/fra/canal-vie/tracks-v1a1/mono.m3u8|Referer=https://w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Scr6Tl.png" group-title="*",CASA
 https://www.streamaway.net/fra/casa/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Casa-qc.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions (UPD)
-https://51-161-15-27.bestserver.online:5052/live13/vm6GpzRI6HjBm3dT7Ow1Fg/133100/1618476319/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/elle.fictions.ca.m3u8
+#https://51-161-15-27.bestserver.online:5052/live13/vm6GpzRI6HjBm3dT7Ow1Fg/133100/1618476319/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="*",Evasion (UPD)
-https://51-222-43-89.bestserver.online:5052/live17/4fkZEYXb_LNbQOHUfLrMYg/133100/1618475954/2026521.m3u8|Referer=https://www.streamaway.net/fr/Evasion-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="*",Evasion
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/evasion.ca.m3u8
+#https://51-222-43-89.bestserver.online:5052/live17/4fkZEYXb_LNbQOHUfLrMYg/133100/1618475954/2026521.m3u8|Referer=https://www.streamaway.net/fr/Evasion-qc.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbjJeY0.jpg" group-title="*",Frissons TV
 https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frissons-qc.php
@@ -33,8 +35,9 @@ https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="*",Historia
 https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Historia-qc.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (UPD)
-https://51-161-86-100.bestserver.online:5052/live17/bWocp3Nul9Beey4YIEUWlg/133100/1618476903/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/artv.ca.m3u8
+#https://51-161-86-100.bestserver.online:5052/live17/bWocp3Nul9Beey4YIEUWlg/133100/1618476903/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nbvSBw.jpg" group-title="*",Investigation
 https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Investigation.php
@@ -42,8 +45,9 @@ https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="*",LCN
 https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/LCN.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="*",Prise 2 (UPD)
-https://51-222-108-114.bestserver.online:5052/live14/3kXCfd1Bf5ZnIqAxVSPK8A/133100/1618476229/2054451.m3u8https://www.streamaway.net/fr/Prise2-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="*",Prise 2
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/prise.2.ca.m3u8
+#https://51-222-108-114.bestserver.online:5052/live14/3kXCfd1Bf5ZnIqAxVSPK8A/133100/1618476229/2054451.m3u8https://www.streamaway.net/fr/Prise2-qc.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAVSsZA.png" group-title="*",RDS
 https://www.streamaway.net/fra/rds/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS.php
@@ -75,8 +79,9 @@ https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="*",TVA Sports
 https://www.streamaway.net/fra/tvasp/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TVAsp.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="*",TVA Sports 2 (UPD)
-https://38-91-57-11.bestserver.online:5052/live16/Y5oBhIjS_NWNaZxGkae5CA/133100/1618476838/3014355.m3u8|Referer=https://www.streamaway.net/fr/TVAsp2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="*",TVA Sports 2
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/tva.sports.2.ca.m3u8
+#https://38-91-57-11.bestserver.online:5052/live16/Y5oBhIjS_NWNaZxGkae5CA/133100/1618476838/3014355.m3u8|Referer=https://www.streamaway.net/fr/TVAsp2.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="*",Vrak
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
