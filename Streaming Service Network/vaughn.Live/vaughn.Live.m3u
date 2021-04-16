@@ -275,6 +275,9 @@ https://stream-cdn.vaughnsoft.net/play/live_fiftyonefiftyfm.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/foolsfoxtv_320.jpg" group-title="Mixed",foolsfoxtv
 https://stream-cdn.vaughnsoft.net/play/live_foolsfoxtv.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/four2021_320.jpg" group-title="News",four2021
+https://stream-cdn.vaughnsoft.net/play/live_four2021.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/franky_eyes2_320.jpg" group-title="Mixed",franky_eyes2
 https://stream-cdn.vaughnsoft.net/play/live_franky_eyes2.flv
 
