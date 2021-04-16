@@ -21,6 +21,19 @@ plugin://plugin.video.twitch/?channel_id=192354183&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (YT)
 plugin://plugin.video.youtube/play/?video_id=7jH535uXB74
 
+# https://www.theta.tv/blockdown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuh6NJS.png" group-title="",Blockdown
+https://live2-slivertv.akamaized.net/hls/live/2016082/hls_streamer_europe_0058/playlist.m3u8
+
+# https://www.theta.tv/badcrypto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsTgnal.jpg" group-title="",Badcrypto
+https://live3-slivertv.akamaized.net/hls/live/2016040/hls_streamer_us_east_0091/playlist.m3u8
+
+# https://www.theta.tv/saltywhitefolks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W57O9VQ.jpg" group-title="",Saltywhitefolks
+https://live3-slivertv.akamaized.net/hls/live/2016020/hls_streamer_us_east_0071/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg Global Financial News (YT)
 plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
 
