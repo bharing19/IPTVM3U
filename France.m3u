@@ -7,8 +7,75 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]TEST UPD Chaque jours[/COLOR]★★★★★★★★★★
+0.0.0.0
 
+# https://www.stream4free.live/tv-live-france
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhGcEWV.png" group-title="",Stargate
+https://sv2.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/stargate.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUxBipf.jpg" group-title="",Kaamelott
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/kaamelott.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBjQ7oR.jpg" group-title="",Southpark
+https://sv2.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/southpark-fr.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2fTECX.jpg" group-title="",Simpsons
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/simpsonsfr.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Krx7UhX.jpg" group-title="",Dragonball-dbz
+https://sv2.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/sangoku.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIyoYLI.jpg" group-title="",H Intégrale
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/hintegrale.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMrRXDG.jpg" group-title="",L'Univers
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/lunivers.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIJNVYI.jpg" group-title="",Special Investigation
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/specialinvest.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d09vKij.jpg" group-title="",TV Sciences
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/scientifique.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiz2ls3.jpg" group-title="",Nature HD
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/naturehd.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZZmZVG.jpg" group-title="",Camera Café
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/cameracafe.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Re8NuuH.jpg" group-title="",Enquete Exclusive
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/enquetexclusive.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNY4jSW.jpg" group-title="",Soda
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/soda.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pZ0dXX.jpg" group-title="",J irai dormir chez vous
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/antoine.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiVuY8H.jpg" group-title="",TV Replay
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/nanar-replay.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pV2q64A.jpg" group-title="",Man VS Wild
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/manvswild.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFIpVcK.jpg" group-title="",Divers Docs
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/divers.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U44UAnG.jpg" group-title="",Finance et Mondialisme
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/mondialisation.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaqCJrH.jpg" group-title="",Un Gars Une fille
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/ungarsunefille.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geUImZV.jpg" group-title="",Family Guy
+https://sv2.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/familyguyfr.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCnQGCD.jpg" group-title="",Futurama
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/futurama-fr.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmQf8gK.jpg" group-title="",That 70 Show
+https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/70show.m3u8|User-Agent=stream
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]Nouveautes[/COLOR]★★★★★★★★★★
