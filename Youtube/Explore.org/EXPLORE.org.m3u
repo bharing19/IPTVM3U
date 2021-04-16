@@ -5,6 +5,10 @@
 0.0.0.0
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Raven Nest Cam - Churchill, Wapusk National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=A4Z4ZPyEWuY
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sage Grouse Lek Cam (YT)
 plugin://plugin.video.youtube/play/?video_id=v-Wm3-wa53M
 
@@ -24,7 +28,7 @@ plugin://plugin.video.youtube/play/?video_id=_eggY8kTTLI
 plugin://plugin.video.youtube/play/?video_id=2t3WRyZlYjU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Tundra Connections Live Q&A Session (YT)
-plugin://plugin.video.youtube/play/?video_id=n_TrNNdiYTk
+plugin://plugin.video.youtube/play/?video_id=jiG2g-TJfuY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Pasture at Farm Sanctuary (YT)
 plugin://plugin.video.youtube/play/?video_id=Ru1E_hSKPLU
