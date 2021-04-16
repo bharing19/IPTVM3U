@@ -12,6 +12,9 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="*",Addik TV
 https://www.streamaway.net/fra/addiktv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Addiktv.php
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/ami.tl.ca.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="*",Canal D
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
 
@@ -48,6 +51,12 @@ https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.str
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="",Max
 https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/max.ca.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPKvgMs.png",Moi&Cie
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/moi.et.compagnie.ca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kElaShj.jpg" group-title="",Noovo
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/noovo.vtele.ca.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="*",Prise 2
 https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/prise.2.ca.m3u8
 #https://51-222-108-114.bestserver.online:5052/live14/3kXCfd1Bf5ZnIqAxVSPK8A/133100/1618476229/2054451.m3u8https://www.streamaway.net/fr/Prise2-qc.php
@@ -57,6 +66,9 @@ https://www.streamaway.net/fra/rds/tracks-v1a1/mono.m3u8|Referer=https://www.str
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA8meS2.jpg" group-title="*",RDS 2
 https://www.streamaway.net/fra/rds2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS2.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="",Serie+
+https://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/series.ca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="*",Super Écran 1
 https://www.streamaway.net/fra/superecran1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Superecran1.php
