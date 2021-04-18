@@ -746,7 +746,7 @@ http://217.114.200.100/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radioquebec.biz/images/img_2.jpg" group-title="",RADIO BIZZZ METAL Quebec
 http://91.121.162.224:9012/stream/;
 
-#EXTINF:-1 tvg-logo="http://www.radioquebec.biz/1950/images/photo0.jpg" group-title="",Radio Bizzz 1950a1999.ca
+#EXTINF:-1 tvg-logo="http://www.radioquebec.biz/1950/images/photo0.jpg" group-title="",Radio Bizzz
 http://94.23.26.193:9046/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSYRetL.jpg" group-title="",Radio Country Courcelles
@@ -831,3 +831,28 @@ https://s7.voscast.com:10567/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbqXFzX.png" group-title="",104.5 FM Montreal
 https://s2.voscast.com:7387/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km1jqfS.jpg" group-title="",CHNC FM
+http://stream02.ustream.ca:8000/cjrg32.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km1jqfS.jpg" group-title="",CHNC FM 106.7 Rivière-au-Renard
+https://stream2.statsradio.com:8098/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadQ13z.jpg" group-title="",CKIE Info Radio 88.1 FM Victoriaville
+http://slmusic.info:9984/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTIHQqA.png" group-title="",Radio VM 89.9 FM Trois-Rivieres
+https://s5.radio.co/sec326ff8a/listen
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxRlOEr.png" group-title="",CHYZ Radio Campus Laval  94.3 FM
+http://ecoutez.chyz.ca:8000/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSorW6L.jpg" group-title="",Kebeka Liberata - La radio de la Nouvelle-France libre WebRadios
+http://usa3.fastcast4u.com:5040/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srh7D1t.jpg" group-title="",Le Disque WebRadios
+http://95.154.196.33:39154/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmyXh5v.png" group-title="",Rcmv Radio WebRadios
+https://stream.hosting-quebec.ca/radio/8000/radio.mp3
+
