@@ -78,7 +78,7 @@ https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14
 https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14702c292d5777/hls/70show.m3u8|User-Agent=stream
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]Nouveautes[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]Pluto TV Francais[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Séries",CATFISH TV
@@ -522,16 +522,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="France",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (TT) 
-plugin://script.module.7of9-live/play/327/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte 
+#EXTINF:-1 tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-2)
+#EXTINF:-1 tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-2)
 https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (OPT-3)
+#EXTINF:-1 tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (OPT-3)
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTINF:-1  tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (TT) 
+plugin://script.module.7of9-live/play/327/play.pvr
 
 # update link : http://www.freeintertv.com/view/id-1156/ #
 #EXTINF:-1 tvg-id="France" tvg-name="ArtPla TV" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/138_medium.png" group-title="France",ArtPla TV
@@ -1257,6 +1255,9 @@ plugin://plugin.video.dailymotion_com/?url=x5ddv09&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WiHXh7.jpg" group-title="France",Movies Central
 https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GV2LAIb.jpg" group-title="",Movie Central (OPT-2)
+https://www.streamaway.net/fra/movie-central/3000.m3u8|Referer=https://www.streamaway.net/fr/Movie-central.php
+
 #EXTINF:-1 tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="",MOUV' - TA RADIO HIP HOP (DM)
 plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
 
@@ -1287,30 +1288,35 @@ https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forw
 
 #EXTINF:-1 tvg-id="France" tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0123ec29b67e77e.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE (OPT-2)
+#EXTINF:-1 tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE (OPT-2)
 https://www.streamaway.net/fra/natgeo/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Natgeo-fr.php
-
-#EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
+#EXTINF:-1 ttvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
 plugin://script.module.7of9-live/play/764/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE
+#EXTINF:-1 tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b43597db64072d5.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE (OPT-2)
+#EXTINF:-1 tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE (OPT-2)
 https://www.streamaway.net/fra/natgeowild/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Natgeowild-fr.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC
+#EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/aeda67b41eae7da.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC (OPT-2)
+https://www.streamaway.net/fra/ocsch/index.m3u8|Referer=https://www.streamaway.net/fr/OCSchoc-fr.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY
+#EXTINF:-1 tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/05e383709325657.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY (OPT-2)
+https://www.streamaway.net/fra/ocsc/index.m3u8|Referer=https://www.streamaway.net/fr/OCScity-fr.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
+#EXTINF:-1 tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR
+https://www.streamaway.net/fra/ocsg/index.m3u8|Referer=https://www.streamaway.net/fr/OCSgeants-fr.php
+#EXTINF:-1 tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
 plugin://script.module.7of9-live/play/319/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f1bc54bef587190.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX (OPT-2)
+https://www.streamaway.net/fra/ocsm/index.m3u8|Referer=https://www.streamaway.net/fr/OCSmax-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="OLTV HD" tvg-logo="https://i.imgur.com/fc19kCV.png" group-title="France",OLTV HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/53882f0443a0f68.m3u8|User-Agent=stream
