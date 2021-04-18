@@ -42,7 +42,7 @@ https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14
 https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14702c292d5777/hls/naturehd.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZZmZVG.jpg" group-title="",Camera Café
-https://sv4.data-stream.top/ec8494e155611bae3125ea60fb6aed95b52ee73d462ab70e562361538ce12435/hls/cameracafe.m3u8|User-Agent=stream
+https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14702c292d5777/hls/cameracafe.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Re8NuuH.jpg" group-title="",Enquete Exclusive
 https://sv4.data-stream.top/6e388f5c0ce3d302c7896b467c4fa1fa84933c5c268586cfdd14702c292d5777/hls/enquetexclusive.m3u8|User-Agent=stream
