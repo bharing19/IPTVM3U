@@ -7,6 +7,10 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j1EDb0.jpg" group-title="",DIRECT MONZA - QUALIFICATION- FANATEC GT WORLD CHALLENGE FRENCH (YT)
+plugin://plugin.video.youtube/play/?video_id=zmxBq_8Q7i
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]TEST UPD Chaque jours[/COLOR]★★★★★★★★★★
 0.0.0.0
 
@@ -350,6 +354,10 @@ plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="",POCOYO FRANÇAIS (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=PIopoQvCdG8
+
+# https://www.youtube.com/channel/UCRwOa76W_4rQlPD4fvn_ydQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgFGuzK.jpg" group-title="",Police Action 24/24 (YT)
+plugin://plugin.video.youtube/play/?video_id=7if3V2X8Gdo
 
 # https://www.youtube.com/channel/UCnWWi51HAmGJEyoPNynPVvA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWCiTld.jpg" group-title="",Power Rangers  (YT) (UPD)
