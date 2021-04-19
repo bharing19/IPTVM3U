@@ -8,7 +8,20 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff7qiyL.jpg" group-title="",US National Debt Clock LIVE (YT)
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Crafts
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Facebook
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Fight
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Funny
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Sport
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic TikTok
+http://cdn.tvmatic.net/tiktok.m3u8
 
 #########
 
