@@ -1,5 +1,38 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wr4Exr7.png" group-title="",Bitwave.tv
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aG8uhRi.png" group-title="",playlistbot9k
+https://cdn.stream.bitrave.tv/hls/playlistbot9k/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1YOWB0f.png" group-title="",KekSec
+https://cdn.stream.bitwave.tv/hls/KekSec/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXl9C3j.jpg" group-title="",Arthur_Fleck
+https://cdn.stream.bitwave.tv/hls/Arthur_Fleck/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71ltYN6.png" group-title="",adolfkitler
+https://cdn.stream.bitwave.tv/hls/adolfkitler/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxS9h8m.jpg" group-title="",freakbeatsteknoradio
+https://cdn.stream.bitwave.tv/hls/freakbeatsteknoradio/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95eUpGz.png" group-title="",MegaRadio
+https://cdn.stream.bitrave.tv/hls/MegaRadio/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWMlIDE.png" group-title="",Happening.Center
+https://cdn.stream.bitwave.tv/hls/Happening.Center/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fbgnb4E.jpg" group-title="",Hendrik
+https://cdn.stream.bitwave.tv/hls/Hendrik/index.m3u8|Referer=https://bitwave.tv/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auTVlDl.jpg" group-title="",CodComedyTJ247
+https://cdn.stream.bitwave.tv/hls/CodComedyTJ247/index.m3u8|Referer=https://bitwave.tv/
+
+########
+
+
 # https://www.youtube.com/channel/UCxhF3EUzP28b_rVhdXFKWzw
 #EXTINF:-1 tvg-logo="" group-title="",TOP100 WORLD POPULATION LIVE (YT)
 plugin://plugin.video.youtube/play/?video_id=BnyBWOR5peI
@@ -33,6 +66,13 @@ https://live3-slivertv.akamaized.net/hls/live/2016040/hls_streamer_us_east_0091/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W57O9VQ.jpg" group-title="",Saltywhitefolks
 https://live3-slivertv.akamaized.net/hls/live/2016020/hls_streamer_us_east_0071/playlist.m3u8
 
+# https://www.nimo.tv/live/1049395500
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBo6u4q.jpg" group-title="",TheOtterFM
+https://tx.flv.nimo.tv/live/su1939514102053rdf2a0aa1994b3fcf3f78efee9bf53a32.flv
+
+# https://www.nimo.tv/live/1563901443 https://www.twitch.tv/tronlabs_io
+#EXTINF:-1 tvg-logo="" group-title="",Tronlabs.io
+https://tx.flv.nimo.tv/live/su1939514102677r3d40f3c7a9b657543a718e7d5791f0ec.flv
 
 #EXTINF:-1 tvg-logo="" group-title="",Bloomberg Global Financial News (YT)
 plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
