@@ -678,6 +678,9 @@ https://stream-cdn.vaughnsoft.net/play/live_rubberchickens.flv
 
 ##S##
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/shalomstream_320.jpg" group-title="Mixed",shalomstream
+https://stream-cdn.vaughnsoft.net/play/live_shalomstream.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/shibby04_320.jpg" group-title="",shibby04
 https://stream-cdn.vaughnsoft.net/play/live_shibby04.flv
 
@@ -715,6 +718,9 @@ https://stream-cdn.vaughnsoft.net/play/live_survivalnetwork9.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/tartantv_320.jpg" group-title="Mixed",tartantv (7.30pm to 10pm UKT.  Not on Wednesday or Sunday)
 https://stream-cdn.vaughnsoft.net/play/live_tartantv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/tech_corner_320.jpg" group-title="Mixed",Tech_Corner
+https://stream-cdn.vaughnsoft.net/play/live_tech_corner.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/thegreatchallenger_320.jpg" group-title="Animes",thegreatchallenger
 https://stream-cdn.vaughnsoft.net/play/live_thegreatchallenger.flv
