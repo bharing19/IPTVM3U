@@ -291,6 +291,9 @@ plugin://plugin.video.youtube/play/?video_id=B0a6TvoOHeQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH)  (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=137988294&amp;mode=play
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH)
+plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
+
 # https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="",RadioTalbot (TWITCH) (Mardi @ Jeudi . 20h00)
 plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
