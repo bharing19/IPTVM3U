@@ -1,3 +1,0 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://tv.nknews.org/tvdash/stream.mpd
