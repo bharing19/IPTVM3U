@@ -169,6 +169,58 @@ https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
 
 #########
 
+#EXTINF:-1,Gusto
+https://gusto-klowd.amagi.tv/playlist.m3u8
+#EXTINF:-1,The First
+https://thefirst-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bein Xtra ESP
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Demand Africa
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dark Matter
+https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,HNC Free
+https://hncfree-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redseat The first
+https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,BeinXtra
+https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Buzzr
+https://buzzr-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,NewsMax
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bamus
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,ESTV
+https://estv-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,AWE
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1,Fido
+http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
+#EXTINF:-1,GSN
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+#EXTINF:-1,OAN
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1,QVC
+http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
+#EXTINF:-1,QVC+
+http://n1.klowdtv.net/live3/qvcplus_720p/chunks.m3u8
+#EXTINF:-1,POP
+http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
+#EXTINF:-1,Classic Rerun TV (Geo)
+https://classicreruntv-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,FantaWild (Geo)
+https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Samuel Goldwyn Classic (Geo)
+https://samuelgoldwyn-classic-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Samuel Goldwyn Films (Geo)
+https://samuelgoldwyn-films-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuse XL (Geo)
+https://fusexl-klowdtv.amagi.tv/playlist.m3u8
+
+#########
 #EXTINF:-1,Con TV -TCL
 https://contv-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1,Con TV Anime -TCL
@@ -2499,8 +2551,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",NYXT
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OANN One America News Network
-http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Local",Olelo 54
 https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Local",Olelo 55
