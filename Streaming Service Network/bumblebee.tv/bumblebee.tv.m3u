@@ -5,6 +5,11 @@
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="",★★★★★★★★★★[COLOR yellow]BumblebeeTV[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fautomoto.png?w=80&h=45&fit=fit&blur=0&ixlib=js-1.2.0&s=2b76911fbfdbc03392023b5fa8dcc9c1" group-title="bumblebee.tv",AutoMoto
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w485262790.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Fpopcornflixlive%2Flogo%2F2c2888fd-01b8-447d-8f03-8811a343422f?w=80&h=45&fit=fit&blur=0&ixlib=js-1.2.0&s=d05e5cc69e71d25d2e922efcf87df487" group-title="bumblebee.tv",PopCornFlix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w568759878.m3u8
@@ -198,11 +203,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/
 #############
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",----OFFLINE Channel----
 0.0.0.0.0
-
-
-#EXTINF:-1 tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fautomoto.png?w=80&h=45&fit=fit&blur=0&ixlib=js-1.2.0&s=2b76911fbfdbc03392023b5fa8dcc9c1" group-title="bumblebee.tv",AutoMoto
-https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w485262790.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Delicious TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9529aa932c837b493972cb/playlist.m3u8
