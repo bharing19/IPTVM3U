@@ -136,6 +136,9 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 720
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="resource://resource.images.catchuptvandmore/channels/ca/telemag.png" group-title="Canada",Télé-Mag (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_live_url/?item_id=telemag
+
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Station%20QC/NOOVO.png?raw=true" group-title="Quebec TV",Noovo (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
