@@ -1091,8 +1091,10 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
 
 # update link : https://www.idf1.fr/live #
-#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (UPD-EXP)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1602118330~exp=1602118730~acl=/i/dclive_1@103544*~hmac=244518797774ec2f090c6c34b458878639e96e29e4e22f4909f3fa09bb72f7fd
+#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (UPD-EXP-Tk)
+0.0.0.0
+#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/idf1/get_live_url/?item_id=idf1
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
