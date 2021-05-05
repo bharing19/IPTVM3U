@@ -6,6 +6,31 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 #EXTINF:-1 tvg-logo="nologo.png",Update 21/05/01
 0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53698
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4iyCar.png" group-title="",Meteo Media (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53734
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBxk8u.jpg" group-title="*",Disney JR (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/632711
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goodtv.xyz:2052/reggie/reggie/2427635
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53732
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="",Max (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53735
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="",Serie+ (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53726
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 0.0.0.0
 
