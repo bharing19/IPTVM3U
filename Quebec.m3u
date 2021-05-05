@@ -1,14 +1,17 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/05/01
+#EXTINF:-1 tvg-logo="nologo.png",Update 21/05/05
 0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
-0.0.0.0
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53698
@@ -32,7 +35,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53726
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
-0.0.0.0
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="*",Addik TV
 https://www.streamaway.net/fra/addiktv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Addiktv.php
@@ -151,6 +154,12 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nbvSBw.jpg" group-title="*",Investigation
 https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Investigation.php
 
+# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
+plugin://plugin.video.youtube/play/?video_id=hr0l4LHjTAA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
+
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
 plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
@@ -256,7 +265,7 @@ plugin://plugin.video.youtube/play/?video_id=XMK1UaIf13w
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=pGrJb3SMn7g
+plugin://plugin.video.youtube/play/?video_id=Buza8xiMA10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="",Vrak
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
@@ -336,11 +345,7 @@ plugin://plugin.video.youtube/play/?video_id=ivx9Q1wk0Bo
 
 ########
 
-# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=Ht_wyflI6rM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH) (OFFLINE)
-plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
+
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD) (OFFLINE)
@@ -401,7 +406,7 @@ plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
 
 # https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
 EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
-plugin://plugin.video.youtube/play/?video_id=d2DEpzrOhdc
+plugin://plugin.video.youtube/play/?video_id=CRK2lnRuDHM
 
 # https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
 EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
