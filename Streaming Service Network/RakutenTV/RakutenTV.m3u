@@ -1,0 +1,240 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tgbkKXA.png" group-title="",★★★★★★★★★★[COLOR red]Rakuten TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AxQpbMp.png" group-title="",Bizzaro Movies (EU)
+https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bUjzBk.png" group-title="",Bloomberg (EU)
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2togfo.jpg" group-title="",Bloomberg Quicktake (EU)
+https://bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qhCVZw.jpg" group-title="",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bSlmkd3.png" group-title="",Cinema Segretto (EU)
+https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pk69FKO.png" group-title="",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUzqKAg.png" group-title="",CNN International (EU)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rySAnH.jpg" group-title="",Comedy Dynamics
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNjkqXw.jpg" group-title="",Destination TV (EU)
+https://makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GflbDO3.jpg" group-title="",Dry Bar Comedy (EU)
+https://drybar-drybarcomedy-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcwKVDS.jpg" group-title="",Duck TV (EU)
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aws8b8G.jpg" group-title="",Edgesports rest of the world
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBgL0Zl.png" group-title="",ESTV
+https://estv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iv8QVWA.jpg" group-title="",FailArmy International (EU)
+https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL0yru6.jpg" group-title="",Fashion TV (EU)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9560mD.jpg" group-title="",FilmStream (EU)	
+https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6PXPd9.jpg" group-title="",Froot TV (EU)
+https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbOn36t.png" group-title="",Fuel TV (EU)
+https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYD6jbl.png" group-title="",Happy Kids (EU)
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1meBKqe.jpg" group-title="",Hollywire (EU)
+https://hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pWFkPe.jpg" group-title="",iHola Play (Spain)
+https://rakuten-hola-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DgqnBLr.jpg" group-title="",Insight TV (English)
+https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DgqnBLr.jpg" group-title="",Insight TV (German)
+https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DgqnBLr.jpg" group-title="",InsightTV (Spain)
+https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUXtVna.png" group-title="",InTrouble
+https://introuble-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENAVFXW.png" group-title="",Inwonder (English)
+https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENAVFXW.png" group-title="",Inwonder (German)
+https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CR3Ok5g.png" group-title="",Kino (German)
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XEsSRo.png" group-title="",Lonestar
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrAgGhy.jpg" group-title="",LSN (EU)
+https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LOk42FP.png" group-title="",MavTV (EU)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWazNdb.jpg" group-title="",Moviesphere UK
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nAb5HRj.jpg" group-title="",Mytime (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7Cd5k.png" group-title="",People are awesome (EU)
+https://jukin-peopleareawesome-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQjjYAl.jpg" group-title="",Planeta Kidz (Spain)
+https://deaplaneta-planetakidz-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98bHB7n.jpg" group-title="",PlayWorks (EU)
+https://playworksdigital-playworks-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAS5lIk.png" group-title="",Qwest Classic
+https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEcBuBR.png" group-title="",Qwest jazz
+https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUWUGoO.png" group-title="",Qwest Mix
+https://qwestmix-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 1 (EU)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 2 (EU)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 3 (EU)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten British Films (EU)
+https://rakuten-british-films-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 1 (EU)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 2 (EU)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 3 (EU)
+https://rakuten-comedymovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 6 (EU)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 7 (EU)
+https://rakuten-comedymovies-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 1 (EU)
+https://rakuten-spotlight-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 2 (EU)
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 3 (EU)
+https://rakuten-spotlight-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 6 (EU)
+https://rakuten-spotlight-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 7 (EU)
+https://rakuten-spotlight-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 1 (EU)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 2 (EU)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 3 (EU)
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 6 (EU)
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 7 (EU)
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 1 (EU)
+https://rakuten-tvshows-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 2 (EU)
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 3 (EU)
+https://rakuten-tvshows-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 6 (EU)
+https://rakuten-tvshows-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 7 (EU)
+https://rakuten-tvshows-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WR8h4Uo.jpg" group-title="",Reuters (EU)
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gb7iV2D.jpg" group-title="",Revry (EU)
+https://revry-revry-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buxkJ99.jpg" group-title="",Revry News (EU)
+https://revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUxRT5g.jpg" group-title="",Runtime (Spain)
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCvGTNY.jpg" group-title="",Rush Street
+https://rushstreet-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTUJhMr.png" group-title="",Sofy TV
+https://sofytv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toGgyAt.png" group-title="",Tankee (EU)
+https://playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ebtgaK.jpg" group-title="",The Boatshow (EU)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dqzy1e.jpg" group-title="",The Design Network (EU)
+https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2eqlIqa.jpg" group-title="",The Pet Collective International (EU)
+https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvmiUPl.jpg" group-title="",Travel XP (EU)
+https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKXjivZ.png" group-title="",WeatherSpy (EU)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67NcJJH.jpg" group-title="",Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJCbEMl.jpg" group-title="",Young Hollywood
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1YwbMEt.png" group-title="",Zoo Moo (EU)
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+######
