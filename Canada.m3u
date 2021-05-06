@@ -431,6 +431,7 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAde1UL.png" group-title="",Nick Canada (TT1)
 plugin://plugin.video.tvone1112/play/2107/play.pvr
 
+# http://watch.northbaytv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0pvnOZf.png" group-title="",Northbay tv
 http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
