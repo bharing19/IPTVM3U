@@ -1,23 +1,26 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z6PAwPC.jpg" group-title="Samsung TV+",Samsung TV+
 0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16sJkU5.jpg" group-title="Samsung TV+",##Australia##
 0.0.0.0
-#EXTINF:-1,BLOOMBERG TV (Australia)
+#EXTINF:-1,Bloomberg TV (Australia)
 https://bloomberg-bloomberg-2-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Bloomberg Quicktake (Australia)
 https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Aus Biz TV (Australia)
 https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews (Australia)
+#EXTINF:-1,Euronews World (Australia)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Dust ANTHOLOGY (Australia)
+#EXTINF:-1,PBS America (Australia Geo)
+https://pbs-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dust (Australia)
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Made in Hollywood (Australia) (not correct source)
-https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Made in Hollywood (Australia)
+https://connection3-ent-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Failarmy (Australia)
 https://failarmy-international-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,The Pet Collective (Australia)
@@ -32,14 +35,14 @@ https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bounty Plus (Australia)
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Asylum (may not be correct source)
-https://asylum-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Filmstream (Australia)
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Outdoor Channel (Australia)
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fuel TV (Australia)
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Insight tv (Australia)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Introuble (Australia)
@@ -56,8 +59,10 @@ https://qwestmix-samsungau.amagi.tv/playlist.m3u8
 https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Qwest TV Classical (Australia)
 https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Stingray Karaoke (may not be correct source) 
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stingray Karaoke (Australia) 
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 #EXTINF:-1,Tastemade International (Australia)
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Real Stories (Australia)
@@ -66,32 +71,51 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Wonder (Australia)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Families (Australia)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Pulse TV (Australia)
 https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pet Club TV (Australia Geo)
+https://petclub-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel XP (Australia)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Gusto TV (Australia)
 https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Horse and Country (Australia)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Naturescape (may not be correct source)
-https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Naturescape (Australia)
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1,VENN (Australia)
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Smithsonian Channel (Australia)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dry Bar Comedy (Australia)
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fix and Foxi (Australia Geo)
+https://fixandfoxi-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Toon Goggles (Australia)
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Ryan and Friends (Australia)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban (Australia)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6g3KhdW.jpg" group-title="Samsung TV+",##Belgium##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Belgium) 
+https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Belgium) 
+https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Belguim)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AfricaNews
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Belgium)
+https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #####################################################################################################
 
@@ -132,16 +156,25 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://qwest-jazz-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1,Runtime (Brazil)
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,Euronews (Brazil)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Clubbing TV (Brazil) (Geo)
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,Demand Africa (Brazil) (Geo) 
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2RPOM2M.jpg" group-title="Samsung TV+",##Canada##
 0.0.0.0
+
 #EXTINF:-1,People are Awesome (Canada)
 https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,HollyWire (Canada)
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,TMZ (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1,Players TV (Canada)
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bein Sport Xtra (Canada)
@@ -192,20 +225,84 @@ https://previewchannel-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Hollywire (Canada)
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Degrassi the next generation (Canada)
+http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Haunt TV (Canada) Geo
+https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Jack Hannah Channel (Canada)
+https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nashville (Canada) Geo
+https://nashville-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,CrimeTime (Canada) Geo
+https://bamcanada-crimetime-samsungca.amagi.tv/playlist.m3u8
+
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtbb9Ci.jpg" group-title="Samsung TV+",##Denmark##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Denmark)
+https://bloomberg-bloomberg-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Denmark)
+https://bloomberg-quicktake-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Denmark)
+https://rakuten-family-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Denmark)
+https://rakuten-spotlight-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Denmark)
+https://rakuten-documentaries-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Action (Denmark)
+https://rakuten-action-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Denmark)
+https://rakuten-drama-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy (Denmark)
+https://rakuten-comedy-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Denmark)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Africanews (Denmark)
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Duck Tv (Denmark)
+https://mmm-ducktv-4-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Denmark)
+https://futuretoday-afv-family-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mavtv
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,venntv
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGf48os.jpg" group-title="Samsung TV+",##England##
 0.0.0.0
+
 #EXTINF:-1,Rakuten Action Movies (England)
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,All Drama (England)
 https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Beano TV (England)
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Big Name (England)
 https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg+ 4K (England)
+#EXTINF:-1,Bloomberg TV+ 4K (England)
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Clubbing TV (England)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN International (England)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Samsung Comedy Channel (England)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Comedy Movies (England)
@@ -260,10 +357,14 @@ https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Masters of Food (England)
 https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Mav TV (England)
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MMA TV (England)
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Movies Central (England)
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Moviesphere (England)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS America (England)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,People are Awesome (England)
@@ -302,6 +403,8 @@ https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,The Tennis Channel International (England)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Boat Show (England)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,The Pet Collective (England)
 https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Time Line (England)
@@ -316,15 +419,70 @@ https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Wonder (England)
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,The Boat Show (England)
-https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Clubbing TV (England)
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Beano TV (England)
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,CNN International (England)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Spark TV (England)
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (England)
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Unearth (England)
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Vevo Pop (England)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1,Lit (England) GEO
+https://studio1-lit-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Realcrime (England) GEO
+https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,test alt Samsung Comedy Channel (England) Geo
+https://uksono2-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dont tell Bride (England) Geo 
+https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Realwild (England) Geo
+https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Venn TV (England)
+https://venntv-samsunguk.amagi.tv/playlist.m3u8
 
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aJfQSR.jpg" group-title="Samsung TV+",##Finland##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Finland)
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Finland)
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Action (Finland)
+https://rakuten-action-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Finland)
+https://rakuten-spotlight-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy (Finland)
+https://rakuten-comedy-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Finland)
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Finland)
+https://rakuten-drama-12-fi.samsung.wurl.com/manifest//playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Finland)
+https://rakuten-documentaries-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Finland)
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AfricaNews (Finland)
+https://rakuten-africanews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Duck Tv (Finland)
+https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Finland)
+https://futuretoday-afv-family-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mavtv
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #####################################################################################################
 
@@ -369,12 +527,6 @@ https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,People are Awesome
 https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Qwest TV Classical temp uk source
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest Jazz and Beyond temp uk source
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest TV MIX temp uk source
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Sport en France (France)
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten Spotlight (France)
@@ -395,6 +547,7 @@ https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/me84eU5.jpg" group-title="Samsung TV+",##Germany##
 0.0.0.0
+
 #EXTINF:-1,Rakuten Action Movies (Germany)
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Bloomberg TV+ UHD (Germany)
@@ -421,8 +574,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Fuel TV (Germany)
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,ICarly Nick (Germany)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=406&deviceId=5e8b580a233dc90007f0cb9d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1,Insight TV (Germany)
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1,Inwonder (Germany)
@@ -449,7 +600,7 @@ https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Teletubbies (Germany)
 https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Tennis Channel Deutschland (not correct source)
+#EXTINF:-1,Tennis Channel Deutschland
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Boat Show (Germany)
 https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -459,22 +610,130 @@ https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m
 https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Xite (Germany)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Germany)
+https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPqAjyD.jpg" group-title="Samsung TV+",##India##
+0.0.0.0
+
+#EXTINF:-1,The Pet Collective (India)
+https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Inwild (India)
+https://inwild-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Inshort (India)
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real stories (India) Geo
+https://lds-realstories-samsung-india.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wonder (India) Geo
+https://lds-wonder-samsung-india.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insight TV (India)
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuel TV (India)
+https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,People are Awesome (India)
+https://jukin-peopleareawesome-2-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Real Families (India) Geo
+https://lds-realfamilies-samsung-india.amagi.tv/playlist.m3u8
+#EXTINF:-1,Timeline (India) Geo
+https://lds-timeline-samsung-india.amagi.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV (India)
+https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Go USA (India)
+https://brandusa-gousa-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tastemade (India)
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Failarmy International (India)
+http://failarmy-international-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Weatherspy (India)
+https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Inwonder (India)
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mav TV (India)
+http://mavtv-mavtvglobal-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Introuble (India)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest TV Jazz and Beyond (India)
+https://qwest-jazz-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest Tv Classical (India)
+https://qwest-classic-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest TV mix (India)
+https://qwest-mix-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Filmstream (India)
+https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,9xm (India) Geo
+https://9xm-samsungin.amagi.tv/playlist.m3u8
+#EXTINF:-1,9x Jalwa (India) Geo
+https://9xjalwa-samsungin.amagi.tv/playlist.m3u8
+#EXTINF:-1,missing Republic (India)
+https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Republic Bharat (India)
+http://ottrb23.republicworld.com/live/Rbharat/master.m3u8
+#EXTINF:-1,The Q (India) Geo
+https://qyou-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Toongoggles UNCONFIRMED may not work (India) Geo
+https://ottera-toongoogles-samsungindia.amagi.tv/playlist.m3u8
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKvSyd3.jpg" group-title="Samsung TV+",##Ireland##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Ireland)
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Ireland)
+https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Ireland)
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AfricaNews (Ireland)
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Ireland)
+https://futuretoday-afv-family-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TErMDBh.jpg" group-title="Samsung TV+",##Italy##
 0.0.0.0
-#EXTINF:-1,Big names (Italy)
+
+#EXTINF:-1,Atres Series (Italy)
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Amuse Animation (Italy)
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Big name (Italy)
 https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bizzarro Movies (Italy)
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV+ (Italy)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Brindiamo Channel (Italy)
+https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Canale Europa (Italy)
+https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,CGTV (Italy)
+https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Cinema Segreto (Italy)
+https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Classical Harmony (Italy)
 https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten Comedy Movies (Italy)
 https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Italy)
+https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Italy)
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Duck TV (Italy)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews (Italy)
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews via Alchimie (Italy)
 https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Italy)
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV (Italy)
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten Action Movies (Italy)
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Fuel TV (Italy)
@@ -483,66 +742,67 @@ https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MMA TV (Italy)
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Mondo TV Kids (Italy)
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Moods (Italy)
 https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Motor1 TV (Italy)
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,My Surf TV (Italy)
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,PBS America (uk source)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Qwest TV Classical (Italy)
+#EXTINF:-1,Qwest TV Classical uk source (Italy)
 https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest Jazz and Beyond (Italy)
+#EXTINF:-1,Qwest Jazz and Beyond uk source (Italy)
 https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest TV MIX (Italy)
+#EXTINF:-1,Qwest TV MIX uk source (Italy)
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (Italy)
+#EXTINF:-1,Sofy TV (Italy)
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sportoutdoor.tv (Italy)
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Italy)
 https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Supertoons TV (Italy)
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Teletubbies (Italy)
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Boat Show (Italy)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Pet Collective (Italy)
+https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Yamato Animation (Italy)
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Top Crimine (Italy)
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Top Series (Italy)
 https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Pet Collective (Italy)
-https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fashion TV (Italy)
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Minerva Bizzarro Movies (Italy)
-https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Minerva Cinema Segreto (Italy)
-https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Mondo Kids (Italy)
-https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (Italy)
-https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Brindia MO (Italy)
-https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Motor1 TV (Italy)
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,CG Entertainment (Italy)
-https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Teletubbies (Italy)
-https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Amuse Animation (Italy)
-https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Supertoons (Italy)
-https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg TV+ (Italy)
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Boat Show (Italy)
-https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Yamato Animation (Italy)
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,CGTV (Italy)
-https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Sofy TV (Italy)
-https://sofytv-samsungit.amagi.tv/playlist.m3u8
-#EXTINF:-1,Duck TV (Italy)
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYy8CRT.jpg" group-title="Samsung TV+",##Luxembourg##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Luxemburg)
+https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Luxemburg)
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (luxemburg)
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AfricaNews
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Luxemburg)
+https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ioRqfqC.jpg" group-title="Samsung TV+",##Mexico##
 0.0.0.0
+
 #EXTINF:-1,Bloomberg Television (Mexico)
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews (Mexico)
@@ -561,8 +821,8 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,Insight TV (Mexico) 
 https://insighttv-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Stingray Naturescape (may not be correct source)
-https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1,Demand Africa (Mexico)
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,InWonder (Mexico)
@@ -583,295 +843,488 @@ https://sabermas-samsungmexico.amagi.tv/playlist.m3u8
 https://chiquilines-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,TasteMade (Mexico)
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuel TV (Mexico)
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Dark matter (Mexico) Geo
+https://darkmatter-mex-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Clubbing TV (Mexico) Geo
+https://clubbingtv-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Butaca TV (Mexico)
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZKIbCI.jpg" group-title="Samsung TV+",##Netherland##
+0.0.0.0
+
+#EXTINF:-1,Fuel TV (Netherland)
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,People are Awesome (Netherlands)
+https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Netherlands)
+https://rakuten-family-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Netherlands)
+https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Netherlands)
+https://rakuten-spotlight-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy (Netherlands)
+https://rakuten-comedy-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Failarmy International (Netherlands)
+https://failarmy-international-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Netherlands)
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Netherland)
+https://rakuten-documentaries-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Action (Netherland)
+https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Inwonder (Netherland) Geo
+https://inwonder-samsungnl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insighttv (Netherland) Geo
+https://insighttv-samsungnl.amagi.tv/playlist.m3u8
+#EXTINF:-1,InTrouble (Netherland) Geo
+https://introuble-samsungnl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stingray Karoke (Netherland)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YYkXVcg.jpg" group-title="Samsung TV+",##Norway##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg TV (Norway)
+https://bloomberg-bloomberg-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Norway)
+https://bloomberg-quicktake-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Norway)
+https://rakuten-family-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Norway)
+https://rakuten-spotlight-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy (Norway)
+https://rakuten-comedy-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Norway)
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Norway)
+https://rakuten-documentaries-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Action (Norway)
+https://rakuten-action-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Norway)
+https://rakuten-drama-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AfricaNews (Norway)
+https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Duck Tv (Norway)
+https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Mavtv (Norway)
+https://mavtv-mavtvglobal-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Norway)
+https://futuretoday-afv-family-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,venntv
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+
+
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjyKAND.jpg" group-title="Samsung TV+",##Portugal##
+0.0.0.0
+
+#EXTINF:-1,Bloomberg (Portugal)
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Portugal)
+https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Portugal)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Portugal)
+https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNCtZPV.jpg" group-title="Samsung TV+",##Spain##
 0.0.0.0
+
+#EXTINF:-1,Rakuten Action Movies (Spain)
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Big Names (Spain)
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV+ (Spain)
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Butaca.TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Caillou
+https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Classical Harmony (Spain)
+https://alchimie-classical-harmony-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Clubbing TV (may not be correct source)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (Spain)
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Spain)
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Duck TV (Spain)
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews (Spain)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews via Alchimie (Spain)
 https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (Spain)
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (Spain)
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (Spain)
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Moods (Spain)
-https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Big Names (Spain)
-https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Humanity (Spain)
-https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Pet Collective (Spain)
-https://the-pet-collective-international-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,My Surf (Spain)
-https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Planeta Kids (Spain)
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Harmony (Spain)
-https://alchimie-classical-harmony-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV (Spain)
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Fuel TV (Spain)
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Humanity (Spain)
+https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Insight TV (may not be correct source)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,MMA TV (Spain)
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Tele Crime (Spain)
+#EXTINF:-1,Moods (Spain)
+https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,My Surf (Spain)
+https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,People are Awesome (Spain)
+https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Planeta Junior Tv (Spain)
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Sofy TV (Spain)
+https://sofytv-samsunges.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Spain)
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Supertoons TV (Spain)
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tele Crimen (Spain)
 https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Tele Drama (Spain)
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Supertoons TV (Spain)
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fashion TV (Spain)
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Pet Collective (Spain)
+https://the-pet-collective-international-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,TV Shows (Spain)
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,People are Awesome (Spain)
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Sofy TV (Spain)
-https://sofytv-samsunges.amagi.tv/playlist.m3u8
-#EXTINF:-1,Duck TV (Spain)
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg TV (Spain)
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (Spain)
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Canal Cinesverdi (Spain)
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Canal Feel good (Spain)
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Runtime (Spain)
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+#EXTINF:-1,Unearth (Spain)
+https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,El Patio (Spain)
+https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Spain)
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUg3Gvu.jpg" group-title="Samsung TV+",##Sweden##
+0.0.0.0
+
+#EXTINF:-1,The Pet Collective International (Sweden)
+https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,People are Awesome (Sweden)
+https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fuel TV (Sweden)
+https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Sweden)
+https://rakuten-family-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (Sweden)
+https://rakuten-spotlight-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Failarmy International (Sweden)
+https://failarmy-international-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Sweden)
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Sweden)
+https://rakuten-documentaries-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Action (Sweden)
+https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Drama (Sweden)
+https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy (Sweden)
+https://rakuten-comedy-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Qwest TV Classical
+https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest Mix
+https://qwestmix-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest Jazz and Beyond
+https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stingray Karaoke (Sweden)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aaj1EuO.jpg" group-title="Samsung TV+",##Usa##
 0.0.0.0
-#EXTINF:-1,Fox News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bloomberg TV+ UHD
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/SamsungTVplus_BTVplus_UHD_190x190.png?raw=true",Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg TV Quicktake
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Bloomberg_Quicktake_190x190.png?raw=true",Bloomberg TV Quicktake
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Cheddar
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/cheddar_circle_190x190.png?raw=true",Cheddar
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Yahoo! Finance
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Yahoo_finance_190x190.png?raw=true",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Newsy
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Newsy_190x190.png?raw=true",Newsy
 https://newsy.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Black News Channel not correct source
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1",Newsmax
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/BNC_GO_1000x1000circle.png?raw=true",Black News Channel
+https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/Newsmax%20TV_190x190.png?raw=true",Newsmax
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,TYT
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/TYT_Network_190x190.png?raw=true",TYT
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,WeatherNation
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/weatherNation_190x190.png?raw=true",WeatherNation
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Livelyplace
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Samsung_Wild_Life_190x190.png?raw=true",Samsung Wildlife
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/LivelyPlace_190x190.png?raw=true",Livelyplace
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,AMC Presents
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/AMCN_StoriesbyAMC_SamsungTVPlus_B_1000x1000_v01.png?raw=true",Stories by AMC
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Skills and Thrills
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Skills_+_Thrills_circle_190x190.png?raw=true",Skills and Thrills
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Absolute Reality WETV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/fusebackstage_190x190.png?raw=true",Fuse Backstage (Geo)
+https://fuse-xl-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/12082020/AbsoluteReality190x190_Circle.png?raw=true",Absolute Reality WETV
 https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Ion Plus
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/ION_Plus_Logo190x190.png?raw=true",Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Danger TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/AMCN_TWDU_SamsungTVPlus_B_1000x1000_v01_1_.png?raw=true",The Walking Dead Universe Experience
+https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Degrassi_190x190.png?raw=true",Degrassi The Next Generation
+https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true",Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/DTv_typeB_190x190.png?raw=true",Danger TV
 https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Docurama
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Docurama_190x190.png?raw=true",Docurama
 https://docurama.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Law and Crime Trial Network
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Law_crime_190x190.png?raw=true",Law and Crime Trial Network
 https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Crime 360
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/06182020/FilmRise_True_Crime_190x190.png?raw=true",Filmrise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Crime%20360_190x190.png",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8 
-#EXTINF:-1,Buzzr
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Game Show Central
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/GameShowCentral_190x190circle.png?raw=true",Game Show Central
 https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Nosey
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Nosey_190x190.png?raw=true",Nosey
 https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Circle
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/12082020/Circle_190X190circle.png?raw=true",Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Shout Factory TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Shout_factory_190x190.png?raw=true",Shout Factory TV
 https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Dove channel
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Dove_190x190.png?raw=true",Dove channel
 https://dovenow.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Sterling Drama
-https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,MHZ Now
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MHzNow_190x190.png?raw=true",MHZ Now
 https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,People are Awesome
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/PAA_SAMSUNG_CIRCLE_1000x1000.png?raw=true",People are Awesome
 https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Brat TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Brat_TV_190x190.png?raw=true",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,ET Live not samsung source dai.google.com
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal 
-#EXTINF:-1,People TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/People_%20TV_190x190.png?raw=true",People TV
 https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
-#EXTINF:-1,Hollywire
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Hollywire_190x190.png?raw=true",Hollywire
 https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Kitchen Nightmares
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/Court_TV_1000x1000circle__1_.png?raw=true",Court TV
+https://d11ns1fzxv6gfs.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Nashville_Channel_190x190_Circle.png?raw=true",Nashville Channel (GEO)
+https://lgpopup-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Kitchen_Nightmares_190x190.png?raw=true",Kitchen Nightmares
 https://kitchennightmares-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,The Bob Ross Channel
-https://bobross-wurl.cinedigm.com/playlist.m3u8
-#EXTINF:-1,Tiny House Nation
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/LuckyDog_190X190.png?raw=true",Lucky Dog
+http://d2eb12ehm31yjp.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png?raw=true",Baywatch
+http://d3vdwtqqboxhm9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Tiny_House_Nation_190X190.png?raw=true",Tiny House Nation
 https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Deal or No Deal
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/DealorNoDeal_190x190.png",Deal or No Deal
 https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Wipeout Xtra
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wipeout%20Xtra_190x190.png?raw=true",Wipeout Xtra
 https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,ACC Digital Network wrong source
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/The_Jack_Hanna_Channel_1000x1000circle.png?raw=true",The Jack Hannah Channel
+https://littonjackhannah-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/ACC_Digital_Network_190x190.png?raw=true",ACC Digital Network wrong source
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Stadium
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/STADIUM_190x190.png?raw=true",Stadium
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,SportsGrid
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/07072020/SportsGrid_190x190.png?raw=true",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Pac12 Insider
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11032020/P12INSIDER_FASTchannel_190x190.png",Pac12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bein Sports XTRA GEO
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/beIN_SPORTS_XTRA_190X190.png?raw=true",Bein Sports XTRA GEO
 https://bein-xtra-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Players TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/PlayersTV_190x190.png?raw=true",Players TV
 https://playerstv-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,FTF For the fans
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/FTF_190x190.png?raw=true",FTF For the fans
 https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Edge Sport 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/EDGE_sports_190x190.png?raw=true",Edge Sport 
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Surf Now TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06232020/SURF_NOW_TV_190x190.png?raw=true",Surf Now TV
 https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Insight TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/InsightTV_190x190.png?raw=true",Insight TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Outside TV+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/OutsideTV190x190.png?raw=true",Outside TV+
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fuel TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/FUEL%20TV_190x190.png?raw=true",Fuel TV
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Whistle TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Whistle_TV_190x190.png?raw=true",Whistle TV
 https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Outdoor America
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Outdoor_america_190x190.png?raw=true",Outdoor America
 https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Waypoint Outdoors
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Waypoint%20TV_190x190.png?raw=true",Waypoint Outdoors
 https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Pursuit Up
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Pursuit_Circle_190x190.png?raw=true",Pursuit Up
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,World Poker Tour
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/World_Poker_Tour_190x190.png?raw=true",World Poker Tour
 https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Mav TV Select
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/MavTV_190x190.png?raw=true",Mav TV Select
 https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Power Nation
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/powernation_190x190.png?raw=true",Power Nation
 https://rtmtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fox Soul 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/FOX%20SOUL_190x190.png?raw=true",Fox Soul 
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tastemade 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/TASTEMADE_190x190.png?raw=true",Tastemade 
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bon Appétit
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Bonappetit_190x190.png?raw=true",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/GustoTV_190x190.png?raw=true",Gusto TV
 https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Hungry
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/Hungry_190x190.png?raw=true",Hungry
 https://food.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Xplore
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Xplore_190X190.png?raw=true",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Journy
-https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-#EXTINF:-1,This Old House
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/07292020/Journy_190x190.png?raw=true",Journy
+http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/This_Old_house_190x190.png?raw=true",This Old House
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Design Network
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/TDN_Samsung%20190x190.png?raw=true",The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Yuyu
-https://yuyu-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,WeatherSpy
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Revry_190X190.png?raw=true",Revry GEO
+https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/04292021/AW_SamsungTV_PartnerAssets_1000x1000_Circle.png?raw=true",All Weddings WETV
+https://amc-allweddings-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/WeatherSpy_190x190.png?raw=true",WeatherSpy
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Stingray_Naturescape_190x190.png?raw=true",Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,QVC
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/QVC_190x190.png?raw=true",QVC
 https://qvc.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,HSN
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/HSN_190x190.png?raw=true",HSN
 https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Estrella TV 
-http://estrellatv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Estrella News 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Estrella_TV_190x190.png?raw=true",Estrella TV 
+https://estrellatv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Estrella_News_190X190.png?raw=true",Estrella News 
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sony Canal Competencias
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Sony_Canal_Competencias_190x190.png?raw=true",Sony Canal Competencias
 https://sony-competencias-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Sony Canal Comedias
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Sony_Canal_Comedias_190x190.png?raw=true",Sony Canal Comedias
 https://sony-comedias-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Sony Canal Novelas
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Sony_Canal_Novelas_190x190.png?raw=true",Sony Canal Novelas
 https://sony-novelas-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Cine Romantico
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Cine_Romantico_190x190.png?raw=true",Cine Romantico dai2.xumo to be added
 https://sony-novelas-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Tastemade En Espanol
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true",Canela.tv
+https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Tastemade_en_Espanol_190x190.png?raw=true",Tastemade En Espanol
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Lego channel temp source
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,PocketWatch
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/The_LEGO_Channel_190x190.png?raw=true",Lego channel temp source
+https://d34enhfsgjw5ti.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/pockwatch_190x190.png?raw=true",Pocket.Watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Qubo
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Qubo_Logo.190x190.png?raw=true",Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Toon Goggles
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/toon_goggles_190x190.png?raw=true",Toon Goggles
 https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,TG Junior
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/TG_Junior_190x190.png?raw=true",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Kidoodle
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/KidoodlTV_190x190.png?raw=true",Kidoodle
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,ZooMoo
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/ZooMoo_190x190.png?raw=true",ZooMoo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Cocoro
-https://dmr-cocoro-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Moonbug Kids GEO
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true",Moonbug Kids GEO
 https://moonbug-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Moonbug Kids not geo via roku
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/The_Pet_Collective_190x190.png?raw=true",The Pet Collective
 https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,FailArmy
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/01112021/FailArmy_190x190_circle.png?raw=true",FailArmy
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,DryBar Comedy
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/DryBarComedy_190x190circle.png?raw=true",DryBar Comedy
 https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Comedy Dynamics
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Comedy_Dynamics_190x190.png?raw=true",Comedy Dynamics
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-#EXTINF:-1,RiffTrax
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/RiffTrax_190x190.png?raw=true",RiffTrax
 https://rifftrax.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,IGN
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/GAMR365_190x190.png?raw=true",Gamr365
+http://d10ux3u9s5gh2y.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/IGN_190x190.png?raw=true",IGN
 https://ign-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Venn TV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/VENN_190x190.png?raw=true",Venn TV
 https://venntv-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,BCC gaming
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/BCC-SamsungTV-TypeB_190x190.png?raw=true",BCC gaming
 https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Estv Esports Television GEO
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/estv_190x190.png?raw=true"",Estv Esports Television GEO
 https://estv-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,ESR Esports 24x7
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/ESR_190x190.png?raw=true",ESR Esports 24x7
 https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Unindentified (temp)
-https://studio1091-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Dust
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Unidentified_190x190.png?raw=true",Unindentified 
+https://dy308let2w5g5.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/DUST_190X190.png?raw=true",Dust
 https://dust.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Inwonder
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Inwonder_190x190.png?raw=true",Inwonder
 https://inwonder-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,ConTV 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/CONtv_190x190.png?raw=true",ConTV 
 https://contv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Magellan TV Now
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Megellan_TV_190x190.png?raw=true",Magellan TV Now
 https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,New K-Movies
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11032020/NEWK.MOVIES_190x190.png?raw=true",New K-Movies
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Asiancrush
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Asiancrush_190x190.png?raw=true",Asiancrush
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Kmtv
-https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,New K-ID
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/NEW_K.ID_190x190.png?raw=true",New K-ID
 https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Movie Hub
-https://themoviehub-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Moviesphere Free
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/movie_hub_circle_1000x1000.png?raw=true",The Movie Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/MovieSphere_190x190circle.png?raw=true",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Maverick Black Cinema
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Maverick%20Black%20Cinema_190x190.png?raw=true",Maverick Black Cinema
 https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,MovieMix
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MovieMix_190x190.png?raw=true",MovieMix
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Midnight Pulp
-https://midnightpulp-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Gravitas Movies
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MidnightPulp_190x190.png?raw=true",Midnight Pulp (GEO)
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/gravitasmovies_190x190.png?raw=true",Gravitas Movies
 https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Preview Channel
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/CINEVAULT_Westerns_190x190_circle.png?raw=true",Cinevault Westerns
+https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/The_Preview_Channel_476x476circle.png?raw=true",The Preview Channel
 https://previewchannel-previewchannel-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Qello Stingray
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true",Qello Stingray
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
-#EXTINF:-1,Latido Music
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Latido_190x190.png?raw=true",Latido Music
 https://vidaprimo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_Latino_190x190.png?raw=true",Vevo Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_R&B_190x190.png?raw=true",Vevo R&B
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_HipHop_190x190.png?raw=true",Vevo Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_Country_190x190.png?raw=true",Vevo Country
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",Vevo
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",Vevo Holiday
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
 
 ###end###
