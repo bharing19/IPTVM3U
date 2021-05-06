@@ -52,7 +52,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=456
 #EXTINF:-1 tvg-logo="https://static.12core.net/f073ea4d4ef547142a56c741a3d02706.png.png" group-title="Rad TV",Fuel TV
 https://ov-fuel-ft-ww.ottera.tv/out/v1/5ec30c35a1fb4d6c9f30a350d63be232/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.12core.net/ffe7772216f31248a5f38d2ad21b8433.jpg.jpg" group-title="Rad TV",GameToon
+#EXTINF:-1 tvg-logo="https://static.12core.net/ffe7772216f31248a5f38d2ad21b8433.jpg.jpg" group-title="Rad TV",GameToon (Geo-USA)
 https://gametoon-littlstar.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.12core.net/f3f4e860edbd7564da94b266f918e624.jpeg" group-title="Rad TV",Hollywire
@@ -127,7 +127,7 @@ https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://static.12core.net/7067ebca77b8426538831b886aeb8941.jpeg" group-title="Rad TV",Mobcrush
 https://d2hzei7tms9zge.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-MobCrush/m.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.12core.net/32d50e674f7137124ea46fe4ffd942ea.jpg" group-title="Rad TV",MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://static.12core.net/32d50e674f7137124ea46fe4ffd942ea.jpg" group-title="Rad TV",MyTime Movie Network (Geo-USA)
 https://cinedigm-mytime-littlstar.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lsp.littlstar.com/channels/REVRY/assets/revry_premium_banner.jpg" group-title="Rad TV",Revry Premium
@@ -148,7 +148,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=211
 #EXTINF:-1 tvg-logo="https://static.12core.net/e2309d8cc3df13d597020099f011547f.jpeg" group-title="Rad TV",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=521
 
-#EXTINF:-1 tvg-logo="https://static.12core.net/705d78f3a1421d7481be3dc9c5933977.jpeg" group-title="Rad TV",The Bob Ross Channel
+#EXTINF:-1 tvg-logo="https://static.12core.net/705d78f3a1421d7481be3dc9c5933977.jpeg" group-title="Rad TV",The Bob Ross Channel (Geo-USA)
 https://bobross-littlstar.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg" group-title="Rad TV",The Country Network
