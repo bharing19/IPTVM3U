@@ -10,6 +10,9 @@ plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
