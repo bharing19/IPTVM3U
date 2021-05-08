@@ -33,6 +33,9 @@ https://stream-cdn.vaughnsoft.net/play/live_1_goodnewschannel.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/7_stars_320.jpg" group-title="Mixed",7_Stars
 https://stream-cdn.vaughnsoft.net/play/live_7_stars.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/57interactive_320.jpg" group-title="News",57interactive
+https://stream-cdn.vaughnsoft.net/play/live_57interactive.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/91fun_320.jpg" group-title="Music",91FUN
 https://stream-cdn.vaughnsoft.net/play/live_91fun.flv
 
