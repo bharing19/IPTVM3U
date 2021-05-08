@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Usa Today 
+#EXTINF:-1,USA Today 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
 #EXTINF:-1,TYT GO
 https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
@@ -12,20 +12,26 @@ https://cheddar.roku.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
 #EXTINF:-1,ABC News Live
 https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+#EXTINF:-1,NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1,America's Voice
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Black News Channel
 https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
 #EXTINF:-1,One America (OAN)
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
-#EXTINF:-1,Reuters
-https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,yahoo! Finance
-https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1,WeatherNation
-https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,NewsMax TV
 https://newsmax-roku-us.amagi.tv/hls/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+#EXTINF:-1,Euronews â€“ English
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,WeatherNation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Reelz
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
 #EXTINF:-1,Filmrise Free Movies
@@ -62,7 +68,7 @@ https://brat-roku-us.amagi.tv/playlist.m3u8
 https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
 #EXTINF:-1,Revry
 https://linear-45.frequency.stream/dist/roku/45/hls/master/playlist.m3u8
-#EXTINF:-1,Sportsgrid
+#EXTINF:-1,Sportsgrid (Geo)
 https://sportsgrid-roku-us.amagi.tv/hls/amagi_hls_data_sportsgri-roku-sportsgridA/CDN/playlist.m3u8
 #EXTINF:-1,MavTV Select
 https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
@@ -72,14 +78,14 @@ https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1,Stadium
 https://stadium.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bein Sports Xtra
+#EXTINF:-1,Bein Sports Xtra (Geo)
 https://bein-xtra-roku-us.amagi.tv/hls/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
 #EXTINF:-1,ASN Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1,Edge Sports
 https://edgesports-roku.amagi.tv/hls/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1,ACCDN
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuaccdigitalnetworkA/CDN/playlist.m3u8
+https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Outside Tv
 https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
 #EXTINF:-1,FTF (For the Fans)
@@ -93,9 +99,7 @@ https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/pl
 #EXTINF:-1,Whistle TV
 https://whistletv-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-whistlesports-roku/CDN/playlist.m3u8
 #EXTINF:-1,ESTV
-https://estv-roku.amagi.tv/hls/amagi_hls_data_estvAAAAA-estv/CDN/playlist.m3u8
-#EXTINF:-1,Combat GO
-https://combatgo-roku-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-combatgoroku/CDN/playlist.m3u8
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
 #EXTINF:-1,Gameshow Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Buzzr
@@ -186,8 +190,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1,College Humour
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucollegehumor/CDN/master.m3u8
-#EXTINF:-1,Comedy Cental Pluto
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF:-1,Kid Gamer TV
 https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
 #EXTINF:-1,Pocket Watch
@@ -207,7 +209,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3
 #EXTINF:-1,Teletubbies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
 #EXTINF:-1,Zoo Moo
-https://zoomoo-samsung.roku.wurl.com/manifest/playlist.m3u8
+https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Ryan and Friends
 https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,kiDoodle TV
@@ -278,8 +280,6 @@ https://samuelgoldwyn-films-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgfilms-r
 https://samuelgoldwyn-classic-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgclassics-roku/CDN/playlist.m3u8
 #EXTINF:-1,Xplore
 https://xplore-roku.amagi.tv/hls/amagi_hls_data_littonAAA-xplore-roku/CDN/playlist.m3u8
-#EXTINF:-1,Euronews – English
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Fox Soul
 https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
 #EXTINF:-1,Made in Hollywood
@@ -288,9 +288,9 @@ https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
 #EXTINF:-1,Estrella News
 https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
-#EXTINF:-1,Euronews – Español
+#EXTINF:-1,Euronews â€“ EspaÃ±ol
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Cine Sureño
+#EXTINF:-1,Cine SureÃ±o
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-roku/CDN/playlist.m3u8
 #EXTINF:-1,Horrify
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/playlist.m3u8
@@ -298,7 +298,7 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/play
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
 #EXTINF:-1,Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-roku/CDN/playlist.m3u8
-#EXTINF:-1,Runtime Español
+#EXTINF:-1,Runtime EspaÃ±ol
 https://runtime-espanol-roku.amagi.tv/hls/amagi_hls_data_ammoAAAAA-runtime-espanol-roku/CDN/playlist.m3u8
 #EXTINF:-1,Iheart Christmas Classics
 https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8?streamid=6137&stationid=6137&callLetters=IHVA-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=fb2d18e2a81f541885d0e2f133da4d25&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
@@ -312,5 +312,35 @@ https://d1k802x72s3su7.cloudfront.net/out/v1/27f0e05c261242c199eee01b7b99bc87/in
 https://d1ipcy3kxm6s6d.cloudfront.net/out/v1/cdc0e2c2bfef4a1c9fa1c4f3595c0dd3/index.m3u8?streamid=6410&stationid=6410&callLetters=IHRK-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=192a78187148597f85ba8dafbdb3ede6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
 #EXTINF:-1,Ketchup TV
 https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-
-
+#EXTINF:-1,Cinevault Westerns
+https://gsn-cinevault-westerns-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Hottest Loop
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Hip Hop Loop
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Country Loop
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,80's Loop
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,90's Loop
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Party Loop
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,New K.ID
+https://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Kocowa Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
+#EXTINF:-1,Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1,Baby Shark TV
+https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1,Haunt TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nashville
+https://lgpopup-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fido TV
+https://fidotv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
