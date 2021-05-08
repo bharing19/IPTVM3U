@@ -287,9 +287,6 @@ https://nosey-realnosey-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hYWQDvZ.jpg" group-title="VisioTV",NovelaClub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizionovelaclub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mHAtbz7.jpg" group-title="VisioTV",Ohio 24/7 Now
-https://linear-38.frequency.stream/dist/38/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2VbU3w.jpg" group-title="VisioTV",One America News
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
