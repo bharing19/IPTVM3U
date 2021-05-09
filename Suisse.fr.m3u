@@ -123,24 +123,26 @@ https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 
+# https://drita.tv/live-tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
-http://195.154.252.221:8000/play/dritawebtv/index.m3u8
+https://nesertv.live/DRITATV-5879/index.m3u8
+https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (TWITCH)
 plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
 
 # https://www.handelsregister.tv/ https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT)
-plugin://plugin.video.youtube/play/?video_id=lAHXFa7cAfg
+plugin://plugin.video.youtube/play/?video_id=ncygv66Ow4E
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=522040568&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=NGWsg7GEKbs
+plugin://plugin.video.youtube/play/?video_id=QCCT2jrOu68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -196,7 +198,8 @@ http://188.35.9.5:10007/stolen/237p/parasite.install
 plugin://script.module.7of9-live/play/725/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
-http://195.154.252.221:8000/play/rtvislamweb/index.m3u8
+https://nesertv.live/rtvislam988/index.m3u8
+https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large.png" group-title="",schweiz5
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
@@ -210,10 +213,10 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1041670823_b2628000.m3u8
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=qaTcF9n-8Mw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
+EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
 http://176.10.117.3:5000/play/a03t
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="",Swiss Sport TV
@@ -229,14 +232,14 @@ https://klive.kaltura.com/env/cluster-1-b.live.nvp1/live/hls/p/1719221/e/1_xias5
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/UZB_yHZMgWipb99qSGaXjQ/index-s32.m3u8
 
 # https://www.telebaern.tv/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OFFLINE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn
 https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-2) (OFFLINE)
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-3) (OFFLINE)
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-2)
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_0mc3z57p/tl/main/st/0/t/mGfy51te24GExA7I292a3g/index-s32.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",TeleBielingue
+https://edge5.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 
 # https://www.twitch.tv/telecasino/
@@ -272,7 +275,7 @@ plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
 
 # https://sportalhd.com/all/live #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
-https://content.jwplatform.com/manifests/P5TFfacV.m3u8
+https://content.jwplatform.com/manifests/LTbdtGIW.m3u8
 #http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
 #########
