@@ -1251,6 +1251,9 @@ plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQjqS4F.png" group-title="",Nancy WebTV
 https://edge5.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w1816442373.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07HWorF.jpg" group-title="",Nautical HD
+http://82.197.212.210:8000/play/a0zs/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ge7fkCe.jpg" group-title="",Novelas TV
 https://www.streamaway.net/fra/novelas/3000.m3u8|Referer=https://www.streamaway.net/fr/Novelas.php
 
