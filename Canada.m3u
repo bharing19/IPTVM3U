@@ -279,13 +279,13 @@ plugin://plugin.video.tvone1112/play/1917/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2aVL0wg.png" group-title="",English Action Movies (TT1)
 plugin://plugin.video.tvone1112/play/2154/play.pvr  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6a3thZ.png" group-title="",English Adventure Movies (TT1)	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6a3thZ.png" group-title="",English Adventure Movies (TT1)
 plugin://plugin.video.tvone1112/play/2152/play.pvr   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSMjZv.png" group-title="",English Animated Movies (TT1)	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSMjZv.png" group-title="",English Animated Movies (TT1)
 plugin://plugin.video.tvone1112/play/2151/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VzCndDI.png" group-title="",English Biography Movies (TT1)
 plugin://plugin.video.tvone1112/play/2150/play.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkVxtrr.png" group-title="",English Comedy Movies (TT1)	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkVxtrr.png" group-title="",English Comedy Movies (TT1)
 plugin://plugin.video.tvone1112/play/2149/play.pvr 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDNjUIn.png" group-title="",English Crime Movies (TT1)
 plugin://plugin.video.tvone1112/play/2148/play.pvr
