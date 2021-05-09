@@ -10,7 +10,7 @@ https://icecast228.ptspb.ru:8443/rr_128
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/ambient_image600_gray_outline.png" group-title="",Ambient
 https://air.radiorecord.ru:805/ambient_128
 
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/1980_image600_gray_outline.png" group-title="",Record 80-х
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/1980_image600_gray_outline.png" group-title="",Record 80-x
 https://icecast228.ptspb.ru:8443/1980_128
 
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/lofi_image600_gray_outline.png" group-title="",Lo-Fi
@@ -88,7 +88,7 @@ https://air.radiorecord.ru:805/club_128
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mini_image600_gray_outline.png" group-title="",Minimal/Tech
 https://air.radiorecord.ru:805/mini_128
 
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trop_image600_gray_outline.png" group-title="",Tropical	
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trop_image600_gray_outline.png" group-title="",Tropical
 https://air.radiorecord.ru:805/trop_128
 
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/houseclss_image600_gray_outline.png" group-title="",House Classics
@@ -100,10 +100,10 @@ https://air.radiorecord.ru:805/drumhits_128
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/edmhits_image600_gray_outline.png" group-title="",EDM Classics
 https://air.radiorecord.ru:805/edmhits_128
 
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/fut_image600_gray_outline.png" group-title="",Future House	
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/fut_image600_gray_outline.png" group-title="",Future House
 https://air.radiorecord.ru:805/fut_128
 
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trap_image600_gray_outline.png" group-title="",Trap	
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trap_image600_gray_outline.png" group-title="",Trap
 https://air.radiorecord.ru:805/trap_128
 
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rapclassics_image600_gray_outline.png" group-title="",Rap Classics
