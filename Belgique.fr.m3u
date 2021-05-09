@@ -41,10 +41,10 @@ http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtaumgE.png" group-title="",Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5ziimv.png" group-title="",Eleven Sports 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875
+EXTINF:-1 tvg-logo="https://i.imgur.com/CtaumgE.png" group-title="",Eleven Sports 1 HD
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/b5ziimv.png" group-title="",Eleven Sports 2 HD
+
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgique",LN24
@@ -77,7 +77,7 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 
 # https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="",RADIO POSITIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=TK3I4BkV8wU
+plugin://plugin.video.youtube/play/?video_id=m3XeEVYNLHM
 
 #EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
@@ -150,11 +150,11 @@ https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre-audio_fre=1280
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Vedia" tvg-logo="https://www.vedia.be/www/files/images/logoVedia.png" group-title="Belgique",Vedia
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fvx7xak.png" group-title="",Voo Sport 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
+EXTINF:-1 tvg-logo="https://i.imgur.com/fvx7xak.png" group-title="",Voo Sport 1 FHD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bat6ybf.png" group-title="",ZES CRIME
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1902
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/bat6ybf.png" group-title="",ZES CRIME
+
 
 
 #######
@@ -349,11 +349,7 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" group-title="",CAZ 0
-0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png" group-title="",CAZ 2 0
-0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
@@ -380,7 +376,7 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
 0.0.0.0
 
 
