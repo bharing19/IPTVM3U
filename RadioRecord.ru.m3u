@@ -1,0 +1,238 @@
+#EXTM3U
+
+# https://www.radiorecord.ru/stations
+#EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/record_image600_gray_outline.png" group-title="",Record
+https://icecast228.ptspb.ru:8443/rr_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/ambient_image600_gray_outline.png" group-title="",Ambient
+https://air.radiorecord.ru:805/ambient_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/1980_image600_gray_outline.png" group-title="",Record 80-х
+https://icecast228.ptspb.ru:8443/1980_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/lofi_image600_gray_outline.png" group-title="",Lo-Fi
+https://air.radiorecord.ru:805/lofi_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/dream-pop_image600_gray_outline.png" group-title="",Dream Pop
+https://air.radiorecord.ru:805/dreampop_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/techouse_image600_gray_outline.png" group-title="",Tech House
+https://air.radiorecord.ru:805/techouse_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/ibiza_image600_gray_outline.png" group-title="",Innocence
+https://air2.radiorecord.ru:805/ibiza_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/deep_image600_gray_outline.png" group-title="",Deep
+https://icecast228.ptspb.ru:8443/deep_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/chillhouse_image600_gray_outline.png" group-title="",Chill House
+https://air2.radiorecord.ru:805/chillhouse_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rus_image600_gray_outline.png" group-title="",Russian Mix
+https://icecast228.ptspb.ru:8443/rus_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/chil_image600_gray_outline.png" group-title="",Chill-Out
+https://icecast228.ptspb.ru:8443/chil_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/ps_image600_gray_outline.png" group-title="",Pirate Station
+https://air2.radiorecord.ru:805/ps_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mf_image600_gray_outline.png" group-title="",Маятник Фуко
+https://air2.radiorecord.ru:805/mf_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/yo_image600_gray_outline.png" group-title="",Black Rap
+https://air2.radiorecord.ru:805/yo_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/tm_image600_gray_outline.png" group-title="",Trancemission
+https://icecast228.ptspb.ru:8443/tm_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mix_image600_gray_outline.png" group-title="",Megamix
+https://icecast228.ptspb.ru:8443/mix_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/gold_image600_gray_outline.png" group-title="",Record Gold
+https://air2.radiorecord.ru:805/gold_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/bighits_image600_gray_outline.png" group-title="",Big Hits
+https://icecast228.ptspb.ru:8443/bighits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rmx_image600_gray_outline.png" group-title="",Remix
+https://air.radiorecord.ru:805/rmx_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/russianhits_image600_gray_outline.png" group-title="",Russian Hits
+https://air2.radiorecord.ru:805/russianhits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="",Супердискотека 90-х
+https://icecast228.ptspb.ru:8443/sd90_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/russiangold_image600_gray_outline.png" group-title="",Russian Gold
+https://air.radiorecord.ru:805/russiangold_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/jackin_image600_gray_outline.png" group-title="",Bass House
+https://air.radiorecord.ru:805/jackin_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/vip_image600_gray_outline.png" group-title="",VIP House
+https://air.radiorecord.ru:805/vip_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trancehits_image600_gray_outline.png" group-title="",Trance Classics
+https://air.radiorecord.ru:805/trancehits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/househits_image600_gray_outline.png" group-title="",House Hits
+https://air.radiorecord.ru:805/househits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/club_image600_gray_outline.png" group-title="",EDM
+https://air.radiorecord.ru:805/club_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mini_image600_gray_outline.png" group-title="",Minimal/Tech
+https://air.radiorecord.ru:805/mini_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trop_image600_gray_outline.png" group-title="",Tropical	
+https://air.radiorecord.ru:805/trop_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/houseclss_image600_gray_outline.png" group-title="",House Classics
+https://air.radiorecord.ru:805/houseclss_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/drumhits_image600_gray_outline.png" group-title="",D'n'B Classics
+https://air.radiorecord.ru:805/drumhits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/edmhits_image600_gray_outline.png" group-title="",EDM Classics
+https://air.radiorecord.ru:805/edmhits_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/fut_image600_gray_outline.png" group-title="",Future House	
+https://air.radiorecord.ru:805/fut_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trap_image600_gray_outline.png" group-title="",Trap	
+https://air.radiorecord.ru:805/trap_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rapclassics_image600_gray_outline.png" group-title="",Rap Classics
+https://air.radiorecord.ru:805/rapclassics_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/progr_image600_gray_outline.png" group-title="",Progressive
+https://air.radiorecord.ru:805/progr_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/brks_image600_gray_outline.png" group-title="",Breaks
+https://air.radiorecord.ru:805/brks_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/trancehouse_image600_gray_outline.png" group-title="",Trancehouse
+https://air.radiorecord.ru:805/trancehouse_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rap_image600_gray_outline.png" group-title="",Rap Hits
+https://air.radiorecord.ru:805/rap_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/goa_image600_gray_outline.png" group-title="",GOA/PSY
+https://air.radiorecord.ru:805/goa_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/dream_image600_gray_outline.png" group-title="",Dream Dance
+https://air.radiorecord.ru:805/dream_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/uplift_image600_gray_outline.png" group-title="",Uplifting
+https://air.radiorecord.ru:805/uplift_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/elect_image600_gray_outline.png" group-title="",Electro
+https://air.radiorecord.ru:805/elect_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/fbass_image600_gray_outline.png" group-title="",Future Bass
+https://air.radiorecord.ru:805/fbass_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/neurofunk_image600_gray_outline.png" group-title="",Neurofunk
+https://air.radiorecord.ru:805/neurofunk_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/dc_image600_gray_outline.png" group-title="",Dancecore
+https://air.radiorecord.ru:805/dc_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/liquidfunk_image600_gray_outline.png" group-title="",Liquid Funk
+https://air.radiorecord.ru:805/liquidfunk_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/eurodance_image600_gray_outline.png" group-title="",Eurodance
+https://air.radiorecord.ru:805/eurodance_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/dub_image600_gray_outline.png" group-title="",Dubstep
+https://air.radiorecord.ru:805/dub_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/technopop_image600_gray_outline.png" group-title="",Technopop
+https://air.radiorecord.ru:805/technopop_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/techno_image600_gray_outline.png" group-title="",Techno
+https://air.radiorecord.ru:805/techno_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/discofunk_image600_gray_outline.png" group-title="",Disco/Funk
+https://air.radiorecord.ru:805/discofunk_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/teo_image600_gray_outline.png" group-title="",Hardstyle
+https://air.radiorecord.ru:805/teo_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/tecktonik_image600_gray_outline.png" group-title="",Tecktonik
+https://air.radiorecord.ru:805/tecktonik_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mt_image600_gray_outline.png" group-title="",Midtempo
+https://air.radiorecord.ru:805/mt_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/synth_image600_gray_outline.png" group-title="",Synthwave
+https://air.radiorecord.ru:805/synth_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/pump_image600_gray_outline.png" group-title="",Old School
+https://air.radiorecord.ru:805/pump_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/hbass_image600_gray_outline.png" group-title="",Hard Bass
+https://air.radiorecord.ru:805/hbass_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/darkside_image600_gray_outline.png" group-title="",Darkside
+https://air.radiorecord.ru:805/darkside_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/hypno_image600_gray_outline.pn" group-title="",Hypnotic
+https://air.radiorecord.ru:805/hypno_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mmbt_image600_gray_outline.png" group-title="",Moombahton
+https://air.radiorecord.ru:805/mmbt_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/2step_image600_gray_outline.png" group-title="",2-step
+https://air.radiorecord.ru:805/2step_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/groovetribal_image600_gray_outline.png" group-title="",Groove/Tribal
+https://air.radiorecord.ru:805/groovetribal_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/christmas-radio_image600_gray_outline.png" group-title="",Christmas Radio
+https://air.radiorecord.ru:805/christmas_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rave_image600_gray_outline.png" group-title="",Rave FM
+https://air.radiorecord.ru:805/rave_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/jungle_image600_gray_outline.png" group-title="",Jungle
+https://air.radiorecord.ru:805/jungle_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/complextro_image600_gray_outline.png" group-title="",Complextro
+https://air2.radiorecord.ru:805/complextro_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/gop_image600_gray_outline.png" group-title="",Гоп FM
+https://icecast228.ptspb.ru:8443/gop_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rock_image600_gray_outline.png" group-title="",Rock
+https://icecast228.ptspb.ru:8443/rock_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/cadillac_image600_gray_outline.png" group-title="",60's Dance
+https://air.radiorecord.ru:805/cadillac_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/1970_image600_gray_outline.png" group-title="",70's Dance
+https://air.radiorecord.ru:805/1970_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/rv19_image600_gray_outline.png" group-title="",Руки Вверх!
+https://air.radiorecord.ru:805/rv_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/deti_image600_gray_outline.png" group-title="",Веснушка FM
+https://air.radiorecord.ru:805/deti_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mdl_image600_gray_outline.png" group-title="",Медляк FM
+https://air.radiorecord.ru:805/mdl_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/naft_image600_gray_outline.png" group-title="",Нафталин FM
+https://air.radiorecord.ru:805/naft_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/gast_image600_gray_outline.png" group-title="",Гастарбайтер FM
+https://air.radiorecord.ru:805/gast_128
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/symph_image600_gray_outline.png" group-title="",Симфония FM
+https://air.radiorecord.ru:805/symph_128
+
+#####
