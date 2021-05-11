@@ -856,3 +856,11 @@ http://95.154.196.33:39154/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmyXh5v.png" group-title="",Rcmv Radio WebRadios
 https://stream.hosting-quebec.ca/radio/8000/radio.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjXUZEF.jpg" group-title="",Le Montreal Africain Radio
+https://listen.radioking.com/radio/333169/stream/381568
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ueWxDf.png" group-title="",Montréal Radio Cité
+https://listen.radioking.com/radio/9894/stream/446
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2ODfjO.jpg" group-title="",P'tit Quebec Radio
+https://listen.radioking.com/radio/381109/stream/432178
