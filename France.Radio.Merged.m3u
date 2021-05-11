@@ -832,6 +832,7 @@ https://witenfrancais.ice.infomaniak.ch/witenfrancais-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnSSmPs.png" group-title="",47FM
 http://mediam.streamakaci.com/47fm.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMDWEnn.png" group-title="",47FM 80
 https://listen.radioking.com/radio/128992/stream/168832
 
@@ -840,8 +841,12 @@ https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gw56YVZ.png" group-title="",BFM Business
 https://chai5she.cdn.dvmr.fr/bfmbusiness
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfYFgZ7.png" group-title="",BFMTV
 https://chai5she.cdn.dvmr.fr/bfmtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9aDglO1.png" group-title="",CN'O Radio
+http://signal.cno-radio.fr:8070/cnoradio-96.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
@@ -860,6 +865,7 @@ http://streaming.radio.funradio.fr/fun-1-44-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38RhUDC.png" group-title="",GoldFM
 http://mediam.streamakaci.com/goldfm.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNgqaD9.png" group-title="",GoldFM 80
 https://listen.radioking.com/radio/128989/stream/168817
 
@@ -869,8 +875,47 @@ https://stream.goneupradio.com/radio/8000/radio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PDbmH6A.jpg" group-title="",In2MixxRadio
 https://listen.radioking.com/radio/384/stream/1613
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbZ1Wwe.png" group-title="",MEUSE FM - Verdun
+https://listen.radioking.com/radio/40990/stream/77509
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbZ1Wwe.png" group-title="",MEUSE FM - BAR-LE
+https://listen.radioking.com/radio/66448/stream/104203
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbZ1Wwe.png" group-title="",MEUSE FM - MONTMEDY
+https://listen.radioking.com/radio/194749/stream/237130
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pBGgi8f.jpg" group-title="",Metropolys
+http://str0.creacast.com/metropolys
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5YUGWo.png" group-title="",Metropolys 90
+https://listen.radioking.com/radio/1204/stream/89
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQD4Wl8.png" group-title="",Metropolys 2000
+https://listen.radioking.com/radio/1201/stream/80
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxO8I7X.png" group-title="",Metropolys Party
+https://listen.radioking.com/radio/1203/stream/86
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLGTkV3.png" group-title="",Metropolys La Web Radio Des Auditeurs
+https://listen.radioking.com/radio/1202/stream/83
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idu0Brs.png" group-title="",Mixxfm
 https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hh7Gaxg.jpg" group-title="",Mona FM
+http://monafm.ice.infomaniak.ch/monafm-high.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9friP2H.png" group-title="",Mona FM - Plus De Hits
+https://listen.radioking.com/radio/5040/stream/13349
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B57BXln.png" group-title="",Mona FM - Plus De 80
+https://listen.radioking.com/radio/2613/stream/8099
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8XOkkDV.png" group-title="",Mona FM - Plus De Fiesta
+https://listen.radioking.com/radio/45799/stream/82585
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oo6nWpD.png" group-title="",MRC Radio
+https://listen.radioking.com/radio/37886/stream/74249
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZnpV36.png" group-title="",Nice Radio
 https://niceradio.ice.infomaniak.ch/niceradio.mp3
@@ -878,16 +923,36 @@ https://niceradio.ice.infomaniak.ch/niceradio.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHrF3Un.png" group-title="",Radio - Chansons oubliees ou presque
 https://manager2.creativradio.com:3555/stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9S0nqet.png" group-title="",RADIO FMT
+https://listen.radioking.com/radio/408082/stream/460543
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ggprOS.jpg" group-title="",Radio Olympiades
+https://listen.radioking.com/radio/13753/stream/26168
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p9DyrWA.png" group-title="",Radio M's - Est-Parisien
+http://listen.radioking.com/radio/126061/stream/165805
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szqNzqB.png" group-title="",Radio Melodie Sarreguemines 102.7
 http://str0.creacast.com/melodie
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szqNzqB.png" group-title="",Radio Melodie Forbach 102.9
 http://str0.creacast.com/melodie2
 
+# https://www.twitch.tv/radiomixflooroff/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59ge5k3.png" group-title="",Radio Mix Floor
+https://listen.radioking.com/radio/514/stream/63685
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59ge5k3.png" group-title="",Radio Mix Floor (OPT-2)
+https://listen.radioking.com/radio/514/stream/1940
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwYC5Tq.png" group-title="",Radio Mix Floor Urban
+https://listen.radioking.com/radio/248797/stream/293080
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ggprOS.jpg" group-title="",Radio Olympiades
+https://listen.radioking.com/radio/13753/stream/26168
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
 https://trendsetter.streamakaci.com/trendsetter.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9S0nqet.png" group-title="",RADIO FMT
-https://listen.radioking.com/radio/408082/stream/460543
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjvdNxB.jpg" group-title="",RMC
 http://chai5she.lb.vip.cdn.dvmr.fr/rmcinfo
