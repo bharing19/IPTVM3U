@@ -637,6 +637,37 @@ http://radiofg.impek.com/fg14.mp3
 
 #############
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X42CCvs.png" group-title="",★★★★★★★★★★Skyrock★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
+https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Nation
+https://icecast.skyrock.net/s/natio_aac_128k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Lille
+http://icecast.skyrock.net/s/lille_aac_64k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Marseille
+http://icecast.skyrock.net/s/marseille_aac_64k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Paris / Ile-De-France
+http://icecast.skyrock.net/s/parisidf_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock 100% Français
+http://icecast.skyrock.net/s/francais_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Abidjan
+http://icecast.skyrock.net/s/abidjan_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Hit Skyrock
+http://icecast.skyrock.net/s/hit_skyrock_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Hit US
+http://icecast.skyrock.net/s/hit_us_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Klassiks
+http://icecast.skyrock.net/s/klassiks_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Premier sur le Rap
+http://icecast.skyrock.net/s/1er_rap_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Rap et RnB Non Stop
+http://icecast.skyrock.net/s/rap_rnb_aac_96k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsC9c9K.png" group-title="",Skyrock Urban Music Non Stop
+http://icecast.skyrock.net/s/urban_music_aac_96k
+
+#############
+
 # https://www.sweetfm.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pObDWEz.png" group-title="",★★★★★★★★★★Sweet Fm★★★★★★★★★★
 0.0.0.0
@@ -960,9 +991,6 @@ https://trendsetter.streamakaci.com/trendsetter.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjvdNxB.jpg" group-title="",RMC
 http://chai5she.lb.vip.cdn.dvmr.fr/rmcinfo
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
-https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqv1ick.png" group-title="",Vfm Radio
 http://str0.creacast.com/vfm_hq.mp3
