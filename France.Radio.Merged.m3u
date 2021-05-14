@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="" group-title="", A venir https://www.allzicradio.com/fr/  https://mradio.fr/radio/webradio  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://rcf.fr/ma-radio  https://www.nrj.fr/webradios http://www.jazzradio.fr/radio/webradio
 0.0.0.0
 
-
-
-
 #############
 
 # https://www.chantefrance.com/player/
@@ -51,182 +48,137 @@ http://deltaparty.ice.infomaniak.ch/deltaparty-128.aac
 #https://www.francebleu.fr/stations  https://www.francebleu.fr/favicons/android-chrome-192x192.png #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlBnGBI.png" group-title="",★★★★★★★★★★FranceBleu★★★★★★★★★★
 0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_alsace.jpg" group-title="",Alsace 101.4 FM
 https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?quality=midfi&id=radiofrance
 https://stream.radiofrance.fr/fbarmorique/fbalsace_midfi.m3u8?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_armorique.jpg" group-title="",Armorique 103.1 FM
 https://stream.radiofrance.fr/fbarmorique/fbarmorique.m3u8?quality=midfi&id=radiofrance
 https://stream.radiofrance.fr/fbarmorique/fbarmorique_midfi.m3u8?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_auxerre.jpg" group-title="",Auxerre 103.5 FM
 https://stream.radiofrance.fr/fbauxerre/fbauxerre.m3u8?quality=midfi&id=radiofrance
 https://stream.radiofrance.fr/fbauxerre/fbauxerre_midfi.m3u8?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_azur.jpg" group-title="",Azur 103.8 FM
 https://stream.radiofrance.fr/fbazur/fbazur.m3u8?quality=midfi&id=radiofrance
 https://stream.radiofrance.fr/fbazur/fbazur_midfi.m3u8?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_bearn.jpg" group-title="",Béarn 102.5 FM
 https://stream.radiofrance.fr/fbbearn/fbbearn_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbearn/fbbearn.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_belfort-montbeliard.jpg" group-title="",Belfort-Montbéliard 106.8 FM
 https://stream.radiofrance.fr/fbbelfort/fbbelfort_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_berry.jpg" group-title="",Berry 95.2 FM
 https://stream.radiofrance.fr/fbberry/fbberry_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbberry/fbberry.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_besancon.jpg" group-title="",Besançon 102.8 FM
 https://stream.radiofrance.fr/fbbesancon/fbbesancon_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbesancon/fbbesancon.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_bourgogne.jpg" group-title="",Bourgogne 98.3 FM
 https://stream.radiofrance.fr/fbbourgogne/fbbourgogne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbourgogne/fbbourgogne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_breizh-izel.jpg" group-title="",Breizh Izel 93.0 FM
 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_champagne-ardenne.jpg" group-title="",Champagne-Ardenne 95.1 FM
 https://stream.radiofrance.fr/fbchampagne/fbchampagne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_cotentin.jpg" group-title="",Cotentin 100.7 FM
 https://stream.radiofrance.fr/fbcotentin/fbcotentin_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_creuse.jpg" group-title="",Creuse 94.3 FM
 https://stream.radiofrance.fr/fbcreuse/fbcreuse_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_drome-ardeche.jpg" group-title="",Drôme Ardèche 87.9 FM
 https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6btfgrj.jpg" group-title="",Elsass WebRadio
 https://stream.radiofrance.fr/fbelsass/fbelsass_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbelsass/fbelsass.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gard-lozere.jpg" group-title="",Gard Lozère 90.2 FM
 https://stream.radiofrance.fr/fbgardlozere/fbgardlozere_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbgardlozere/fbgardlozere.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gascogne.jpg" group-title="",Gascogne 98.8 FM
 https://stream.radiofrance.fr/fbgascogne/fbgascogne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbgascogne/fbgascogne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gironde.jpg" group-title="",Gironde 100.1 FM
 https://stream.radiofrance.fr/fbgironde/fbgironde_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_herault.jpg" group-title="",Hérault 100.6 FM
 https://stream.radiofrance.fr/fbherault/fbherault_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbherault/fbherault.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_isere.jpg" group-title="",Isère 98.2 FM
 https://stream.radiofrance.fr/fbisere/fbisere_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbisere/fbisere.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_la-rochelle.jpg" group-title="",La Rochelle 98.2 FM
 https://stream.radiofrance.fr/fblarochelle/fblarochelle_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_limousin.jpg" group-title="",Limousin 103.5 FM
 https://stream.radiofrance.fr/fblimousin/fblimousin_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fblimousin/fblimousin.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_loire-ocean.jpg" group-title="",Loire Océan 101.8 FM
 https://stream.radiofrance.fr/fbloireocean/fbloireocean_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_lorraine-nord.jpg" group-title="",Lorraine Nord 98.5 FM
 https://stream.radiofrance.fr/fblorrainenord/fblorrainenord_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_maine.jpg" group-title="",Maine 96.0 FM
 https://stream.radiofrance.fr/fbmaine/fbmaine_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_mayenne.jpg" group-title="",Mayenne 96.6 FM
 https://stream.radiofrance.fr/fbmayenne/fbmayenne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_nord.jpg" group-title="",Nord 94.7 FM
 https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbnord/fbnord.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_normandie.jpg" group-title="",Normandie b (Calvados - Orne) 102.6 FM
 https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_normandie.jpg" group-title="",Normandie h (Seine-Maritime - Eure) 100.1 FM
 https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_occitanie.png" group-title="",Occitanie 91.8 FM
 https://stream.radiofrance.fr/fbtoulouse/fbtoulouse_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_orleans.jpg" group-title="",Orléans 100.9 FM
 https://stream.radiofrance.fr/fborleans/fborleans_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fborleans/fborleans.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_paris.png" group-title="",Paris 107.1 FM
 https://icecast.radiofrance.fr/fb1071-hifi.aac?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_pays-basque.jpg" group-title="",Pays Basque 101.3 FM
 https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_auvergne.jpg" group-title="",Pays d'Auvergne 102.5 FM
 https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_savoie.jpg" group-title="",Pays de Savoie 95.2 FM
 https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_perigord.jpg" group-title="",Périgord 99.3 FM
 https://stream.radiofrance.fr/fbperigord/fbperigord_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_picardie.jpg" group-title="",Picardie 100.2 FM
 https://stream.radiofrance.fr/fbpicardie/fbpicardie_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_poitou.jpg" group-title="",Poitou 87.6 FM
 https://stream.radiofrance.fr/fbpoitou/fbpoitou_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_provence.jpg" group-title="",Provence 103.6 FM
 https://stream.radiofrance.fr/fbprovence/fbprovence_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbprovence/fbprovence.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_rcfm.jpg" group-title="",RCFM 101.7 FM
 https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_roussillon.jpg" group-title="",Roussillon 101.6 FM
 https://stream.radiofrance.fr/fbroussillon/fbroussillon_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_saint-etienne-loire.jpg" group-title="",Saint-Étienne Loire 97.1 FM
 https://stream.radiofrance.fr/fbstetienne/fbstetienne_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_sud-lorraine.jpg" group-title="",Sud Lorraine 100.5 FM
 https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_touraine.jpg" group-title="",Touraine 98.7 FM
 https://stream.radiofrance.fr/fbtouraine/fbtouraine_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8?quality=midfi&id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_vaucluse.jpg" group-title="",Vaucluse 98.8 FM
 https://stream.radiofrance.fr/fbvaucluse/fbvaucluse_midfi.m3u8?id=radiofrance
 https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8?quality=midfi&id=radiofrance
@@ -287,7 +239,7 @@ https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUW4HIO.jpg" group-title="",France Musique - La B.O. Musiques de Films
 https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
 
-################
+#############
 
 # https://www.galaxieradio.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tJaLDg.jpg" group-title="",★★★★★★★★★★Galaxie Radio★★★★★★★★★★
@@ -305,7 +257,7 @@ https://listen.radioking.com/radio/15685/stream/107467
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkHJMvD.png" group-title="",Galaxie Lounge
 https://listen.radioking.com/radio/45838/stream/82624
 
-#################
+#############
 
 # https://www.mouv.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",★★★★★★★★★★Le Mouv'★★★★★★★★★★
@@ -340,6 +292,58 @@ http://server.syndicastream.com:8078/;stream
 http://server.syndicastream.com:8062/;stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5pwCMn.jpg" group-title="",Hit FM Love Radio
 http://stream.studioradiomedia.com:8033/stream2.mp3
+
+#############
+
+# https://www.hotmixradio.fr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhcCT9T.jpg" group-title="",★★★★★★★★★★HotMix Radio★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lc0hE4a.jpg" group-title="",HotMix Radio - Love
+http://streamingp.shoutcast.com/hotmixradio-love-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyQEpQh.png" group-title="",HotMix Radio - 80s
+https://streamingp.shoutcast.com/hotmixradio-80-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQc4FfO.png" group-title="",HotMix Radio - 90s
+https://streamingp.shoutcast.com/hotmixradio-90-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFfbdtv.png" group-title="",HotMix Radio - Hits
+https://streamingp.shoutcast.com/hotmixradio-hits-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d8JS4y.png" group-title="",HotMix Radio - Dance
+https://streamingp.shoutcast.com/hotmixradio-dance-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/942fN56.png" group-title="",HotMix Radio - Lounge
+https://streamingp.shoutcast.com/hotmixradio-lounge-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKoQRRy.jpg" group-title="",HotMix Radio - Zen
+https://streamingp.shoutcast.com/hotmixradio-zen-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpph8ap.jpg" group-title="",HotMix Radio - Sport
+https://streamingp.shoutcast.com/hotmixradio-sport-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdcQq3S.png" group-title="",HotMix Radio - 2000
+https://streamingp.shoutcast.com/hotmixradio-2k-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5IPscp.png" group-title="",HotMix Radio - Funky
+https://streamingp.shoutcast.com/hotmixradio-funky-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7YFRCH.png" group-title="",HotMix Radio - Rock
+https://streamingp.shoutcast.com/hotmixradio-rock-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqTqxLz.png" group-title=""HotMix Radio - Hip Hop
+https://streamingp.shoutcast.com/hotmixradio-hiphop-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I75G7Wz.png" group-title="",HotMix Radio - Frenchy
+https://streamingp.shoutcast.com/hotmixradio-frenchy-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlt5z1n.jpg" group-title="",HotMix Radio - Fiesta
+https://streamingp.shoutcast.com/hotmixradio-fiesta-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHN2Jhn.png" group-title="",HotMix Radio - Golds
+https://streamingp.shoutcast.com/hotmixradio-golds-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnMD96C.jpg" group-title="",HotMix Radio - Platinium
+https://streamingp.shoutcast.com/hotmixradio-platinium-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PikdYNY.png" group-title="",HotMix Radio - Sunny
+https://streamingp.shoutcast.com/hotmixradio-sunny-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bb1WHvG.png" group-title=""HotMix Radio - New
+https://streamingp.shoutcast.com/hotmixradio-new-64.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TS95QXo.jpg" group-title="",HotMix Radio - Cocktail
+https://streamingp.shoutcast.com/hotmixradio-cocktail-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCbxpqw.jpg" group-title="",HotMix Radio - Classical
+https://streamingp.shoutcast.com/hotmixradio-classical-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfz0ihU.jpg" group-title="",HotMix Radio - Latino
+https://streamingp.shoutcast.com/hotmixradio-latino-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYfomE3.jpg" group-title="",HotMix Radio - Noel
+https://streamingp.shoutcast.com/hotmixradio-special-320.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmMuaEr.jpg" group-title="",HotMix Radio - Baby	
+https://streamingp.shoutcast.com/hotmixradio-baby-64.mp3
 
 #############
 
