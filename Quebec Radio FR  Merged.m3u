@@ -864,3 +864,6 @@ https://listen.radioking.com/radio/9894/stream/446
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l2ODfjO.jpg" group-title="",P'tit Quebec Radio
 https://listen.radioking.com/radio/381109/stream/432178
+
+#EXTINF:-1 tvg-logo="http://radioinfocite.com/images/entete.png" group-title="",Radioinfocite
+http://curiosity.shoutca.st:8752/live
