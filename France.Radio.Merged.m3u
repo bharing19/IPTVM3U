@@ -490,6 +490,8 @@ http://str0.creacast.com/pharefm_grenoble
 http://str0.creacast.com/pharefm_haguenau
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJYiOUI.png" group-title="",Phare FM Montauban
 http://str0.creacast.com/pharefm_montauban
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZGWMzs.png" group-title="",Phare FM Mulhouse
+http://str0.creacast.com/pharefm_mulhouse
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppxPr8O.png" group-title="",Phare FM Porte du Dauphiné
 http://str0.creacast.com/pharefm_dauphine
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q0Uqhv1.png" group-title="",Phare FM Worship
