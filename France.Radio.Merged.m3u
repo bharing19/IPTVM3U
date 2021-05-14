@@ -482,7 +482,7 @@ https://acoustic.stream.ouifm.fr/ouifmacoustic.mp3
 # https://pharefm.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XAZF2PS.png" group-title="",★★★★★★★★★★Phare FM★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ulZ8BwE.png" group-title="",PHARE FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulZ8BwE.png" group-title="",PHARE FM Paris
 https://str0.creacast.com/pharefm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgUgl1w.png" group-title="",Phare FM Grenoble
 http://str0.creacast.com/pharefm_grenoble
@@ -502,6 +502,8 @@ https://str0.creacast.com/pharefm_louange
 https://str0.creacast.com/pharefmhits
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIdr8nW.png" group-title="",Phare FM Ébène
 https://str0.creacast.com/pharefm_ebene
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6L0M3f.jpg" group-title="",Phare FM Noel
+http://str0.creacast.com/pharefmevent
 
 #############
 
