@@ -99,6 +99,12 @@ https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Ryan and Friends (Australia)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70's (Australia)
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80's (Australia)
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 90's (Australia)
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
 #####################################################################################################
 
@@ -1020,6 +1026,8 @@ https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten Family (Spain)
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,iHola Play (Spain)
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #####################################################################################################
 
