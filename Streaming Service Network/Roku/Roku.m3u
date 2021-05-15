@@ -344,3 +344,53 @@ https://lgpopup-roku.amagi.tv/playlist.m3u8
 https://fidotv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Adventure TV (Geo)
+https://roku-adventure-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,America's Test Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1,Bein Sport Xtra Espanol
+https://beinesp-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Cinevault 70's
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinevault 80's
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Degrassi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudegrassi/CDN/playlist.m3u8
+#EXTINF:-1,Don't Tell the Bride (Geo)
+https://lds-donttellbride-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuse BackStage (Geo)
+https://fuse-backstage-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuse Beats (Geo)
+https://fuse-beats-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Front Door (Geo)
+https://roku-frontdoor-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Filmrise Dr G Medical Examiner
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-drgmedicalexaminer/CDN/playlist.m3u8
+#EXTINF:-1,Filmrise Heartland
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:-1,Impact Wrestling
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuimpactwrestling/CDN/playlist.m3u8
+#EXTINF:-1,The Jack Hannah Channel (Geo)
+https://litton-jackhannah-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Kids Pang
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Viki
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotten Tomatoes (Geo)
+https://rottentomatoes-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Slugterra
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuslugterra/CDN/playlist.m3u8
+#EXTINF:-1,Vice (Geo)
+https://vicefastone-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Crime (Geo)
+https://lds-realcrime-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Johnny Carson TV (Geo)
+https://johnnycarson-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Law & Crime
+https://lawandcrime-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xumo Crime TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumocrimetv/CDN/playlist.m3u8
+#EXTINF:-1,Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudivorcecourt/CDN/playlist.m3u8
+#EXTINF:-1,Super Simple Songs
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
