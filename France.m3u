@@ -826,6 +826,12 @@ plugin://script.module.7of9-live/play/783/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="E! ENT FRANCE" tvg-logo="https://i.imgur.com/50KBhvg.png" group-title="France",E! ENT FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/174339ada7db993.m3u8|User-Agent=stream
 
+# https://support-dj.wixsite.com/monsite/eibiza-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv (Lorsquil Y a Live)
+https://tv.everestcast.com:3170/live/eibizatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv Maxximixx
+https://tv.everestcast.com:3170/stream/play.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="EMCI" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="France",EMCI TV
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
