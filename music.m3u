@@ -352,6 +352,13 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1992127096.m3u8
 
+# https://support-dj.wixsite.com/monsite/eibiza-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv (Lorsquil Y a Live)
+https://tv.everestcast.com:3170/live/eibizatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv Maxximixx
+https://tv.everestcast.com:3170/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFtttL9.png" group-title="",Eldoradio TV
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 
