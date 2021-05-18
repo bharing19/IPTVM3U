@@ -684,7 +684,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPgpWdy.jpg" group-title="",MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBva1nm.jpg" group-title="",MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8|Referer=https://mooz.tv/live-ro/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQlO355.png" group-title="",MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
