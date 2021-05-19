@@ -1252,6 +1252,9 @@ plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="MYComedy" tvg-logo="https://i.ibb.co/8PV3vp3/MYComedy.png" group-title="France",MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haUJ1ez.jpg" group-title="",Mytime Movies (France)
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-title="",N31 - La chaine des gamers (DM)
 plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 
