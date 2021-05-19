@@ -49,7 +49,7 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=jK1aXGn7JNU
+plugin://plugin.video.youtube/play/?video_id=keb-TYcntjA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="*",Canal D
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
@@ -159,7 +159,7 @@ https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.
 
 # https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
-plugin://plugin.video.youtube/play/?video_id=hr0l4LHjTAA
+plugin://plugin.video.youtube/play/?video_id=b_l0KsX_OsI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
@@ -268,7 +268,7 @@ plugin://plugin.video.youtube/play/?video_id=XMK1UaIf13w
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Buza8xiMA10
+plugin://plugin.video.youtube/play/?video_id=Pd2hDBPX7Cg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="",Vrak
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
