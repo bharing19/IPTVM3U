@@ -1235,6 +1235,9 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lK5Cu63.png" group-title="France",Moods
 https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKaehdC.jpg" group-title="",MotorSport.TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 # update link : https://www.dailymotion.com/video/x5ddv09 #
 #EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv TV(DM)
 plugin://plugin.video.dailymotion_com/?url=x5ddv09&mode=playLiveVideo
@@ -1367,8 +1370,14 @@ https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Comedy Movies
 https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="",Rakuten Documentaries
+https://rakuten-documentaries-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Rakuten Euronews
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="",Rakuten Family
+https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Spotlight
 https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -1659,6 +1668,14 @@ http://144.217.253.140/Teletoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv FR (TT)
+plugin://script.module.7of9-live/play/766/play.pvr
+#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYzPiI5.jpg" group-title="",Unearth
+https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mN5XrhH.png" group-title="",Vetzen (DM)
 plugin://plugin.video.dailymotion_com/?url=x7vy373&mode=playLiveVideo
 
@@ -1715,12 +1732,6 @@ https://www.streamaway.net/fra/warner/mono.m3u8|Referer=https://www.streamaway.n
 # update link : https://www.dailymotion.com/video/x7mxymy #
 #EXTINF:-1 tvg-logo="https://operator-front-static-cdn.winamax.fr/img/style/v2/common/logo-highlight.png" group-title="",Winamax TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7mxymy&mode=playLiveVideo
-
-#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv FR (TT)
-plugin://script.module.7of9-live/play/766/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/01.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
