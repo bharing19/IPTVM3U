@@ -161,6 +161,11 @@ plugin://plugin.video.dailymotion_com/?url=x7v306o&mode=playLiveVideo
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w613125677.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d73yZyp.png" group-title="",Bonce TV
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+https://seswa.bonce.tv/hls/bonceswa_360p878kbs/index.m3u8
+
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
