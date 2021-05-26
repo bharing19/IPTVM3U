@@ -201,6 +201,9 @@ https://rakuten-tvshows-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten TV Shows 7 (EU)
 https://rakuten-tvshows-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VU27mV.jpg" group-title="",Real Crime
+https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WR8h4Uo.jpg" group-title="",Reuters (EU)
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
@@ -230,6 +233,9 @@ https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2eqlIqa.jpg" group-title="",The Pet Collective International (EU)
 https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BIuxA1K.jpg" group-title="",Timeline
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvmiUPl.jpg" group-title="",Travel XP (EU)
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
