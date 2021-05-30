@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/05/05
+#EXTINF:-1 tvg-logo="nologo.png",Update 21/05/30
 0.0.0.0
 
 
@@ -16,26 +16,26 @@ plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53698
+EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d4iyCar.png" group-title="",Meteo Media (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53734
+EXTINF:-1 tvg-logo="https://i.imgur.com/d4iyCar.png" group-title="",Meteo Media (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBxk8u.jpg" group-title="*",Disney JR (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/632711
+EXTINF:-1 tvg-logo="https://i.imgur.com/9EBxk8u.jpg" group-title="*",Disney JR (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goodtv.xyz:2052/reggie/reggie/2427635
+EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53732
+EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="",Elle Fictions (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="",Max (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53735
+EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="",Max (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="",Serie+ (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/53726
+EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="",Serie+ (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
@@ -49,7 +49,7 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=keb-TYcntjA
+plugin://plugin.video.youtube/play/?video_id=yKUl2FlFAjE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="*",Canal D
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
@@ -94,7 +94,7 @@ https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://
 
 # https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=LG4qLnvwhKM
+plugin://plugin.video.youtube/play/?video_id=x07wPux92gs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="News",Global News Montreal 
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -159,12 +159,12 @@ https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.
 
 # https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
-plugin://plugin.video.youtube/play/?video_id=b_l0KsX_OsI
+plugin://plugin.video.youtube/play/?video_id=9wxnRIqVQ90
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
@@ -222,8 +222,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="*",Tele-Quebec (OPT-2)
 https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Telequebec.php
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="",Télé-Mag Québec (Test Sans Plugin)
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/T%C3%A9l%C3%A9MagQu%C3%A9bec2020/live
+
 #EXTINF:-1 tvg-logo="resource://resource.images.catchuptvandmore/channels/ca/telemag.png" group-title="",Télé-Mag Québec (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_live_url/?item_id=telemag
 # update link https://www.youtube.com/user/ctmq #
@@ -243,7 +242,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/9eefb9e1799fa8
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=h0ZvB7WPI9o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fupOqzr.jpg" group-title="*",TV5 Quebec
@@ -267,10 +266,8 @@ https://38-91-57-37.bestserver.online:5052/live16/AaGyFCJxK08mhOCytwqS3g/133100/
 
 # update link https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=XMK1UaIf13w
+plugin://plugin.video.youtube/play/?video_id=Nxsi2q5_N2g
 
-#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (Test Sans Plugin)
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/LaT%C3%A9l%C3%A9visionCommunautaireduT%C3%A9miscamingue/live
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=feVJnaPThUM
