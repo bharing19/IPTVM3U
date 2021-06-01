@@ -465,6 +465,9 @@ plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="13ème rue" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_(logo).svg/220px-13e_rue_2010_(logo).svg.png" group-title="France", 13ème rue
+https://www.streamaway.net/fra/13e/mono.m3u8|Referer=https://www.streamaway.net/fr/13erue-fr.php
+
 # https://7television.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (UPD-EXP)
 https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w48292500_b5415438.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1jbmI2MmQyaTZ0NmlrNGkybGpoNDMydWM4dCZ1SUQ9MCZ1TmFtZT1HdWVzdGE1NjI3&id=PsBzPwjcNbXW8qDlBB2P&op_id=19&userId=0&videoId=42487&stime=1607141890&etime=1607228290&token=013ea79bde97b849993ba
@@ -1079,6 +1082,9 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vspU8Zl.png" group-title="",HistoireTV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/04.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="Histoire TV" tvg-logo="https://histoire.fr/sites/default/files/histoire_logo_0.png" group-title="France", Histoire TV (OPT-2)
+https://www.streamaway.net/fra/histo/index.m3u8|Referer=https://www.streamaway.net/fr/Histoire-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="HD1 FR"  tvg-logo="https://i.imgur.com/z0d1bD2.png" group-title="France",HD1 FR (TT)
 plugin://script.module.7of9-live/play/324/play.pvr
