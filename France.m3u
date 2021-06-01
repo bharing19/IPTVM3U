@@ -182,7 +182,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KtpSSXU.jpg" group-title="France",3ABN fr (YT)
 plugin://plugin.video.youtube/play/?video_id=PHvtVakfH88
 
-# https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg
+# https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=x-xcoBTu5Gk
 
@@ -257,6 +257,10 @@ plugin://plugin.video.youtube/play/?video_id=5JHIgJYE-78
 
 #EXTINF:-1 tvg-logo="http://www.gameblog.fr/images/icons/favicon-196x196.png" group-title="",Gameblog TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
+
+# https://www.youtube.com/user/imineo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNU8EVk.jpg" group-title="France",imineo (YT)
+plugin://plugin.video.youtube/play/?video_id=gTFN7gGX7mA
 
 # https://www.youtube.com/channel/UCkIKnMCyc2hNSj-dUuG9o-g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 1 (YT)
@@ -471,10 +475,12 @@ https://www.streamaway.net/fra/13e/mono.m3u8|Referer=https://www.streamaway.net/
 # https://7television.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (UPD-EXP)
 https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w48292500_b5415438.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1jbmI2MmQyaTZ0NmlrNGkybGpoNDMydWM4dCZ1SUQ9MCZ1TmFtZT1HdWVzdGE1NjI3&id=PsBzPwjcNbXW8qDlBB2P&op_id=19&userId=0&videoId=42487&stime=1607141890&etime=1607228290&token=013ea79bde97b849993ba
-# https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="",AB1 (opt-2)
+https://www.streamaway.net/fra/ab1/mono.m3u8|Referer=https://www.streamaway.net/fr/AB1-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="ACTION" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="France",ACTION (CC)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a8205d6ff14ba90.m3u8|User-Agent=stream
@@ -1094,11 +1100,11 @@ plugin://script.module.7of9-live/play/324/play.pvr
 https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 News
+EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (GEO)
+EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (GEO)
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (OPT-2)
@@ -1117,9 +1123,7 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Infosport+" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="France",Infosport+ (TT)
 plugin://script.module.7of9-live/play/721/play.pvr
 
-# https://www.youtube.com/user/imineo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNU8EVk.jpg" group-title="France",imineo (YT)
-plugin://plugin.video.youtube/play/?video_id=gTFN7gGX7mA
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xDPHrz.jpg" group-title="",J-ONE
 https://www.streamaway.net/fra/jone/mono.m3u8|Referer=https://www.streamaway.net/fr/Jone-fr.php
@@ -1411,9 +1415,11 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte (OPT-2)
 https://www.streamaway.net/fra/rmcd/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMC-decouverte.php
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/cnTi1XC.png" group-title="France",RMC Sport 1 (TT)
 plugin://script.module.7of9-live/play/598/play.pvr
