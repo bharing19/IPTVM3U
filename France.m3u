@@ -792,6 +792,10 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (TT)
 plugin://script.module.7of9-live/play/670/play.pvr
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbXJAN9.png" group-title="",CultureBox (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/19-culturebox/19-culturebox.php
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="D5 TV" tvg-logo="https://lh3.googleusercontent.com/5VutmeXOdk3qNnV2E5IVVcVVyh50MoM6Os02lx_2h0csmYGgAfcZ-tHKesg1n9X1HDQ" group-title="France",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
@@ -1076,7 +1080,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/8e03851d87a5d9
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli
-http://51.15.3.161:8080/Gulli/index.m3u8?token=test
+https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/sdindex.m3u8
+https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (OPT-3)
@@ -1115,6 +1120,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
 0.0.0.0
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/idf1/get_live_url/?item_id=idf1
+#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/30-IDF1/30-IDF1.php
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
@@ -1596,6 +1603,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nt1live-27867/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="",TIJI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="",TIJI (OPT-2)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="France",TMC
