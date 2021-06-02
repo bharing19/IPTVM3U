@@ -468,6 +468,9 @@ plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="",6ter (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/22-6ter/22-6ter.php
+
 
 #EXTINF:-1 tvg-id="France" tvg-name="13ème rue" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_(logo).svg/220px-13e_rue_2010_(logo).svg.png" group-title="France", 13ème rue
 https://www.streamaway.net/fra/13e/mono.m3u8|Referer=https://www.streamaway.net/fr/13erue-fr.php
@@ -1207,15 +1210,17 @@ https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSCUjj5.jpg" group-title="",Lyon Capitale TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
-plugin://script.module.7of9-live/play/321/play.pvr
+
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6
-http://51.15.3.161:8080/M6/index.m3u8?token=test
+https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (OPT-3)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d3e4dff0ec193a.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
+plugin://script.module.7of9-live/play/321/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="M6 Music" tvg-logo="https://i.imgur.com/ILg9C6Z.png" group-title="France",M6 MUSIC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a7ffd112c5a5fa1.m3u8|User-Agent=stream
@@ -1484,9 +1489,10 @@ https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/chunklist_w18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFCHuPF.jpg" group-title="France",Sofy TV (VOSF)
 https://sofytv-samsungfr.amagi.tv/playlist.m3u8
 
-# http://www.souvenirsfromearth.tv/
+# http://www.souvenirsfromearth.tv/  http://iframe.dacast.com/b/122917/c/491172
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3bM4Kt.png" group-title="",SouvenirsFrome>Earth (UPD-EXP)
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1602118705~exp=1602119105~acl=/i/dclive_1@122827*~hmac=6e17fb7483bded1e508514788746c2e49a12f32794b25f7d3e1b4c781d3211fd
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1622660564~exp=1622660964~acl=/i/dclive_1@122827*~hmac=3d4ae788f31a34c8428de2ac45768289b34d0b27a1d4d63c1cfa8217307e2e8c
+
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
