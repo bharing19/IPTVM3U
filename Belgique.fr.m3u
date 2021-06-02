@@ -93,6 +93,9 @@ https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=52000
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8|User-Agent=stream
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (OPT-2)
+http://www.callofliberty.fr/stream/laune/playlist.m3u8
+http://www.callofliberty.fr/stream/laune/04.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (TT)
 plugin://script.module.7of9-live/play/693/play.pvr
@@ -111,6 +114,9 @@ plugin://script.module.7of9-live/play/694/play.pvr
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.m3u8|User-Agent=stream
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (OPT-2)
+http://www.callofliberty.fr/stream/latrois/playlist.m3u8
+http://www.callofliberty.fr/stream/latrois/04.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (TT)
 plugin://script.module.7of9-live/play/695/play.pvr
@@ -126,6 +132,10 @@ plugin://script.module.7of9-live/play/692/play.pvr
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
 plugin://script.module.7of9-live/play/690/play.pvr
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKRGX5q.png" group-title="",Tipik
+http://www.callofliberty.fr/stream/TiPiK/playlist.m3u8
+http://www.callofliberty.fr/stream/TiPiK/04.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",TvCom
