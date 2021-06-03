@@ -222,7 +222,6 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8?filter=(systemBitrate%3C
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="",Een
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="",EEN HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/65bbac7eb991d88.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="",EEN HD (OPT-2)
@@ -257,7 +256,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="", MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="BELGIUM",MNM (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
 
@@ -277,11 +275,15 @@ http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26835
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhIbxDG.png" group-title="Sport",Play Sports 2 
 http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26836
 
+
 #EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="",Radio1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzky21Y.jpg" group-title="",Radio1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
 #EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="",Radio2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bUYSN3.png" group-title="",Radio2 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZtWDRB.png" group-title="",Radio PROS 105.8 FM Denderhoutem
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
