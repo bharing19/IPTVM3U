@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/05/30
+#EXTINF:-1 tvg-logo="nologo.png",Update 21/06/03
 0.0.0.0
 
 
@@ -227,7 +227,7 @@ https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_live_url/?item_id=telemag
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="",Télé-Mag Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Frnk9_zkblA
+plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJPpAAo.png" group-title="Anime",Teletoon
@@ -266,7 +266,7 @@ https://38-91-57-37.bestserver.online:5052/live16/AaGyFCJxK08mhOCytwqS3g/133100/
 
 # update link https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Nxsi2q5_N2g
+plugin://plugin.video.youtube/play/?video_id=DX_TwUqCiV8
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
