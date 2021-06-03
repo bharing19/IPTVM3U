@@ -5,6 +5,14 @@
 0.0.0.0
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Guillemot Burrow Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=gUE9QzQp2pE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Puffin Burrow (YT)
+plugin://plugin.video.youtube/play/?video_id=Gzl4WsHDvDQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Puffin Loafing Ledge (YT)
+plugin://plugin.video.youtube/play/?video_id=MBS1AESUk9U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Raven Nest Cam - Churchill, Wapusk National Park (YT)
 plugin://plugin.video.youtube/play/?video_id=A4Z4ZPyEWuY
@@ -406,7 +414,10 @@ plugin://plugin.video.youtube/play/?video_id=VOFTpk2O-8U
 plugin://plugin.video.youtube/play/?video_id=U8vEaOd34Pc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs of America Nursery Cam (YT)
-plugin://plugin.video.youtube/play/?video_id=5EhQ5i60BwU
+plugin://plugin.video.youtube/play/?video_id=ueazysZYw8E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs Mobility Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=QF2ojZmSTWs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Joe's Camera Lab | Live 360 video! (YT)
 plugin://plugin.video.youtube/play/?video_id=VLED6u0TBWE
