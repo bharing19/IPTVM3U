@@ -6,6 +6,8 @@ https://www.watchyour.tv/channels.php
 
 https://www.distro.tv/
 
+https://www.tikilive.com/watch/live
+
 https://stirr.com/watchnow
 
 https://app.plex.tv/desktop#!/media/tv.plex.provider.epg/guide?source=home
@@ -21,6 +23,10 @@ https://www.redbox.com/stream-free-live-tv
 http://teledunet.com/?username=tdn&password=tdn&server=teledunet.com&port=25461
 
 https://nowontv.info/
+
+https://yowi.tv/
+
+https://eja.tv/
 
 https://live.airy.tv/Live_Streams/
 https://webapp.airy.tv/TV_Shows/
