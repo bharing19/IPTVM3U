@@ -938,6 +938,9 @@ https://stream.goneupradio.com/radio/8000/radio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PDbmH6A.jpg" group-title="",In2MixxRadio
 https://listen.radioking.com/radio/384/stream/1613
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TPIoy7z.jpg" group-title="",Lyon Demain
+https://listen.radioking.com/radio/93388/stream/131857
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbZ1Wwe.png" group-title="",MEUSE FM - Verdun
 https://listen.radioking.com/radio/40990/stream/77509
 
@@ -1010,6 +1013,9 @@ https://listen.radioking.com/radio/514/stream/1940
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwYC5Tq.png" group-title="",Radio Mix Floor Urban
 https://listen.radioking.com/radio/248797/stream/293080
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMINv1X.png" group-title="",Radio Salam
+https://radiosalam.ice.infomaniak.ch/radiosalam-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
 https://trendsetter.streamakaci.com/trendsetter.mp3
