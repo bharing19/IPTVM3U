@@ -265,9 +265,6 @@ plugin://plugin.video.youtube/play/?video_id=cKw79MI2ZLc
 #EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://i.imgur.com/SPX7isy.png" group-title="France",France Inter (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=5JHIgJYE-78
 
-#EXTINF:-1 tvg-logo="http://www.gameblog.fr/images/icons/favicon-196x196.png" group-title="",Gameblog TV (TWITCH)
-plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
-
 # https://www.youtube.com/user/imineo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sNU8EVk.jpg" group-title="France",imineo (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=gTFN7gGX7mA
@@ -361,8 +358,7 @@ plugin://plugin.video.youtube/play/?video_id=O8w9dRAg28E
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrPgHQG.jpg" group-title="",Pyjamasques-2 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=tfBe7KXq3mA
 
-#EXTINF:-1 tvg-logo="https://radiocity-website.weebly.com/uploads/1/2/2/3/122378910/background-images/1278325930.png" group-title="",RCity (TWITCH)
-plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
+
 
 # https://www.twitch.tv/recalbox
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="facebook.com/recalbox.fr/",Recalbox.fr (TWITCH)
@@ -1110,6 +1106,8 @@ https://www.dailymotion.com/video/xxtuy6#tab_embed.m3u8
 plugin://plugin.video.dailymotion_com/?url=x6nlc5t&mode=playLiveVideo
 #EXTINF:-1 tvg-id="gameblog.fr" tvg-name="Gameblogtv FR" tvg-logo="https://i.imgur.com/Tcnv6cd.png" group-title="actualité informatique",Gameblog TV (Pour VLC)
 https://www.dailymotion.com/video/x6nlc5t#tab_embed.m3u8
+#EXTINF:-1 tvg-id="gameblog.fr" tvg-name="Gameblogtv FR" tvg-logo="https://i.imgur.com/Tcnv6cd.png" group-title="actualité informatique",Gameblog TV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
 
 # update link : #
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE 
@@ -1452,25 +1450,25 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/chunklist_w1
 #EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision ( opt-2)
 https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Action Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Action Movies
 https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Comedy Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Comedy Movies
 https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="",Rakuten Documentaries
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="documentaires",Rakuten Documentaries
 https://rakuten-documentaries-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Rakuten Euronews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="actualités",Rakuten Euronews
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="",Rakuten Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="Anime",Rakuten Family
 https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten Spotlight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Spotlight
 https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="France",Rakuten TV Shows
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : #
@@ -1478,19 +1476,25 @@ https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 
 
-# update link : https://www.dailymotion.com/video/x69a2vh #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG (DM)
+# https://www.radio-mrg.com/
+#EXTINF:-1 ttvg-id="radio-mrg.fr" tvg-name="MRG TV FR" vg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x69a2vh&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG (Pour VLC)
+#EXTINF:-1 tvg-id="radio-mrg.fr" tvg-name="MRG TV FR" tvg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG TV (Pour VLC)
 https://www.dailymotion.com/video/x69a2vh#tab_embed.m3u8
 
+# https://www.twitch.tv/rcity/
+#EXTINF:-1 tvg-id="radiocity.io" tvg-name="Radio City FR" tvg-logo="https://i.imgur.com/2qXOixz.png" group-title="Radio",RCity (TWITCH) (Non 24/7)
+plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
-http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
+# https://www.reveiltvsat.com/#reveiltv
+#EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
+https://edge3.vedge.infomaniak.com/livecast/ik:reveiltvdirect_1/manifest.m3u8?spark=135c348f-30cf-47b6-811d-bf49dc4344ac&token=
+#EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
+https://edge3.vedge.infomaniak.com/livecast/ik:reveiltvdirect_1/chunklist_w906199892.m3u8?spark=135c348f-30cf-47b6-811d-bf49dc4344ac&token=
 
-#EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="Musique",RFM TV
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FR" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="Musique",RFM TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fb8acef7631528c.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="Musique",RFM TV (OPT-2)
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FR" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="Musique",RFM TV (OPT-2) (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
 
 # update link : #
@@ -1498,7 +1502,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte (OPT-2)
 https://www.streamaway.net/fra/rmcd/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMC-decouverte.php
@@ -1603,20 +1607,28 @@ https://12858.cdn.mobibase.com/token/hls/733/258_5000k/playlist.m3u8?nva=2021030
 #EXTINF:-1 tvg-id="France" tvg-name="SYFY FRANCE" tvg-logo="https://i.imgur.com/yfJsA8w.png" group-title="France",SYFY FRANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b9dc00d2904b374.m3u8|User-Agent=stream
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="tebesud" tvg-logo="https://tebesud.awedia.com/images/header_logo.png" group-title="France",Tebesud
-https://edge-live-ger1.ovstream.com/hls/10/source.m3u8?token=live_10_8e81e157ea30d2e5e719dbc8ee1ee2f9
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="tebeo" tvg-logo="https://www.tebeo.bzh/images/header_logo.png" group-title="France",Tebeo
+# https://www.tebeo.bzh/le-direct
+#EXTINF:-1 tvg-id="tebeo.bzh" tvg-name="Tebeo FR" tvg-logo="https://i.imgur.com/M7tgUqh.png" group-title="régionale",Tebeo
 https://edge-live-ger1.ovstream.com/hls/11/720p.m3u8?token=live_11_b86506eef74c5a62d92fd3e9acdcc39b
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEsgkd6.png" group-title="",tvbreizh
+# https://www.tebesud.bzh/le-direct
+#EXTINF:-1 tvg-id="tebesud.bzh" tvg-name="Tebesud FR" tvg-logo="https://i.imgur.com/D0YNLzZ.png" group-title="régionale",Tebesud
+https://edge-live-ger1.ovstream.com/hls/10/source.m3u8?token=live_10_8e81e157ea30d2e5e719dbc8ee1ee2f9
+
+# https://www.telesud.com/
+#EXTINF:-1 tvg-id="Telesud.fr" tvg-name="Télésud FR" tvg-logo="https://i.imgur.com/JmjCw2t.jpg" group-title="régionale",TeleSud (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wrxqb&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Telesud.fr" tvg-name="Télésud FR" tvg-logo="https://i.imgur.com/JmjCw2t.jpg" group-title="régionale",TeleSud (Pour VLC)
+https://www.dailymotion.com/video/x7wrxqb#tab_embed.m3u8
+
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name=Tv Breizh FR"" tvg-logo="https://i.imgur.com/YEsgkd6.png" group-title="régionale",tvbreizh (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tvbreizh-27323/hls/04.m3u8
 
-# update link : https://www.dailymotion.com/video/x5aarnv #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="",Télévision Locale du Choletais (DM)
+# http://www.tlc-cholet.fr/le-direct
+#EXTINF:-1 tvg-id="tlc-cholet.fr" tvg-name="TLC FR" tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="régionale",Télévision Locale du Choletais (DM)
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
+#EXTINF:-1 tvg-id="tlc-cholet.fr" tvg-name="TLC FR" tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="régionale",Télévision Locale du Choletais (Pour VLC)
+https://www.dailymotion.com/video/x5aarnv#tab_embed.m3u8
 
 # update link : https://www.dailymotion.com/video/x128fjo #
 #EXTINF:-1 tvg-id="France" tvg-name="TéléGrenoble" tvg-logo="http://www.telegrenoble.net/images/interface/bannerLogo.png" group-title="France",TéléGrenoble (DM)
