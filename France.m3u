@@ -502,6 +502,8 @@ https://www.streamaway.net/fra/ab1/mono.m3u8|Referer=https://www.streamaway.net/
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a8205d6ff14ba90.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-2)
 http://212.224.98.211:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-3)
+https://www.streamaway.net/fra/action/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Action-fr.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hnt0pGG.jpg" group-title="documentaires",AEROSTAR.TV (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
@@ -602,10 +604,10 @@ plugin://script.module.7of9-live/play/453/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 7 FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="France",Bein sports max 7 FR (TT)
 plugin://script.module.7of9-live/play/454/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="",BET
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="",BET Film
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET Film
 https://www.streamaway.net/fra/bet/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Bet-fr.php
 
 # update link : # https://www.bfmtv.com/economie/en-direct/
@@ -616,7 +618,7 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/bfmbusiness-655624/hls/index.m3u8
 
 # update link : # https://www.bfmtv.com/paris/en-direct/
-#EXTINF:-1 tvg-id="France"  tvg-name="BMF Paris" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="France",BFM Paris
+#EXTINF:-1 tvg-id="BFMParis.fr"  tvg-name="BFM Paris FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="France",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
 
@@ -1230,22 +1232,30 @@ plugin://plugin.video.dailymotion_com/?url=x7z3zqa&mode=playLiveVideo
 
 
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (OPT-2)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (OPT-3)
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-2)
+https://www.streamaway.net/fra/m6/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/M6.php
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-3)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d3e4dff0ec193a.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-4)
+http://212.224.98.209:2200/EX/FR_M6_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-5)
+http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-6)
+http://flusonic-4.platinum-tv.com/M6/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (TT)
 plugin://script.module.7of9-live/play/321/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="M6 Music" tvg-logo="https://i.imgur.com/ILg9C6Z.png" group-title="France",M6 MUSIC
+#EXTINF:-1 tvg-id="France" tvg-name="M6 Music" tvg-logo="https://i.imgur.com/ILg9C6Z.png" group-title="France",M6 Musique
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a7ffd112c5a5fa1.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="MANGAS" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="France",MANGAS
+#EXTINF:-1 tvg-id="France" tvg-name="MANGAS" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="Anime",MANGAS
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="MANGAS" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="France",MANGAS (OPT-2)
+#EXTINF:-1 tvg-id="France" tvg-name="MANGAS" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="Anime",MANGAS (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/700a192f4d09363.m3u8|User-Agent=stream
 
 # update link : https://www.dailymotion.com/video/x6142rr #
@@ -1780,39 +1790,48 @@ plugin://plugin.video.dailymotion_com/?url=xuyx0h&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="viàVosges" tvg-logo="https://i.imgur.com/803evgT.png" group-title="France",viaVosges
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="vl-media" tvg-logo="https://vl-media.fr/wp-content/uploads/2019/05/Logo_clair_alpha.png" group-title="France",vl-media (DM)
+# https://vl-media.fr/tv/
+#EXTINF:-1 tvg-id="vl-media.fr" tvg-name="vl-media" tvg-logo="https://i.imgur.com/FIobeJB.png" group-title="Radio",vl-media (DM)
 plugin://plugin.video.dailymotion_com/?url=x35m6bz&mode=playLiveVideo
+#EXTINF:-1 tvg-id="vl-media.fr" tvg-name="vl-media" tvg-logo="https://i.imgur.com/FIobeJB.png" group-title="Radio",vl-media (Pour VLC)
+https://www.dailymotion.com/video/x35m6bz#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="Voyage tv FR"  tvg-logo="https://i.imgur.com/NNqInil.png" group-title="France",Voyage tv FR (TT)
-plugin://script.module.7of9-live/play/765/play.pvr
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OtiwhZK.jpg" group-title="",Warner
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="Warner TV FR" tvg-logo="https://i.imgur.com/OtiwhZK.jpg" group-title="thématique",Warner
 https://www.streamaway.net/fra/warner/mono.m3u8|Referer=https://www.streamaway.net/fr/Warner.php
 
-# update link : https://www.dailymotion.com/video/x7mxymy #
-#EXTINF:-1 tvg-logo="https://operator-front-static-cdn.winamax.fr/img/style/v2/common/logo-highlight.png" group-title="",Winamax TV (DM)
+# https://www.dailymotion.com/video/x7mxymy https://www.twitch.tv/winamaxsport/
+#EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7mxymy&mode=playLiveVideo
+#EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (Pour VLC)
+https://www.dailymotion.com/video/x7mxymy#tab_embed.m3u8
+#EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=644597699&amp;mode=play
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
-http://51.15.3.161:8080/W9/index.m3u8?token=test
-#EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9 (OPT-2)
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9
+http://185.180.15.16:2200/EX/FR_W9_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/02bf517e59ac22a.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9 (OPT-3)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9 (TT)
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (OPT-3)
+https://www.streamaway.net/fra/w9/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/W9-fr.php
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (OPT-4)
+http://flusonic-4.platinum-tv.com/W9/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (TT)
 plugin://script.module.7of9-live/play/503/play.pvr
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Wéo" tvg-logo="https://www.weo.fr/wp-content/themes/weo2017/build/img/logo_footer.png" group-title="France",Wéo (DM)
+# https://www.weo.fr/direct/
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/dpv7bAU.png" group-title="régionale",Wéo (DM)
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Wéo" tvg-logo="https://www.weo.fr/wp-content/themes/weo2017/build/img/logo_footer.png" group-title="France", WéoPicardie (DM)
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/dpv7bAU.png" group-title="régionale",Wéo (Pour VLC)
+https://www.dailymotion.com/video/x62islg#tab_embed.m3u8
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/zD4NSNn.jpg" group-title="régionale", WéoPicardie (DM)
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/zD4NSNn.jpg" group-title="régionale", WéoPicardie (Pour VLC)
+https://www.dailymotion.com/video/x63085w#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="ZEE MAGIC " tvg-logo="https://i.imgur.com/BYlkE13.png" group-title="France",ZEE MAGIC 
+
+#EXTINF:-1 tvg-id="ZeeMagic.fr" tvg-name="Zee Magic FR " tvg-logo="https://i.imgur.com/BYlkE13.png" group-title="thématique",Zee Magic
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0304b8f74a6f312.m3u8|User-Agent=stream
 
 
