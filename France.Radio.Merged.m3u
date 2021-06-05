@@ -989,6 +989,9 @@ https://niceradio.ice.infomaniak.ch/niceradio.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHrF3Un.png" group-title="",Radio - Chansons oubliees ou presque
 https://manager2.creativradio.com:3555/stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOuXIWE.png" group-title="",Radio Feel Good
+https://radiofeelgood.radioca.st/stream.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9S0nqet.png" group-title="",RADIO FMT
 https://listen.radioking.com/radio/408082/stream/460543
 
