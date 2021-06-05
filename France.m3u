@@ -559,17 +559,24 @@ https://www.dailymotion.com/video/x6d0j0c#tab_embed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-# update link : https://www.azur-tv.fr/live/  #
-#EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
+# https://www.azur-tv.fr/live/  
+# https://www.dailymotion.com/video/x13x1q2
+#EXTINF:-1 tvg-id="azur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/6rdmJhj.png" group-title="régionale",Azur TV (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
+#EXTINF:-1 tvg-id="azur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/6rdmJhj.png" group-title="régionale",Azur TV (Pour VLC) (GEO)
+https://www.dailymotion.com/video/x13x1q2#tab_embed.m3u8
 
-# update link : https://www.azur-tv.fr/live/ https://www.dailymotion.com/video/x630sku #
-#EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur Provence (DM)
+# https://www.dailymotion.com/video/x630sku #
+#EXTINF:-1 tvg-id="provenceazur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/nnUvVWa.png" group-title="régionale",Azur Provence (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
+#EXTINF:-1 tvg-id="provenceazur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/nnUvVWa.png" group-title="régionale",Azur Provence (Pour VLC) (GEO)
+https://www.dailymotion.com/video/x630sku#tab_embed.m3u8
 
-# update link : https://www.azur-tv.fr/live/ https://www.dailymotion.com/video/x630wrb #
-#EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur VAR (DM)
+# https://www.dailymotion.com/video/x630wrb 
+#EXTINF:-1 tvg-id="varazur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/U8FasGo.png" group-title="régionale",Azur VAR (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
+#EXTINF:-1 tvg-id="varazur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/U8FasGo.png" group-title="régionale",Azur VAR (Pour VLC) (GEO)
+https://www.dailymotion.com/video/x630wrb#tab_embed.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="Musique",BBlack-africa	
