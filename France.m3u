@@ -506,7 +506,7 @@ http://212.224.98.211:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-3)
 https://www.streamaway.net/fra/action/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Action-fr.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hnt0pGG.jpg" group-title="documentaires",AEROSTAR.TV (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/Hnt0pGG.jpg" group-title="documentaires",AEROSTAR.TV (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
 
 # https://www.alsace20.tv/Live.html 
@@ -525,7 +525,7 @@ http://212.224.98.212:2200/EX/ANIMAUX-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb0.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="France",Amuse Animation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte 
@@ -816,30 +816,38 @@ plugin://script.module.7of9-live/play/332/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfAtzpw.png" group-title="",COMEDY CENTRAL
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/tech_comedycentral_ott_mobile-14552503/hls/index.m3u8
 
-# update link :  https://www.dailymotion.com/CorsaireTV #
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="France",CorsaireTV (DM)
+# https://www.corsairetv.fr/
+#EXTINF:-1 tvg-id="corsairetv.fr" tvg-name="CorsaireTV FR" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="régionale",CorsaireTV (DM)
 plugin://plugin.video.dailymotion_com/?url=x69bhnf&mode=playLiveVideo
+#EXTINF:-1 tvg-id="corsairetv.fr" tvg-name="CorsaireTV FR" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="régionale",CorsaireTV (Pour VLC)
+https://www.dailymotion.com/video/x69bhnf#tab_embed.m3u8
 
-
-#EXTINF:-1 tvg-id="France" tvg-name="CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="France",CNEWS 
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8
-# update link : https://www.cnews.fr/le-direct #
-#EXTINF:-1 tvg-id="France" tvg-name="CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="France",CNEWS (DM)
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (OFFLINE)
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8
+# https://www.cnews.fr/le-direct #
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (DM)
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
-#EXTINF:-1 tvg-id="France" tvg-name="CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="France",CNEWS (TT)
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (Pour VLC)
+https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (TT)
 plugin://script.module.7of9-live/play/751/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pvHZLru.jpg" group-title="",Crime District
+#EXTINF:-1  tvg-id="CrimeDistrict.fr" tvg-name="Crime District FR" tvg-logo="https://i.imgur.com/pvHZLru.jpg" group-title="thématique",Crime District
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4d0ee106c370505.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (OPT-2)
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar
+https://www.streamaway.net/fra/d17/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Directstar.php
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-2)
 http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-3)
+http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-4)
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 # update link : # https://www.dailymotion.com/video/x5gv5v0
-#EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (DM) (GEO)
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
-#EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (TT)
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (TT)
 plugin://script.module.7of9-live/play/670/play.pvr
 
 
