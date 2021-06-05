@@ -5,16 +5,18 @@
 plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
 
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB 3 BE" tvg-logo="https://i.imgur.com/uUsU7ho.jpg" group-title="généraliste",AB3
+http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+
+# https://www.antennecentre.tv/ 
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="généraliste",Antenne Centre
+https://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="généraliste",Antenne Centre (OPT-2)
+https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8
+https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=800000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre
-https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
-
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre (OPT-2)
-https://tvl-live-prp.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8
-
-# update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="Belgique",Bel RTL
+#EXTINF:-1 tvg-id="Rtl.be" tvg-name="Bel RTL" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="généraliste",Bel RTL
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 
 # update link : #
