@@ -555,6 +555,9 @@ https://www.dailymotion.com/video/x6d0j0c#tab_embed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto
+http://flusonic-4.platinum-tv.com/AUTOMOTO/tracks-v1a1/mono.m3u8?token=test
+
 # https://www.azur-tv.fr/live/  
 # https://www.dailymotion.com/video/x13x1q2
 #EXTINF:-1 tvg-id="azur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/6rdmJhj.png" group-title="régionale",Azur TV (DM) (GEO)
