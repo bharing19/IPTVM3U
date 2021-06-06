@@ -780,6 +780,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0e119ddd1c2717
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="thématique",Cine+ Classic (TT)
 plugin://script.module.7of9-live/play/335/play.pvr
 
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="Ciné+ Club FR" tvg-logo="https://i.imgur.com/UWYgMFw.png" group-title="",Cine+ Club
+https://www.streamaway.net/fra/club/mono.m3u8|Referer=https://www.streamaway.net/fr/Club.php
+
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion 
 https://www.streamaway.net/fra/emotion/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Emotion-fr.php
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion (TT)
@@ -801,9 +804,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b441e8cc4dabc2
 #EXTINF:-1 tvg-id="France" tvg-name="CINE POLAR" tvg-logo="https://i.imgur.com/h9At2gv.png" group-title="thématique",CINE+ POLAR
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d104157fe7529ea.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE PREMIER" tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="thématique",CINE+ PREMIER
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Ciné+ Premier FR" tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="thématique",Cine+ Premier
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/63a13b236452d9b.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Premier" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="thématique",Cine+ Premier (TT)
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Ciné+ Premier FR" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="thématique",Cine+ Premier (TT)
 plugin://script.module.7of9-live/play/334/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/booxBLK.jpg" group-title="Musique",Classical Harmony
@@ -816,12 +819,12 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/ClubbingTV_live/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Cokaïn.fr" tvg-logo="https://d1qq3upiyp649r.cloudfront.net/cokain/design/Logo.png" group-title="",Cokain (DM) (Offline)
 plugin://plugin.video.dailymotion_com/?url=x7qp7mo&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comédie Plus FR" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="Humour",Comedie+
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d5d502f8f7e928.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+ (TT)
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comédie Plus FR" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="Humour",Comedie+ (TT)
 plugin://script.module.7of9-live/play/332/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfAtzpw.png" group-title="",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central FR" tvg-logo="https://i.imgur.com/FfAtzpw.png" group-title="Humour",COMEDY CENTRAL (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/tech_comedycentral_ott_mobile-14552503/hls/index.m3u8
 
 # https://www.corsairetv.fr/
