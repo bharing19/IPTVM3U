@@ -480,6 +480,8 @@ https://3abn-live.akamaized.net/hls/live/2010546/French/stream03/streamPlaylist.
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
 http://212.224.98.208:2200/EX/FR_6Ter_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter (OPT-2)
+https://www.streamaway.net/fra/6ter/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/6ter-fr.php
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/22-6ter/22-6ter.php
 
@@ -578,7 +580,7 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 https://www.dailymotion.com/video/x630wrb#tab_embed.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="Musique",BBlack-africa	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="Musique",BBlack-africa
 https://edge8.vedge.infomaniak.com/livecast/bblackafrica/chunklist_w2121971628.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="Musique",Bblack! Africa (OPT-2)
 http://connectiktv.ddns.me:8080/bblack/index.m3u8
@@ -755,6 +757,8 @@ plugin://script.module.7of9-live/play/316/play.pvr
 
 #EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="https://i.imgur.com/Zxx5bKn.jpg" group-title="Anime",Cartoon Network
 https://www.streamaway.net/fra/cn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CN-fr.php
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="https://i.imgur.com/Zxx5bKn.jpg" group-title="Anime",Cartoon Network (OPT-2)
+http://212.224.98.211:2200/EX/CARTOON_NETWORK-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
 
 # https://francais.cgtn.com/
 #EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais
@@ -771,31 +775,35 @@ https://www.streamaway.net/fra/ch25/tracks-v1a1/mono.m3u8|Referer=https://www.st
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25 (OPT-2)
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="thématique",CINE+ CLASSIC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0e119ddd1c27174.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Classic" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="France",Cine+ Classic (TT)
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="thématique",Cine+ Classic (TT)
 plugin://script.module.7of9-live/play/335/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Emotion" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="France",Cine+ Emotion (TT)
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion 
+https://www.streamaway.net/fra/emotion/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Emotion-fr.php
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion (TT)
 plugin://script.module.7of9-live/play/333/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE FAMIZ" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="France",CINE+ FAMIZ
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
+https://www.streamaway.net/fra/famiz/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Famiz.php
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d436385320ba853.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Frisson" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="France",Cine+ Frisson (TT)
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson
+https://www.streamaway.net/fra/frisson/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frisson.php
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson (TT)
 plugin://script.module.7of9-live/play/320/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE FX" tvg-logo="https://i.imgur.com/1ddzjTh.png" group-title="France",CINE+ FX
+#EXTINF:-1 tvg-id="France" tvg-name="CINE FX" tvg-logo="https://i.imgur.com/1ddzjTh.png" group-title="thématique",CINE+ FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b441e8cc4dabc2e.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE POLAR" tvg-logo="https://i.imgur.com/h9At2gv.png" group-title="France",CINE+ POLAR
+#EXTINF:-1 tvg-id="France" tvg-name="CINE POLAR" tvg-logo="https://i.imgur.com/h9At2gv.png" group-title="thématique",CINE+ POLAR
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d104157fe7529ea.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-id="France" tvg-name="CINE PREMIER" tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="France",CINE+ PREMIER
+#EXTINF:-1 tvg-id="France" tvg-name="CINE PREMIER" tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="thématique",CINE+ PREMIER
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/63a13b236452d9b.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Premier" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="France",Cine+ Premier (TT)
+#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Premier" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="thématique",Cine+ Premier (TT)
 plugin://script.module.7of9-live/play/334/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/booxBLK.jpg" group-title="Musique",Classical Harmony
@@ -844,6 +852,8 @@ http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-4)
 http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-5)
+http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 # update link : # https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
