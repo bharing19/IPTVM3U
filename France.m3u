@@ -619,9 +619,9 @@ plugin://script.module.7of9-live/play/453/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 7 FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="France",Bein sports max 7 FR (TT)
 plugin://script.module.7of9-live/play/454/play.pvr
 
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
-
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET
+http://212.224.98.210:2200/EX/BET-fr/tracks-v1a1/mono.m3u8?token=null
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 #EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET Film
 https://www.streamaway.net/fra/bet/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Bet-fr.php
 
@@ -718,11 +718,11 @@ https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="canal32.fr" tvg-name="Canal 32 FR" tvg-logo="https://i.imgur.com/guDUQOD.jpg" group-title="régionale",Canal 32
 https://edge1.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="Anime",Canal J
+#
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="Anime",Canal J
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-language="French" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="Anime",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="Anime",Canal J (OPT-2)
+http://212.224.98.210:2200/EX/CANAL_J-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ 
 http://flusonic-4.platinum-tv.com/canal+/tracks-v1a1/mono.m3u8?token=test
@@ -766,8 +766,9 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://i.imgur.com/THErPIU.jpg" group-title="documentaires",Chasse & Peche (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/04.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://i.imgur.com/THErPIU.jpg" group-title="documentaires",Chasse & Peche
+http://212.224.98.210:2200/EX/CHASSE_ET_PECHE-fr/tracks-v1a1/mono.m3u8?token=null
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/04.m3u8
 
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25
 https://www.streamaway.net/fra/ch25/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Cherie25-fr.php
@@ -833,7 +834,8 @@ plugin://plugin.video.dailymotion_com/?url=x69bhnf&mode=playLiveVideo
 #EXTINF:-1 tvg-id="corsairetv.fr" tvg-name="CorsaireTV FR" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="régionale",CorsaireTV (Pour VLC)
 https://www.dailymotion.com/video/x69bhnf#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (OFFLINE)
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS
+http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8
 # https://www.cnews.fr/le-direct #
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (DM)
@@ -1137,6 +1139,8 @@ plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE 
 https://www.streamaway.net/fra/gameone/mono.m3u8|Referer=https://www.streamaway.net/fr/Gameone-fr.php
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/index.m3u8
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE (OPT-2)
+http://212.224.98.210:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One+ FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE + (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/gameoneplus1-14552220/hls/index.m3u8
@@ -1211,6 +1215,8 @@ http://live.creacast.com/iltv/high/playlist.m3u8
 http://live.creacast.com/iltv/high/chunklist_w1251223309.m3u8
 #http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+ FR" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="Sport",Infosport+
+http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+ FR" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="Sport",Infosport+ (TT)
 plugin://script.module.7of9-live/play/721/play.pvr
 
@@ -1236,6 +1242,8 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-2)
 http://flusonic-4.platinum-tv.com/LCI/tracks-v1a1/mono.m3u8?token=test
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/lcimobile-30789/hls/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-3)
+http://stream.tvtap.live:8081/live/lci.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (TT)
 plugin://script.module.7of9-live/play/753/play.pvr
 
