@@ -516,6 +516,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
 http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/RucdQdp.jpg" group-title="régionale",Alsace 20
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/index.m3u8
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/RucdQdp.jpg" group-title="régionale",Alsace 20 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/manifest.mpd
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/RucdQdp.jpg" group-title="régionale",Alsace 20 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/manifest_w1927324376.mpd
 
 # https://www.alpedhuez.com/ 
 #EXTINF:-1 tvg-id="AlpedHuez.fr" tvg-name="Alpe d’Huez" tvg-logo="https://i.imgur.com/vX6I8rY.png" group-title="Sport",Alpe d’Huez (OFFLINE)
@@ -553,7 +557,6 @@ plugin://plugin.video.dailymotion_com/?url=x6d0j0c&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVCJzoB.jpg" group-title="Séance publique",Assemblée nationale - Séance publique (Pour VLC)
 https://www.dailymotion.com/video/x6d0j0c#tab_embed.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -579,7 +582,6 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 #EXTINF:-1 tvg-id="varazur-tv.fr" tvg-name="Azur TV" tvg-logo="https://i.imgur.com/U8FasGo.png" group-title="régionale",Azur VAR (Pour VLC) (GEO)
 https://www.dailymotion.com/video/x630wrb#tab_embed.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="Musique",BBlack-africa
 https://edge8.vedge.infomaniak.com/livecast/bblackafrica/chunklist_w2121971628.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="Musique",Bblack! Africa (OPT-2)
@@ -590,7 +592,6 @@ https://edge8.vedge.infomaniak.com/livecast/bblackcaribbean/chunklist_w214652858
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pudkxwh.png" group-title="Musique",BBlack-classic
 https://edge8.vedge.infomaniak.com/livecast/bblackclassik/chunklist_w620926095.m3u8?sd=10&rebase=on
-
 
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
 https://www.streamaway.net/fra/bein1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport1-fr.php
