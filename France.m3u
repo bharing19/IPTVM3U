@@ -956,29 +956,36 @@ plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD) (Off LIne)
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",Evandis
+# https://evandis-gospel.tv/
+#EXTINF:-1 tvg-id="evandisgospel.fr" tvg-name="Evandis Gospel Tv FR" tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="Religion",Evandis Gospel Tv
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="evandisgospel.fr" tvg-name="Evandis Gospel Tv FR" tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="Religion",Evandis Gospel Tv
+https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/str_evandis_evandis/str_evandis_evandis_1080p/chunks.m3u8
 
 # https://www.dailymotion.com/feria-rocks
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hOkyqwA.png" group-title="",Feria TV (DM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOkyqwA.png" group-title="Musique",Feria TV (DM) (OFFLINE)
 plugin://plugin.video.dailymotion_com/?url=x7y66yv&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYUemTo.jpg" group-title="",Foot+
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="Foot+ 24/24 FR" tvg-logo="https://i.imgur.com/ZYUemTo.jpg" group-title="Sport",Foot+
 https://www.streamaway.net/fra/foot/mono.m3u8|Referer=https://www.streamaway.net/fr/Foot.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info
+# https://www.francetvinfo.fr/en-direct/tv.html
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
-# update link : https://www.dailymotion.com/video/x4rdeu6 #
-#EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info (DM)
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
-
-#EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",franceinfo (direct radio) (DM)
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (Pour VLC)
+https://www.dailymotion.com/video/x4rdeu6#tab_embed.m3u8
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="Radio",France Info (direct radio) (DM)
 plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="Radio",France Info (direct radio) (Pour VLC)
+https://www.dailymotion.com/video/x26eox4#tab_embed.m3u8
 
-# update link : https://www.franceinter.fr/direct #
-#EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/img/apple-touch-icon-180x180-precomposed.png" group-title="France",France Inter (DM)
+# https://www.franceinter.fr/direct
+#EXTINF:-1 tvg-id="franceinter.fr" tvg-name="France Inter FR" tvg-logo="https://i.imgur.com/vzIOWzc.png" group-title="Radio",France Inter (DM)
 plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
-
+#EXTINF:-1 tvg-id="franceinter.fr" tvg-name="France Inter FR" tvg-logo="https://i.imgur.com/vzIOWzc.png" group-title="Radio",France Inter (Pour VLC)
+https://www.dailymotion.com/video/x17qw0a#tab_embed.m3u8
 
 
 # update link : #
@@ -1042,18 +1049,22 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/dcba938c62f753
 https://www.streamaway.net/fra/fr24/03.m3u8|Referer=https://www.streamaway.net/fr/France24.php
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/France24_fr_live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UuDd0g8.png" group-title="Radio",France Bleu Elsass (DM)
+# https://www.francebleu.fr/loisirs/evenements/suivez-les-emissions-de-france-bleu-elsass-en-direct-video-1512463237
+#EXTINF:-1 tvg-id="francebleu.fr" tvg-name="France Bleu Elsass FR" tvg-logo="https://i.imgur.com/UuDd0g8.png" group-title="Radio",France Bleu Elsass (lundi au vendredi de 6h30 à 18h) (DM)
 plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playLiveVideo
+#EXTINF:-1 tvg-id="francebleu.fr" tvg-name="France Bleu Elsass FR" tvg-logo="https://i.imgur.com/UuDd0g8.png" group-title="Radio",France Bleu Elsass (lundi au vendredi de 6h30 à 18h) (Pour VLC)
+https://www.dailymotion.com/video/x72b0ey#tab_embed.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IR3DJRY.png" group-title="Radio",La matinale de France Bleu Paris ( 7:00 @ 8:40 AM ) (DM)
 plugin://plugin.video.dailymotion_com/?url=x7qhskn&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDaFQex.jpg" group-title="Radio",La matinale de France Bleu Saint-Étienne Loire ( 7:00 @ 8:40 AM ) (DM)
 plugin://plugin.video.dailymotion_com/?url=x7qhse0&mode=playLiveVideo
 
 # update link : #
-#EXTINF:-1 tvg-id="francophonie24-tv.fr" tvg-name="Francophonie 24 FR" tvg-logo="https://i.imgur.com/uWmJHpb.png" group-title="",Francophonie 24
+#EXTINF:-1 tvg-id="francophonie24-tv.fr" tvg-name="Francophonie 24 FR" tvg-logo="https://i.imgur.com/uWmJHpb.png" group-title="actualité culturelle et politique",Francophonie 24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w124901119_b5000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="francophonie24-tv.fr" tvg-name="Francophonie 24 FR" tvg-logo="https://i.imgur.com/uWmJHpb.png" group-title="",Francophonie 24
+#EXTINF:-1 tvg-id="francophonie24-tv.fr" tvg-name="Francophonie 24 FR" tvg-logo="https://i.imgur.com/uWmJHpb.png" group-title="actualité culturelle et politique",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #http://mv1.tvfrancophonie.org/live/Stream1/chunklist_w1021645195.m3u8
 
@@ -1191,7 +1202,7 @@ plugin://script.module.7of9-live/play/326/play.pvr
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire FR" tvg-logo="https://i.imgur.com/vspU8Zl.png" group-title="documentaires",Histoire TV
 http://212.224.98.210:2200/EX/HISTOIRE-fr/tracks-v1a1/mono.m3u8?token=null
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/04.m3u8
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire FR" tvg-logo="https://histoire.fr/sites/default/files/histoire_logo_0.png" group-title="documentaires", Histoire TV (OPT-2)
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire FR" tvg-logo="https://histoire.fr/sites/default/files/histoire_logo_0.png" group-title="documentaires",Histoire TV (OPT-2)
 https://www.streamaway.net/fra/histo/index.m3u8|Referer=https://www.streamaway.net/fr/Histoire-fr.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvNmSKM.jpg" group-title="France",Humanity 
@@ -1282,8 +1293,8 @@ plugin://plugin.video.dailymotion_com/?url=x6hczsw&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="L'Equipe Live 4 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 Live 4 (DM)
 plugin://plugin.video.dailymotion_com/?url=x3x5e37&mode=playLiveVideo
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Musique",Lèeekô TV
+# http://leeeko.tv/
+#EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Musique",Lèeekô TV (OFFLINE)
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist_w1491857041.m3u8
 
 # update link : #
@@ -1296,7 +1307,7 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HR0GeiL.png" group-title="",LMTV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7x3gqy&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vxJd9Za.png" group-title="",LuckyJack.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxJd9Za.png" group-title="",LuckyJack.tv (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/LuckyJack_live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKgMpCL.png" group-title="",LUXE.TV
