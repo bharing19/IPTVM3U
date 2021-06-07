@@ -1194,16 +1194,13 @@ http://212.224.98.210:2200/EX/HISTOIRE-fr/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire FR" tvg-logo="https://histoire.fr/sites/default/files/histoire_logo_0.png" group-title="documentaires", Histoire TV (OPT-2)
 https://www.streamaway.net/fra/histo/index.m3u8|Referer=https://www.streamaway.net/fr/Histoire-fr.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="HD1 FR"  tvg-logo="https://i.imgur.com/z0d1bD2.png" group-title="France",HD1 FR (TT)
-plugin://script.module.7of9-live/play/324/play.pvr
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvNmSKM.jpg" group-title="France",Humanity 
 https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #
-EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 News
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 FR (GEO)
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 FR (GEO)
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 #EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 FR (OPT-2) (OFFLINE)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
