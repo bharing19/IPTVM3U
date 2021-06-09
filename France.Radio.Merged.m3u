@@ -914,6 +914,9 @@ http://signal.cno-radio.fr:8070/cnoradio-96.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CoR8vmQ.png" group-title="",D!CI Radio
+https://dici.ice.infomaniak.ch/dici-96.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BdP5kWP.png" group-title="",DIRECT FM Metz 
 https://directfm.ice.infomaniak.ch/directfm-128.mp3
 
@@ -940,6 +943,12 @@ https://listen.radioking.com/radio/384/stream/1613
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPIoy7z.jpg" group-title="",Lyon Demain
 https://listen.radioking.com/radio/93388/stream/131857
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlDGN7F.png" group-title="",Maritima Etang De Berre
+https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlDGN7F.png" group-title="",Maritima Marseille - Aix
+https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbZ1Wwe.png" group-title="",MEUSE FM - Verdun
 https://listen.radioking.com/radio/40990/stream/77509
