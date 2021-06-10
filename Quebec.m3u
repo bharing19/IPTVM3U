@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="nologo.png",Update 21/06/03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/06/10
 0.0.0.0
 
 
@@ -79,7 +79,7 @@ plugin://plugin.video.youtube/play/?video_id=v1uTwSn28Rc
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
 
 # https://savoir.tv/endirect
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo=https://i.imgur.com/27PqVAR.png"" group-title="éducative",Canal Savoir (360p)
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="éducative",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="CanalVie.ca" tvg-name="Canal Vie CA" tvg-logo="https://i.imgur.com/IIQLdik.png" group-title="thématique",Canal Vie (720p)
