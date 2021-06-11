@@ -149,32 +149,52 @@ https://www.streamaway.net/fra/rdi/master_2500.m3u8|Referer=https://www.streamaw
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI Audio
 https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Est-Quebec (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Est-Quebec (Rimouski) (720p)
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaEstrie.ca" tvg-name="ICI Radio Canada Estrie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Estrie (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Est-Quebec (Rimouski) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Rimouski
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstrie.ca" tvg-name="ICI Radio Canada Estrie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Estrie (Sherbrooke) (720p)
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaMauricie.ca" tvg-name="ICI Radio Canada Mauricie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Mauricie (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaMauricie.ca" tvg-name="ICI Radio Canada Mauricie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Mauricie (Trois-Rivières) (720p)
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="ICI Radio Canada Montreal CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Montreal (1080p)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="ICI Radio Canada Montreal CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Montreal (1080p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Montr%C3%A9al
 #EXTINF:-1 tvg-id="ICIRadioCanadaOttawa-Gatineau.ca" tvg-name="ICI Radio Canada Ottawa-Gatineau CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Ottawa-Gatineau (720p)
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaOttawa-Gatineau.ca" tvg-name="ICI Radio Canada Ottawa-Gatineau CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Ottawa-Gatineau (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Ottawa
 #EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Quebec (720p)
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Quebec (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Qu%C3%A9bec
 #EXTINF:-1 tvg-id="ICIRadioCanadaSaguenay.ca" tvg-name="ICI Radio Canada Saguenay CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title=""généraliste,ICI Tele Saguenay (720p)
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Acadie (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Acadie (Moncton) (720p)
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Ontario (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Acadie (Moncton) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Moncton
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Ontario (Toronto) (720p)
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Alberta (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Ontario (Toronto) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Toronto
+#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Alberta (Edmonton) (720p)
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Saskatchewan (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Alberta (Edmonton) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Edmonton
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Saskatchewan (Regina) (720p)
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele CB-Yukon (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Saskatchewan (Regina) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Regina
+#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele CB-Yukon (Vancouver) (720p)
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Manitoba (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele CB-Yukon (Vancouver) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Vancouver
+#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Manitoba (Winnipeg) (720p)
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Manitoba (Winnipeg) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Winnipeg
 
 # update link: https://icitelevision.ca/ #
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="généraliste",ICI TV (720p)
