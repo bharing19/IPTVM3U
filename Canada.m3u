@@ -201,7 +201,7 @@ http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IMCoot2.jpg" group-title="",Cartoon Network Canada (TT1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IMCoot2.jpg" group-title="Kids",Cartoon Network Canada (TT1)
 plugin://plugin.video.tvone1112/play/1971/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
@@ -317,19 +317,19 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/bd288d1c74c498
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",CP 24 (TT1)	  
 plugin://plugin.video.tvone1112/play/1914/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | Floor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680605/1242843915001_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680606/1242843915001_5/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680607/1242843915001_6/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680608/1242843915001_7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3u8
 
 
@@ -528,23 +528,23 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids (TT1)
 plugin://plugin.video.tvone1112/play/2110/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0twl6Zm.png" group-title="",Leafs TV (TT1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0twl6Zm.png" group-title="Sport",Leafs TV (TT1)
 plugin://plugin.video.tvone1112/play/1928/play.pvr
 
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="",Legislative Assembly Alberta (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (YT)
 plugin://plugin.video.youtube/play/?video_id=sibQghEL2cY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/730zfnG.png" group-title="Canada",Legislative Assembly British Columbia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/730zfnG.png" group-title="Legislative",Legislative Assembly British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/b36211f9/b36211f9_1_1229000/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uLTsHto.png" group-title="Canada",Legislative Assembly TV Nunavut
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLTsHto.png" group-title="Legislative",Legislative Assembly TV Nunavut
 http://origin-http-delivery.isilive.ca/live/nunavut/live-flo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada",Legislative Assembly of Ontario
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Legislative",Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada",Legislative Assembly of Ontario (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Legislative",Legislative Assembly of Ontario (OPT-2)
 https://lin10.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTVk0fk.png" group-title="",► LIFETIME CANADA
@@ -634,26 +634,26 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/b0e5bb72ae995c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h535oXl.png" group-title="",SPACE (CTV ScI-Fy) (TT1)
 plugin://plugin.video.tvone1112/play/1933/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="",Sportsnet 360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="Sport",Sportsnet 360
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312d.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="",Sportsnet Ontario
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/19bf097b3b8d3fa.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Canada",Sportsnet Ontario 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario 
 http://stream.tvtap.live:8081/live/sno.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Canada",Sportsnet Ontario (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario (TT)
 pplugin://script.module.7of9-live/lay/214/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportsnet One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c91.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportsnet One 
 http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title=""portrtsnet One (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportrtsnet One (TT)
 plugin://script.module.7of9-live/play/417/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sportrtsnet World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",Sportrtsnet World
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0d81e7bf643061.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Canada",Sportsnet World (TT) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",Sportsnet World (TT) (OFFLINE)
 plugin://script.module.7of9-live/play/215/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkAqXSg.png" group-title="Canada",TAG TV
@@ -1106,8 +1106,6 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1298538-1/playlist.m3u8
 https://temp4.isilive.ca/live/gnb/francais/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-ONT.png?raw=true" group-title="Politique",Assemblée législative de l'Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Politique",Assemblée nationale du Québec
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/7f07867f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-BC.png?raw=true" group-title="Politics",Legislative Assembly of British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/09cdfb67/09cdfb67_1_717000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-MB.png?raw=true" group-title="Politics",Legislative Assembly of Manitoba
