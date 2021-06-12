@@ -1,9 +1,129 @@
-﻿#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 ,update 21/05/09
+#EXTINF:-1 ,update 21/06/12
 0.0.0.0
+
+#EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-chno="696" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Explore",Slow TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5331d5fb753499095a00045a" tvg-chno="246" tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="News + Opinion",TYT Network
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-chno="736" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",GLORY Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="545943f1c9f133a519bbac92" tvg-chno="488" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="Comedy",MST3K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="224" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News + Opinion",Bloomberg TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5595e43c66ace1652e63c6a2" tvg-chno="194" tvg-logo="https://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="Entertainment",Awesomeness TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="55a6a3275616b6240c26f393" tvg-chno="542" tvg-logo="https://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="Classic TV",Shout! Factory TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-chno="236" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion",NewsmaxTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="56283c8769ba54637dea0464" tvg-chno="228" tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="News + Opinion",CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-chno="226" tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png" group-title="News + Opinion",Cheddar News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-chno="692" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Explore",Naturescape
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,CBC News (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:-1,Now This (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
+#EXTINF:-1,Filmrise True Crime (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1,All time (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
+#EXTINF:-1,Filmrise Classic tv (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1,People are Awesome (Canada)
+https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,HollyWire (Canada)
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,TMZ (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
+#EXTINF:-1,Players TV (Canada)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bein Sport Xtra (Canada)
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,Football daily (Canada)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1,FTF (Canada)
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Insight TV (Canada)
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,Outside TV (Canada)
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Adventure Sports Network (Canada)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1,Waypoint TV (Canada)
+https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,World Poker Tour (Canada)
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,PowerNation (Canada)
+https://rtmtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tastemade (Canada)
+https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Weatherspy (Canada)
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Stingray Naturescape (Canada)
+https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,eScapes (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+#EXTINF:-1,Kidoodle TV (Canada)
+https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Moonbug (Canada) geo?
+https://moonbug-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Pet Collective (Canada)
+https://the-pet-collective-international-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FailArmy (Canada)
+https://failarmy-international-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,DryBar Comedy (Canada)
+https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,dead Americas funniest home Videos (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/master.m3u8
+#EXTINF:-1,Inwonder (Canada)
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mav TV (Canada)
+https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Deal or no Deal (Canada)
+https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fuel TV (Canada)
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Motorvision (Canada)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:-1,MHZ (Canada)
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Filmrise free movies (Canada)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1,Dust (Canada)
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Asylum (Canada) alt
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1,The Preview Channel (Canada) GEO
+https://previewchannel-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Design Network (Canada)
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Hollywire (Canada)
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Degrassi the next generation (Canada)
+http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Haunt TV (Canada) Geo
+https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Jack Hannah Channel (Canada)
+https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nashville (Canada) Geo
+https://nashville-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,CrimeTime (Canada) Geo
+https://bamcanada-crimetime-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,Baywatch (Canada)
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+
+
+#######
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/6dbd87da999998e.m3u8|User-Agent=stream
@@ -63,9 +183,9 @@ plugin://plugin.video.tvone1112/play/1909/play.pvr
 
 # https://cable14now.com/live-streams/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1 (TK)
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1615932219&iimae0UC2astarttime=1615917819&iimae0UC2ahash=bwBwm7JpaYN00vIfAdzvnVq_KYcvbIIpgCDiJqzUngI=
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1623497884&iimae0UC2astarttime=1623483484&iimae0UC2ahash=oOrxFHi4M4YenlfF9Q_Yma9pwAvbaZUYJhmL0b20t8A=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2 (TK)
-https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1615932253&iimae0UC2astarttime=1615917853&iimae0UC2ahash=N_klvK7lFrIKxOIL9rxC3dDN8bnIkHOXNfU4-cW1oME=
+https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1623499102&iimae0UC2astarttime=1623484702&iimae0UC2ahash=lICml9LD-0n4U8iaIcsbeSftc8kI3UMOP12GgFgl7rY=
 
 # http://camptv.ca/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guKuGPh.png" group-title="",camptv (OFFLINE)
@@ -670,7 +790,6 @@ https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_199680_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXvU87l.png" group-title="Canada",Deshe Bideshe TV
 https://db71.livebox.co.in/deshebideshehls/tv.m3u8
-#https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHWC2ZS.png" group-title="",Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
@@ -801,8 +920,10 @@ http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]CCTV Cam[/COLOR]★★★★★★★★★★
+0.0.0.0
 
-##########
+
 
 #EXTINF:-1 tvg-logo="https://www.qccrfm.com/img/qccr-slanted.png" group-title="",QCCR Live Webcam
 https://5790d294af2dc.streamlock.net/IPCameraQCCRFMRadio/default.stream/playlist.m3u8
