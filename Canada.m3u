@@ -319,13 +319,25 @@ plugin://plugin.video.tvone1112/play/1914/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680605/1242843915001_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680606/1242843915001_5/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680607/1242843915001_6/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680608/1242843915001_7/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC Live Event Only
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAJkcjW.png" group-title="",► CRIME INVESTIGATION CAN 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/0161349a884d23a.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV 
+http://stream.tvtap.live:8081/live/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT1)
@@ -430,6 +442,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/892fc80890b4b6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5dOL2O.png" group-title="",GAME TV (TT1)
 plugin://plugin.video.tvone1112/play/1921/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV
+http://stream.tvtap.live:8081/live/ca-global.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV (TT)
 plugin://script.module.7of9-live/play/659/play.pvr
 
@@ -625,19 +639,20 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="",Sportsnet Ontario
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/19bf097b3b8d3fa.m3u8|User-Agent=stream
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Canada",Sportsnet Ontario 
+http://stream.tvtap.live:8081/live/sno.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Canada",Sportsnet Ontario (TT)
 pplugin://script.module.7of9-live/lay/214/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c91.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One 
+http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title=""portrtsnet One (TT)
 plugin://script.module.7of9-live/play/417/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="",Sportsnet World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sportrtsnet World
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0d81e7bf643061.m3u8|User-Agent=stream
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Canada",Sportsnet World (TT) (OFFLINE)
 plugin://script.module.7of9-live/play/215/play.pvr
 
@@ -651,7 +666,7 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
 
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=SQJw7v4by_k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
@@ -667,34 +682,39 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/9eefb9e1799fa8
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",► TSN Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",► TSN 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3fe954432a70b78.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Canada",TSN 1 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",TSN 1 (OPT-2)
+http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",TSN 1 (TT)
 plugin://script.module.7of9-live/play/233/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",► TSN Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",► TSN 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cd8d9670a9f16c6.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Canada",TSN 2 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",TSN 2  (OPT-2)
+http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",TSN 2 (TT)
 plugin://script.module.7of9-live/play/234/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",► TSN Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",► TSN 3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2c8288a5ba9fb4.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Canada",TSN 3 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",TSN 3 (OPT-2)
+http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",TSN 3 (TT)
 plugin://script.module.7of9-live/play/235/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",► TSN Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",► TSN 4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c4a43e75c410802.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Canada",TSN 4 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",TSN 4 (OPT-2)
+http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",TSN 4 (TT)
 plugin://script.module.7of9-live/play/412/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport",► TSN Sports 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport",► TSN 5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/97abfa483aed893.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Canada",TSN 5 (TT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5 (OPT-2)
+http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5 (TT)
 plugin://script.module.7of9-live/play/413/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
