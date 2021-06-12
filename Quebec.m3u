@@ -93,6 +93,9 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
 
+#EXTINF:-1 tvg-id="Cinepop.ca" tvg-name="Cinépop CA" tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Cinepop (576p)
+https://www.streamaway.net/fra/cinepop/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Cinepop-qc.php
+
 # https://www.cpac.ca/fr/direct/
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac (720p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
