@@ -536,6 +536,7 @@ http://212.224.98.212:2200/EX/ANIMAUX-fr/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb0.m3u8|User-Agent=stream
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -784,6 +785,8 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://i.imgur.com/THErPIU.jpg" group-title="documentaires",Chasse & Peche
 http://212.224.98.210:2200/EX/CHASSE_ET_PECHE-fr/tracks-v1a1/mono.m3u8?token=null
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/04.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://i.imgur.com/THErPIU.jpg" group-title="documentaires",Chasse & Peche
+https://www.streamaway.net/fra/chassepeche/tracks-v1/mono.m3u8|Referer=https://www.streamaway.net/fr/Chasse&peche-fr.php
 
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25
 https://www.streamaway.net/fra/ch25/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Cherie25-fr.php
@@ -1488,7 +1491,7 @@ https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7n019d&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="Anime",Piwi
-http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+https://www.streamaway.net/fra/piwi/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Piwi-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="Planete+"  tvg-logo="https://i.imgur.com/ddS4cpG.png" group-title="documentaires",Planete+ (TT)
 plugin://script.module.7of9-live/play/318/play.pvr
@@ -1677,7 +1680,9 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 https://12858.cdn.mobibase.com/token/hls/733/258_5000k/playlist.m3u8?nva=20210305093634&service_id=12858&uuid=07986041ed928489b516305038&token=00c3d58c0f29d47078562
 
-#EXTINF:-1 tvg-id="France" tvg-name="SYFY FRANCE" tvg-logo="https://i.imgur.com/yfJsA8w.png" group-title="France",SYFY FRANCE
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy FR" tvg-logo="https://i.imgur.com/yfJsA8w.png" group-title="France",SYFY FRANCE
+https://www.streamaway.net/fra/syfy/mono.m3u8|Referer=https://www.streamaway.net/fr/Syfy-fr.php
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy FR" tvg-logo="https://i.imgur.com/yfJsA8w.png" group-title="France",SYFY FRANCE (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b9dc00d2904b374.m3u8|User-Agent=stream
 
 # https://www.tebeo.bzh/le-direct
@@ -1863,6 +1868,8 @@ plugin://plugin.video.dailymotion_com/?url=x7u5so8&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x7ugcxl&mode=playLiveVideo
 
 # update link : #
+#EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
+https://www.streamaway.net/fra/teletoon/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Teletoon-fr.php
 #EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+ (OPT-2)
