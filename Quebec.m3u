@@ -34,9 +34,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="thématique",Max (FMT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="thématique",Serie+ (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
@@ -243,6 +240,9 @@ https://www.streamaway.net/fra/rds/tracks-v1a1/mono.m3u8|Referer=https://www.str
 
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="RDS2 CA" tvg-logo="https://i.imgur.com/XA8meS2.jpg" group-title="Sport",RDS 2 (720p)
 https://www.streamaway.net/fra/rds2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS2.php
+
+#EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="Series+ CA" tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="thématique",Serie+
+https://www.streamaway.net/fra/serieplus/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Series.php
 
 # https://seletlumieretv.org/endirect/?muid=1 #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
