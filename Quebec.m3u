@@ -100,6 +100,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680637/1242843915001_36/master.m3u8
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac Délibérations du Sénat (404p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680649/1242843915001_48/master.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680610/1242843915001_9/master.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680613/1242843915001_12/master.m3u8
+
 
 
 # https://ctbtv.ca/ #
@@ -323,7 +328,7 @@ plugin://plugin.video.youtube/play/?video_id=oqeWeZG4DhU
 
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT)
-plugin://plugin.video.youtube/play/?video_id=feVJnaPThUM
+plugin://plugin.video.youtube/play/?video_id=3nQPVVVdvSo
 
 #EXTINF:-1 tvg-id="VRAK.ca" tvg-name="VRAK CA" tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="thématique",Vrak (720p)
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
