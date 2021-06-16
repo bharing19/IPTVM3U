@@ -135,7 +135,25 @@ plugin://plugin.video.youtube/play/?video_id=Snltgg02e30
 plugin://plugin.video.youtube/play/?video_id=OuW5jvSxRi8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Brooks Falls - Katmai National Park, Alaska (YT)
-plugin://plugin.video.youtube/play/?video_id=IcWTPFnqOLo
+plugin://plugin.video.youtube/play/?video_id=nprdq03e8yI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Brooks Falls Brown Bears Low (YT)
+plugin://plugin.video.youtube/play/?video_id=C0zf9I2XYrs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Lower River - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=8Rt88lpDdwA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Underwater Salmon Cam - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=mWIzpiBM2yY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",River Watch - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=VhFpQsemOx0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Riffles - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=veh0gN3NyRk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Dumpling Mountain - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=r0cwB9l-zy0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Northern Lights (YT)
 plugin://plugin.video.youtube/play/?video_id=CwriDd8STdI
