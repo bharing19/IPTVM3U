@@ -439,10 +439,12 @@ http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="",Alhorreya TV
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 
-# https://akc.tv/
-#EXTINF:-1 tvtvg-logo="https://i.imgur.com/IvX4siI.png" group-title="USA",AKC TV 
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TSd7XX.png" group-title="",AKC.TV - the Breeds Channel
+https://broadcast.blivenyc.com/speed/broadcast/71/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TSd7XX.png" group-title="",AKC.TV - Puppies 24/7
+https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TSd7XX.png" group-title="",AKC.TV - Main Channel
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="USA",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
