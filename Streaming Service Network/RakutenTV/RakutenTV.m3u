@@ -66,6 +66,9 @@ https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbOn36t.png" group-title="",Fuel TV (EU)
 https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Gratisfilmer (EU)
+https://rakuten-gratisfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYD6jbl.png" group-title="",Happy Kids (EU)
 https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
@@ -222,6 +225,9 @@ https://rushstreet-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTUJhMr.png" group-title="",Sofy TV
 https://sofytv-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCT1iE4.png" group-title="",Talk Radio TV 
+https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/toGgyAt.png" group-title="",Tankee (EU)
 https://playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
@@ -236,6 +242,9 @@ https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BIuxA1K.jpg" group-title="",Timeline
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Top Film (EU) (Denmark)
+https://rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvmiUPl.jpg" group-title="",Travel XP (EU)
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
