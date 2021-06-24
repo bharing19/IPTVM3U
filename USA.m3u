@@ -25,7 +25,8 @@ http://cdn.tvmatic.net/tiktok.m3u8
 
 #########
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtsVjbT.png" group-title="",Twit TV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=5959099&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gd9j5iK.png" group-title="FilmRise",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
