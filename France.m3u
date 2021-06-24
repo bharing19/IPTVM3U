@@ -1917,6 +1917,8 @@ https://www.dailymotion.com/video/x35m6bz#tab_embed.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="Warner TV FR" tvg-logo="https://i.imgur.com/OtiwhZK.jpg" group-title="thématique",Warner
 https://www.streamaway.net/fra/warner/mono.m3u8|Referer=https://www.streamaway.net/fr/Warner.php
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxchqUu.jpg" group-title="",Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 # https://www.dailymotion.com/video/x7mxymy https://www.twitch.tv/winamaxsport/
 #EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (DM)
