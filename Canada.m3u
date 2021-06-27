@@ -783,6 +783,18 @@ http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV (OPT-2)
 http://ca1.buximedia.com:8080/coa/assyriantv/index.m3u8
 
+# https://www.awazent.com/awazent.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Lw2xnD.png" group-title="",Awaz Entertainment (1080p)
+https://streamer12.vdn.dstreamone.net/awaztv/awaztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Lw2xnD.png" group-title="",Awaz Entertainment (1080p)
+https://streamer12.vdn.dstreamone.net/awaztv/awaztv/chunks.m3u8
+
+# https://www.awazent.com/awaznews.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR7eZrJ.jpg" group-title="",Awaz News (1080p)
+https://5dd3981940faa.streamlock.net/awaznews/awaznews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR7eZrJ.jpg" group-title="",Awaz News (1080p)
+https://5dd3981940faa.streamlock.net/awaznews/awaznews/chunklist_w442300692.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P18BZHe.png" group-title="Canada",Azstar
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 
