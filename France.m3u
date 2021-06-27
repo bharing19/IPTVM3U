@@ -318,6 +318,18 @@ plugin://plugin.video.youtube/play/?video_id=t9y_odAAGDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9FZpxU.png" group-title="Anime",My Little Pony EN DIRECT (YT)
 plugin://plugin.video.youtube/play/?video_id=kGaAMMgUQ9o
 
+# https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p) (YT) (v_id)
+plugin://plugin.video.youtube/play/?video_id=p_fKQh_ctJo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeGvSi1Tb8OV78ue3_tux1A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p)
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p) (OPT-2)
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p) (OPT-3)
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A/live
+
 # https://www.youtube.com/channel/UC0xfmhDKaxXRZvywOatQyzw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XfkY6j.jpg" group-title="Anime",Oddbods (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=AelbEGZy0bo
