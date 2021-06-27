@@ -1607,10 +1607,10 @@ plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
 #EXTINF:-1 tvg-id="rtl2.fr" tvg-name="RTL2 FR" tvg-logo="https://i.imgur.com/9DhdS62.png" group-title="Radio",RTL 2 (Pour VLC)
 https://www.dailymotion.com/video/x2tzzpj#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="RTL9 HD" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="France",RTL9 HD
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="thématique",RTL9 HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1791cb8a42dc145.m3u8|User-Agent=stream
-EXTINF:-1 tvg-id="France" tvg-name="RTL9 HD" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="France",RTL9 (OPT-2) (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="thématique",RTL9 (720p)(OPT-2)
+https://www.streamaway.net/fra/rtl9/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTL9.php
 
 # https://www.dailymotion.com/rv1 https://www.facebook.com/RV1.TV/
 #EXTINF:-1 tvg-id="rv1-tv.fr" tvg-name="RV1 TV FR" tvg-logo="https://i.ibb.co/kS2Pdf2/RV1.png" group-title="régionale",RV1 (DM) (OFFLINE)
