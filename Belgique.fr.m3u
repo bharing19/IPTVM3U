@@ -339,6 +339,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6df1aa5b7261f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" group-title="",VITAYA TV (OPT-2)
 http://82.197.212.210:8000/play/a10a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeubhF2.jpg" group-title="",VRT Het Journaal
+https://live-vrt.akamaized.net/groupa/live/5c84cb7c-c801-487d-bccc-b8d84d5538c1/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djGJlC5.png" group-title="",VTM KAZOOM
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/40fca6d7196287e.m3u8|User-Agent=stream
 
