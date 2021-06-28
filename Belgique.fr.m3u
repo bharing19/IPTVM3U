@@ -12,11 +12,11 @@ plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
 
 # https://www.antennecentre.tv/ 
-#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="généraliste",Antenne Centre (adaptative)
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" group-title="généraliste",Antenne Centre (adaptative)
 https://tvl-live.fl.freecaster.net/live/actv/actv.m3u8|Referer=https://actv.fcst.tv/player/embed/3083132?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="généraliste",Antenne Centre (720p)
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" group-title="généraliste",Antenne Centre (720p)
 https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8|Referer=https://actv.fcst.tv/player/embed/3083132?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="généraliste",Antenne Centre (288p)
+#EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" group-title="généraliste",Antenne Centre (288p)
 https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=800000.m3u8|Referer=https://actv.fcst.tv/player/embed/3083132?autoplay=true&muted=true
 
 # https://www.rtlplay.be/bel/direct
@@ -167,12 +167,15 @@ http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL-TVi BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="généraliste",RTL-TVi (302p) (TT)
 plugin://script.module.7of9-live/play/692/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="",RTL info 1 (TT)
+EXTINF:-1 tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="",RTL info 1 (TT)
 plugin://script.module.7of9-live/play/690/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKRGX5q.png" group-title="",Tipik
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik BE" tvg-logo="https://i.imgur.com/pKRGX5q.png" group-title="généraliste",Tipik (720p)
 http://www.callofliberty.fr/stream/TiPiK/playlist.m3u8
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik BE" tvg-logo="https://i.imgur.com/pKRGX5q.png" group-title="généraliste",Tipik (720p)
 http://www.callofliberty.fr/stream/TiPiK/04.m3u8
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik BE" tvg-logo="https://i.imgur.com/pKRGX5q.png" group-title="généraliste",Tipik (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
 
 # https://www.tvcom.be/live
 #EXTINF:-1 tvg-id="TVCom.be" tvg-name="TV Com BE" tvg-logo="https://i.imgur.com/W0NWUzv.png"group-title="régionale",TvCom (Adaptative)
@@ -245,14 +248,24 @@ https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=80000
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique Autres Langues[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://21bis.be/
+#EXTINF:-1 tvg-id="21bis.be" tvg-name="21BIS BE" tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="",21 Bis (1080p)
+https://media.thomasmore.be/elemental_hls/hls_stream.m3u8
+#EXTINF:-1 tvg-id="21bis.be" tvg-name="21BIS BE" tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="",21 Bis (234p)
+https://media.thomasmore.be/elemental_hls/hls_stream_iphone_low.m3u8
+#EXTINF:-1 tvg-id="21bis.be" tvg-name="21BIS BE" tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="Radio",21 Bis Radio (1080p)
+https://media.thomasmore.be/elemental_hls3/hls_stream.m3u8
+#EXTINF:-1 tvg-id="21bis.be" tvg-name="21BIS BE" tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="Radio",21 Bis Radio (234p)
+https://media.thomasmore.be/elemental_hls3/hls_stream_iphone_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="",21 Bis
-http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll7XgdD.png" group-title="",AjoinMusic
+# https://www.ajoinmusic.be/video/ https://ssl.streampartner.nl/player.php?url=281efb3a54694f513b01&ref=Ajoinsitefull
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll7XgdD.png" group-title="",AjoinMusic (OFFLINE)
 https://5592f056abba8.streamlock.net/citytv_2/citytv_2/playlist.m3u8?ref=Ajoinsite
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll7XgdD.png" group-title="",AjoinMusic Radio
+http://stream1.intronic.nl/ajoinmusic
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV
+# https://atv.be/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="",Bruzz
@@ -266,8 +279,10 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+# https://www.bvn.tv/bvnlive/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="généraliste",BVN (480p) (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=43
+#https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
