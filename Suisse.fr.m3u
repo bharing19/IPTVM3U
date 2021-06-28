@@ -147,17 +147,17 @@ plugin://plugin.video.youtube/play/?video_id=QCCT2jrOu68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV (UDP)
+EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV (UDP)
 https://edge1.tikilive.com:8443/html5_tikilive/56544/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTU2NTQ0JmNOYW1lPUxhYmVsJTIwVFYlMjAxJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q0OThmNA==&id=eXi2JCAh1wLWJVRcAnsO
 
-#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV 2 (UDP)
+EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV 2 (UDP)
 https://edge2.tikilive.com:8443/html5_tikilive/34778/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0Nzc4JmNOYW1lPUxhYmVsJTIwVFYlMjAyJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q4YmY1Yg==&id=_iGrklyc0YKwHntGAnse
 
-#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
+EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
 https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q3MDAzMg==&id=Ol-YcLxPRf0lcKWxAnsj
 
 # http://www.nettv.live/European/Switzerland/3942.html #
-#EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
+EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
 https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w966065155_b756038.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0M2NjYQ%3D%3D&id=-YSCb9ULshH47ZiRAqDP
 
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
@@ -186,6 +186,9 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TinWvGg.png" group-title="",Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ticino" tvg-country="CH" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPKTnMb.png" group-title="Music",Radio Ticino
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
