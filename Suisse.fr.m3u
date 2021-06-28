@@ -30,7 +30,7 @@ https://edge6.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1815884040_
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
-#EXTINF:-1 tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
+EXTINF:-1 tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
 https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1687245770_b1115112.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPWoyZW5kZXB1dHEyYWZ1MGh0dThzdWh0MGVzJnVJRD0wJnVOYW1lPUd1ZXN0N2UyNGI%3D&id=X9Cpe-Ig5H2MNUhiAqDF
 
 
@@ -67,12 +67,18 @@ https://pd-l-p.akamaized.net/pd/ngrp:NR-O_all/master.m3u8
 #EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="",RadioCosmicDelights (TWITCH)
 plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
 
-# update link : https://www.rtn.ch/rtn/Plus/Radio/Direct-video/Suivez-en-direct-video-RTN.html #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="",RTN (UPD)
-https://edge6.vedge.infomaniak.com/livecast/ik:rtn/manifest.m3u8?spark=e039367a-6849-4ee6-be4a-53a00eb78e99&token=
+# https://www.rjb.ch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (DM)
+plugin://plugin.video.dailymotion_com/?url=x7xygyv&mode=playLiveVideo
+# https://www.rfj.ch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wf94u&mode=playLiveVideo
+# https://www.rtn.ch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wamzq&mode=playLiveVideo
 
 # update link : http://www.nettv.live/tv/view.php?aid=3943 #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock (UDP)
+EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock (UDP)
 https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1184035176_b819678.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0NDkxNQ%3D%3D&id=5fgjM3MRxl_hsHCcAqDK
 
 # update link : #
