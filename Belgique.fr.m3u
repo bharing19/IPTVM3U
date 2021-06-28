@@ -267,6 +267,11 @@ http://stream1.intronic.nl/ajoinmusic
 # https://atv.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
+https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
+https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="",Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8?
