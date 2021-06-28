@@ -216,29 +216,29 @@ https://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=120
 https://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=800000.m3u8|Referer=https://telemb.fcst.tv/player/embed/3177890?autoplay=true&muted=true
 
 # https://www.telesambre.be/direct
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="Belgique",Telesambre (Adaptative)
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="régionale",Telesambre (Adaptative)
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="Belgique",Telesambre (720p)
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="régionale",Telesambre (720p)
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=2600000.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="Belgique",Telesambre (480p)
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="régionale",Telesambre (480p)
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=1600000.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="Belgique",Telesambre (360p)
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="régionale",Telesambre (360p)
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=1200000.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
-#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="Belgique",Telesambre (288p)
+#EXTINF:-1 tvg-id="TeleSambre.be" tvg-name="Tele Sambre BE" tvg-logo="https://i.imgur.com/UUNOMPJ.png" group-title="régionale",Telesambre (288p)
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=800000.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
 
 # https://www.vedia.be/www/live 
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (Adaptative)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (Adaptative)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (1080p)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (1080p)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (720p)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (720p)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (480p)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (480p)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=1600000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (360p)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (360p)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=1200000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
-#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="",Vedia (288p)
+#EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia BE" tvg-logo="https://i.imgur.com/QkkNwQw.png" group-title="régionale",Vedia (288p)
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=800000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
 
 
@@ -272,35 +272,34 @@ https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
 https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="",Bruzz
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-2)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-3)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b850000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="",Bruzz (OPT-4)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
+# https://www.bruzz.be/live/popup/#watch
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (Adaptative)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (720p)
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (720p)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (480p)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (360p)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b850000.m3u8
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (240p)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8
 
 # https://www.bvn.tv/bvnlive/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="généraliste",BVN (480p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=43
 #https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="",Canvas
+# https://www.vrt.be/vrtnu/kanalen/canvas/
+#EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",Canvas (540p)
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HIfVeW4.png" group-title="",CANVAS (OPT-2)
+#EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",CANVAS (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HIfVeW4.png" group-title="",CANVAS (OPT-3)
-http://82.197.212.210:8000/play/a0yd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PMrXgo.png" group-title="",Caz HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/3PMrXgo.png" group-title="",Caz HD
 http://82.197.212.210:8000/play/a10b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxn9g4b.png" group-title="",Caz 2 HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Dxn9g4b.png" group-title="",Caz 2 HD
 http://82.197.212.210:8000/play/a107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8Eo7fA.png" group-title="BELGIUM",City Music TV
