@@ -169,15 +169,13 @@ https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24 (OFFLINE)
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+# https://qs24.tv/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fW15Ff.jpg" group-title="",QS24.TV
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhWg6C4.png" group-title="",QS24 (OPT-2) (OFFLINE)
-https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
-
-# https://www.musig24.tv/ #
+# https://www.musig24.tv/ https://livestream.com/accounts/16598383/events/8687407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24 (UPD)
-http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/213103555.m3u8
+http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/222812044.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
@@ -223,8 +221,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w104167
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=qaTcF9n-8Mw
+plugin://plugin.video.youtube/play/?video_id=b979BldHoVQ
 
+# https://www.suedostschweiz.ch/tv/wilmaa
 EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
 http://176.10.117.3:5000/play/a03t
 
