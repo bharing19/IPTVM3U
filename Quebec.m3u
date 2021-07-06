@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/06/26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/06
 0.0.0.0
 
 
@@ -154,7 +154,7 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 #EXTINF:-1 tvg-id="Historia.ca" tvg-name="Historia CA" tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="thématique",Historia (720p)
 https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Historia-qc.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (OPT-2) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (UPD)
 https://51-161-87-98.bestserver.online:5052/live18/orhL8FBg3a934HGjZ93elw/54708/1625607753/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
 
 # 
