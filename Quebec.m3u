@@ -120,8 +120,8 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
 https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="thématique",Elle Fictions (UPD)
-https://51-79-83-241.bestserver.online:5052/live14/rCrR-2KqEQJ7KyPMGgxEcA/133100/1619645483/2054429.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="thématique",Elle Fictions (UPD)
+https://51-161-15-27.bestserver.online:5052/live13/b2zc0Xwtq0R12ExS11Fg9Q/54708/1625607601/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
 
 # https://emcitv.com/direct/
 #EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
@@ -138,8 +138,8 @@ https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
 https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Evasion (UPD)
-https://51-79-83-241.bestserver.online:5052/live17/d8hfMRaTpMaCCyCXkppANw/133100/1619645511/2026521.m3u8|Referer=https://www.streamaway.net/fr/Evasion-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Evasion (UPD)
+https://51-79-82-189.bestserver.online:5052/live18/yniG0shN6X56L7titHFWLA/54708/1625607701/2026521.m3u8|Referer=https://www.streamaway.net/fr/Evasion-qc.php
 
 #EXTINF:-1 tvg-id="FrissonsTV.ca" tvg-name="Frissons TV CA" tvg-logo="https://i.imgur.com/qbjJeY0.jpg" group-title="thématique",Frissons TV (1080p)
 https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frissons-qc.php
@@ -154,11 +154,10 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 #EXTINF:-1 tvg-id="Historia.ca" tvg-name="Historia CA" tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="thématique",Historia (720p)
 https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Historia-qc.php
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (OPT-2) (UPD)
-https://51-161-86-100.bestserver.online:5052/live14/gwwlUYA6zx74RQMWpdbf-Q/133100/1619645357/2054468.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (OPT-2) (UPD)
+https://51-161-87-98.bestserver.online:5052/live18/orhL8FBg3a934HGjZ93elw/54708/1625607753/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
 
-# update link: #
-
+# 
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
@@ -260,8 +259,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9
 https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
 https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
 
-EXTINF:-1 tvg-id="Prise2.ca" tvg-name="Prise 2 CA" tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="Film",Prise 2 (UPD)
-https://51-161-86-57.bestserver.online:5052/live14/nzAmdwu-JeN7o2ZxQUIajg/133100/1619645406/2054451.m3u8|Referer=https://www.streamaway.net/fr/Prise2-qc.php
+#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="Prise 2 CA" tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="Film",Prise 2 (UPD)
+https://51-161-86-57.bestserver.online:5052/live18/CC6MywMKayUnficL-CdksA/54708/1625607863/2054451.m3u8|Referer=https://www.streamaway.net/fr/Prise2-qc.php
 
 #EXTINF:-1 tvg-id="RDS.ca" tvg-name="RDS CA" tvg-logo="https://i.imgur.com/sAVSsZA.png" group-title="Sport",RDS (720p)
 https://www.streamaway.net/fra/rds/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS.php
