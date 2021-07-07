@@ -3,9 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/07
 0.0.0.0
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
@@ -13,7 +12,7 @@ plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
+EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
@@ -67,17 +66,17 @@ http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/PQ/20210608_PQ_140846.mp4/chu
 http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/AP/20210608_Presse_130350.mp4/playlist.m3u8
 http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/AP/20210608_Presse_130350.mp4/chunklist_w1624916404.m3u8
 
-
 # https://www.youtube.com/user/bellahdjel #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)
-plugin://plugin.video.youtube/play/?video_id=sngbPKz-stk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (v_id)
+plugin://plugin.video.youtube/play/?video_id=1L92h2Xt4jU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/user/bellahdjel/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (OPT-2) (720p)
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/user/bellahdjel/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (OPT-3) (720p)
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/bellahdjel/live
-
 
 #EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D CA" tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="thématique",Canal D (720p)
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
@@ -112,8 +111,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680610/1242843915001_9/master.m3
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680613/1242843915001_12/master.m3u8
 
-
-
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
@@ -145,8 +142,16 @@ https://51-79-82-189.bestserver.online:5052/live18/yniG0shN6X56L7titHFWLA/54708/
 https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frissons-qc.php
 
 # https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (v_id)
 plugin://plugin.video.youtube/play/?video_id=x07wPux92gs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p)
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (opt-2)
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (opt-3)
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
 
 #EXTINF:-1 tvg-id="GlobalMontrealCKMI.ca" tvg-name="Global Montreal CA" tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="News",Global News Montreal (720p)
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -222,16 +227,12 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Investigation.php
 
 # https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (676p) (YT)
-plugin://plugin.video.youtube/play/?video_id=9wxnRIqVQ90
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (676p) (YT) (v_id)
+plugin://plugin.video.youtube/play/?video_id=1hzxBYpuKlI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (676p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNNsE_Xj2ndAAnQETObPrVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (1080p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
-
-# update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (TWITCH)
-plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
@@ -241,6 +242,7 @@ https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.str
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canadian TV", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canadian TV", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (lorsque diffusion) 
@@ -255,8 +257,9 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
 
 # https://ocpm.qc.ca/fr/en-direct
-#EXTINF:-1 tvg-logo="https://ocpm.qc.ca/sites/ocpm.qc.ca/files/logo_460x92_transparence.png" group-title="affaires publiques",OCPM (lorsque diffusion)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="affaires publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="affaires publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="Prise2.ca" tvg-name="Prise 2 CA" tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="Film",Prise 2 (UPD)
@@ -274,6 +277,7 @@ https://www.streamaway.net/fra/serieplus/tracks-v1a1/mono.m3u8|Referer=https://w
 # https://seletlumieretv.org/endirect/?muid=1 #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="Super Ecran CA" tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="Film",Super Écran 1 (720p)
@@ -291,6 +295,7 @@ https://www.streamaway.net/fra/superecran4/tracks-v1a1/mono.m3u8|Referer=https:/
 #  http://tcmontrealnetwork.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="",Télé Culturelle Médias (TCM-TV) (480p)
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="",Télé Culturelle Médias (TCM-TV) (480p)
 https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
 
 # https://zonevideo.telequebec.tv/endirect/
@@ -309,13 +314,13 @@ https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telequebec/get_live_url/?item_id=telequebec
 
+# https://www.youtube.com/user/ctmq # https://tele-mag.tv/
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (1080p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_live_url/?item_id=telemag
-# update link https://www.youtube.com/user/ctmq # https://tele-mag.tv/
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (YT) (v_id)
 plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/user/ctmq/live
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (OPT-2) (720p)
@@ -333,10 +338,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/9eefb9e1799fa8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Meteo",The Weather Network (event Only)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-
-# https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ https://tq5tv.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uV5APKr.png" group-title="généraliste",TQ5 (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=ak1hE3SnR4o
 
 #EXTINF:-1 tvg-id="TV5.ca" tvg-name="TV5 CA" tvg-logo="https://i.imgur.com/fupOqzr.jpg" group-title="généraliste",TV5 Quebec (576p)
 https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TV5-ca.php
@@ -368,8 +369,10 @@ EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.
 https://38-91-57-37.bestserver.online:5052/live16/AaGyFCJxK08mhOCytwqS3g/133100/1619645447/3014355.m3u8|Referer=https://www.streamaway.net/fr/TVAsp2.php
 
 # https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct # https://mediat.ca/tvc7/ https://tvc7.gnak.ca/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)
-plugin://plugin.video.youtube/play/?video_id=1CFN6BdNRBk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)  (v_id)
+plugin://plugin.video.youtube/play/?video_id=pXT9_7p4wsw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)  (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (OPT-2) (720p)
@@ -378,15 +381,16 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
-#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT)
-plugin://plugin.video.youtube/play/?video_id=3nQPVVVdvSo
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (v_id)
+plugin://plugin.video.youtube/play/?video_id=QDMJVOd4uso
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p)
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (OPT-2)
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (OPT-3)
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
-
 
 #EXTINF:-1 tvg-id="VRAK.ca" tvg-name="VRAK CA" tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="thématique",Vrak (720p)
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
@@ -406,7 +410,7 @@ https://www.streamaway.net/fra/ztele/tracks-v1a1/mono.m3u8|Referer=https://www.s
 
 #####
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch QC[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 #https://www.twitch.tv/tvctklive/ https://www.tvctk.com/
@@ -430,19 +434,8 @@ plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red](OFFLINE)[/COLOR]★★★★★★★★★★
 0.0.0.0
-
 
 #http://www.ctrb.tv/CTRB-en-direct.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJeNba.jpg" group-title="communautaire",CTRB  (OFFLINE)
@@ -457,14 +450,9 @@ plugin://plugin.video.youtube/play/?video_id=_6_7wGYj2E4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
-
 # https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec. (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ivx9Q1wk0Bo
-
-########
-
-
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD) (OFFLINE)
@@ -480,6 +468,35 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="communautaire",CILE Havre-Saint-Pierre (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=FECoaU7NGPo
 
+# https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ https://tq5tv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV5APKr.png" group-title="généraliste",TQ5 (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=ak1hE3SnR4o
+
+# https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (TWITCH)
+plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
+
+# https://www.youtube.com/channel/UC4GvJl8GrRbb8YCI72oLVag
+EXTINF:-1 tvg-logo="https://i.imgur.com/2WlUYMQ.jpg" group-title="",Stevia on en parle? (YT)
+plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
+
+# https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg
+EXTINF:-1 tvg-logo="https://i.imgur.com/62pxYnU.jpg" group-title="",La chaîne Actualité Politique du Québec @18hr00 (YT)
+plugin://plugin.video.youtube/play/?video_id=M211lI1n48A
+
+# https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
+EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
+plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
+
+# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
+EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
+plugin://plugin.video.youtube/play/?video_id=CjAFHFYgDvc
+
+# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
+EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
+plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
 
 ####
 
@@ -492,6 +509,13 @@ EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/I
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
 EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_950_av-p.m3u8?sd=10&rebase=on
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 480 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_750_av-p.m3u8?sd=10&rebase=on
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 240 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_400_av-p.m3u8?sd=10&rebase=on
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/BWsxm4p.png" group-title="Quebec TV",MOI ET CIE (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/MOIETCIE_1@697478/master.m3u8
@@ -508,32 +532,5 @@ https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p
 EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zeste (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8
 
-##end##
 
 
-# https://www.youtube.com/channel/UC4GvJl8GrRbb8YCI72oLVag
-EXTINF:-1 tvg-logo="https://i.imgur.com/2WlUYMQ.jpg" group-title="",Stevia on en parle? (YT)
-plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
-
-# https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg
-EXTINF:-1 tvg-logo="https://i.imgur.com/62pxYnU.jpg" group-title="",La chaîne Actualité Politique du Québec @18hr00 (YT)
-plugin://plugin.video.youtube/play/?video_id=M211lI1n48A
-
-# https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
-EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
-plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
-
-# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
-plugin://plugin.video.youtube/play/?video_id=CjAFHFYgDvc
-
-# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
-EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
-plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
-
-EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 
-https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_950_av-p.m3u8?sd=10&rebase=on
-EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 480 
-https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_750_av-p.m3u8?sd=10&rebase=on
-EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 240 
-https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_400_av-p.m3u8?sd=10&rebase=on
