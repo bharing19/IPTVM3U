@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
+plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/07
 0.0.0.0
@@ -34,7 +34,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="thématique",M
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
+plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 
 #EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="Addik TV CA" tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="thématique",Addik TV (720p)
 https://www.streamaway.net/fra/addiktv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Addiktv.php
