@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/08
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
@@ -119,6 +119,13 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680649/1242843915001_48/master.m
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680610/1242843915001_9/master.m3u8
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680613/1242843915001_12/master.m3u8
+
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac (1080p) (Kodi Changez Param Audio)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac (Audio FR)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_1_1_fre=96000.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac (Audio ENG)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_2_2_und=96000.m3u8
 
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
