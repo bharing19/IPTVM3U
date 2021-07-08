@@ -182,9 +182,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/42f8fc7226dc12
 plugin://plugin.video.tvone1112/play/1909/play.pvr
 
 # https://cable14now.com/live-streams/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1 (TK)
+# https://cable14now.com/live-streams/video/?videoId=104
+EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1 (TK)
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1623497884&iimae0UC2astarttime=1623483484&iimae0UC2ahash=oOrxFHi4M4YenlfF9Q_Yma9pwAvbaZUYJhmL0b20t8A=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2 (TK)
+# https://cable14now.com/live-streams/video/?videoId=592
+EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2 (TK)
 https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1623499102&iimae0UC2astarttime=1623484702&iimae0UC2ahash=lICml9LD-0n4U8iaIcsbeSftc8kI3UMOP12GgFgl7rY=
 
 # http://camptv.ca/live/
