@@ -602,35 +602,45 @@ https://edge8.vedge.infomaniak.com/livecast/bblackcaribbean/chunklist_w214652858
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pudkxwh.png" group-title="Musique",BBlack-classic
 https://edge8.vedge.infomaniak.com/livecast/bblackclassik/chunklist_w620926095.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR
+http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (OPT-2)
 https://www.streamaway.net/fra/bein1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport1-fr.php
-#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (OPT-3)
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (TT)
 plugin://script.module.7of9-live/play/49/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR
+http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR (OPT-2)
 https://www.streamaway.net/fra/bein2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport2-fr.php
-#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR (TT)
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR (TT)
 plugin://script.module.7of9-live/play/51/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="France",BeIN Sports 3 FR
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR
+http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR (OPT-2)
 https://www.streamaway.net/fra/bein3/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Beinsport3-fr.php
-#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="France",BeIN Sports 3 FR (TT)
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR (TT)
 plugin://script.module.7of9-live/play/52/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 4 FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="France",Bein sports max 4 FR (TT)
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="Bein 4 Max FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein sports max 4 FR
+http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="Bein 4 Max FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein sports max 4 FR (TT)
 plugin://script.module.7of9-live/play/451/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 5 FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="France",Bein sports max 5 FR (TT)
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="Bein 5 Max FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein sports max 5 FR
+http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="Bein 5 Max FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein sports max 5 FR (TT)
 plugin://script.module.7of9-live/play/452/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 6 FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="France",Bein sports max 6 FR (TT)
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein 6 Max FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein sports max 6 FR
+http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein 6 Max FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein sports max 6 FR (TT)
 plugin://script.module.7of9-live/play/453/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 7 FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="France",Bein sports max 7 FR (TT)
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="Bein 7 Max FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="Sport",Bein sports max 7 FR
+http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="Bein 7 Max FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="Sport",Bein sports max 7 FR (TT)
 plugin://script.module.7of9-live/play/454/play.pvr
 
-EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET
 
+EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET
 #http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 #EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FR" tvg-logo="https://i.imgur.com/5y8LIzB.png" group-title="thématique",BET Film
 https://www.streamaway.net/fra/bet/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Bet-fr.php
@@ -751,6 +761,8 @@ https://www.dailymotion.com/video/x5gv6be#tab_embed.m3u8
 plugin://script.module.7of9-live/play/315/play.pvr
 
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FR" tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="thématique",Canal+ Cinema
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEWbl5WaDByc1xGUgwWYuF2Q
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FR" tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="thématique",Canal+ Cinema
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/bf8b47476918e98.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FR" tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="thématique",Canal+ Cinema (TT)
 plugin://script.module.7of9-live/play/325/play.pvr
@@ -760,6 +772,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/92d6c36cd267d9
 #EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="Canal+ Family FR" tvg-logo="https://i.imgur.com/BfLKvEs.png" group-title="thématique",Canal+ Family (TT)
 plugin://script.module.7of9-live/play/317/play.pvr
 
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Séries FR" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="thématique",Canal+ Series 
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMXZpJXZTByc1xGUgwWYuF2Q
 #EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Séries FR" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="thématique",Canal+ Series 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f8c64c0bc477545.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Séries FR" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="thématique",Canal+ Series (TT)
@@ -792,6 +806,8 @@ https://www.streamaway.net/fra/ch25/tracks-v1a1/mono.m3u8|Referer=https://www.st
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="thématique",CINE+ CLASSIC
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="thématique",CINE+ CLASSIC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0e119ddd1c27174.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="thématique",Cine+ Classic (TT)
 plugin://script.module.7of9-live/play/335/play.pvr
@@ -800,15 +816,21 @@ plugin://script.module.7of9-live/play/335/play.pvr
 https://www.streamaway.net/fra/club/mono.m3u8|Referer=https://www.streamaway.net/fr/Club.php
 
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion 
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRg42bpR3btVEIzVHbQBSZul2Q
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion 
 https://www.streamaway.net/fra/emotion/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Emotion-fr.php
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion (TT)
 plugin://script.module.7of9-live/play/333/play.pvr
 
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_alUTBZEIzVHbQBSZul2Q
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
 https://www.streamaway.net/fra/famiz/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Famiz.php
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d436385320ba853.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson
 https://www.streamaway.net/fra/frisson/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frisson.php
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson (TT)
@@ -1763,6 +1785,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1b4d1e3292b393
 https://www.streamaway.net/fra/tf1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TF1.php
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (OPT-4)
 http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (OPT-5)
+http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
@@ -1968,8 +1992,9 @@ https://www.dailymotion.com/video/x63085w#tab_embed.m3u8
 
 
 #EXTINF:-1 tvg-id="ZeeMagic.fr" tvg-name="Zee Magic FR " tvg-logo="https://i.imgur.com/BYlkE13.png" group-title="thématique",Zee Magic
+https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ZeeMagic.fr" tvg-name="Zee Magic FR " tvg-logo="https://i.imgur.com/BYlkE13.png" group-title="thématique",Zee Magic
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0304b8f74a6f312.m3u8|User-Agent=stream
-
 
 
 ##########
