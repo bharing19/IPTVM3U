@@ -93,6 +93,15 @@ https://www.streamaway.net/fra/casa/tracks-v1a1/mono.m3u8|Referer=https://www.st
 
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p)
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (540p)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master1.m3u8
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (432p)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master3.m3u8
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (360p)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master2.m3u8
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (270p)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
+
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
 
@@ -162,15 +171,48 @@ https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://ww
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (UPD)
 https://51-161-87-98.bestserver.online:5052/live18/orhL8FBg3a934HGjZ93elw/54708/1625607753/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
 
-# 
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
+
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Adaptative)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_1800.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_1100.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (360p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_700.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_400.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_256.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_128.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_dv.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Adaptative) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1800.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1100.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (360p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_700.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_400.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_128.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_dv.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p) (OPT-3)
 https://www.streamaway.net/fra/rdi/master_2500.m3u8|Referer=https://www.streamaway.net/fr/RDI-ca.php
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI Audio
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI Audio (OPT-3)
 https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Est-Quebec (Rimouski) (720p)
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
@@ -222,6 +264,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_liv
 # update link: https://icitelevision.ca/ #
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="généraliste",ICI TV (720p)
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="généraliste",ICI TV (720p)
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/cfc631f111e72b5321a69ddf4bacb1f0/1.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.ca" tvg-name="Investigation CA" tvg-logo="https://i.imgur.com/9nbvSBw.jpg" group-title="thématique",Investigation (1080p)
 https://www.streamaway.net/fra/invest/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Investigation.php
@@ -236,6 +280,8 @@ plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (Audio)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (720p) (OPT-2)
 https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/LCN.php
 
@@ -255,6 +301,8 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 # https://www.noovo.ca/en-direct
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (720p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (Audio)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
 # https://ocpm.qc.ca/fr/en-direct
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="affaires publiques",OCPM (lorsque diffusion)
