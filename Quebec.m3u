@@ -217,7 +217,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_128.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_dv.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p) (OPT-3)
 https://www.streamaway.net/fra/rdi/master_2500.m3u8|Referer=https://www.streamaway.net/fr/RDI-ca.php
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI Audio (OPT-3)
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio) (OPT-3)
 https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
 
 
@@ -378,9 +378,9 @@ plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
 plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/user/ctmq/live
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (OPT-2) (720p)
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (OPT-2)
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/user/ctmq/live
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (OPT-3) (720p)
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (OPT-3)
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/ctmq/live
 
 #EXTINF:-1 tvg-id="TeletoonFrench.ca" tvg-name="TéléToon CA" tvg-logo="https://i.imgur.com/WJPpAAo.png" group-title="Anime",Teletoon (720p)
