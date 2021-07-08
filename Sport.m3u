@@ -1,64 +1,42 @@
 #EXTM3U
 
 # https://sportzonline.to/prog.txt
-#EXTINF:-1,Only With The Streamlink Tester Addon
+#EXTINF:-1,Streamlink Tester Addon required  ... tag (SLT) Links
 0.0.0.0
-#EXTINF:-1,11:00   Wimbledon | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv2.php
-#EXTINF:-1,11:00   Wimbledon | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv3.php
-#EXTINF:-1,11:00   Rugby: Australia v France | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
-#EXTINF:-1,17:00   British & Irish Lions Series | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
-#EXTINF:-1,18:00	Ludogorets x Shakhtyor | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd8.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd2.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd3.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd4.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd6.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd7.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br1.php
-#EXTINF:-1,20:00	England x Denmark | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv1.php
-#EXTINF:-1,23:00	Atlético Mineiro x Flamengo | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br2.php
-#EXTINF:-1,23:00	Palmeiras x Grêmio | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br3.php
-#EXTINF:-1,00:00   New England Revolution x Toronto FC | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
-#EXTINF:-1,00:30	Montreal Impact x New York City | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd2.php
-#EXTINF:-1,01:00   NHL: Tampa Bay Lightning @ Montreal Canadiens  | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd8.php
-#EXTINF:-1,01:05   Chicago Fire x Orlando City | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv3.php
-#EXTINF:-1,01:30	Fluminense x Ceará | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br2.php
-#EXTINF:-1,01:30	Internacional x São Paulo | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br1.php
-#EXTINF:-1,02:00   Seattle Sounders x Houston Dynamo | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
-#EXTINF:-1,03:00	Vancouver Whitecaps x Real Salt Lake | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd5.php
-#EXTINF:-1,03:30	LA Galaxy x Dallas | 
-plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd2.php
 
-#EXTINF:-1,PORTUGUESE SPORT TV 1 - 
+#EXTINF:-1,HD1  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
+#EXTINF:-1,HD2  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd2.php
+#EXTINF:-1,HD3  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd3.php
+#EXTINF:-1,HD4  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd4.php
+#EXTINF:-1,HD5  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd5.php
+#EXTINF:-1,HD6  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd6.php
+#EXTINF:-1,HD7  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd7.php
+#EXTINF:-1,HD8  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd8.php
+
+#EXTINF:-1,BR1  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br1.php
+#EXTINF:-1,BR2  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br2.php
+#EXTINF:-1,BR3  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br3.php
+
+#EXTINF:-1,PORTUGUESE SPORT TV 1  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv1.php
-#EXTINF:-1,PORTUGUESE SPORT TV 2 - 
+#EXTINF:-1,PORTUGUESE SPORT TV 2  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv2.php
-#EXTINF:-1,PORTUGUESE SPORT TV 3 - 
+#EXTINF:-1,PORTUGUESE SPORT TV 3  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv3.php
-#EXTINF:-1,PORTUGUESE SPORT TV 4 - 
+#EXTINF:-1,PORTUGUESE SPORT TV 4  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv4.php
-#EXTINF:-1,PORTUGUESE SPORT TV 5 - 
+#EXTINF:-1,PORTUGUESE SPORT TV 5  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv5.php
 
 
