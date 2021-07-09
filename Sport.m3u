@@ -27,6 +27,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br2.php
 #EXTINF:-1,BR3  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br3.php
+#EXTINF:-1,BR4  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/bra/br4.php
 
 #EXTINF:-1,PORTUGUESE SPORT TV 1  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv1.php
