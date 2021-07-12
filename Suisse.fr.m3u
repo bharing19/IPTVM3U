@@ -50,38 +50,92 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://i.imgur.com/1x4jQRx.png" group-title="régionale<",CanalAlpha Jura bernois (360p)
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451400_b250000.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
-
 # https://latele.ch/live
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://i.imgur.com/pw62iLA.png" group-title="régionale",La Télé (720p)
 https://edge5.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://i.imgur.com/pw62iLA.png" group-title="régionale",La Télé (720p)
 https://edge5.vedge.infomaniak.com/livecast/latele2/chunklist_w1973073314.m3u8
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://i.imgur.com/pw62iLA.png" group-title="régionale",La Télé (720p) (OPT-2)
 https://edge8.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://i.imgur.com/pw62iLA.png" group-title="régionale",La Télé (720p) (OPT-2)
 https://edge8.vedge.infomaniak.com/livecast/latele2/chunklist_w1798460365.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-name="Leman Bleu" tvg-logo="http://www.lemanbleu.ch/Htdocs/Images/ico/apple-touch-icon-144x144-precomposed.png" group-title="Suisse",Leman Bleu
-https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w1332987521_b2000000.m3u8
+# http://www.lemanbleu.ch/fr/Live.html#wrapper
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (Adaptative)
+https://edge6.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (1080p)
+https://edge6.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w362041471_b3001080.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (720p)
+https://edge6.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w362041471_b1800720.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (480p)
+https://edge6.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w362041471_b800480.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (360p)
+https://edge6.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w362041471_b500360.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (Adaptative) (OPT-2)
+https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (1080p) (OPT-2)
+https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w2055619959_b3001080.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (720p) (OPT-2)
+https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w2055619959_b1800720.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (480p) (OPT-2)
+https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w2055619959_b800480.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://i.imgur.com/074IOnI.jpg" group-title="régionale",Léman Bleu (360p) (OPT-2)
+https://edge4.vedge.infomaniak.com/livecast/ik:naxoo/chunklist_w2055619959_b500360.m3u8
+
+# https://www.lfmtv.ch/
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (Adaptative)
+https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (1080p)
+https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b3000000.m3u8
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (720p)
+https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b1600000.m3u8
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (480p)
+https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b800000.m3u8
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (360p)
+https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b300000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-name="lfmtv" tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/logo_v02-2.png" group-title="Suisse",lfmtv
-https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w2097806596_b3000000.m3u8
-
-# update link : #
-#EXTINF:-1 tvg-name="MAXTV" tvg-logo="https://dieutv.com/img/maxtvlogo.png" group-title="Suisse",MAXTV
+#EXTINF:-1 tvg-name="MAXTV" tvg-logo="https://dieutv.com/img/maxtvlogo.png" group-title="religion",MAXTV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="religion",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV
-https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w862344050_b3000000.m3u8
-#EXTINF:-1 tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV (OTP-2)
+# https://www.onetv.ch/
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV (Adaptative)
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV (720p)
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1751794039_b3000000.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV (720p)
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1751794039_b1600000.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV (480p)
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1751794039_b800000.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV (360p)
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1751794039_b300000.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://i.imgur.com/FBYKC6W.jpg" group-title="régionale",One TV
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="",Parlement Suisse
+# https://www.parlament.ch/fr/services/open-data-services-web/integration-live-stream
+# https://live.parlament.ch/content?externalid=-1&themeColor=AA9E72 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="Séance publique",Parlement Suisse - Consiglio nazionale - langue originale (432p)
 https://pd-l-p.akamaized.net/pd/ngrp:NR-O_all/master.m3u8
+https://pd-l-p.akamaized.net/pd/ngrp:NR-O_all/chunklist_b920576.m3u8
+# https://live.parlament.ch/content?externalid=-2&themeColor=AA9E72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="Séance publique",Parlement Suisse - Conseil national - allemand  (432p)
+https://pd-l-p.akamaized.net/pd/ngrp:NR-D_all/master.m3u8
+https://pd-l-p.akamaized.net/pd/ngrp:NR-D_all/chunklist_b920576.m3u8
+#https://live.parlament.ch/content?externalid=-3&themeColor=AA9E7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="Séance publique",Parlement Suisse - Conseil national - français (432p)
+https://pd-l-p.akamaized.net/pd/ngrp:NR-F_all/master.m3u8
+https://pd-l-p.akamaized.net/pd/ngrp:NR-F_all/chunklist_b920576.m3u8
+# https://live.parlament.ch/content?externalid=-4&themeColor=AA9E72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="Séance publique",Parlement Suisse - Conseil national - italien (432p)
+https://pd-l-p.akamaized.net/pd/ngrp:NR-I_all/master.m3u8
+https://pd-l-p.akamaized.net/pd/ngrp:NR-I_all/chunklist_b920576.m3u8
+# https://live.parlament.ch/content?externalid=-5&themeColor=AA9E72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaBUpmE.png" group-title="Séance publique",Parlement Suisse - Conseil des États - langue originale (432p)
+https://pd-l-p.akamaized.net/pd/ngrp:SR-O_all/master.m3u8
+https://pd-l-p.akamaized.net/pd/ngrp:SR-O_all/chunklist_b920576.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="",RadioCosmicDelights (TWITCH)
 plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
