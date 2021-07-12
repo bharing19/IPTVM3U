@@ -1571,6 +1571,10 @@ https://www.dailymotion.com/video/x69a2vh#tab_embed.m3u8
 #EXTINF:-1 tvg-id="radiocity.io" tvg-name="Radio City FR" tvg-logo="https://i.imgur.com/2qXOixz.png" group-title="Radio",RCity (TWITCH) (Non 24/7)
 plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
 
+# https://villette45.com/ https://player.infomaniak.com/?channel=70421&player=10702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VcxXtGC.png" group-title="",Radio Vilette 45 France (OFFLINE)
+https://edge5.vedge.infomaniak.com/livecast/ik:villette45/manifest.m3u8
+
 # https://www.reveiltvsat.com/#reveiltv
 #EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
 https://edge3.vedge.infomaniak.com/livecast/ik:reveiltvdirect_1/manifest.m3u8?spark=135c348f-30cf-47b6-811d-bf49dc4344ac&token=
