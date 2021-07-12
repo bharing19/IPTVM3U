@@ -1029,6 +1029,9 @@ https://listen.radioking.com/radio/248797/stream/293080
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tMINv1X.png" group-title="",Radio Salam
 https://radiosalam.ice.infomaniak.ch/radiosalam-128.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcxXtGC.png" group-title="",Radio Vilette 45
+http://villette45.ice.infomaniak.ch/villette45-192.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
 https://trendsetter.streamakaci.com/trendsetter.mp3
 
