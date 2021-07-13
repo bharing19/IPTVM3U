@@ -236,9 +236,9 @@ https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKk
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 
 # https://drita.tv/live-tv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv (1080p)
 https://nesertv.live/DRITATV-5879/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv (1080p)
 https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
@@ -320,15 +320,9 @@ http://188.35.9.5:10007/stolen/237p/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
 plugin://script.module.7of9-live/play/725/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
-https://nesertv.live/rtvislam988/index.m3u8
-https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large.png" group-title="",schweiz5
+# http://www.schweiz5.ch/web-tv
+#EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz5 CH" tvg-logo="https://i.imgur.com/OEGOlX6.png" group-title="",Schweiz5 (1080p)
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="",SivanTV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT) (OFFLINE)
