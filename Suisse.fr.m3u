@@ -200,10 +200,10 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ch/rougetv/get_live_url/?item_id=rougetv
 
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="généraliste",RTS 1
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="généraliste",RTS 1 (720p)
 https://www.streamaway.net/fra/rts1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS1-ch.php
 
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2 CH" tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="généraliste",RTS 2
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2 CH" tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="généraliste",RTS 2 (720p)
 https://www.streamaway.net/fra/rts2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS2-ch.php
 
 # https://www.rts.ch/play/tv/direct/couleur-3?tvLiveId=8841634
@@ -223,7 +223,7 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=
 0.0.0.0
 
 # https://www.auftanken.tv/livestream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (NA) Token
 https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 
 # https://www.channel55.tv/ # 
