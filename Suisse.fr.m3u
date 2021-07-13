@@ -93,6 +93,8 @@ https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b160
 https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b800000.m3u8
 #EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (360p)
 https://edge10.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1898007461_b300000.m3u8
+#EXTINF:-1tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://i.imgur.com/UHvqjUz.png" group-title="régionale",LFM TV (1080p) (OPT-2)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-name="MAXTV" tvg-logo="https://dieutv.com/img/maxtvlogo.png" group-title="religion",MAXTV
@@ -171,36 +173,63 @@ https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w191085829.m3u8
 https://edge3.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-3)
 https://edge3.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w1756173621.m3u8
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-4)
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
+# https://www.rougetv.ch/
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w1268346676.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (OPT-2)
+https://edge6.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (OPT-2)
+https://edge6.vedge.infomaniak.com/livecast/rougetv/chunklist_w1363747311.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (OPT-3)
+https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (OPT-3)
+https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w256155805.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ch/rougetv/get_live_url/?item_id=rougetv
 
-# update link : #
-#EXTINF:-1 tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
-https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="généraliste",RTS 1
+https://www.streamaway.net/fra/rts1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS1-ch.php
 
-#EXTINF:-1 tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS Un (TT)
-plugin://script.module.7of9-live/play/689/play.pvr
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2 CH" tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="généraliste",RTS 2
+https://www.streamaway.net/fra/rts2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS2-ch.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT)
-plugin://script.module.7of9-live/play/690/play.pvr
-
-# update link : #
-#EXTINF:-1 tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
+# https://www.rts.ch/play/tv/direct/couleur-3?tvLiveId=8841634
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (Adaptative)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (720p)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (360p)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (288p)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (Audio)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=10&rebase=on
 
 #########
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://www.auftanken.tv/livestream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV
-https://tvoosa-pez0308.sctv.ch/http_adaptive_streaming/OLCPJFBAEIMPAGPF.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (OPT-2)
-http://176.10.117.3:5000/play/a030
+https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 
 # https://www.channel55.tv/ # 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55
 https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55 (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55
 https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKkRJb6NMmLzW/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit
@@ -209,6 +238,7 @@ https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039
 # https://drita.tv/live-tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
 https://nesertv.live/DRITATV-5879/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
 https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
@@ -257,14 +287,15 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_dfdx
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_dfdxqb3w/tl/main/st/0/t/10NcUn3xOgel-Y8Yzz6J0A/index-s32.m3u8
 
 # https://radio3i.ch/diretta
-#EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Radio",Radio 3i (Adaptative)
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Radio",Radio 3i (720p)
 https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8
-#EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Radio",Radio 3i (360p)
 https://livestream.gruppocdt.ch/hls/radio3i_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NdOdT0d.png" group-title="",Radio Argovia 90.3 FM Aarau
+# https://radio.argovia.ch/shows/blick-ins-argovia-studio-131499687
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NdOdT0d.png" group-title="",Radio Argovia 90.3 FM Aarau (OFFLINE)
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TinWvGg.png" group-title="",Radio Pilatus TV
@@ -272,6 +303,12 @@ https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio Ticino" tvg-country="CH" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPKTnMb.png" group-title="Music",Radio Ticino
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
+
+# http://royal-tv.ch/index.php
+#EXTINF:-1 tvg-id="Royal-TV.ch" tvg-name="Royal TV CH" tvg-logo="https://i.imgur.com/7U0ocaO.png" group-title="Music",Royal TV (720p)
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 tvg-id="Royal-TV.ch" tvg-name="Royal TV CH" tvg-logo="https://i.imgur.com/7U0ocaO.png" group-title="Music",Royal TV (720p) (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://royal-tv.ch/index.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
@@ -414,3 +451,9 @@ https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_
 # https://www.suedostschweiz.ch/tv/wilmaa
 EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
 0.0.0.0
+
+#EXTINF:-1 tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="",RTS Un (TT)
+plugin://script.module.7of9-live/play/689/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="",RTS Deux (TT)
+plugin://script.module.7of9-live/play/690/play.pvr
