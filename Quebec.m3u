@@ -246,7 +246,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_liv
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Quebec (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Qu%C3%A9bec
-#EXTINF:-1 tvg-id="ICIRadioCanadaSaguenay.ca" tvg-name="ICI Radio Canada Saguenay CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title=""généraliste,ICI Tele Saguenay (720p)
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaguenay.ca" tvg-name="ICI Radio Canada Saguenay CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Saguenay (720p)
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="généraliste",ICI Tele Acadie (Moncton) (720p)
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
