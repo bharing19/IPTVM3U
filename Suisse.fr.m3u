@@ -228,13 +228,18 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# http://elittv.ch/index.php
+#EXTINF:-1 tvg-id="Elittv.ch" tvg-name="ELIT TV CH" tvg-logo="https://i.imgur.com/VuuPjOZ.png" group-title="",Elit Tv (720p)
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:-1 tvg-id="Elittv.ch" tvg-name="ELIT TV CH" tvg-logo="https://i.imgur.com/VuuPjOZ.png" group-title="",Elit Tv (720p) (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://elittv.ch/index.php
 
 # https://www.die-neue-zeit.tv/web-tv-radio/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
+#EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit CH" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
+#EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit CH" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
+#EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit CH" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w931399512.m3u8
 
 # https://drita.tv/live-tv/
@@ -243,8 +248,9 @@ https://nesertv.live/DRITATV-5879/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",Drita TV (1080p)
 https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 
+# http://folx.tv/live/ http://www.centraltv.fr/music/folx-music-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (TWITCH)
 plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
