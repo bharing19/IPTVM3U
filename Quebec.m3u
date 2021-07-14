@@ -418,7 +418,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_ur
 #EXTINF:-1 tvg-id="TVASports.ca" tvg-name="TVA Sports CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports (720p)
 https://www.streamaway.net/fra/tvasp/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TVAsp.php
 
-EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports 2
+#EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports 2
 https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/tva.sports.2.ca.m3u8
 
 # https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct # https://mediat.ca/tvc7/ https://tvc7.gnak.ca/
