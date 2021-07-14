@@ -257,8 +257,8 @@ plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
 
 # https://www.handelsregister.tv/ https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT)
-plugin://plugin.video.youtube/play/?video_id=ncygv66Ow4E
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (TWITCH)
+plugin://plugin.video.youtube/play/?video_id=Lechb-mP6WI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=522040568&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
@@ -332,10 +332,6 @@ plugin://script.module.7of9-live/play/725/play.pvr
 #EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz5 CH" tvg-logo="https://i.imgur.com/OEGOlX6.png" group-title="",Schweiz5 (1080p)
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
 
-# https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=b979BldHoVQ
-
 # https://swiss-sport.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",Swiss Sport TV (Adaptative)
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
@@ -370,12 +366,8 @@ https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/a
 #EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="https://i.imgur.com/FsP3ef5.jpg" group-title="",Telebasel (288p) (OPT-2)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="",TeleBielingue
-https://edge5.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
-https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
-
 # https://www.twitch.tv/telecasino/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MrhhcLy.png" group-title="",Telecasino (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrhhcLy.png" group-title="",Telecasino (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=203720615&amp;mode=play
 
 # http://teleticino.ch/diretta
@@ -460,6 +452,10 @@ https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 # https://www.suedostschweiz.ch/tv/wilmaa
 EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
 0.0.0.0
+
+# https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=b979BldHoVQ
 
 #EXTINF:-1 tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="",RTS Un (TT)
 plugin://script.module.7of9-live/play/689/play.pvr
