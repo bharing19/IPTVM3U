@@ -136,7 +136,7 @@ https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
 https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Evasion (FMT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YbSDF9z.png" group-title="thématique",Evasion (FMT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/evasion.ca.m3u8
 
 #EXTINF:-1 tvg-id="FrissonsTV.ca" tvg-name="Frissons TV CA" tvg-logo="https://i.imgur.com/qbjJeY0.jpg" group-title="thématique",Frissons TV (1080p)
