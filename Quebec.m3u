@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/08
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/14
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
@@ -12,32 +12,15 @@ plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV FMtester requis[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="",Unis TV (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/d4iyCar.png" group-title="",Meteo Media (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/9EBxk8u.jpg" group-title="*",Disney JR (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="thématique",Elle Fictions (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="thématique",Max (FMT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 
 #EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="Addik TV CA" tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="thématique",Addik TV (720p)
 https://www.streamaway.net/fra/addiktv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Addiktv.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKggVXJ.png" group-title="",AMI-tele (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/ami.tl.ca.m3u8
 
 # http://m.assnat.qc.ca/fr/index.html
 #EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="affaires publiques",Assnat (360p)
@@ -82,7 +65,7 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
 
 # https://savoir.tv/endirect
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="éducative",Canal Savoir (360p)
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="éducatif",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="CanalVie.ca" tvg-name="Canal Vie CA" tvg-logo="https://i.imgur.com/IIQLdik.png" group-title="thématique",Canal Vie (720p)
@@ -101,7 +84,6 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master3.m3u8
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master2.m3u8
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (270p)
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
-
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
 
@@ -130,16 +112,14 @@ https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/9132c6aa-475e-4621-9322-7fd065d
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac 3 (Audio ENG)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/9132c6aa-475e-4621-9322-7fd065dbdc37/live.isml/live-audio_track_2_2_und=96000.m3u8
 
-
-
 # https://ctbtv.ca/ #
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
 https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="thématique",Elle Fictions (UPD)
-https://51-161-15-27.bestserver.online:5052/live13/b2zc0Xwtq0R12ExS11Fg9Q/54708/1625607601/2026518.m3u8|Referer=https://www.streamaway.net/fr/Elle-fictions.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wchLu6G.jpg" group-title="thématique",Elle Fictions (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/elle.fictions.ca.m3u8
 
 # https://emcitv.com/direct/
 #EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
@@ -156,8 +136,8 @@ https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
 https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Evasion (UPD)
-https://51-79-82-189.bestserver.online:5052/live18/yniG0shN6X56L7titHFWLA/54708/1625607701/2026521.m3u8|Referer=https://www.streamaway.net/fr/Evasion-qc.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="thématique",Evasion (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/evasion.ca.m3u8
 
 #EXTINF:-1 tvg-id="FrissonsTV.ca" tvg-name="Frissons TV CA" tvg-logo="https://i.imgur.com/qbjJeY0.jpg" group-title="thématique",Frissons TV (1080p)
 https://www.streamaway.net/fra/frissonstv/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Frissons-qc.php
@@ -180,9 +160,8 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 #EXTINF:-1 tvg-id="Historia.ca" tvg-name="Historia CA" tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="thématique",Historia (720p)
 https://www.streamaway.net/fra/historia/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Historia-qc.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="",ICI ARTV (UPD)
-https://51-161-87-98.bestserver.online:5052/live18/orhL8FBg3a934HGjZ93elw/54708/1625607753/2026526.m3u8|Referer=https://www.streamaway.net/fr/ARTV.php
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fcQRX6.jpg" group-title="thématique",ICI ARTV (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/artv.ca.m3u8
 
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Adaptative)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
@@ -297,6 +276,15 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (720p) (OPT-2)
 https://www.streamaway.net/fra/lcn/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/LCN.php
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFBkGEQ.png" group-title="thématique",Max (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/max.ca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4iyCar.png" group-title="actualités",Meteo Media (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/meteo.media.ca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oa6yYLC.jpg" group-title="thématique",Moi et compagnie (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/moi.et.compagnie.ca.m3u8
+
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canadian TV", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
@@ -315,6 +303,8 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (Audio)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/noovo.vtele.ca.m3u8
 
 # https://ocpm.qc.ca/fr/en-direct
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="affaires publiques",OCPM (lorsque diffusion)
@@ -322,14 +312,17 @@ https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="affaires publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="Prise 2 CA" tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="Film",Prise 2 (UPD)
-https://51-161-86-57.bestserver.online:5052/live18/CC6MywMKayUnficL-CdksA/54708/1625607863/2054451.m3u8|Referer=https://www.streamaway.net/fr/Prise2-qc.php
+#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="Prise 2 CA" tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="Film",Prise 2 (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/prise.2.ca.m3u8
 
 #EXTINF:-1 tvg-id="RDS.ca" tvg-name="RDS CA" tvg-logo="https://i.imgur.com/sAVSsZA.png" group-title="Sport",RDS (720p)
 https://www.streamaway.net/fra/rds/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS.php
 
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="RDS2 CA" tvg-logo="https://i.imgur.com/XA8meS2.jpg" group-title="Sport",RDS 2 (720p)
 https://www.streamaway.net/fra/rds2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RDS2.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npxLxt7.png" group-title="Sport",RDS Info (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rds.info.ca.m3u8
 
 #EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="Series+ CA" tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="thématique",Serie+ (720p)
 https://www.streamaway.net/fra/serieplus/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Series.php
@@ -425,8 +418,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_ur
 #EXTINF:-1 tvg-id="TVASports.ca" tvg-name="TVA Sports CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports (720p)
 https://www.streamaway.net/fra/tvasp/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/TVAsp.php
 
-EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports 2  (UPD)
-https://38-91-57-37.bestserver.online:5052/live16/AaGyFCJxK08mhOCytwqS3g/133100/1619645447/3014355.m3u8|Referer=https://www.streamaway.net/fr/TVAsp2.php
+EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="Sport",TVA Sports 2 (FMT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/tva.sports.2.ca.m3u8
 
 # https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct # https://mediat.ca/tvc7/ https://tvc7.gnak.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)  (v_id)
