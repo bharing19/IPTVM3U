@@ -47,7 +47,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451400_b1000000.m3u8
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://i.imgur.com/1x4jQRx.png" group-title="régionale",CanalAlpha Jura bernois (480p)
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451400_b500000.m3u8
-#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://i.imgur.com/1x4jQRx.png" group-title="régionale<",CanalAlpha Jura bernois (360p)
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://i.imgur.com/1x4jQRx.png" group-title="régionale",CanalAlpha Jura bernois (360p)
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451400_b250000.m3u8
 
 # https://latele.ch/live
@@ -141,14 +141,20 @@ https://pd-l-p.akamaized.net/pd/ngrp:SR-O_all/chunklist_b920576.m3u8
 # https://www.rfj.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wf94u&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (Pour VLC)
+https://www.dailymotion.com/video/x7wf94u#tab_embed.m3u8
 
 # https://www.rjb.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (DM)
 plugin://plugin.video.dailymotion_com/?url=x7xygyv&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (Pour VLC)
+https://www.dailymotion.com/video/x7xygyv#tab_embed.m3u8
 
 # https://www.rtn.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wamzq&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (Pour VLC)
+https://www.dailymotion.com/video/x7wamzq#tab_embed.m3u8
 
 # https://www.telebielingue.ch/fr/live
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://i.imgur.com/CHAIi1i.png" group-title="régionale",Télébielingue (720p)
@@ -222,23 +228,19 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-# https://www.auftanken.tv/livestream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (NA) Token
-https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 
-# https://www.channel55.tv/ # 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55
-https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55
-https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKkRJb6NMmLzW/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit
+# https://www.die-neue-zeit.tv/web-tv-radio/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w931399512.m3u8
 
 # https://drita.tv/live-tv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",Drita TV (1080p)
 https://nesertv.live/DRITATV-5879/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",Drita TV (1080p)
 https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
@@ -414,8 +416,11 @@ plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
 https://content.jwplatform.com/manifests/LTbdtGIW.m3u8
 #http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
-#########
-
+# https://www.channel55.tv/ # 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55 (OFFLINE)
+https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55 (OFFLINE)
+https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKkRJb6NMmLzW/chunks.m3u8
 
 # http://cosmic-delights.ch/
 #EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="Radio",RadioCosmicDelights (TWITCH) (OFFLINE)
@@ -441,6 +446,10 @@ https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_
 # update link : http://www.nettv.live/tv/view.php?aid=3943 #
 EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock (UDP)
 https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1184035176_b819678.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0NDkxNQ%3D%3D&id=5fgjM3MRxl_hsHCcAqDK
+
+# https://www.auftanken.tv/livestream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (NA) Token
+https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 
 # https://www.suedostschweiz.ch/tv/wilmaa
 EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
