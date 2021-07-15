@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0KhEGr.jpg" group-title="adultswim.com",★★★★★★★★★★[COLOR red]AdultSwim[/COLOR]★★★★★★★★★★
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCSNWZc.png" group-title="adultswim.com",AdultSwim East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCSNWZc.png" group-title="adultswim.com",AdultSwim West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="adultswim.com",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
  
