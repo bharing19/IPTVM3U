@@ -1,6 +1,6 @@
 #EXTM3U
 
-# https://ginikousa.com/channels.php
+# https://ginikousa.com/channels.php plugin://plugin.video.streamlink-tester/?action=play&url=
 #EXTINF:-1 tvg-logo="https://ginikousa.com/images/logo-dark.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR]★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://ginikousa.com/images/logo-dark.png" group-title="Giniko USA",Giniko decided to put token stream 
@@ -24,108 +24,71 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnDD0xH.jpg" group-title="Giniko USA",4kchannel (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=982
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/30a-tv.jpg" group-title="Giniko USA",30A TV
-https://nrpus.bozztv.com/36bay2/gusa-30atv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-30atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/30a-tv.jpg" group-title="Giniko USA",30A TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=759
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/style-city-music.jpg" group-title="Giniko USA",30A Music Channel
-https://nrpus.bozztv.com/36bay2/gusa-30atvmusic/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-30atvmusic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/action-sports-4u.jpg" group-title="Giniko USA",Action Sports 4U
-https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/style-city-music.jpg" group-title="Giniko USA",30A Music Channel (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=770
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GBbVuz.png" group-title="Giniko USA",Alkarma TV North America (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=306
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lthj6WJ.jpg" group-title="Giniko USA",Alright TV
-https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-alright/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/american-music.png" group-title="Giniko USA",American Music
-https://nrpus.bozztv.com/36bay2/gusa-americanmusic/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-americanmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lthj6WJ.jpg" group-title="Giniko USA",Alright TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=744
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O60LGgH.jpg" group-title="Giniko USA",Animal Here (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1014
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/answers-that-count.png" group-title="Giniko USA",Answers That Count
-https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-atc/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/apple-sauce-tv.jpg" group-title="Giniko USA",Apple Sauce TV
-https://nrpus.bozztv.com/36bay2/gusa-applesaucetv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-applesaucetv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9V6lMCC.png" group-title="Giniko USA",Atlanta TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1119
-https://bozztv.com/36bay2/giniko_atlantachannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/atlanta-united-fan-tv.jpg" group-title="Giniko USA",Atlanta United Fan TV
-https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-auftv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/autoplay-tv-network.jpg" group-title="Giniko USA",AutoPlay TV Network
-https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-autoplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/atlanta-united-fan-tv.jpg" group-title="Giniko USA",Atlanta United Fan TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=753
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eN6z78l.jpg" group-title="Giniko USA",Bad Driver (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1008
-https://bozztv.com/36bay2/gin/giniko_baddrivers_900kb_36bay2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QN8ZIL.jpg" group-title="Giniko USA",Bass Channel (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=979
-https://bozztv.com/36bay2/gin/giniko_basschannel_2000kb_36bay2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/battery-pop.png" group-title="Giniko USA",Battery Pop
-https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-batterypop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/battery-pop.png" group-title="Giniko USA",Battery Pop (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=848
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/billy-c-boxing.jpg" group-title="Giniko USA",Billy C Boxing
-https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-billycboxing/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/billy-c-boxing.jpg" group-title="Giniko USA",Billy C Boxing (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=750
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/black-dynomite-tv.jpg" group-title="Giniko USA",Black Dynomite TV
-https://nrpus.bozztv.com/36bay2/gusa-blackdynomitetv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-blackdynomitetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/black-dynomite-tv.jpg" group-title="Giniko USA",Black Dynomite TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=881
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1042.png" group-title="Giniko USA",Brics TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1042
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/c3.png" group-title="Giniko USA",C3
-https://nrpus.bozztv.com/36bay2/gusa-c3/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-c3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/c3.png" group-title="Giniko USA",C3 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=855
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBmwngz.png" group-title="Giniko USA",CA Music (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=966
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/camera-smile-tv.png" group-title="Giniko USA",Camera Smile TV
-https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-camerasmile/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/camera-smile-tv.png" group-title="Giniko USA",Camera Smile TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=730
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/captiva-tv.png" group-title="Giniko USA",Captiva TV
-https://nrpus.bozztv.com/36bay2/gusa-wanztv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-wanztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/captiva-tv.png" group-title="Giniko USA",Captiva TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=788
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg" group-title="Giniko USA",Cartoon Classics
-https://nrpus.bozztv.com/36bay2/gusa-cartoonclassics/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg" group-title="Giniko USA",Cartoon Classics (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=845
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/celebrity-scene-tv-.png" group-title="Giniko USA",Celebrity Scene TV
-https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/celebrity-scene-tv-.png" group-title="Giniko USA",Celebrity Scene TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=731
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1167.png" group-title="Giniko USA",Channel 4 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1167
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-champion.jpg" group-title="Giniko USA",Chef Champion
-https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-champion.jpg" group-title="Giniko USA",Chef Champion (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=758
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-roc.jpg" group-title="Giniko USA",Chef Roc
-https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-chefrock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/chef-roc.jpg" group-title="Giniko USA",Chef Roc (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=748
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUQw6rJ.png" group-title="Giniko USA",Christmas Song (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=964
@@ -139,21 +102,14 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qrd9y5w.png" group-title="Giniko USA",CNC World (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=297
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comedy-classics.jpg" group-title="Giniko USA",Comedy Classics
-https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comedy-classics.jpg" group-title="Giniko USA",Comedy Classics (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=844
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comfy-tv.jpg" group-title="Giniko USA",Comfy TV
-https://nrpus.bozztv.com/36bay2/gusa-comfytv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-comfytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comfy-tv.jpg" group-title="Giniko USA",Comfy TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=775
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSUyZpS.png" group-title="Giniko USA",D2D TV
-https://bozztv.com/36bay2/gusa-d2dtv/index.m3u8
-https://bozztv.com/36bay2/gusa-d2dtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/darcizzle-offshore.jpg" group-title="Giniko USA",Darcizzle Offshore
-https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSUyZpS.png" group-title="Giniko USA",D2D TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=745
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZVNbkR.jpg" group-title="Giniko USA",Daystar (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=109
@@ -161,9 +117,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CI4Hew2.jpg" group-title="Giniko USA",Deutsche Welle News (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=948
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/dimensions.png" group-title="Giniko USA",Dimensions
-https://nrpus.bozztv.com/36bay2/gusa-dimensions/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-dimensions/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/dimensions.png" group-title="Giniko USA",Dimensions (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=780
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/333.jpg" group-title="Giniko USA",Enlace TV Latino (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=333
@@ -186,35 +141,26 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1169.png" group-title="Giniko USA",Film4 HD (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1169
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fishing-offshore.jpg" group-title="Giniko USA",Fishing Offshore
-https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fishing-offshore.jpg" group-title="Giniko USA",Fishing Offshore (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=785
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fite-tv.jpeg" group-title="Giniko USA",FITE TV
-https://nrpus.bozztv.com/36bay2/gusa-fite/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-fite/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/fite-tv.jpeg" group-title="Giniko USA",FITE TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=840
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/funny-bone-tv.png" group-title="Giniko USA",Funny Bone TV
-https://nrpus.bozztv.com/36bay2/gusa-funnybone/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-funnybone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/funny-bone-tv.png" group-title="Giniko USA",Funny Bone TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=779
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/georgia-hollywood.png" group-title="Giniko USA",Georgia Hollywood
-https://nrpus.bozztv.com/36bay2/gusa-gh/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-gh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/georgia-hollywood.png" group-title="Giniko USA",Georgia Hollywood (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=874
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/classic-cinema.png" group-title="Giniko USA",Giniko Classic Cinema TV
-https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-classiccinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/classic-cinema.png" group-title="Giniko USA",Giniko Classic Cinema TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=728
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/golden-tv.png" group-title="Giniko USA",Giniko Golden TV
-https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-goldentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/golden-tv.png" group-title="Giniko USA",Giniko Golden TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=729
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xza4Xm3.jpg" group-title="Giniko USA",Giniko Fashion (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=15
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XEtAu1Q.png" group-title="Giniko USA",Golden TV
-https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3pRfnm.jpg" group-title="UGiniko USA",Guitar Relax (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=987
@@ -222,76 +168,59 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEzrstQ.jpg" group-title="Giniko USA",Guitar Riffs (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=990
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hbcu-gameday.png" group-title="Giniko USA",HBCU Gameday
-https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-HBCU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hbcu-gameday.png" group-title="Giniko USA",HBCU Gameday (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=815
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/holly-wise.png" group-title="Giniko USA",Holly Wise
-https://nrpus.bozztv.com/36bay2/gusa-hollywise/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-hollywise/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/holly-wise.png" group-title="Giniko USA",Holly Wise (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=879
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/home-trade-show.png" group-title="Giniko USA",Home Trade Show
-https://nrpus.bozztv.com/36bay2/gusa-hometradeshow/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-hometradeshow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/home-trade-show.png" group-title="Giniko USA",Home Trade Show (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=880
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/honor-tv.png" group-title="Giniko USA",HONOR TV
-https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-honortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/honor-tv.png" group-title="Giniko USA",HONOR TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=784
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hot-rock-tv.jpg" group-title="Giniko USA",Hot Rock TV
-https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-hotrock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/hot-rock-tv.jpg" group-title="Giniko USA",Hot Rock TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=760
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f49nRd3.png" group-title="Giniko USA", ID Fashion (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1039
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/313.jpg" group-title="Giniko USA",iFILM English
 https://live1.presstv.com/live/ifilmen_360p/index.m3u8
-#https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iholyfield-tv.png" group-title="Giniko USA",iHolyfield TV
-https://nrpus.bozztv.com/36bay2/gusa-myholyfield/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-myholyfield/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iholyfield-tv.png" group-title="Giniko USA",iHolyfield TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=704
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/236.jpg" group-title="Giniko USA",Impact TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=236
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iread2know.jpg" group-title="Giniko USA",iRead2Know
-https://nrpus.bozztv.com/36bay2/gusa-iread2know/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iread2know.jpg" group-title="Giniko USA",iRead2Know (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=749
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ishe-tv.png" group-title="Giniko USA",iShe TV
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-shetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ishe-tv.png" group-title="Giniko USA",iShe TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=777
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QEsJ6MH.jpg" group-title="Giniko USA",Jasmin TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=341
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj34cm0.png" group-title="Giniko USA",Juce TV
-https://bozztv.com/36bay2/gin/giniko_jucetv_900kb_36bay2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kartoon-circus.png" group-title="Giniko USA",Kartoon Circus (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.ginikousa.com/live.php?id=699
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kid-central.png" group-title="Giniko USA",Kid Central
-https://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-kidcentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kid-central.png" group-title="Giniko USA",Kid Central (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=776
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lifestyle.png" group-title="Giniko USA",Lifestyle
-https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
-https://bozztv.com/36bay2/gusa-lifestyle/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lifestyle.png" group-title="Giniko USA",Lifestyle (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=857
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lionel-nation.png" group-title="Giniko USA",Lionel Nation
-https://nrpus.bozztv.com/36bay2/gusa-ln/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-ln/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/lionel-nation.png" group-title="Giniko USA",Lionel Nation (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=875
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/loomered-tv.jpg" group-title="Giniko USA",Loomered TV
-https://nrpus.bozztv.com/36bay2/gusa-loomered/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-loomered/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/loomered-tv.jpg" group-title="Giniko USA",Loomered TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=873
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mad-dog-and-merrill.jpg" group-title="Giniko USA",Mad Dog and Merrill
-https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-mwg/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mad-dog-and-merrill.jpg" group-title="Giniko USA",Mad Dog and Merrill (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=752
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwLuj21.jpg" group-title="Giniko USA",Magic Science (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1002
@@ -310,23 +239,23 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHVP9rU.jpg" group-title="Giniko USA",Models Inc. (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=991
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mvp-tv.png" group-title="Giniko USA",MVP TV Network
-https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-mvptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mvp-tv.png" group-title="Giniko USA",MVP TV Network (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=755
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mythos.png" group-title="Giniko USA",MYTHOS
-https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-mythos/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/mythos.png" group-title="Giniko USA",MYTHOS (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=800
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/news-net.jpg" group-title="Giniko USA",News Net
-https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KtTg4a.jpg" group-title="Giniko USA",News Net (SLT)
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nashville-country-tv.jpg" group-title="Giniko USA",Nashville Country TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=884
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/news-net.jpg" group-title="Giniko USA",News Net (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=977
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nothing-scripted.jpg" group-title="Giniko USA",Nothing Scripted
-https://nrpus.bozztv.com/36bay2/gusa-nothingscripted/index.m3u8
-https://nrpus.bozztv.com/36bay2/gusa-nothingscripted/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nothing-scripted.jpg" group-title="Giniko USA",Nothing Scripted (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=771
+
+
+########
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/nrbtv.jpg" group-title="Giniko USA",NRBTV
 https://nrpus.bozztv.com/36bay2/gusa-nrbtv/index.m3u8
