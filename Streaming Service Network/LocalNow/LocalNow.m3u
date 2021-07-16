@@ -345,3 +345,81 @@ https://pac12-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6099bdaa0d4567705779bbd2" tvg-name="Love Nature"  group-title="Entertainment",Love Nature
 https://lovenatureus-eng-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6c46dfa92505a4b1413a2" tvg-name="KOKI-TV Tulsa OK"  group-title="News",KOKI-TV Tulsa OK
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d2338681e16700c2179123" tvg-name="Channel Fight"  group-title="Sports",Channel Fight
+https://ov.ottera.tv/live/master.m3u8?channel=chan_cf
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60c8ecb088fc2c742d52b985" tvg-name="QVC"  group-title="Lifestyle",QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ac18b028b9e120bc508e02" tvg-name="HSN"  group-title="Lifestyle",HSN
+https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/master.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60c79dce3515520384660cc3" tvg-name="Jewelry TV"  group-title="Lifestyle",Jewelry TV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ca21c5c3705b40ce1d5494" tvg-name="Demand Africa"  group-title="Entertainment",Demand Africa
+https://demadafrica-localnow.amagi.tv/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d2342ce38f3335ba5f5082" tvg-name="Party Tyme Karaoke"  group-title="Entertainment",Party Tyme Karaoke
+https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60cb6d1c5ced473ef62ff0d3" tvg-name="Qwest TV Jazz"  group-title="Entertainment",Qwest TV Jazz
+https://qwestjazz-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60cb6cf31435956d1d1d0cff" tvg-name="Qwest TV Mix"  group-title="Entertainment",Qwest TV Mix
+https://qwestmix-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60cb6cc8f618a83d026ecd13" tvg-name="Qwest TV Classical"  group-title="Entertainment",Qwest TV Classical
+https://qwestclassic-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60cbbbf5a7aba76325450b62" tvg-name="Local Now Stargaze"  group-title="Entertainment",Local Now Stargaze
+https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4a0fc0379d64f9202c502" tvg-name="Local Now PG Flix"  group-title="Entertainment",Local Now PG Flix
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d37620347e830cf22b2e73" tvg-name="Local Now Justice"  group-title="Entertainment",Local Now Justice
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17be91182d1039224f93" tvg-name="Local Now Juneau AK"  group-title="News",Local Now Juneau AK
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/akJuneau/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17849a3ec21aaa5f1812" tvg-name="Local Now Alpena MI"  group-title="News",Local Now Alpena MI
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/miAlpena/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17694e8a9d513d1f1782" tvg-name="Local Now North Platte NE"  group-title="News",Local Now North Platte NE
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/neNorthPlatte/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da173ea0eaf20e8f7e9fa1" tvg-name="Local Now Glendive MT"  group-title="News",Local Now Glendive MT
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtGlendive/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da1923103665567758c0f2" tvg-name="Local Now Helena MT"  group-title="News",Local Now Helena MT
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtHelena/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4d78b5e550b3e07670ae2" tvg-name="Local Now Christmas in July"  group-title="Entertainment",Local Now Christmas in July
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" tvg-name="WHBQ-TV Memphis TN"  group-title="News",WHBQ-TV Memphis TN
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whbqtv-hls-v3/live.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b25c361f665bd8558d08" tvg-name="Billiard TV"  group-title="Sports",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b2dc31d3017a607c3c07" tvg-name="Fido TV"  group-title="Entertainment",Fido TV
+https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d2333611dd306eb153faf2" tvg-name="Cooking Panda"  group-title="Entertainment",Cooking Panda
+https://ov.ottera.tv/live/master.m3u8?channel=rndr_cp
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da22ea91182d1039224f94" tvg-name="Space Channel"  group-title="Entertainment",Space Channel
+https://ov.ottera.tv/live/master.m3u8?channel=space_sp
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e48787735ab17af1331412" tvg-name="AfroLand TV"  group-title="Entertainment",AfroLand TV
+https://ov.ottera.tv/live/master.m3u8?channel=alt_al
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d39c05df61910d357d3ab4" tvg-name="MotorVision TV"  group-title="Sports",MotorVision TV
+https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
