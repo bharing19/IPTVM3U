@@ -41,5 +41,44 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline
 #EXTINF:-1,PORTUGUESE SPORT TV 5  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv5.php
 
+#EXTINF:-1,pepperlive Stream are not 24/7
+0.0.0.0
+#EXTINF:-1,pepperlive 1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=1
+#EXTINF:-1,pepperlive 2 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=2
+#EXTINF:-1,pepperlive 3 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=3
+#EXTINF:-1,pepperlive 4 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=4
+#EXTINF:-1,pepperlive 5 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=5
+#EXTINF:-1,pepperlive 6 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=6
+#EXTINF:-1,pepperlive 7 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=7
+#EXTINF:-1,pepperlive 8 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=8
+#EXTINF:-1,pepperlive 9 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=9
+#EXTINF:-1,pepperlive 10 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=10
+#EXTINF:-1,pepperlive 11 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=11
+#EXTINF:-1,pepperlive 12 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=12
+#EXTINF:-1,pepperlive 13 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pepperlive.info/sportp.php?id=13
+
+
+#EXTINF:-1,apl52.me (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://emb.apl52.me/player/live.php?id=168424&w=728&h=480
+
+#EXTINF:-1,totalhdsport (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://totalhdsport.xyz/hd/10.php
+
+
+
+
 
 
