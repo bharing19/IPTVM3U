@@ -23,9 +23,14 @@ plugin://plugin.video.youtube/play/?video_id=kz3N09jOEig
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=qGn-NeOzKaY
 
-# update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=3RWqTQGNXgs
+# https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (720p) (YT) (v_id)
+plugin://plugin.video.youtube/play/?video_id=5U8Xo5u41G0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron  (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (1080p)
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA/live
+
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
@@ -69,7 +74,7 @@ http://207.164.90.146:747/mjpg/video.mjpg
 plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
 
 # https://www.youtube.com/channel/UCGqncD4C_A-Vqi7exzIsMCQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwqLUyy.png" group-title="Cam",Aéroport Saint-Mathieu de Beloeil CSB3(YT) (UPD) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwqLUyy.png" group-title="Cam",Aéroport Saint-Mathieu de Beloeil CSB3 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=z0_dk7SP_eE
 
 # https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
@@ -220,7 +225,12 @@ http://69.70.89.58:8001/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3wssHJ.jpg" group-title="",Sainte-Anne-Des-Lacs
 http://209.54.75.46/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CBUh0g2.png" group-title="",Marina Knowlton - Lac-Brome
+# http://marina.ifix.email/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Queue Cam
+http://148.59.220.54:8082/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Lake Cam 
+http://148.59.220.54:8081/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Ramp Cam 
 http://148.59.220.54:8080/hls/live.stream.m3u8
 
 # https://parcmarin.qc.ca/webcam/
