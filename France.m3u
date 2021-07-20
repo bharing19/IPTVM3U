@@ -1031,8 +1031,8 @@ https://www.dailymotion.com/video/x17qw0a#tab_embed.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
-EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (OPT-2)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (OPT-2)
+https://www.streamaway.net/fra/fr2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/France2.php
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (OPT-3)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/28d64aa3c40ce6b.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (opt 4)
@@ -1050,8 +1050,8 @@ https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac
 #EXTINF:-1 tvg-id="France" tvg-name="F3 Bretagne" tvg-logo="https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/themes/fr3r_responsive/images/icons/apple-touch-icon-144x144.png" group-title="France",F3 Bretagne (GEO)
 https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 
-EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
+http://edge9.iptvnetwork.net/live/france3/chunks.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a139a26e121bdec.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-3)
@@ -1059,13 +1059,13 @@ http://51.15.3.161:8080/france3/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4
 http://51.15.3.161:8080/france4/index.m3u8?token=test
-EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4 (OPT-2)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4 (OPT-2)
+http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4 (OPT-3)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/9302c7a4bf6084b.m3u8|User-Agent=stream
 
-EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france5live-12474/hls/index.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5
+http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5 (OPT-2)
 http://51.15.3.161:8080/france5/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5 (OPT-3)
@@ -1073,11 +1073,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/871c99557d2773
 
 EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceolive-103183/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (OPT-2)
+EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (OPT-2)
 http://51.15.3.161:8080/france0/index.m3u8?token=test
-#EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (OPT-3)
+EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (OPT-3)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4c33d89bb7ac426.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (opt-4)
+EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (opt-4)
 https://edge-1192-ch-gv.filmon.com/live/3884.low.stream/playlist.m3u8
 
 # https://www.france24.com/fr/direct
@@ -1195,7 +1195,7 @@ plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
 # update link : #
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE 
 https://www.streamaway.net/fra/gameone/mono.m3u8|Referer=https://www.streamaway.net/fr/Gameone-fr.php
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/index.m3u8
+
 
 
 EXTINF:-1 tvg-id="GameOne.fr" tvg-name="Game One+ FR" tvg-logo="https://i.imgur.com/3rShsL5.png" group-title="Anime",GAME ONE + (OFFLINE)
@@ -1211,7 +1211,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/ginx-14366332/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Golf+ FR" tvg-logo="https://i.imgur.com/miyeo6l.jpg" group-title="Sport",GOLF+
 https://www.streamaway.net/fra/golf/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Golf-fr.php
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GolfChannel_live/index.m3u8
+
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Gong" tvg-logo="https://i.ibb.co/WzMP5qS/gong.png" group-title="thématique",Gong
@@ -1237,9 +1237,6 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli (TT)
 plugin://script.module.7of9-live/play/326/play.pvr
 
-
-
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/04.m3u8
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire FR" tvg-logo="https://histoire.fr/sites/default/files/histoire_logo_0.png" group-title="documentaires",Histoire TV (OPT-2)
 https://www.streamaway.net/fra/histo/index.m3u8|Referer=https://www.streamaway.net/fr/Histoire-fr.php
 
@@ -1505,8 +1502,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/53882f0443a0f6
 #EXTINF:-1 tvg-id="France" tvg-logo="http://pancrace.tv/uploads/images/logo_site_1485347386.jpg" tvg-name="pancrace"  group-title="Sport",pancrace.tv
 http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/GQGtNzk.png" group-title="thématique",PARIS PREMIERE (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQGtNzk.png" group-title="thématique",PARIS PREMIERE (OFFLINE)
+https://www.streamaway.net/fra/pp/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Parispremiere-fr.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQGtNzk.png" group-title="thématique",PARIS PREMIERE (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/15d03a7eb726387.m3u8|User-Agent=stream
 
@@ -1578,9 +1575,9 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 
 
 # https://www.radio-mrg.com/
-#EXTINF:-1 ttvg-id="radio-mrg.fr" tvg-name="MRG TV FR" vg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG TV (DM)
+#EXTINF:-1 tvg-id="radio-mrg.fr" tvg-name="MRG TV FR" tvg-logo="https://i.imgur.com/RWbgePN.png"  group-title="Radio",Radio MRG TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x69a2vh&mode=playLiveVideo
-#EXTINF:-1 tvg-id="radio-mrg.fr" tvg-name="MRG TV FR" tvg-logo="https://i.imgur.com/WgUKV43.png"  group-title="Radio",Radio MRG TV (Pour VLC)
+#EXTINF:-1 tvg-id="radio-mrg.fr" tvg-name="MRG TV FR" tvg-logo="https://i.imgur.com/RWbgePN.png"  group-title="Radio",Radio MRG TV (Pour VLC)
 https://www.dailymotion.com/video/x69a2vh#tab_embed.m3u8
 
 # https://www.twitch.tv/rcity/
@@ -1663,7 +1660,7 @@ https://www.dailymotion.com/video/x2tzzpj#tab_embed.m3u8
 
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="thématique",RTL9 HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1791cb8a42dc145.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="thématique",RTL9 (720p)(OPT-2)
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="thématique",RTL9 (720p) (OPT-2)
 https://www.streamaway.net/fra/rtl9/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTL9.php
 
 # https://www.dailymotion.com/rv1 https://www.facebook.com/RV1.TV/
@@ -1689,11 +1686,11 @@ https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=16226
 
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="Sport",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?url=x797sy0&mode=playLiveVideo
-EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France 
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/tech_sportsenfrance_ott_mobile-14552637/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gg3Bizj.png" group-title="France",Sport en France (OPT-2)
+#EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="Sport",Sport en France 
+https://www.streamaway.net/fra/sportfr/index.m3u8|Referer=https://www.streamaway.net/fr/Sportfr.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gg3Bizj.png" group-title="Sport",Sport en France (OPT-2)
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0OhsPp.jpg" group-title="France",Stormcast Novelas TV
@@ -1729,8 +1726,8 @@ plugin://plugin.video.dailymotion_com/?url=x7wrxqb&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Telesud.fr" tvg-name="Télésud FR" tvg-logo="https://i.imgur.com/JmjCw2t.jpg" group-title="régionale",TeleSud (Pour VLC)
 https://www.dailymotion.com/video/x7wrxqb#tab_embed.m3u8
 
-EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name=Tv Breizh FR"" tvg-logo="https://i.imgur.com/YEsgkd6.png" group-title="régionale",tvbreizh (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tvbreizh-27323/hls/04.m3u8
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="Tv Breizh FR"" tvg-logo="https://i.imgur.com/YEsgkd6.png" group-title="régionale",Tv Breizh
+https://www.streamaway.net/fra/tvbreizh/mono.m3u8|Referer=https://www.streamaway.net/fr/TVbreizh-fr.php
 
 # http://www.tlc-cholet.fr/le-direct
 #EXTINF:-1 tvg-id="tlc-cholet.fr" tvg-name="TLC FR" tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="régionale",Télévision Locale du Choletais (DM)
@@ -1755,8 +1752,8 @@ http://mv2.tvfrancophonie.org/live/Stream1/chunklist_w671289549_b776739.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
-EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva (OPT-2)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/teva-37149/hls/index.m3u8
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva (OPT-2)
+https://www.streamaway.net/fra/teva/mono.m3u8|Referer=https://www.streamaway.net/fr/Teva-fr.php
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TL7" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="régionale",TL7  Loire (DM)
@@ -1797,7 +1794,7 @@ plugin://plugin.video.dailymotion_com/?url=x7zik43&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x38yjeb&mode=playLiveVideo
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1
+#EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (OFFLINE)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1b4d1e3292b3936.m3u8|User-Agent=stream
@@ -1810,13 +1807,15 @@ http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
-# update link : #
+# 
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+https://www.streamaway.net/fra/hd1/mono.m3u8|Referer=https://www.streamaway.net/fr/HD1-fr.php
+#https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 
 #EXTINF:-1 tvg-id="France" tvg-name="TFX" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="France",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+https://www.streamaway.net/fra/nt1/mono.m3u8|Referer=https://www.streamaway.net/fr/NT1-fr.php
+#https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="",TIJI
@@ -1825,9 +1824,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
-# update link : #
+# 
 #EXTINF:-1 tvg-id="France" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="France",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+https://www.streamaway.net/fra/tmc/mono.m3u8|Referer=https://www.streamaway.net/fr/TMC-fr.php
+#https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2Vie
@@ -1882,7 +1882,7 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
 
 # update link : https://www.dailymotion.com/video/x71o73v #
-#EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 MontBlanc (Live 2)(DM)
+#EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 MontBlanc (Live 2) (DM)
 plugin://plugin.video.dailymotion_com/?url=x71o73v&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="",Radio Mont Blanc (DM)
