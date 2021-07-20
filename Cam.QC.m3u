@@ -2,9 +2,14 @@
 
 # Cam QC #
 
-# update link: https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (YT) (UPD)
+
+# https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg portqc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (720p) (YT) (v_id)
 plugin://plugin.video.youtube/play/?video_id=dnn9B0vPlws
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZdjU2sWPeLjmh75zOxekUg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (1080p)
+https://linkastream.co/headless?url=https://www.youtube.com/user/portqc/live
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
@@ -32,7 +37,7 @@ plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=SanpjypXgI4
+plugin://plugin.video.youtube/play/?video_id=SNiJ34ro2-Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Base Nord (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=qL3dwf2SgRs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Base Sud (YT) (UPD)
