@@ -1,6 +1,7 @@
 #EXTM3U
 
 # https://localnow.com/
+# Playlist By apsattv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsiFf80.png" group-title="LocalNow",★★★★★★★★★★[COLOR green]LocalNow[/COLOR]★★★★★★★★★★
 0.0.0.0
 
@@ -423,3 +424,38 @@ https://ov.ottera.tv/live/master.m3u8?channel=alt_al
 
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d39c05df61910d357d3ab4" tvg-name="MotorVision TV"  group-title="Sports",MotorVision TV
 https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" tvg-name="Ski TV"  group-title="Sports",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d49e015b182403c0433802" tvg-name="Wild Earth"  group-title="Entertainment",Wild Earth
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60f09642aea7da2a7d2412b4" tvg-name="Local Now PG-13 Flix"  group-title="Entertainment",Local Now PG-13 Flix
+https://linear-230.frequency.stream/dist/localnow/230/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60f054022091760a276849a2" tvg-name="Chive TV"  group-title="Entertainment",Chive TV
+https://chivetv-localnow.amagi.tv/master.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60edf7695a66982cab536295" tvg-name="The Dead Zone"  group-title="Entertainment",The Dead Zone
+https://linear-215.frequency.stream/dist/localnow/215/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1d229f2fd373eb0d4165" tvg-name="Justice with Judge Mablean"  group-title="Entertainment",Justice with Judge Mablean
+https://linear-221.frequency.stream/dist/localnow/221/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1cdbe315d7684554f2e9" tvg-name="America's Court with Judge Ross"  group-title="Entertainment",America's Court with Judge Ross
+https://linear-219.frequency.stream/dist/localnow/219/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1cffea7a611d27205813" tvg-name="Justice for All with Judge Cristina Perez"  group-title="Entertainment",Justice for All with Judge Cristina Perez
+https://linear-220.frequency.stream/dist/localnow/220/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1d47df09d73c914aa386" tvg-name="Supreme Justice with Judge Karen"  group-title="Entertainment",Supreme Justice with Judge Karen
+https://linear-222.frequency.stream/dist/localnow/222/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1d65440c213c7669a496" tvg-name="The Verdict with Judge Hatchett"  group-title="Entertainment",The Verdict with Judge Hatchett
+https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1f58ea7a611d27205814" tvg-name="Love & War"  group-title="Entertainment",Love & War
+https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
+
+
