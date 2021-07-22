@@ -870,3 +870,6 @@ http://curiosity.shoutca.st:8752/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxYH48M.jpg" group-title="",CSUR LA RADIO Vaudreuil-Dorion
 https://s2.citrus3.com:8304/stream?type=.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stFPdY1.jpg" group-title="",Radio Country Acadienne
+http://151.80.44.127:8293/
