@@ -364,7 +364,9 @@ https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Windsor
 https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="",##Autre Radio##
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TN59hj.png" group-title="",★★★★★★★★★★[COLOR gold]Autre Radio[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 #https://radioendirect.net/canada/quebec/radio-communautaire
@@ -873,3 +875,17 @@ https://s2.citrus3.com:8304/stream?type=.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stFPdY1.jpg" group-title="",Radio Country Acadienne
 http://151.80.44.127:8293/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNP5wjo.jpg" group-title="",★★★★★★★★★★ChroniX★★★★★★★★★★
+0.0.0.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihnR33t.png" group-title="",ChroniX | Radio
+https://streamingv2.shoutcast.com/ChroniXRadio-?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3%20&%20ad=radiono5%20&%20appName=website
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcb0NWu.jpg" group-title="",ChroniX | AGGRESSION
+https://usa17.fastcast4u.com/proxy/gebacher?mp=/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLOq0AI.jpg" group-title="",ChroniX | GRIT
+https://usa5.fastcast4u.com/proxy/chronixg?mp=/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bktwMBj.jpg" group-title="",ChroniX | METALCORE
+https://usa17.fastcast4u.com/proxy/chronixr?mp=/1
