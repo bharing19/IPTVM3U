@@ -413,7 +413,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.l
 
 # 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZtWDRB.png" group-title="",Radio PROS 105.8 FM Denderhoutem
-http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="",ROB-tv
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
