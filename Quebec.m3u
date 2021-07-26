@@ -63,6 +63,8 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 
 #EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D CA" tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="thématique",Canal D (720p)
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
+#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D CA" tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="thématique",Canal D (OPT-2)
+https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/canal.d.ca.m3u8
 
 # https://savoir.tv/endirect
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="éducatif",Canal Savoir (360p)
@@ -269,6 +271,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCNNsE_Xj2ndAAnQETObPrVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (1080p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyq50z9.png",La chaîne Disney
+https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/la.chaine.disney.ca.m3u8
+
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="actualités",LCN (Audio)
@@ -400,18 +405,30 @@ https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (1080p)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/04.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/03.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (540p)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/02.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (270p)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/01.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA Audio
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/05.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (Adaptative) (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (1080p) (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p) (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p) (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (Adaptative) (OPT-2b)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (1080p) (OPT-2b)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p) (OPT-2b)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p) (OPT-2b)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (1080p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_url/?item_id=tva
 
