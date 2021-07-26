@@ -79,6 +79,22 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://totalhdsport.xyz
 
 
 
+# https://tokyo2020.rtm.gov.my/olympics
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png" group-title="Sport",RTM Tokyo 2020 Channel 1 (HD)
+https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png" group-title="Sport",RTM Tokyo 2020 Channel 2 (HD)
+https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png" group-title="Sport",RTM Tokyo 2020 Channel 3 (HD)
+https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png" group-title="Sport",RTM Tokyo 2020 Channel 4 (HD)
+https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png" group-title="Sport",RTM Tokyo 2020 Channel 5 (HD)
+https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 
 
 
