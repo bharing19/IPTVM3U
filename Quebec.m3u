@@ -56,10 +56,7 @@ plugin://plugin.video.youtube/play/?video_id=1L92h2Xt4jU
 plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/user/bellahdjel/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (OPT-2) (720p)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/user/bellahdjel/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (OPT-3) (720p)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/bellahdjel/live
+
 
 #EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D CA" tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="thématique",Canal D (720p)
 https://www.streamaway.net/fra/canald/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalD-qc.php
@@ -151,10 +148,7 @@ plugin://plugin.video.youtube/play/?video_id=x07wPux92gs
 plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (opt-2)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (opt-3)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+
 
 #EXTINF:-1 tvg-id="GlobalMontrealCKMI.ca" tvg-name="Global Montreal CA" tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="News",Global News Montreal (720p)
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -169,15 +163,6 @@ https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/artv.ca.m3
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p)
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_1800.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p)
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_1100.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (360p)
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_700.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p)
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_400.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_256.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_128.m3u8
@@ -187,15 +172,6 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_dv.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (720p) (OPT-2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p) (OPT-2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1800.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (480p) (OPT-2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1100.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (360p) (OPT-2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_700.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p) (OPT-2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_400.m3u8
-#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (180p) (OPT-2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="actualités",ICI RDI (Audio) (OPT-2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_128.m3u8
@@ -360,12 +336,6 @@ https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (Adaptative)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (720p)
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (540p)
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (360p)
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (270p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="généraliste",Télé Québec (720p) (OPT-2)
 https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Telequebec.php
@@ -381,10 +351,6 @@ plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
 plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/user/ctmq/live
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (OPT-2)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/user/ctmq/live
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (OPT-3)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/ctmq/live
 
 #EXTINF:-1 tvg-id="TeletoonFrench.ca" tvg-name="TéléToon CA" tvg-logo="https://i.imgur.com/WJPpAAo.png" group-title="Anime",Teletoon (720p)
 https://www.streamaway.net/fra/teletoon-qc/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Teletoon-qc.php
@@ -403,14 +369,6 @@ https://www.streamaway.net/fra/tv5-ca/tracks-v1a1/mono.m3u8|Referer=https://www.
 # https://www.qub.ca/tvaplus/tva/en-direct
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (Adaptative)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (1080p)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/04.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (720p)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/03.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (540p)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/02.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA (270p)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/01.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="généraliste",TVA Audio
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/05.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="généraliste",TVA (Adaptative) (OPT-2)
@@ -445,10 +403,7 @@ plugin://plugin.video.youtube/play/?video_id=pXT9_7p4wsw
 plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p)
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (OPT-2) (720p)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (OPT-3) (720p)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+
 
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (v_id)
@@ -456,11 +411,8 @@ plugin://plugin.video.youtube/play/?video_id=QDMJVOd4uso
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
-#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (OPT-2)
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
-#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (OPT-3)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
+
 
 #EXTINF:-1 tvg-id="VRAK.ca" tvg-name="VRAK CA" tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="thématique",Vrak (720p)
 https://www.streamaway.net/fra/vrak/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Vrak-ca.php
