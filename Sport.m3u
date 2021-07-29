@@ -165,5 +165,6 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsArab1",ARYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 
-
+#EXTINF:-1,Adventure Sport TV
+https://giz.poppo.tv/channellivev3/live/master.m3u8?channel=275
 
