@@ -587,6 +587,8 @@ https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto
 http://flusonic-4.platinum-tv.com/AUTOMOTO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/17.php
 
 # https://www.azur-tv.fr/live/  
 # https://www.dailymotion.com/video/x13x1q2
@@ -990,11 +992,11 @@ https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 plugin://plugin.video.dailymotion_com/?url=xqjkfz&mode=playLiveVideo
 
 
-EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1 (UPD) (Off LIne)
-0.0.0.0
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 FR" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="Sport",EuroSport 1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/7.php
 
-EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD) (Off LIne)
-0.0.0.0
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 1 FR" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="Sport",EuroSport 2 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/8.php
 
 # https://evandis-gospel.tv/
 #EXTINF:-1 tvg-id="evandisgospel.fr" tvg-name="Evandis Gospel Tv FR" tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="Religion",Evandis Gospel Tv
@@ -1314,8 +1316,9 @@ plugin://plugin.video.dailymotion_com/?url=xji3qy&mode=playLiveVideo
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP FR" tvg-logo="https://i.imgur.com/604AzhE.png" group-title="Séance publique",LCP TV (Pour VLC)
 https://www.dailymotion.com/video/xji3qy#tab_embed.m3u8
 
-EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/18.php
+#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 (OPT-2)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/c98414a1a5363d9.m3u8|User-Agent=stream
 # update link : https://www.dailymotion.com/lachainelequipe #
