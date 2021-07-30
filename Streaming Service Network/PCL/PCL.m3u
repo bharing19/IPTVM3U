@@ -25,7 +25,7 @@ http://tv.pmcon.net/hls/stream9.m3u8
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/PTV_Sports.png" group-title="Sport",PTV Sport
 http://tv.pmcon.net/hls/stream11.m3u8
-#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Star_Sports_Select_1_HD.jpg" group-title="Sport",Star Sport Select !Scambled Channel!
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Star_Sports_Select_1_HD.jpg" group-title="Sport",Star Sport Select
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Nat_Geo_HD.png" group-title="English",Nat Geo
 http://tv.pmcon.net/hls/stream13.m3u8
@@ -57,13 +57,13 @@ http://tv.pmcon.net/hls/stream25.m3u8
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="Bangla",Jalsha Movies
 http://tv.pmcon.net/hls/stream27.m3u8
-#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="Bangla",Color !no Signal! or not 24/7
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="Bangla",Color
 http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/colorscineplex.jpg" group-title="Hindi",Color Cineplex
 http://tv.pmcon.net/hls/stream29.m3u8
-#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="Bangla",Zee !no Signal! or not 24/7
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="Bangla",Zee
 http://tv.pmcon.net/hls/stream30.m3u8
-#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="Bangla",Star Jalsha !no Signal! or not 24/7
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="Bangla",Star Jalsha
 http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sonyyay.jpg" group-title="Cartoon",Sony YaY
 http://tv.pmcon.net/hls/stream32.m3u8
