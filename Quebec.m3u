@@ -6,9 +6,8 @@ plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/07/14
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - national anthem of quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - national anthem of quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
