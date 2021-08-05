@@ -86,8 +86,9 @@ http://vod.acangroup.org:1935/output/anntv.stream/chunklist_w1788779994.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7v0243&mode=playLiveVideo
 
 
-#EXTINF:-1 tvg-logo="https://www.antennereunion.fr/squelettes/assets/img/logo-ar2.png" group-title="",Antenne Réunion
-http://41.213.134.36/agkpum4i5aaaaaaaaiyjptdaaaaaaaaaaaaadymiujnid2yi/0000139/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.antennereunion.fr/squelettes/assets/img/logo-ar2.png" group-title="La Réunion",Antenne Réunion (360p)
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#http://41.213.134.36/agkpum4i5aaaaaaaaiyjptdaaaaaaaaaaaaadymiujnid2yi/0000139/01.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/8c45FW7.png" group-title="",APTV Martinique
 http://51.91.247.187/hls/stream.m3u8
