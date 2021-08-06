@@ -1,7 +1,7 @@
 #EXTM3U
 
-# http://tv.pmcon.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IaMX3ET.png" group-title="",★★★★★★★★★★Premium Connectivity Limited (PCL) HD TV★★★★★★★★★★
+# http://tv.pmcon.net/ http://infovaly.com/  http://infovaly.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaMX3ET.png" group-title="",★★★★★★★★★★Premium Connectivity Limited (PCL) HD TV★★★★★★★★★★ N.A seem to have change hosting 
 0.0.0.0
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sonypixhd.jpg" group-title="English",&Prive
 http://tv.pmcon.net/hls/stream1.m3u8
