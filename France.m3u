@@ -201,7 +201,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afa1508284e60007163c
 
 #######
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Youtube/Twitch France Live[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Youtube France Live[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw
@@ -319,8 +319,7 @@ plugin://plugin.video.youtube/play/?video_id=w4iy1O7KI5w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02ZMxO4.jpg" group-title="Anime",LOU! Officiel (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=3jiVL01RiPI
 
-#EXTINF:-1 tvg-logo="https://www.masterfm.fr/img/upload/favicon.png" group-title="Radio",MasterHipHouse (TWITCH)
-plugin://plugin.video.twitch/?channel_id=438032606&amp;mode=play
+
 
 # https://www.youtube.com/channel/UCva-htH2wvmKsG6SkcEJ4Vw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mEJz451.jpg" group-title="régionale",Maurienne TV (YT)
@@ -358,8 +357,7 @@ plugin://plugin.video.youtube/play/?video_id=1dss7bwRFNQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="Animw",Peppa Pig (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Uq5MCXgw3_Y
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="Radio",Playloud Live radio DAB+ Lille, France.(TWITCH)
-plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
+
 
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS (YT) (UPD)
@@ -391,9 +389,7 @@ plugin://plugin.video.youtube/play/?video_id=tfBe7KXq3mA
 
 
 
-# https://www.twitch.tv/recalbox
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="facebook.com/recalbox.fr/",Recalbox.fr (TWITCH)
-plugin://plugin.video.twitch/?channel_id=115060112&amp;mode=play
+
 
 # https://www.youtube.com/channel/UCdnE__Jh8az0raxk8jytucg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0baguJK.jpg" group-title="Anime",Ricky Zoom (YT)
@@ -1348,12 +1344,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a7ffd112c5a5fa
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas FR" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="Anime",MANGAS (OFFLINE)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/700a192f4d09363.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://www.masterfm.fr/img/upload/favicon.png" group-title="Radio",MasterHipHouse (TWITCH)
+plugin://plugin.video.twitch/?channel_id=438032606&amp;mode=play
+
 # https://radiomontblanc.fr/live https://www.dailymotion.com/video/x52iluh   OLD x6142rr #
 #EXTINF:-1 tvg-id="radiomontblanc.fr" tvg-name="Radio MontBlanc FR" tvg-logo="https://i.imgur.com/Y1uSFKI.jpg" group-title="Radio",MB Live TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x6142rr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="radiomontblanc.fr" tvg-name="Radio MontBlanc FR" tvg-logo="https://i.imgur.com/Y1uSFKI.jpg" group-title="Radio",MB Live TV (Pour VLC)
 https://www.dailymotion.com/video/x52iluh#tab_embed.m3u8
-
 
 EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM FR" tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="Musique",MCM
 https://www.streamaway.net/fra/mcm/mono.m3u8|Referer=https://www.streamaway.net/fr/MCM-fr.php
@@ -1440,10 +1438,10 @@ plugin://script.module.7of9-live/play/764/play.pvr
 #EXTINF:-1 tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE (OPT-2)
 https://www.streamaway.net/fra/natgeowild/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Natgeowild-fr.php
 
-#EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC (OPT-2)
+#EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC 
 https://www.streamaway.net/fra/ocsch/index.m3u8|Referer=https://www.streamaway.net/fr/OCSchoc-fr.php
 
-#EXTINF:-1 tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY (OPT-2)
+#EXTINF:-1 tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY
 https://www.streamaway.net/fra/ocsc/index.m3u8|Referer=https://www.streamaway.net/fr/OCScity-fr.php
 
 #EXTINF:-1 tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR
@@ -1451,7 +1449,7 @@ https://www.streamaway.net/fra/ocsg/index.m3u8|Referer=https://www.streamaway.ne
 #EXTINF:-1 tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
 plugin://script.module.7of9-live/play/319/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX (OPT-2)
+#EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX
 https://www.streamaway.net/fra/ocsm/index.m3u8|Referer=https://www.streamaway.net/fr/OCSmax-fr.php
 
 #EXTINF:-1 tvg-id="France" tvg-name="OLTV HD" tvg-logo="https://i.imgur.com/fc19kCV.png" group-title="France",OLTV HD
@@ -1478,6 +1476,9 @@ plugin://script.module.7of9-live/play/318/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="Planete+ CI"  tvg-logo="https://i.imgur.com/IxIhz6p.png" group-title="documentaires",Planete+ CI (TT)
 plugin://script.module.7of9-live/play/322/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="Radio",Playloud Live radio DAB+ Lille, France.(TWITCH)
+plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
@@ -1544,6 +1545,10 @@ plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
 # https://villette45.com/ https://player.infomaniak.com/?channel=70421&player=10702
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VcxXtGC.png" group-title="",Radio Vilette 45 France (OFFLINE)
 https://edge5.vedge.infomaniak.com/livecast/ik:villette45/manifest.m3u8
+
+# https://www.twitch.tv/recalbox facebook.com/recalbox.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="Gaming",Recalbox.fr (TWITCH)
+plugin://plugin.video.twitch/?channel_id=115060112&amp;mode=play
 
 # https://www.reveiltvsat.com/#reveiltv
 #EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
@@ -1758,7 +1763,7 @@ plugin://script.module.7of9-live/play/504/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films
 https://www.streamaway.net/fra/hd1/mono.m3u8|Referer=https://www.streamaway.net/fr/HD1-fr.php
 #https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films (360p)
+#EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films TNT (360p)
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 
 
