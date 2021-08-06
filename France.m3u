@@ -764,7 +764,8 @@ https://edge1.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 
 #
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="Anime",Canal J
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8|User-Agent=stream
+https://www.streamaway.net/fra/canalj/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/CanalJ-fr.php
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8|User-Agent=stream
 
 
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ 
