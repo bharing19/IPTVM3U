@@ -458,4 +458,14 @@ https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ee1f58ea7a611d27205814" tvg-name="Love & War"  group-title="Entertainment",Love & War
 https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
 
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610027a0f3f60c2b400ce7dc" tvg-name="Zoomer Television"  group-title="Entertainment",Zoomer Television
+https://zoomer-localnow.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60fad801d2c93e51a91f2d8a" tvg-name="One Get Fit TV US"  group-title="Health",One Get Fit TV US
+https://zoomer-onegetfit.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d49e015b182403c0433802" tvg-name="Wild Earth"  group-title="Entertainment",Wild Earth
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ff0b806b34311ba36fd983" tvg-name="Evrgrn Channel"  group-title="Entertainment",Evrgrn Channel
+https://evrgn-localnow.amagi.tv/playlist.m3u8
