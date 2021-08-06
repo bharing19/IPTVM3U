@@ -1,7 +1,7 @@
 #EXTM3U
 
 # https://ipgo.xyz/app/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrdbYb.jpg" group-title="",IP-GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrdbYb.jpg" group-title="",★★★★★★★★★★IP-GO★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CGHGR5.png" group-title="",CHANNEL 1 - Promo
@@ -72,7 +72,7 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w1358547370.m3u8
 #EXTINF:-1 tvg-logo="nologo.png" group-title="",## Other channel ##
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="",Vintage TV (Cotia-SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8e5Fti.png" group-title="",Vintage TV (Cotia-SP)
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtEA1Hx.jpg" group-title="",PORTAL NEWS TV
