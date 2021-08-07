@@ -377,9 +377,9 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://klara.be/s/i/3KP5XWCyqhYS21n-.png" group-title="",klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="", MNM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="Music", MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="BELGIUM",MNM (SLT)
+#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="Music",MNM (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/cVXSbHW.png" group-title="",Play7
@@ -389,8 +389,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="",Q2 TV
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="",QMusic 103.3 FM Bruges
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="Radio",QMusic 103.3 FM Bruges
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+
+# https://qmusic.be/player/qmusic_be/index.html?showVideo=true #
+#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Radio",Qmusic 
+https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-1&anvsid=i177602634-n2c268e0d-8366-4e2f-b1c5-f366c4f5f86a&ts=1628364437&anvtrid=fb5932d4989098261aa19cc324730f7
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OEI0Ec.png" group-title="Sport",Play Sports 1 
 http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26835
@@ -398,13 +403,13 @@ http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26835
 http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26836
 
 
-#EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="",Radio1
+#EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="Radio",Radio1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zzky21Y.jpg" group-title="",Radio1 (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzky21Y.jpg" group-title="Radio",Radio1 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
-#EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="",Radio2
+#EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="Radio",Radio2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bUYSN3.png" group-title="",Radio2 (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bUYSN3.png" group-title="Radio",Radio2 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://live-radio-cf.lwc.vrtcdn.be/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
 
 
@@ -499,10 +504,6 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/fvx7xak.png" group-title="",Voo Sport 1 
 
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/bat6ybf.png" group-title="",ZES CRIME
-
-# https://qmusic.be/player/qmusic_be/index.html?showVideo=true #
-EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic 
-https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-1&anvsid=i177602631-n8ddf2e89-cf22-4474-8d9d-1ca0681e47ca&ts=1622697372&anvtrid=1d16b44128ec39971edf0cc12650dece
 
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
