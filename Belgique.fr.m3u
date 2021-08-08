@@ -295,9 +295,9 @@ https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.m3u8|User-Agent=stream
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/3PMrXgo.png" group-title="",Caz HD
-http://82.197.212.210:8000/play/a10b/index.m3u8
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/Dxn9g4b.png" group-title="",Caz 2 HD
-http://82.197.212.210:8000/play/a107/index.m3u8
+
 
 # https://www.citymusic.be/video/
 #EXTINF:-1 tvg-id="CityMusic.be" tvg-name="City Music BE" tvg-logo="https://i.imgur.com/s8Eo7fA.png" group-title="Radio",City Music TV (720p)
@@ -363,7 +363,6 @@ https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd_low.m3u8
 
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZZB4gEP.png" group-title="",KADET TV
-
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/fCwcnMQ.png" group-title="",KETNET TV
 
@@ -451,19 +450,14 @@ http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwxXxEJ.png" group-title="",VIER
-http://82.197.212.210:8000/play/a0zn/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/uwxXxEJ.png" group-title="",VIER
+
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/kZOrSyv.png" group-title="",VIJF TV
 
 
-
-
-
 EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" group-title="",VITAYA TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" group-title="",VITAYA TV (OPT-2)
-http://82.197.212.210:8000/play/a10a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeubhF2.jpg" group-title="",VRT Het Journaal
 https://live-vrt.akamaized.net/groupa/live/5c84cb7c-c801-487d-bccc-b8d84d5538c1/live.isml/.m3u8
@@ -471,20 +465,16 @@ https://live-vrt.akamaized.net/groupa/live/5c84cb7c-c801-487d-bccc-b8d84d5538c1/
 EXTINF:-1 tvg-logo="https://i.imgur.com/djGJlC5.png" group-title="",VTM KAZOOM
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" group-title="",VTM Kids
-http://82.197.212.210:8000/play/a109/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" group-title="",VTM Kids
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" group-title="",VTM TV
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/ykvhCsn.jpg" group-title="",VTM 2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" group-title="",VTM TV (OPT-2)
-http://82.197.212.210:8000/play/a0zi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykvhCsn.jpg" group-title="",VTM 2
-http://82.197.212.210:8000/play/a13p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7TlBzU.png" group-title="",VTM 3
-http://82.197.212.210:8000/play/a13n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VbHPIon.png" group-title="",VTM 4
-http://82.197.212.210:8000/play/a13o/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/p7TlBzU.png" group-title="",VTM 3
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/VbHPIon.png" group-title="",VTM 4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="",WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
