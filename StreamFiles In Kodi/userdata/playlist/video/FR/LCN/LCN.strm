@@ -1,0 +1,3 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://lcn.live-kd.com/live/lcn/ngrp:lcn_Wifi/manifest.mpd
