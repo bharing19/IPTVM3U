@@ -1723,16 +1723,16 @@ plugin://plugin.video.dailymotion_com/?url=x5zaibr&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUBFzHx.png" group-title="",tv-pitchoun Musique (DM)
 plugin://plugin.video.dailymotion_com/?url=x7ti51o&mode=playLiveVideo
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TVPI Bayonne" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="régionale",TVPI Bayonne
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w678893900.m3u8
+# https://www.youtube.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA
+#EXTINF:-1 tvg-id="TVPi.fr" tvg-name="TVPI FR" tvg-logo="https://i.imgur.com/2CStkJb.png" group-title="Locale",TVPI Bayonne (YT)
+plugin://plugin.video.youtube/play/?video_id=jglhy85qVJ0
 
-# update link : http://www.tvtours.fr/ https://www.dailymotion.com/video/x7srbgw #
-#EXTINF:-1 tvg-id="France" tvg-name="TV Tours Val de Loire" tvg-logo="http://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="régionale",TV Tours Val de Loire (DM)
+#  http://www.tvtours.fr/ https://www.dailymotion.com/video/x7srbgw #
+#EXTINF:-1 tvg-id="TVTours.fr" tvg-name="TV Tours FR" tvg-logo="https://i.imgur.com/9wETaba.jpg" group-title="Locale",TV Tours Val de Loire (DM)
 plugin://plugin.video.dailymotion_com/?url=x7zik43&mode=playLiveVideo
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TV Vendée" tvg-logo="https://tvvendee.fr/wp-content/uploads/2019/09/Icon-rouge.png" group-title="France",TV Vendée (DM)
+# https://tvvendee.fr/le-direct/
+#EXTINF:-1 tvg-id="TVVendee.fr" tvg-name="TV Vendée FR" tvg-logo="https://i.imgur.com/1VcXicN.jpg" group-title="Locale",TV Vendée (DM)
 plugin://plugin.video.dailymotion_com/?url=x38yjeb&mode=playLiveVideo
 
 # 
@@ -1826,15 +1826,16 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name=" TV5" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" tvg-country="FR"  group-title="",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
-# update link : https://www.dailymotion.com/video/x3wqv8b #
-#EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 Montblanc (DM)
+#  https://www.dailymotion.com/video/x3wqv8b http://8montblanc.fr/le-direct/
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-name="8 Mont-Blanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 Montblanc (DM)
 plugin://plugin.video.dailymotion_com/?url=x3wqv8b&mode=playLiveVideo
 
-# update link : https://www.dailymotion.com/video/x71o73v #
-#EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 MontBlanc (Live 2) (DM)
+#  https://www.dailymotion.com/video/x71o73v #
+#EXTINF:-1 tvg-id="TV8MontBlanc2.fr" tvg-name="8 Mont-Blanc 2 FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 MontBlanc 2 (DM)
 plugin://plugin.video.dailymotion_com/?url=x71o73v&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="",Radio Mont Blanc (DM)
+# https://radiomontblanc.fr/live
+#EXTINF:-1 tvg-id="RadioMontblanc.fr" tvg-name="Radio Mont Blanc FR" tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="Radio",Radio Mont Blanc (DM)
 plugin://plugin.video.dailymotion_com/?url=x52iluh&mode=playLiveVideo
 
 # https://www.tvr.bzh/direct 
@@ -1848,11 +1849,11 @@ plugin://plugin.video.dailymotion_com/?url=x7u5so8&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x7ugcxl&mode=playLiveVideo
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="Télé Toon+ FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
 https://www.streamaway.net/fra/teletoon/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Teletoon-fr.php
-#EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="Télé Toon+ FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+ (OPT-2)
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="Télé Toon+ FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Anime",TéléToon+ (OPT-2)
 http://144.217.253.140/Teletoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
