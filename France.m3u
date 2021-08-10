@@ -506,10 +506,12 @@ https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 https://3abn-live.akamaized.net/hls/live/2010546/French/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
+http://stream.tvtap.live:8081/live/fr-6ter.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter (OPT-2)
 https://www.streamaway.net/fra/6ter/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/6ter-fr.php
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/22-6ter/22-6ter.php
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="13Rue.fr" tvg-name="13e Rue FR" tvg-logo="https://i.imgur.com/yhuub9Y.jpg" group-title="thématique", 13ème rue
 https://www.streamaway.net/fra/13e/mono.m3u8|Referer=https://www.streamaway.net/fr/13erue-fr.php
@@ -521,15 +523,22 @@ https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_
 
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1
 http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
-#http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1 (opt-2)
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1 (OPT-2)
+http://190.2.138.13/AB1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1 (opt-3)
 https://www.streamaway.net/fra/ab1/mono.m3u8|Referer=https://www.streamaway.net/fr/AB1-fr.php
 
+
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION
+http://190.2.138.13/action/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-2)
+http://flusonic-4.platinum-tv.com/action/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-3)
 https://www.streamaway.net/fra/action/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Action-fr.php
 
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/Hnt0pGG.jpg" group-title="documentaires",AEROSTAR.TV (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
+
 
 # https://www.alsace20.tv/Live.html 
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/RucdQdp.jpg" group-title="régionale",Alsace 20
@@ -546,9 +555,10 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://alsace20.live-k
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist_w2129501913.m3u8
 
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux (OFFLINE)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb0.m3u8|User-Agent=stream
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux
+http://flusonic-4.platinum-tv.com/animaux/index.m3u8?token=tes
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux
+http://190.2.138.13/animaux/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -871,7 +881,6 @@ https://www.dailymotion.com/video/x69bhnf#tab_embed.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS
 http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8
 # https://www.cnews.fr/le-direct #
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (DM)
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
@@ -879,15 +888,16 @@ plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
 https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (TT)
 plugin://script.module.7of9-live/play/751/play.pvr
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://dsh-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/dash-fhd-clair/cnews-clair-hd.mpd
 
 EXTINF:-1  tvg-id="CrimeDistrict.fr" tvg-name="Crime District FR" tvg-logo="https://i.imgur.com/pvHZLru.jpg" group-title="thématique",Crime District (OFFLINE)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4d0ee106c370505.m3u8|User-Agent=stream
+
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar
 https://www.streamaway.net/fra/d17/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Directstar.php
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar TNT (360p)
 https://s6.tntendirect.com/d17/live/playlist.m3u8
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-2)
 http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-3)
@@ -922,7 +932,7 @@ https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/chunklist_w978878932_b18000
 https://www.streamaway.net/fra/disney/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Disney-fr.php
 
 EXTINF:-1 tvg-id="France" tvg-name="Disney Cinemagic" tvg-logo="https://i.imgur.com/GgT4F0w.png" group-title="France",Disney Cinemagic (OFFLINE)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d5fcacea0e798f3.m3u8|User-Agent=stream
+
 
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery France" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery France
 https://www.streamaway.net/fra/disco/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Discovery-fr.php
@@ -935,7 +945,7 @@ plugin://script.module.7of9-live/play/763/play.pvr
 plugin://script.module.7of9-live/play/783/play.pvr
 
 EXTINF:-1 tvg-id="France" tvg-name="E! ENT FRANCE" tvg-logo="https://i.imgur.com/50KBhvg.png" group-title="France",E! ENT FRANCE (OFFLINE)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/174339ada7db993.m3u8|User-Agent=stream
+
 
 # https://support-dj.wixsite.com/monsite/eibiza-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv (Lorsquil Y a Live)
@@ -947,8 +957,8 @@ https://tv.everestcast.com:3170/stream/play.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="EMCI" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="France",EMCI TV
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/xeY3OyI.jpg" group-title="",Equidia
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/equidia-43222/hls/04.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/xeY3OyI.jpg" group-title="",Equidia (OFFLINE)
+
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Ere" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="France",Ere TV
@@ -957,11 +967,11 @@ http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZTL0a00.png" group-title="",ES1
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/es1-14552304/hls/index.m3u8
 
-EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews 
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Euronews_live/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Euronews (OPT-2)
+EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="actualités",euronews 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="actualités",Euronews (OPT-2)
 Https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="France",Euronews (OPT-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="actualités",Euronews (OPT-3)
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
@@ -1008,51 +1018,70 @@ https://www.dailymotion.com/video/x17qw0a#tab_embed.m3u8
 
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 TNT (720p)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 TNT (720p)
 https://s6.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (OPT-2)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-2)
 https://www.streamaway.net/fra/fr2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/France2.php
-#EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (opt 3)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (opt 3)
 https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3d64afa26654e4935d006594f848b834856b57c76320bd888bc5fd4a91413c8d84b863090e59d0ef1eedb762677bc40d6af150606517b6321d516d377ceed091d43a44d34ecadfede61d3b824213b9e8fd5c9f029ef5cefaf5ed33531c4f8b691082448724a1b282a9ad6a18b446391fe8aaab4f6b45a5ba8f2d5788f9a40e42d73ae40c76f25399db9ec66c18450095
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-4)
+http://95.211.153.98/live/france2/chunks.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-5)
+http://190.2.138.13/france2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-6)
+http://flusonic-4.platinum-tv.com/france2/index.m3u8?token=test
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="France",France 3 Alpe
+
+# 
+#EXTINF:-1 tvg-id="France3Alpe.fr" tvg-name="France 3 Alpe FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 Alpe
 https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeafdd93aed637661ae100ca9aab802b2b97f869aa30b60eb5e69b95d3cb04dd78b0c83e46d51d245aa21df01a3140d72aea788e987af9abea4c4d0764be842a7f91639898f0afa4cae8033dd8a29cba2ef200429e4033ee8a7aa6c8dc2d3c3fbadc72632d6c4b196a38b87ba4aaa1f723ce566b966a684a6b4a9321764efea53e213446b7e97a024e43ff15237c9dafc4
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="France",France 3 rhone-alpes
+# 
+#EXTINF:-1 tvg-id="France3Rhone.fr" tvg-name="France 3 Rhone FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 rhone-alpes
 https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7b544e84d9205f80e123a78ac5c76b465cdc5b7db93e97712d1d2ed736545fbd515c78065e0c21efefbf25cbca5dcd21de462c9891969cff04876c0b4fb05e81641640e5c3b372703418625e7c9f939b133491022ef5159bdfc1b267b5395d21808ee8141dc884beb631204da8a32cb47498669a850eae733bd3fdd417c5d18269e9689349f1a7de34f3b3336b561b49
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="F3 Bretagne" tvg-logo="https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/themes/fr3r_responsive/images/icons/apple-touch-icon-144x144.png" group-title="France",F3 Bretagne (GEO)
+# 
+#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-name="France 3 Bretagne FR" tvg-logo="https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/themes/fr3r_responsive/images/icons/apple-touch-icon-144x144.png" group-title="France",F3 Bretagne (GEO)
 https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 TNT (720p)
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 TNT (720p)
 https://s6.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 (OPT-2)
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="généraliste",France 3 (OPT-2)
 http://edge9.iptvnetwork.net/live/france3/chunks.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-3)
+http://95.211.153.98/live/france3/chunks.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-4)
+http://190.2.138.13/france3/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-5)
+http://flusonic-4.platinum-tv.com/france3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4 TNT (720p)
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 TNT (720p)
 https://s2.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4 (OPT-2)
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-2)
 http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-3)
+http://95.211.153.98/live/france4/chunks.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-4)
+http://190.2.138.13/france4/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-5)
+http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test
 
-
-#EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5 TNT (720p)
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 TNT (720p)
 https://s6.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5 (OPT-2)
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-2)
 http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
-
-
-EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (opt-4)
-https://edge-1192-ch-gv.filmon.com/live/3884.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-3)
+http://95.211.153.98/live/france5/chunks.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-4)
+http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-5)
+http://flusonic-4.platinum-tv.com/france5/index.m3u8?token=test
 
 # https://www.france24.com/fr/direct
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="https://i.ibb.co/vcbzpgt/France24.png" group-title="actualités",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="https://i.ibb.co/vcbzpgt/France24.png" group-title="actualités",France 24 (OPT-2)
 https://www.streamaway.net/fra/fr24/03.m3u8|Referer=https://www.streamaway.net/fr/France24.php
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/France24_fr_live/index.m3u8
+
 
 # https://www.francebleu.fr/loisirs/evenements/suivez-les-emissions-de-france-bleu-elsass-en-direct-video-1512463237
 #EXTINF:-1 tvg-id="francebleu.fr" tvg-name="France Bleu Elsass FR" tvg-logo="https://i.imgur.com/UuDd0g8.png" group-title="Radio",France Bleu Elsass (lundi au vendredi de 6h30 à 18h) (DM)
