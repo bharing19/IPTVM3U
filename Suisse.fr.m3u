@@ -206,10 +206,10 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ch/rougetv/get_live_url/?item_id=rougetv
 
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="généraliste",RTS 1 (720p)
+EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="généraliste",RTS 1 (720p) (OFFLINE)
 https://www.streamaway.net/fra/rts1/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS1-ch.php
 
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2 CH" tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="généraliste",RTS 2 (720p)
+EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2 CH" tvg-logo="https://i.imgur.com/V2Wbq6k.jpg" group-title="généraliste",RTS 2 (720p) (OFFLINE)
 https://www.streamaway.net/fra/rts2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RTS2-ch.php
 
 # https://www.rts.ch/play/tv/direct/couleur-3?tvLiveId=8841634
@@ -318,13 +318,13 @@ http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-id="Royal-TV.ch" tvg-name="Royal TV CH" tvg-logo="https://i.imgur.com/7U0ocaO.png" group-title="Music",Royal TV (720p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://royal-tv.ch/index.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
-http://188.35.9.5:10007/stolen/236r/parasite.install
+EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT)
 plugin://script.module.7of9-live/play/724/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
-http://188.35.9.5:10007/stolen/237p/parasite.install
+EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
 plugin://script.module.7of9-live/play/725/play.pvr
 
