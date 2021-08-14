@@ -291,8 +291,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 # https://www.vrt.be/vrtnu/kanalen/canvas/
 #EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",Canvas (540p)
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",Canvas (OPT-2)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.m3u8|User-Agent=stream
+
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/3PMrXgo.png" group-title="",Caz HD
 
@@ -326,8 +325,7 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=1600000
 # https://www.vrt.be/vrtnu/kanalen/een/
 #EXTINF:-1 tvg-id="een.be" tvg-name="Één BE" tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="généraliste",Een (540p)
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="een.be" tvg-name="Één BE" tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="généraliste",Een (OPT-2)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/65bbac7eb991d88.m3u8|User-Agent=stream
+
 
 # https://www.focus-wtv.be/live
 #EXTINF:-1 tvg-id="Focus-WTV.be" tvg-name="Focus WTV BE" tvg-logo="https://i.imgur.com/BPpq1Uz.png" group-title="régionale",Focus WTV (Adaptative)
