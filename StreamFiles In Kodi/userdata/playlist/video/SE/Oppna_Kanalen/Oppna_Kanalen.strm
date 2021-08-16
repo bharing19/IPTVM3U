@@ -1,0 +1,3 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d1g9he4wcfhgqn.cloudfront.net/edge/_451iw2h_/451iw2h/manifest.mpd
