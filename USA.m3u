@@ -3862,7 +3862,7 @@ https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-re
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
 
 
-
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1IOePur.png" group-title="P.A.T.S",★★★★★★★★★★P.A.T.S USA Playlist★★★★★★★★★★
 0.0.0.0
@@ -3892,7 +3892,9 @@ https://playlistserver.aws.syncbak.com/playlist/13478519/master.m3u8?access_toke
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kIX1xXD.jpg" group-title="P.A.T.S",Alaska - KFXF 7
 https://ad-playlistserver.aws.syncbak.com/playlist/13478527/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMTk3ODcsImlzcyI6IldMUyIsIm1kNSI6IjBhOTJkMjE4MGE5NmNkMzAyNDVlNmQzNGRhYWMxMDYzIiwibWlkIjoiMTM0Nzg1MjcifQ.ZAQ6rB-nlmcqkwn2VNB_5YrHj3UuAAkslzyOoPFRdsE
 
-########
+
+############
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHDJI9Z.jpg" group-title="P.A.T.S",★★★★★★★★★★Alabama★★★★★★★★★★
 0.0.0.0
@@ -3934,7 +3936,8 @@ https://content-ausouat1.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u
 https://content.uplynk.com/channel/f0435664817c4673adc60f4647554840.m3u8?
 
 
-######
+############
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cLycShz.jpg" group-title="P.A.T.S",★★★★★★★★★★Arizona★★★★★★★★★★
 0.0.0.0
@@ -3999,7 +4002,8 @@ https://stream1.earthchannel.com/YumaCoAZLIVE/_definst_/YumaCoAZLIVE.stream/play
 https://stream1.earthchannel.com/YumaCoAZLIVE/_definst_/YumaCoAZLIVE.stream/chunklist_w723892313.m3u8
 
 
-######
+############
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCJSx0P.png" group-title="P.A.T.S",★★★★★★★★★★Arkansas★★★★★★★★★★
 0.0.0.0
@@ -4028,7 +4032,7 @@ https://livevideo01.thv11.com/hls/live/2017154/newscasts/live-650.m3u8
 #EXTINF:-1 tvg-logo="https://ualruniversitytelevision.viebit.com/custom/live_poster/Poster.jpg" group-title="P.A.T.S",Arkansas - UALR
 https://vse-na-us-ne86.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
 
-########
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xP1lPh6.jpg" group-title="P.A.T.S",★★★★★★★★★★California★★★★★★★★★★
 0.0.0.0
@@ -4155,7 +4159,8 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1566206515.m3u8
 
 
-#######
+############
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iy5lU91.png" group-title="P.A.T.S",★★★★★★★★★★Colorado★★★★★★★★★★
 0.0.0.0
@@ -4197,7 +4202,7 @@ https://t06786-lh.akamaihd.net/i/t06786a_1@31030/index_3000000_av-p.m3u8?sd=10&s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5BFQBz.jpg" group-title="P.A.T.S",Colorado - Boulder Channel 8
 http://api.new.livestream.com/accounts/16855570/events/4667793/live.m3u8
 
-#######
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VKqVhA.jpg" group-title="P.A.T.S",★★★★★★★★★★Connecticut★★★★★★★★★★
 0.0.0.0
@@ -4225,7 +4230,7 @@ https://t05692-lh.akamaihd.net/i/t05692b_1@199582/master.m3u8?set-akamai-hls-rev
 https://t05692-lh.akamaihd.net/i/t05692b_1@199582/index_1_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 
 
-#######
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ttugxs.png" group-title="P.A.T.S",★★★★★★★★★★Delaware★★★★★★★★★★
 0.0.0.0
@@ -4245,7 +4250,7 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/chunklist_b2000000.
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/chunklist.m3u8
 
-#######
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NSS6oSk.png" group-title="P.A.T.S",★★★★★★★★★★District of Columbia★★★★★★★★★★
 0.0.0.0
@@ -4283,7 +4288,7 @@ https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.wusa9.com/assets/shared-images/logos/wusa.png" group-title="P.A.T.S",District of Columbia - CBS 9 Washington WUSA 9
 https://livevideo01.wusa9.com/hls/live/2021573/golive/stream-1.m3u8
 
-#######
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NB8rPX9.jpg" group-title="P.A.T.S",★★★★★★★★★★Florida★★★★★★★★★★
 0.0.0.0
@@ -4467,7 +4472,7 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlFZsaM.png" group-title="P.A.T.S",Florida - WPTV
 https://content-ause1-up-1.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 
-#######
+############
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkMEbNK.png" group-title="P.A.T.S",★★★★★★★★★★Georgia★★★★★★★★★★
 0.0.0.0
@@ -4545,7 +4550,7 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/18552861/master.m3u8?access
 https://stream.robertsstream.com/streammobile.m3u8?stream=gem_mbr&referer=GemShopping&t=1616370825&h=6f8abe8736a923ea793a9e57a52068fa&forceformat=ios&h
 
 
-#######
+############
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEhzcTZ.png" group-title="P.A.T.S",★★★★★★★★★★Hawaii★★★★★★★★★★
@@ -4600,10 +4605,6 @@ https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 
 ############
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzASIFN.jpg" group-title="P.A.T.S",★★★★★★★★★★Massachusetts★★★★★★★★★★
 0.0.0.0
 
@@ -4613,3 +4614,58 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
 http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBTPCVV.png" group-title="P.A.T.S",Massachusetts - Leominster TV Public
 http://pub.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+
+
+############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GjuhAjh.png" group-title="P.A.T.S",★★★★★★★★★★Minnesota★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuMjN8Q.png" group-title="P.A.T.S",Minnesota - Apple Valley City 
+https://edge-f.swagit.com/live/applevalleymn/smil:std-16x9-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/reIT4ED.png" group-title="P.A.T.S",Minnesota - Bloomington BTV
+https://reflect-bcit.cablecast.tv/live-42/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GuPOHb.png" group-title="P.A.T.S",Minnesota - Brooklyn Park CCX Media
+https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMLBgyf.jpg" group-title="P.A.T.S",Minnesota - Burnsville BCTV 14
+https://t06435-lh.akamaihd.net/i/t06435a_1@89059/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpIGQqF.jpg" group-title="P.A.T.S",Minnesota - Eveleth Access 12 tv
+https://reflect-access12tv.cablecast.tv/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JIXXcg.jpg" group-title="P.A.T.S",Minnesota - Itasca ICTV Channel 7/37
+https://reflect-ictv.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQ5atEw.png" group-title="P.A.T.S",Minnesota - Marshall's Studio 1
+https://reflect-smsu.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sn6aR3x.png" group-title="P.A.T.S",Minnesota - Marshall's SMSU Media
+https://reflect-smsu.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5v079B.png" group-title="P.A.T.S",Minnesota - Marshall's Tiger TV
+https://reflect-smsu.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhSqDmE.png" group-title="P.A.T.S",Minnesota - Minneapolis MCN6 Main Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fynUHnn.png" group-title="P.A.T.S",Minnesota - Minneapolis MCN6 Community Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_BUSINESS.smil/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJGAGow.png" group-title="P.A.T.S",Minnesota - Minneapolis MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KyDPe3h.png" group-title="P.A.T.S",Minnesota - Minneapolis MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWsP1dI.png" group-title="P.A.T.S",Minnesota - Nine North - Channel 14
+https://reflect-ctv15.cablecast.tv/live-42/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWsP1dI.png" group-title="P.A.T.S",Minnesota - Nine North - Channel 15
+https://reflect-ctv15.cablecast.tv/live-41/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Andover QCTV
+http://reflect-andover-qctv.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Anoka QCTV
+http://reflect-anoka-qctv.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Champlin QCTV
+http://reflect-champlin-qctv.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Ramsey QCTV
+http://reflect-ramsey-qctv.cablecast.tv/live/live.m3u8
+
