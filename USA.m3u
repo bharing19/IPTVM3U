@@ -4609,12 +4609,172 @@ https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzASIFN.jpg" group-title="P.A.T.S",★★★★★★★★★★Massachusetts★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHY0DrZ.png" group-title="P.A.T.S",Massachusetts - Amherst CH 12
+http://161.77.57.225/live-11/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcnH5Ro.png" group-title="P.A.T.S",Massachusetts - Amherst CH 17
+http://161.77.57.225/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEu4Abp.png" group-title="P.A.T.S",Massachusetts - Belmont Gov/Ed TV
+https://t07238-lh.akamaihd.net/i/t07238b_1@790905/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEu4Abp.png" group-title="P.A.T.S",Massachusetts - Belmont Public TV
+https://t07238-lh.akamaihd.net/i/t07238a_1@790904/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEu4Abp.png" group-title="P.A.T.S",Massachusetts - Belmont Info TV
+https://t07238-lh.akamaihd.net/i/t07238c_1@790906/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEu4Abp.png" group-title="P.A.T.S",Massachusetts - Belmont BMC HD
+https://t07238-lh.akamaihd.net/i/t07238d_1@790907/master.m3u8
+
+# http://www.batvinc.org/publiclivestream.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPX2pyi.png" group-title="P.A.T.S",Massachusetts - Billerica BATV Public Channel (Not 24/7)
+https://reflect-billerica.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPX2pyi.png" group-title="P.A.T.S",Massachusetts - Billerica BATV Educational Channel
+https://reflect-billerica.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPX2pyi.png" group-title="P.A.T.S",Massachusetts - Billerica BATV Government Channel
+https://reflect-billerica.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cwK9nTS.png" group-title="P.A.T.S",Massachusetts - Boston BNN News
+https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3aRvAm.png" group-title="P.A.T.S",Massachusetts - Boston BNN CTV
+https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM1BasD.png" group-title="P.A.T.S",Massachusetts - Bridgewater BTV Access
+https://vse2-na-us-ne31.secdn.net/pegstream3-live/play/6cd14156-d2a6-49e9-806d-296873c432fb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNmzGNj.png" group-title="P.A.T.S",Massachusetts - Brookline BIG Community Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNmzGNj.png" group-title="P.A.T.S",Massachusetts - Brookline BIG Civic Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaAF9sc.png" group-title="P.A.T.S",Massachusetts - Chelmsford Community Channel
+https://t05565-lh.akamaihd.net/i/t05565b_1@412788/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaAF9sc.png" group-title="P.A.T.S",Massachusetts - Chelmsford Municipal Channel
+https://t05565-lh.akamaihd.net/i/t05565a_1@412787/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaAF9sc.png" group-title="P.A.T.S",Massachusetts - Chelmsford School Channel
+https://t05565-lh.akamaihd.net/i/t05565c_1@412789/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfJAagC.jpg" group-title="P.A.T.S",Massachusetts - Fitchburg FATV Public Channel
+https://t04865-lh.akamaihd.net/i/t04865a_1@569561/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfJAagC.jpg" group-title="P.A.T.S",Massachusetts - Fitchburg FATV Education Channel
+https://t04865-lh.akamaihd.net/i/t04865a_1@569562/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfJAagC.jpg" group-title="P.A.T.S",Massachusetts - Fitchburg TATV Government Channel
+https://t04865-lh.akamaihd.net/i/t04865a_1@569563/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cmCAxMr.png" group-title="P.A.T.S",Massachusetts - Framingham AFTV Access Live
+https://t01919-lh.akamaihd.net/i/t01919a_1@444582/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://franklintv.vod.castus.tv/live/ch1/thumb" group-title="P.A.T.S",Massachusetts - Franklin Public TV
+https://s3-us-west-2.amazonaws.com/franklintv.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-logo="https://franklintv.vod.castus.tv/live/ch2/thumb" group-title="P.A.T.S",Massachusetts - Franklin School TV
+https://s3-us-west-2.amazonaws.com/franklintv.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-logo="https://franklintv.vod.castus.tv/live/ch3/thumb" group-title="P.A.T.S",Massachusetts - Franklin Townhall TV
+https://s3-us-west-2.amazonaws.com/franklintv.castus-vod/live/ch3/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBTPCVV.png" group-title="P.A.T.S",Massachusetts - Leominster TV Educational
 http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBTPCVV.png" group-title="P.A.T.S",Massachusetts - Leominster TV Government
 http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBTPCVV.png" group-title="P.A.T.S",Massachusetts - Leominster TV Public
 http://pub.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0uG9Kvt.jpg" group-title="P.A.T.S",Massachusetts - Lexington Lex Media Public Channel
+https://t05977-lh.akamaihd.net/i/t05977c_1@620981/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0uG9Kvt.jpg" group-title="P.A.T.S",Massachusetts - Lexington Lex Media Education Channel
+https://t05977-lh.akamaihd.net/i/t05977b_1@620979/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0uG9Kvt.jpg" group-title="P.A.T.S",Massachusetts - Lexington Lex Media Government Channel
+https://t05977-lh.akamaihd.net/i/t05977a_1@620978/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4Ot2Pz.png" group-title="P.A.T.S",Massachusetts - Lowell LTC Local Channel 8 
+https://t02479-lh.akamaihd.net/i/t02479a_1@429604/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4Ot2Pz.png" group-title="P.A.T.S",Massachusetts - Lowell LTC Global Channel 95
+https://t02479-lh.akamaihd.net/i/t02479c_1@427995/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4Ot2Pz.png" group-title="P.A.T.S",Massachusetts - Lowell LTC Municipal Channel 99
+https://t02479-lh.akamaihd.net/i/t02479b_1@427867/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="P.A.T.S",Massachusetts - Martha’s Vineyard MVTV Public
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="P.A.T.S",Massachusetts - Martha’s Vineyard MVTV Education
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="P.A.T.S",Massachusetts - Martha’s Vineyard MVTV Government
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adD6FE5.png" group-title="P.A.T.S",Massachusetts - Methuen Community TV
+https://5a5c57d042315.streamlock.net/live1003/ngrp:public_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adD6FE5.png" group-title="P.A.T.S",Massachusetts - Methuen Government TV
+https://5a5c57d042315.streamlock.net/live1003/ngrp:government_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1mXmRJ.png" group-title="P.A.T.S",Massachusetts - Nantucket NCTV Live 18
+https://t02542-lh.akamaihd.net/i/t02542b_1@500253/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1mXmRJ.png" group-title="P.A.T.S",Massachusetts - Nantucket NCTV Community Bulletin Board
+https://t02542-lh.akamaihd.net/i/t02542a_1@439190/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UG5X23t.png" group-title="P.A.T.S",Massachusetts - Natick Pegasus Public Access Channel
+https://t06626-lh.akamaihd.net/i/t06626c_1@624372/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SFFHzV.png" group-title="P.A.T.S",Massachusetts - Natick Pegasus Education Channel
+https://t06626-lh.akamaihd.net/i/t06626b_1@624371/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wpHn5O.png" group-title="P.A.T.S",Massachusetts - Natick Pegasus Government Channel
+https://t06626-lh.akamaihd.net/i/t06626d_1@624373/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTZ5TvU.jpg" group-title="P.A.T.S",Massachusetts - Needham  TNC-HD
+https://t07160-lh.akamaihd.net/i/t07160a_1@772518/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DNRl7wJ.jpg" group-title="P.A.T.S",Massachusetts - North Attleboro North TV Community Channel
+https://reflect-northtv-community.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DYrKtEG.jpg" group-title="P.A.T.S",Massachusetts - North Attleboro North TV Education Channel
+https://reflect-northtv-education.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9PD1Jk.jpg" group-title="P.A.T.S",Massachusetts - North Attleboro North TV Government Channel
+https://reflect-northtv-government.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lrc6k87.jpg" group-title="P.A.T.S",Massachusetts - North Attleboro North TV Plainville Channel
+https://reflect-northtv-plainsville.cablecast.tv/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecaRyEs.png" group-title="P.A.T.S",Massachusetts - Norwood NCM Community
+https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecaRyEs.png" group-title="P.A.T.S",Massachusetts - Norwood NCM Bulletin Board
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecaRyEs.png" group-title="P.A.T.S",Massachusetts - Norwood NCM Government
+https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cD3t2iN.png" group-title="P.A.T.S",Massachusetts - Plymouth PACTV Prime
+https://t05664-lh.akamaihd.net/i/t05664a_1@435421/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrE5r4H.jpg" group-title="P.A.T.S",Massachusetts - Sandwich Public Channel
+https://t07209-lh.akamaihd.net/i/t07209a_1@774580/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrE5r4H.jpg" group-title="P.A.T.S",Massachusetts - Sandwich Government Channel
+https://t07209-lh.akamaihd.net/i/t07209c_1@324449/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CCPGAn.png" group-title="P.A.T.S",Massachusetts - Sharon SharonTV
+https://reflect-sharoncommunity-live.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCW6n4h.png" group-title="P.A.T.S",Massachusetts - Westborough Public TV Ch. 11
+http://71.248.188.158/live-12/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCW6n4h.png" group-title="P.A.T.S",Massachusetts - Westborough Education TV Ch.13
+http://71.248.188.158/live-11/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCW6n4h.png" group-title="P.A.T.S",Massachusetts - Westborough Government TV Ch. 12
+http://71.248.188.158/live-13/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ge0yGc.jpg" group-title="P.A.T.S",Massachusetts - Wilmington Community TV WCTV Main
+https://s3-us-west-2.amazonaws.com/wilmington.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ho7tbaI.jpg" group-title="P.A.T.S",Massachusetts - Wilmington Community TV WCTV Access
+https://s3-us-west-2.amazonaws.com/wilmington.castus-vod/live/ch3/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ge0yGc.jpg" group-title="P.A.T.S",Massachusetts - Wilmington Community TV WCTV Meetings
+https://s3-us-west-2.amazonaws.com/wilmington.castus-vod/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VstNXll.png" group-title="P.A.T.S",Massachusetts - Williamstown WilliNet’s tv channel 1303
+https://reflect-willinet.cablecast.tv/live-12/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFYGSSq.jpg" group-title="P.A.T.S",Massachusetts - Winchester WinCAM Public
+https://t05842-lh.akamaihd.net/i/t05842c_1@500222/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFYGSSq.jpg" group-title="P.A.T.S",Massachusetts - Winchester WinCAM Government
+https://t05842-lh.akamaihd.net/i/t05842b_1@500221/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFYGSSq.jpg" group-title="P.A.T.S",Massachusetts - Winchester WinCAM Education
+https://t05842-lh.akamaihd.net/i/t05842a_1@456876/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFYGSSq.jpg" group-title="P.A.T.S",Massachusetts - Winchester WinCAM HD
+https://t05842-lh.akamaihd.net/i/t05842d_1@122670/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuCD9Y0.png" group-title="P.A.T.S",Massachusetts - Winthrop WCAT Public Channel 3
+https://frontdoor.wcat-tv.org:8787/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5jo0x0K.png" group-title="P.A.T.S",Massachusetts - Winthrop WCAT Education Channel 15
+https://edu-wcat.azureedge.net/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39NBlC2.png" group-title="P.A.T.S",Massachusetts - Winthrop WCAT Government Channel 22
+https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 
 
 ############
