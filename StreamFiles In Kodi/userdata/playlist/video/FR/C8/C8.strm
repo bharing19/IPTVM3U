@@ -1,0 +1,3 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dsh-m002.live-lv3.canalplus-cdn.net/live/disk/c8-hd/dash-fhddvr/c8-hd.mpd
