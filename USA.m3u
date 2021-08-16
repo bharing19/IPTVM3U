@@ -8,6 +8,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff7qiyL.jpg" group-title="",US National Debt Clock LIVE (YT)
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Crafts
@@ -4621,6 +4622,11 @@ http://pub.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjuhAjh.png" group-title="P.A.T.S",★★★★★★★★★★Minnesota★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qApv2MO.png" group-title="P.A.T.S",Minnesota - Alexandria Kool TV
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qApv2MO.png" group-title="P.A.T.S",Minnesota - Alexandria NLCC
+http://209.182.219.50:1935/nlcc-fire/nlcc-fire/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuMjN8Q.png" group-title="P.A.T.S",Minnesota - Apple Valley City 
 https://edge-f.swagit.com/live/applevalleymn/smil:std-16x9-1-a/playlist.m3u8
 
@@ -4669,3 +4675,10 @@ http://reflect-champlin-qctv.cablecast.tv/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Ramsey QCTV
 http://reflect-ramsey-qctv.cablecast.tv/live/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFQdMAr.png" group-title="P.A.T.S",Minnesota - St. Louis Park TV
+https://granicusliveus2-a.akamaihd.net/stlouispark/G1245_002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XctRwfy.png" group-title="P.A.T.S",Minnesota - Walker Leech Lake LLTV 1
+https://reflect-leech-lake-tvaccess.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XctRwfy.png" group-title="P.A.T.S",Minnesota - Walker Leech Lake LLTV 2
+https://reflect-leech-lake-tvaccess.cablecast.tv/live-6/live/live.m3u8
