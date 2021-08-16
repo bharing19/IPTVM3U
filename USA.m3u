@@ -4661,6 +4661,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KyDPe3h.png" group-title="P.A.T.S",Minnesota - Minneapolis MCN6 Arts Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ltJGhb.jpg" group-title="P.A.T.S",Minnesota - Minnetonka’s municipal cable channel
+http://granicusliveus4-a.akamaihd.net/eminnetonka/G0470_001/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWsP1dI.png" group-title="P.A.T.S",Minnesota - Nine North - Channel 14
 https://reflect-ctv15.cablecast.tv/live-42/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWsP1dI.png" group-title="P.A.T.S",Minnesota - Nine North - Channel 15
@@ -4674,6 +4677,9 @@ http://reflect-anoka-qctv.cablecast.tv/live/live.m3u8
 http://reflect-champlin-qctv.cablecast.tv/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elhhWCL.png" group-title="P.A.T.S",Minnesota - Ramsey QCTV
 http://reflect-ramsey-qctv.cablecast.tv/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evFhTRO.jpg" group-title="P.A.T.S",Minnesota - Shakopee City
+https://edge-f.swagit.com/live/shakopeemn/smil:std-4x3-1-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFQdMAr.png" group-title="P.A.T.S",Minnesota - St. Louis Park TV
 https://granicusliveus2-a.akamaihd.net/stlouispark/G1245_002/playlist.m3u8
