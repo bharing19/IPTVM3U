@@ -186,6 +186,8 @@ https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUWUGoO.png" group-title="",Qwest Mix
 https://qwestmix-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action 8
+https://rakuten-action-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action 9
 https://rakuten-action-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action 10
@@ -201,10 +203,12 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 3 (EU)
 https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 6 (EU)
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 4 (EU)
+https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 5 (EU)
 https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 6 (EU)
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Action Movies 7 (EU)
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -222,6 +226,8 @@ https://rakuten-comedymovies-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Comedy Movies 7 (EU)
 https://rakuten-comedymovies-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Documentaries 4 (EU)
+https://rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Documentaries 5 (EU)
 https://rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Documentaries 6 (EU)
@@ -287,6 +293,8 @@ https://rakuten-spotlight-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 3 (EU)
 https://rakuten-spotlight-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 4 (EU)
+https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 5 (EU)
 https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 6 (EU)
@@ -317,6 +325,7 @@ https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Film (EU)
 https://rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 1 (EU)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Top Free 2 (EU)
