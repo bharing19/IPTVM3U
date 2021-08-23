@@ -129,28 +129,23 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",A & E CAN (TT1)
 plugin://plugin.video.tvone1112/play/2092/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="", ABC SPARK (TT1)
 plugin://plugin.video.tvone1112/play/1904/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="", AMC CAN (TT1)
 plugin://plugin.video.tvone1112/play/1906/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="", AMERICAN HERO (TT1)
 plugin://plugin.video.tvone1112/play/1905/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="", BBC Canada (TT1)
 plugin://plugin.video.tvone1112/play/1976/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6F2DFBk.png" group-title="",BBC Kids (TT1)
 plugin://plugin.video.tvone1112/play/1907/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",BET CAN (TT1)
 plugin://plugin.video.tvone1112/play/1908/play.pvr
@@ -169,7 +164,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp01a-9c9
 # update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="", BRAVO CANADA (TT1)
 plugin://plugin.video.tvone1112/play/1909/play.pvr
@@ -205,7 +199,6 @@ plugin://script.module.7of9-live/play/613/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRqMY00.png" group-title="News",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 
@@ -223,7 +216,6 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jsWFDJ.png" group-title="News",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
@@ -263,7 +255,6 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
 https://dcunilive72-lh.akamaihd.net/i/dclive_1@800677/master.m3u8?hdnea=st=1615599775~exp=1615600175~acl=/i/dclive_1@800677*~hmac=411b073718b1f5f303bf7372b6efb26c66b756b2bdfa47ca09667656a3b1cc1a
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="", CHCH (TT1)
 plugin://plugin.video.tvone1112/play/1912/play.pvr
 
@@ -294,14 +285,11 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CITY TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",COMEDY GOLD (TT1)
 plugin://plugin.video.tvone1112/play/1913/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dnKxJd.png" group-title="",COTTAGE LIFE  (TT1)
 plugin://plugin.video.tvone1112/play/2103/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",CP 24 (TT1)	  
 plugin://plugin.video.tvone1112/play/1914/play.pvr
@@ -332,10 +320,8 @@ plugin://script.module.7of9-live/play/691/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT1)
 plugin://plugin.video.tvone1112/play/1970/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6vremw.png" group-title="",CTV NEWS (TT1)
 plugin://plugin.video.tvone1112/play/1973/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2H707B.png" group-title="",CTV TWO  (TT1)
 plugin://plugin.video.tvone1112/play/1977/play.pvr
@@ -360,14 +346,11 @@ https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/2917038973_cvtv21_247
 #EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 23
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dmRJRn.png" group-title="",DAYSTAR (TT1)
 plugin://plugin.video.tvone1112/play/2096/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c62ZUq3.png" group-title="",DISCOVERY CANADA (TT1)
 plugin://plugin.video.tvone1112/play/1916/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/luu1BBL.png" group-title="",DISCOVERY SCI CANADA (TT1)
 plugin://plugin.video.tvone1112/play/2101/play.pvr
@@ -378,14 +361,11 @@ plugin://plugin.video.tvone1112/play/2106/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgo7HY.jpg" group-title="",Disney Junior Canada (TT1)
 plugin://plugin.video.tvone1112/play/2189/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hGO4izI.png" group-title="",DIY NETWORK (TT1)
 plugin://plugin.video.tvone1112/play/2097/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khD6vuy.png" group-title="",DOCUMENTARY  (TT1)
 plugin://plugin.video.tvone1112/play/2102/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQeS1i4.png" group-title="",E! ENT CANDA (TT1)
 plugin://plugin.video.tvone1112/play/1917/play.pvr
@@ -413,13 +393,14 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqztBVM.png" group-title="",Family (TT1)
 plugin://plugin.video.tvone1112/play/1918/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xM54fHS.png" group-title="News",FOX NEWS CANADA (TT1)
 plugin://plugin.video.tvone1112/play/1919/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5dOL2O.png" group-title="",GAME TV (TT1)
 plugin://plugin.video.tvone1112/play/1921/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
+https://tna5.bozztv.com/Genesis360radio/index.m3u8|Referer=https://ssh101.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV
 http://stream.tvtap.live:8081/live/ca-global.stream/playlist.m3u8
@@ -481,6 +462,8 @@ plugin://plugin.video.tvone1112/play/1927/play.pvr
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/AF11e8l.png" group-title="",IFC CANADA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUoz7bo.png" group-title="Local",Jess TV (Lethbridge) (720p)
+https://tna5.bozztv.com/jesstv/index.m3u8|Referer=https://ssh101.com/
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT) (UPD)
@@ -510,7 +493,6 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Legislative",Legislative Assembly of Ontario (OPT-2)
 https://lin10.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTVk0fk.png" group-title="",LIFETIME CANADA (TT1)
 plugin://plugin.video.tvone1112/play/2093/play.pvr
 
@@ -519,7 +501,6 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2RhJxrw.png" group-title="",MOVIETIME CANADA (TT1)
 plugin://plugin.video.tvone1112/play/1370/play.pvr
@@ -558,14 +539,11 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://c.streamhoster.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaOHKsm.png" group-title="",OWN CANADA (TT1)
 plugin://plugin.video.tvone1112/play/2104/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAb96Id.png" group-title="Kids",PBS KIDS CANADA (TT1)
 plugin://plugin.video.tvone1112/play/2105/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mmk5qYX.png" group-title="",PEACHTREE TV  (TT1)
 plugin://plugin.video.tvone1112/play/1930/play.pvr
@@ -577,35 +555,30 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJvViZC.png" group-title="",SHOWCASE CANADA (TT1)
 plugin://plugin.video.tvone1112/play/2098/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tt3KNIw.png" group-title="",SLICE (TT1)
 plugin://plugin.video.tvone1112/play/1931/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h535oXl.png" group-title="",SPACE (CTV ScI-Fy) (TT1)
 plugin://plugin.video.tvone1112/play/1933/play.pvr
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="Sport",Sportsnet 360
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="Sport",Sportsnet 360 (TT1)
+plugin://plugin.video.tvone1112/play/1327/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario 
 http://stream.tvtap.live:8081/live/sno.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario (TT)
 pplugin://script.module.7of9-live/lay/214/play.pvr
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportsnet One 
 http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportrtsnet One (TT)
 plugin://script.module.7of9-live/play/417/play.pvr
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",Sportrtsnet World
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",Sportrtsnet World (TT1)
+plugin://plugin.video.tvone1112/play/1324/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",Sportsnet World (TT) (OFFLINE)
 plugin://script.module.7of9-live/play/215/play.pvr
 
