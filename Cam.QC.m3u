@@ -132,24 +132,25 @@ plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 ##################
 
 # https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming
-
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM01 BROSSARD - Camera en direction de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=zllUR8rdjD8
 
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM02 ILE-DES-SOEURS - Camera en direction de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=iu8OWVLBek0
 
-#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Brossard et de A-10 (YT)
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM03 BROSSARD - Camera en direction de Brossard et de A-10 (YT)
 plugin://plugin.video.youtube/play/?video_id=OiiHLfe2JZ8
 
-
-#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Brossard et de A-10 (YT)
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM04 BROSSARD - Camera en direction de Brossard et de A-10 (YT)
 plugin://plugin.video.youtube/play/?video_id=zIPKVojgh4E
 
-#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",PONT ÎLE-DES-SOEURS - Caméra en direction du Pont Samuel-De Champlain (YT)
-plugin://plugin.video.youtube/play/?video_id=__0xPOMasYc
-#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BLVD. GAÉTAN-LABERGE - Caméra en direction du Pont de l'Île-des-soeurs (YT)
-plugin://plugin.video.youtube/play/?video_id=JP_KTXKKwKs
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM 05 PONT ÎLE-DES-SOEURS - Caméra en direction du Pont Samuel-De Champlain (YT)
+plugin://plugin.video.youtube/play/?video_id=83CV9u4l1jk
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM06 BLVD. GAÉTAN-LABERGE - Caméra en direction du Pont de l'Île-des-soeurs (YT)
+plugin://plugin.video.youtube/play/?video_id=pZC4Kl2jMYs
+
+
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere https://rtsp.me/embed/3yB3SNsr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (1080p) (UPD)
