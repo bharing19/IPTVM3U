@@ -45,20 +45,15 @@ https://wowzaprod231-i.akamaihd.net/hls/live/1013830/2602fd20_1_1536000/chunklis
 #EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="affaires publiques",Assnat Séances des commissions 3
 https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324/playlist.m3u8
 https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324_1_1536000/chunklist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="affaires publiques",Assnat Séances de l’Assemblée 2
-http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/PQ/20210608_PQ_140846.mp4/playlist.m3u8
-http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/PQ/20210608_PQ_140846.mp4/chunklist_w1349661499.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="affaires publiques",Assnat Conférence de presse de M. François Legault
-http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/AP/20210608_Presse_130350.mp4/playlist.m3u8
-http://diffusionm4.assnat.qc.ca/vsd/_definst_/42_1/AP/20210608_Presse_130350.mp4/chunklist_w1624916404.m3u8
+
 
 # https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (v_id)
 plugin://plugin.video.youtube/play/?video_id=1L92h2Xt4jU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p)
-https://linkastream.co/headless?url=https://www.youtube.com/user/bellahdjel/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/bellahdjel/live
 
 
 EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D CA" tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="thématique",Canal D (720p)  (OFFLINE)
@@ -275,11 +270,8 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (lorsque diffusion) 
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
-#EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (OPT-2) (lorsque diffusion)
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
-#EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (OPT-3) (lorsque diffusion)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
+
 
 # https://www.noovo.ca/en-direct
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (720p) (SLT)
@@ -350,8 +342,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_liv
 plugin://plugin.video.youtube/play/?video_id=pWhdKBGs4Kc
 #EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
-#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p)
-https://linkastream.co/headless?url=https://www.youtube.com/user/ctmq/live
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ctmq/live
 
 EXTINF:-1 tvg-id="TeletoonFrench.ca" tvg-name="TéléToon CA" tvg-logo="https://i.imgur.com/WJPpAAo.png" group-title="Anime",Teletoon (720p)  (OFFLINE)
 https://www.streamaway.net/fra/teletoon-qc/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Teletoon-qc.php
@@ -402,8 +394,8 @@ EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="TVA Sports 2 CA" tvg-logo="https://i.
 plugin://plugin.video.youtube/play/?video_id=pXT9_7p4wsw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)  (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p)
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 
 
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
@@ -411,8 +403,8 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0JP0ek-Hhc
 plugin://plugin.video.youtube/play/?video_id=QDMJVOd4uso
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
-#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p)
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
 
 
 EXTINF:-1 tvg-id="VRAK.ca" tvg-name="VRAK CA" tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="thématique",Vrak (720p)  (OFFLINE)
