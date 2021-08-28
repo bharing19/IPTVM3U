@@ -462,7 +462,7 @@ plugin://plugin.video.tvone1112/play/1925/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WnS58gy.png" group-title="",HIFI (TT1)
 plugin://plugin.video.tvone1112/play/1965/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oFJEFAG.png" group-title="",HISTORY CANADA
+EXTINF:-1 tvg-logo="https://i.imgur.com/oFJEFAG.png" group-title="",HISTORY CANADA
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZZaWsbA.png" group-title="",History 2 Canada (TT1)
@@ -478,8 +478,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/AF11e8l.png" group-title="",IFC CANADA
 https://tna5.bozztv.com/jesstv/index.m3u8|Referer=https://ssh101.com/
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (v_id) (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=c9WAYHgSyUc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCGPU8_iKvmGJwVERzwN0h7Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q/live
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
@@ -490,8 +495,12 @@ plugin://plugin.video.tvone1112/play/2110/play.pvr
 plugin://plugin.video.tvone1112/play/1928/play.pvr
 
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (v_id) (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=PnuYn_lodVM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCJI0dlZn0CiOjnS8MuKLFVA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/730zfnG.png" group-title="Legislative",Legislative Assembly British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/b36211f9/b36211f9_1_1229000/chunklist.m3u8
@@ -604,8 +613,12 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
 
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (v_id) (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=UOw7XXlzS-A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UC_DweJsPH4mvcRU3aFwVtqg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -663,9 +676,12 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 plugin://plugin.video.tvone1112/play/2108/play.pvr
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (v_id) (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=cQAp0XWYLNo
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCGPPdIn67ZCLhhHABoQpNUw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J406yXY.png" group-title="Kids",W NETWORK (TT1)
 plugin://plugin.video.tvone1112/play/2094/play.pvr
@@ -687,8 +703,13 @@ plugin://plugin.video.tvone1112/play/2095/play.pvr
 plugin://plugin.video.tvone1112/play/1936/play.pvr
 
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
-#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (YT)
+#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (v_id) (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=azl07uA79pA
+#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
+#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
+
 
 ##########
 
@@ -769,11 +790,13 @@ http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
 #EXTINF:-1 tvg-logo="https://globalpunjabtv.com/wp-content/uploads/2019/08/logo-2.png" group-title="",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 
+# https://www.youtube.com/channel/UCNYMuETXWtm6Nh1R4wGESIQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSvS1rp.png" group-title="",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT)
-plugin://plugin.video.youtube/play/?video_id=ENJIKWexdcw
+plugin://plugin.video.youtube/play/?video_id=R97f8Ay-aZ8
 
+# https://www.youtube.com/channel/UC5Ls0yJbNABQn8HeARivOSQ
 #EXTINF:-1 tvg-logo="EWx4xALxqr0" group-title="",Gurdwara Sahib - DCC Calgary (YT)
-plugin://plugin.video.youtube/play/?video_id=r3VO0spjbEA
+plugin://plugin.video.youtube/play/?video_id=hHVlXaBxL-o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
