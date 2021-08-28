@@ -743,6 +743,14 @@ https://5dd3981940faa.streamlock.net/awaznews/awaznews/chunklist_w442300692.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P18BZHe.png" group-title="Canada",Azstar
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 
+# https://www.youtube.com/channel/UCQ7qoIYMBBAatIUxioSxv8Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live (v_id) (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=0fzbgAZTz0Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCQ7qoIYMBBAatIUxioSxv8Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ7qoIYMBBAatIUxioSxv8Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 
@@ -803,6 +811,14 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="Canada",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
+
+# https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (v_id) (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=wequd3_0Xm4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCGGJSYbYXtyy6T1oN-MU9bQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
