@@ -469,3 +469,48 @@ https://wildearth-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ff0b806b34311ba36fd983" tvg-name="Evrgrn Channel"  group-title="Entertainment",Evrgrn Channel
 https://evrgn-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60abfbcedf0b4c00ad7ffdd9" tvg-name="WFTS-TV ABC Action News Tampa FL"  group-title="News",WFTS-TV ABC Action News Tampa FL
+https://wfts-syndication.ewscloud.com/out/v1/cdf4355ff2f54f76a0963dec6266512c/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6109a09b0baad96f194d56e6" tvg-name="Volty TV"  group-title="Entertainment",Volty TV
+https://ov.ottera.tv/live/master.m3u8?channel=vty_vt
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015626ae54e0a6732b715" tvg-name="WSB Now Atlanta"  group-title="News",WSB Now Atlanta
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6125408d04b7eb3ef45e0917" tvg-name="WFXT Boston 25 News Now"  group-title="News",WFXT Boston 25 News Now
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015d9763d7a427b16ef7a" tvg-name="WSOC-TV 9 Now Charlotte"  group-title="News",WSOC-TV 9 Now Charlotte
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsoctv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120147a629c31538d231077" tvg-name="WHIO-TV Now Dayton"  group-title="News",WHIO-TV Now Dayton
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" tvg-name="WJAX-TV Action News Now Jacksonville"  group-title="News",WJAX-TV Action News Now Jacksonville
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61201356c2b097359609d2c2" tvg-name="WFTV 9 Now Orlando"  group-title="News",WFTV 9 Now Orlando
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120151768042a4fc530f3f6" tvg-name="WPXI 11 Now Pittsburgh"  group-title="News",WPXI 11 Now Pittsburgh
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" tvg-name="KIRO-TV 7 Now Seattle"  group-title="News",KIRO-TV 7 Now Seattle
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/611194abfa2e7f465301bec6" tvg-name="TheGRID Network"  group-title="Entertainment",TheGRID Network
+https://vcncje.teleosmedia.com/linear/cje/thegrid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6116c5a3663497353d7525d9" tvg-name="CJC Network"  group-title="Entertainment",CJC Network
+https://vcncje.teleosmedia.com/linear/cje/cjc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610d8755b2d6aa31714f9a65" tvg-name="Local Now Movies of the Week"  group-title="Entertainment",Local Now Movies of the Week
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4cc385443941b411fe13c" tvg-name="Treehouse Gaming Network"  group-title="Entertainment",Treehouse Gaming Network
+https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d233daab3ef736f535ee59" tvg-name="PodTV"  group-title="Entertainment",PodTV
+https://ov.ottera.tv/live/master.m3u8?channel=ptv_po
