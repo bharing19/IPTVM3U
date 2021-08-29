@@ -1853,6 +1853,15 @@ https://s6.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC (OPT-2)
 http://flusonic-4.platinum-tv.com/TMC/index.m3u8?token=test
 
+
+# https://www.youtube.com/channel/UCE5RkgB9e4fNRQp-WUbkgOw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwlvb2r.jpg" group-title="généraliste",TV1 France (v_id) (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=GrpSA1E6DAg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwlvb2r.jpg" group-title="généraliste",TV1 France (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCE5RkgB9e4fNRQp-WUbkgOw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwlvb2r.jpg" group-title="généraliste",TV1 France
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE5RkgB9e4fNRQp-WUbkgOw/live
+
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2Vie
 https://oraocdn.net:1943/tv2vie-ssl/chunks.m3u8?nimblesessionid=80849547
 
@@ -1937,6 +1946,15 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="Ushuaia TV FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="thématique",Ushuaia tv (TT)
 plugin://script.module.7of9-live/play/766/play.pvr
+
+
+# https://www.youtube.com/channel/UCqpMa9xCkOZyWzscupX8Zcw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBhCaTA.jpg" group-title="",UTMB - Ultra-Trail du Mont-Blanc (v_id) (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBhCaTA.jpg" group-title="",UTMB - Ultra-Trail du Mont-Blanc (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UCqpMa9xCkOZyWzscupX8Zcw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBhCaTA.jpg" group-title="",UTMB - Ultra-Trail du Mont-Blanc
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqpMa9xCkOZyWzscupX8Zcw/live
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYzPiI5.jpg" group-title="",Unearth
