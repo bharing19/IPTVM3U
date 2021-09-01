@@ -1651,9 +1651,10 @@ https://www.streamaway.net/fra/rmc1/tracks-v1a1/mono.m3u8|Referer=https://www.st
 EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="https://i.imgur.com/OEcdK6j.png" group-title="Sport",RMC Sport Access 2
 https://www.streamaway.net/fra/rmc2/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/RMCsp2.php
 
-EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="thématique",RMC Story
+EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="généraliste",RMC Story
 https://www.streamaway.net/fra/n23/mono.m3u8|Referer=https://www.streamaway.net/fr/Numero23-fr.php
-
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story FR"  tvg-logo="https://i.imgur.com/3Y9mgti.jpg" group-title="généraliste",RMC Story (DM) (GEO)
+plugin://plugin.video.dailymotion_com/?url=x13p3qi&mode=playLiveVideo
 
 # https://francais.rt.com/en-direct
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="actualités",RT France
