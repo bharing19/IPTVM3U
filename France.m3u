@@ -1451,6 +1451,18 @@ plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 #EXTINF:-1 tvg-id="N31tv.fr" tvg-name="N31TV FR" tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-title="actualité informatique",N31 - La chaine des gamers (Pour VLC)
 https://www.dailymotion.com/video/x6nkjg1#tab_embed.m3u8
 
+
+# http://www.nancy-webtv.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQjqS4F.png" group-title="",Nancy WebTV
+https://edge5.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w1816442373.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07HWorF.jpg" group-title="",Nautical HD
+http://82.197.212.210:8000/play/a0zs/index.m3u8
+
+# https://nazarethmie.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onsqxaD.png" group-title="",Nazareth Mie TV
+https://live.strimie.com:3267/live/nazatvlive.m3u8
+
 # https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France (720p) (YT) (v_id)
 plugin://plugin.video.youtube/play/?video_id=p_fKQh_ctJo
@@ -1459,12 +1471,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCeGvSi1Tb8OV78ue3_tux1A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3xJzOt.jpg" group-title="Anime",Nickelodeon France
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A/live
 
-# http://www.nancy-webtv.fr/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQjqS4F.png" group-title="",Nancy WebTV
-https://edge5.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w1816442373.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/07HWorF.jpg" group-title="",Nautical HD
-http://82.197.212.210:8000/play/a0zs/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Ge7fkCe.jpg" group-title="thématique",Novelas TV
 https://www.streamaway.net/fra/novelas/3000.m3u8|Referer=https://www.streamaway.net/fr/Novelas.php
