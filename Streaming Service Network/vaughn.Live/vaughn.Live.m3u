@@ -12,6 +12,9 @@
 
 ##0##
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/0_action_movies_320.jpg" group-title="Movies",0_action_movies
+https://stream-cdn.vaughnsoft.net/play/live_0_action_movies.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/0_agroovetube_320.jpg" group-title="Mixed",0_aGrooveTube
 https://stream-cdn.vaughnsoft.net/play/live_0_agroovetube.flv
 
@@ -33,8 +36,14 @@ https://stream-cdn.vaughnsoft.net/play/live_1_goodnewschannel.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/7_stars_320.jpg" group-title="Mixed",7_Stars
 https://stream-cdn.vaughnsoft.net/play/live_7_stars.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/30drop_320.jpg" group-title="",30drop
+https://stream-cdn.vaughnsoft.net/play/live_30drop.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/57interactive_320.jpg" group-title="News",57interactive
 https://stream-cdn.vaughnsoft.net/play/live_57interactive.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/90skidforlife_320.jpg" group-title="",90skidforlife
+https://stream-cdn.vaughnsoft.net/play/live_90skidforlife.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/91fun_320.jpg" group-title="Music",91FUN
 https://stream-cdn.vaughnsoft.net/play/live_91fun.flv
@@ -51,6 +60,9 @@ https://stream-cdn.vaughnsoft.net/play/live_416toiletpaper.flv
 
 ##A##
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/alextru_320.jpg" group-title="Music",alextru
+https://stream-cdn.vaughnsoft.net/play/live_alextru.flv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YDXxMu.jpg" group-title="Mixed",AirCrashMayday
 https://stream-cdn.vaughnsoft.net/play/live_aircrashmayday.flv
 
@@ -65,6 +77,9 @@ https://stream-cdn.vaughnsoft.net/play/live_animelemonade.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/artful_dodger_320.jpg" group-title="Music",Artful_Dodger
 https://stream-cdn.vaughnsoft.net/play/live_artful_dodger.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/asip_320.jpg" group-title="",asip
+https://stream-cdn.vaughnsoft.net/play/live_asip.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1321/atpshow.jpg" group-title="Mixed",atpshow
 https://stream-cdn.vaughnsoft.net/play/live_atpshow.flv
@@ -160,6 +175,9 @@ https://stream-cdn.vaughnsoft.net/play/live_cavinfung.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/cc14atl_320.jpg" group-title="Mixed",CC14ATL
 https://stream-cdn.vaughnsoft.net/play/live_cc14atl.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/ch33rs_320.jpg" group-title="",ch33rs
+https://stream-cdn.vaughnsoft.net/play/live_ch33rs.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/charliefreak_320.jpg" group-title="Music",CHARLIEFREAK
 https://stream-cdn.vaughnsoft.net/play/live_charliefreak.flv
 
@@ -228,8 +246,14 @@ https://stream-cdn.vaughnsoft.net/play/live_djnanook.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/docbrown1_320.jpg" group-title="Movies",docbrown1
 https://stream-cdn.vaughnsoft.net/play/live_docbrown1.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/dquispec_320.jpg" group-title="News",dquispec 
+https://stream-cdn.vaughnsoft.net/play/live_dquispec.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/dragonballclassic_320.jpg" group-title="Anime",dragonballclassic
 https://stream-cdn.vaughnsoft.net/play/live_dragonballclassic.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/dukez_320.jpg" group-title="",dukez
+https://stream-cdn.vaughnsoft.net/play/live_dukez.flv
 
 ##E##
 
@@ -356,6 +380,9 @@ https://stream-cdn.vaughnsoft.net/play/live_hitradiozeeland.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/_horror__320.jpg" group-title="Movies",_Horror_
 https://stream-cdn.vaughnsoft.net/play/live__horror_.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/houseofclips_320.jpg" group-title="Mixed",houseofclips
+https://stream-cdn.vaughnsoft.net/play/live_houseofclips.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/hyper_v_320.jpg" group-title="News",hyper_v
 https://stream-cdn.vaughnsoft.net/play/live_hyper_v.flv
@@ -580,8 +607,17 @@ https://stream-cdn.vaughnsoft.net/play/live_n8tesmokes.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/natrarider_320.jpg" group-title="Movies",NatraRider
 https://stream-cdn.vaughnsoft.net/play/live_natrarider.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/newzlink_320.jpg" group-title="News",newzlink
+https://stream-cdn.vaughnsoft.net/play/live_newzlink.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/newzlink1_320.jpg" group-title="News",newzlink1 
 https://stream-cdn.vaughnsoft.net/play/live_newzlink1.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/newzy_320.jpg" group-title="News",newzy
+https://stream-cdn.vaughnsoft.net/play/live_newzy.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/newzy1_320.jpg" group-title="News",newzy1
+https://stream-cdn.vaughnsoft.net/play/live_newzy1.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/nuse_320.jpg" group-title="News",NuSe
 https://stream-cdn.vaughnsoft.net/play/live_nuse.flv
@@ -664,6 +700,9 @@ https://stream-cdn.vaughnsoft.net/play/live_reverendjesus.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/rhapsody_rad1o_320.jpg" group-title="Music",Rhapsody_Rad1o
 https://stream-cdn.vaughnsoft.net/play/live_rhapsody_rad1o.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/ripharry_320.jpg" group-title="",ripharry
+https://stream-cdn.vaughnsoft.net/play/live_ripharry.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/rnolan_320.jpg" group-title="Music",rnolan
 https://stream-cdn.vaughnsoft.net/play/live_rnolan.flv
 
@@ -722,8 +761,14 @@ https://stream-cdn.vaughnsoft.net/play/live_survivalnetwork9.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/tartantv_320.jpg" group-title="Mixed",tartantv (7.30pm to 10pm UKT.  Not on Wednesday or Sunday)
 https://stream-cdn.vaughnsoft.net/play/live_tartantv.flv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YDXxMu.jpg" group-title="Mixed",t_bbt
+https://stream-cdn.vaughnsoft.net/play/live_t_bbt.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/tech_corner_320.jpg" group-title="Mixed",Tech_Corner
 https://stream-cdn.vaughnsoft.net/play/live_tech_corner.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/the_black_lodge_320.jpg" group-title="Mixed",the_black_lodge
+https://stream-cdn.vaughnsoft.net/play/live_the_black_lodge.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/thegreatchallenger_320.jpg" group-title="Animes",thegreatchallenger
 https://stream-cdn.vaughnsoft.net/play/live_thegreatchallenger.flv
@@ -752,6 +797,9 @@ https://stream-cdn.vaughnsoft.net/play/live_totally_70s.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/trapacrats_320.jpg" group-title="Mixed",Trapacrats
 https://stream-cdn.vaughnsoft.net/play/live_trapacrats.flv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YDXxMu.jpg" group-title="Mixed",twoandahalfmen2
+https://stream-cdn.vaughnsoft.net/play/live_twoandahalfmen2.flv
+
 ##U##
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/unccharlie2_320.jpg" group-title="Mixed",unccharlie2
@@ -775,6 +823,9 @@ https://stream-cdn.vaughnsoft.net/play/live_viva_radio.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/warchick_320.jpg" group-title="Docs",WarChicK
 https://stream-cdn.vaughnsoft.net/play/live_warchick.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/wayblacktv_320.jpg" group-title="",wayblacktv
+https://stream-cdn.vaughnsoft.net/play/live_wayblacktv.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1324/whirlwind.jpg" group-title="Mixed",whirlwind
 https://stream-cdn.vaughnsoft.net/play/live_whirlwind.flv
