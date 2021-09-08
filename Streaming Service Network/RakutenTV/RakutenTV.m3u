@@ -313,6 +313,8 @@ https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 12 (EU)
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Spotlight 13 (EU)
+https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Thriller 1 (EU)
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
