@@ -263,21 +263,18 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
 
 # https://cfjctoday.com/streaming/ https://view.vzaar.com/playlists/14389
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
-https://dcunilive72-lh.akamaihd.net/i/dclive_1@800677/master.m3u8?hdnea=st=1615599775~exp=1615600175~acl=/i/dclive_1@800677*~hmac=411b073718b1f5f303bf7372b6efb26c66b756b2bdfa47ca09667656a3b1cc1a
+EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="", CHCH (TT1)
 plugin://plugin.video.tvone1112/play/1912/play.pvr
 
 # https://www.chch.com/live/
 EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (Token)
-https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w633310761_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMjk2NDg0NiZpaW1hZTBVQzJhaGFzaD1yaURyeUdnRjBTcHltTXN2X2U2Zm4wWldpWHVOUllPVWttZjBhYW5scV9RPQ==.m3u8
+
 
 # https://www.cheknews.ca/live-news-british-columbia/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
-https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
-https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",Cheknews (News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
+https://iptv-all.lanesh4d0w.codes/canada/chek-news
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FT0iGtx.jpg" group-title="",City News Canada (TT1)
 plugin://plugin.video.tvone1112/play/1974/play.pvr
