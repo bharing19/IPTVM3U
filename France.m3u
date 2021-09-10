@@ -555,7 +555,7 @@ https://www.streamaway.net/scripts/filtv.php/playlist.m3u8?ch=1729
 EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte TNT (360p)
 https://s6.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (opt-2)
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hl
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hls
 #https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (OPT-3)
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
@@ -981,8 +981,6 @@ plugin://plugin.video.dailymotion_com/?url=x7y66yv&mode=playLiveVideo
 https://www.streamaway.net/fra/foot/mono.m3u8|Referer=https://www.streamaway.net/fr/Foot.php
 
 # https://www.francetvinfo.fr/en-direct/tv.html
-EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-title="actualités",France info TV (Pour VLC)
@@ -1223,8 +1221,7 @@ https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 FR (GEO)
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
-EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 FR (OPT-2) (OFFLINE)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
+
 
 # https://www.idf1.fr/live #
 EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF1 FR" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="régionale",IDF1 (UPD-EXP-Tk)
@@ -1260,7 +1257,6 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-2)
 http://flusonic-4.platinum-tv.com/LCI/tracks-v1a1/mono.m3u8?token=test
-#http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/lcimobile-30789/hls/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-3)
 http://stream.tvtap.live:8081/live/lci.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (TT)
