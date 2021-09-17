@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dgh4kiX.png" group-title="",★★★★★★★★★★Haiti★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-id="HaitiNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/nahIBW1.jpg" group-title="",Haiti News (720p) [Not 24/7]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1d5GJClfJ1_IlJuwV_CtjQ/live
+
 #EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="",Haiti Viral News (720p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcEY2-g-EEefxyYa1gtrk4g/live
 
