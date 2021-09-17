@@ -1484,6 +1484,9 @@ https://www.streamaway.net/fra/ocsm/index.m3u8|Referer=https://www.streamaway.ne
 
 EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV FR" tvg-logo="https://i.imgur.com/fc19kCV.png" group-title="France",OLTV (OFFLINE)
 
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xc8EFmb.png" group-title="",P2M TV (360p)
+https://panel.streamparis.fr:3743/stream/play.m3u8
+
 # http://pancrace.tv/#
 #EXTINF:-1 tvg-id="Pancrace.fr" tvg-name="Pancrace FR" tvg-logo="https://i.imgur.com/t0AuZxj.jpg" tgroup-title="Sport",Pancrace TV
 http://stream.mandarine.media:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
