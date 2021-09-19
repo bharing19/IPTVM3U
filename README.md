@@ -11,7 +11,7 @@ all list work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as exce
 
 # Youtube : Video Id :  No API required : link Update required (UPD)
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
-https://www.youtube.com/watch?v=
+plugin://plugin.video.youtube/play/?video_id=IDHERE
 
 # Youtube : Channel ID : API required : No Update required
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (c_id)
