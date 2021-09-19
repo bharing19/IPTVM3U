@@ -129,6 +129,12 @@ plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
 
+# https://www.youtube.com/channel/UC7SNvPidqlswgbV1-W2Z8vw
+#EXTINF:-1 tvg-logo="" group-title="",Rivière Richelieu (YT) (v_id)
+https://www.youtube.com/watch?v=vizETSu3Y2Q
+#EXTINF:-1 tvg-logo="" group-title="",Rivière Richelieu (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7SNvPidqlswgbV1-W2Z8vw&live=1
+
 ##################
 
 # https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming
