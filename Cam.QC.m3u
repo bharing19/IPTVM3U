@@ -131,7 +131,7 @@ plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
 # https://www.youtube.com/channel/UC7SNvPidqlswgbV1-W2Z8vw
 #EXTINF:-1 tvg-logo="" group-title="",Rivière Richelieu (YT) (v_id)
-https://www.youtube.com/watch?v=vizETSu3Y2Q
+plugin://plugin.video.youtube/play/?video_id=vizETSu3Y2Q
 #EXTINF:-1 tvg-logo="" group-title="",Rivière Richelieu (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC7SNvPidqlswgbV1-W2Z8vw&live=1
 
