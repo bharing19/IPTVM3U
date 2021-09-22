@@ -1,5 +1,54 @@
 #EXTM3U
 
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru Youtube Live★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CVjU8gG2poc/hq720.jpg" group-title="",Dance Radio (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=CVjU8gG2poc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CVjU8gG2poc/hq720.jpg" group-title="",Dance Radio (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=2
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/26okfNPkWNY/hq720.jpg" group-title="",Deep (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=26okfNPkWNY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/26okfNPkWNY/hq720.jpg" group-title="",Deep (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=1
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TJG_myVUr48/hq720.jpg" group-title="",Russian Mix (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=TJG_myVUr48
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TJG_myVUr48/hq720.jpg" group-title="",Russian Mix (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=3
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Sw_irgLYdI/hq720.jpg" group-title="",90-X (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=1Sw_irgLYdI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Sw_irgLYdI/hq720.jpg" group-title="",90-X (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QG6lEaiDIBs/hq720.jpg" group-title="",Techno (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=QG6lEaiDIBs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QG6lEaiDIBs/hq720.jpg" group-title="",Techno (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=5
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/usu8JhVRXyQ/hq720.jpg" group-title="",Chill-Out (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=usu8JhVRXyQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/usu8JhVRXyQ/hq720.jpg" group-title="",Chill-Out (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=6
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M1Mduu66xNo/hq720.jpg" group-title="",Megamix (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=M1Mduu66xNo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M1Mduu66xNo/hq720.jpg" group-title="",Megamix (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=7
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpIsJoj2W4w/hq720.jpg" group-title="",Chill House (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=TpIsJoj2W4w
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpIsJoj2W4w/hq720.jpg" group-title="",Chill House (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=8
+
+
+##############
+
+
 # https://www.radiorecord.ru/stations
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
 0.0.0.0
@@ -244,4 +293,40 @@ https://radiorecord.hostingradio.ru/gast96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/symph_image600_gray_outline.png" group-title="",Симфония FM
 https://radiorecord.hostingradio.ru/symph96.aacp
 
-#####
+##############
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru Podcast★★★★★★★★★★
+0.0.0.0
+
+# https://www.radiorecord.ru/podcast/42784
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/iblock/500/Record_Classix_750x400.jpg" group-title="",★★★★★Record Classix★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#001 (02-07-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-07-02.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#002 (09-07-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-07-09.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#003 (16-07-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-07-16.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#004 (23-07-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-07-23.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#005 (30-07-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-07-30.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#006 (06-08-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-08-06.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#007 (13-08-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-08-13.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#008 (20-08-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes2/clssx_-_rc_2021-08-20.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#009 (27-08-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-08-27.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#010 (03-09-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-09-03.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#011 (10-09-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-09-10.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="",#012 (17-09-2021)
+https://itunes.radiorecord.ru/tmp_audio/itunes1/clssx_-_rc_2021-09-17.mp3
+
+
+##############
+
