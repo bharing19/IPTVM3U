@@ -11,6 +11,12 @@ https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pYqTkpp.png" group-title="",AFV Family (EU)
 https://futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ftb8TNb.jpg" group-title="",Baby Shark TV (EU)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwBfAEM.jpg" group-title="",BITE
+https://parademedia-bite-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AxQpbMp.png" group-title="",Bizzaro Movies (EU)
 https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -19,6 +25,9 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2togfo.jpg" group-title="",Bloomberg Quicktake (EU)
 https://bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBZw1oh.png" group-title="",Bonappetit
+https://bonappetit-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLxmQz1.jpg" group-title="",Boo Gaming (EU)
 https://arcade-cloud-eu.rakuten.wurl.tv/playlist.m3u8
@@ -43,6 +52,9 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rySAnH.jpg" group-title="",Comedy Dynamics
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikOebQ7.png" group-title="",Darkmatter (Spanish)
+https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNjkqXw.jpg" group-title="",Destination TV (EU)
 https://makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -74,6 +86,13 @@ https://rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1L2yCtt.jpg" group-title="",EuroNews 13 (EU)
 https://rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9eGK0T.jpg" group-title="",Explore by TVPlayer (Uk)
+https://alchimie-explorebytvplayer-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9eGK0T.jpg" group-title="",Explore by TVPlayer (ES)
+https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9eGK0T.jpg" group-title="",Explore by TVPlayer (Fr)
+https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iv8QVWA.jpg" group-title="",FailArmy International (EU)
 https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -112,6 +131,10 @@ https://hncfree-rakutenuk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Humanity Documentaries (UK)
 https://alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""https://i.imgur.com/pbA56AG.png group-title="",Humanity Documentaries (Fr)
+https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Humanity Documentaries (It)
+https://alchimie-humanity-documentaries-it-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBIusmS.png" group-title="",Ifood.tv (EU)
 https://futuretoday-ifoodtv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -151,6 +174,8 @@ https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dz7yK8j.jpg" group-title="",Luxe TV (UK)
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dz7yK8j.jpg" group-title="",Luxe TV (Fr)
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LOk42FP.png" group-title="",MavTV (EU)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -437,10 +462,19 @@ https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/toGgyAt.png" group-title="",Tankee (EU)
 https://playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SP4h21I.jpg" group-title="",Tastemade (International)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SP4h21I.jpg" group-title="",Tastemade (ES)
 https://tastemade-es8tm-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SP4h21I.jpg" group-title="",Tastemade TDGM
 https://tastemade-tdgmn-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVXGxor.jpg" group-title="",Teletubbies 1 (EU)
+https://dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVXGxor.jpg" group-title="",Teletubbies 2 (EU)
+https://dhx-teletubbies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVXGxor.jpg" group-title="",Teletubbies 3 (EU)
+https://dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4sf9VBp.png" group-title="",Tennis Channel (Deu) Geo
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
