@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/party-24-7_image600_gray_outline.png" group-title="",Party 24/7
+https://radiorecord.hostingradio.ru/party96.aacp
+
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/summer-dance_image600_gray_outline.png" group-title="",Summer Dance
 https://radiorecord.hostingradio.ru/summerparty96.aacp
 
