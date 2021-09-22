@@ -123,6 +123,9 @@ https://stream-cdn.vaughnsoft.net/play/live_badmoviechannel2.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/badmoviechannel3_320.jpg" group-title="",BadMovieChannel3
 https://stream-cdn.vaughnsoft.net/play/live_badmoviechannel3.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/baystateknight_320.jpg" group-title="Music",BayStateKnight
+https://stream-cdn.vaughnsoft.net/play/live_baystateknight.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/b_czar_320.jpg" group-title="Mixed",B_CZAR
 https://stream-cdn.vaughnsoft.net/play/live_b_czar.flv
 
@@ -580,6 +583,9 @@ https://stream-cdn.vaughnsoft.net/play/live_missymooovies.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/mondocult2_320.jpg" group-title="Movies",mondocult2
 https://stream-cdn.vaughnsoft.net/play/live_mondocult2.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/moonstrucktv_320.jpg" group-title="News",MoonstruckTV
+https://stream-cdn.vaughnsoft.net/play/live_moonstrucktv.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/moviefavch_320.jpg" group-title="Movies",MovieFavCh
 https://stream-cdn.vaughnsoft.net/play/live_moviefavch.flv
 
@@ -678,6 +684,9 @@ https://stream-cdn.vaughnsoft.net/play/live_race_bannon.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/radiosquillace_320.jpg" group-title="Music",radiosquillace
 https://stream-cdn.vaughnsoft.net/play/live_radiosquillace.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/radiovideo_320.jpg" group-title="Music",RadioVideo
+https://stream-cdn.vaughnsoft.net/play/live_radiovideo.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/vaughnsoft/vaughn/img_profiles/rbr_320.jpg" group-title="Music",RBR
 https://stream-cdn.vaughnsoft.net/play/live_rbr.flv
