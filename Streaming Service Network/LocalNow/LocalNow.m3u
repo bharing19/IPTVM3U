@@ -53,9 +53,6 @@ https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6011c3f68a253a517a15fce8" tvg-name="Local Now Music"  group-title="Music",Local Now Music
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6046e2c8de76bc26a2350f31" tvg-name="Real Hip-Hop"  group-title="Music",Real Hip-Hop
-https://linear-62.frequency.stream/dist/localnow/62/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" tvg-name="Local Now Adrenaline Rush"  group-title="Entertainment",Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
@@ -209,9 +206,6 @@ https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" tvg-name="CONtv Anime"  group-title="Anime",CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9f07c02cd6e13fc201f353" tvg-name="Bambu"  group-title="Entertainment",Bambu
-https://bambu-localnow.cinedigm.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9acd864964ba19ff258252" tvg-name="Shout! Factory TV"  group-title="Action",Shout! Factory TV
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 
@@ -239,7 +233,7 @@ https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fbebd6c1ed3cd231349ddc2" tvg-name="Fat Guys in the Woods"  group-title="Adventure",Fat Guys in the Woods
 https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3cad46f6084ed5257102" tvg-name="Local Now Fireside"  group-title="Entertainment",Local Now Fireside
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3cad46f6084ed5257102" tvg-name="Local Now Fireside (Geo-blocked)"  group-title="Entertainment",Local Now Fireside (Geo-blocked)
 https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fd9322332850459227a39b8" tvg-name="Local Now Zen"  group-title="Animated",Local Now Zen
@@ -386,19 +380,19 @@ https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d37620347e830cf22b2e73" tvg-name="Local Now Justice"  group-title="Entertainment",Local Now Justice
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17be91182d1039224f93" tvg-name="Local Now Juneau AK"  group-title="News",Local Now Juneau AK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17be91182d1039224f93" tvg-name="Local Now Juneau AK (Geo-blocked)"  group-title="News",Local Now Juneau AK (Geo-blocked)
 https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/akJuneau/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17849a3ec21aaa5f1812" tvg-name="Local Now Alpena MI"  group-title="News",Local Now Alpena MI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17849a3ec21aaa5f1812" tvg-name="Local Now Alpena MI (Geo-blocked)"  group-title="News",Local Now Alpena MI (Geo-blocked)
 https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/miAlpena/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17694e8a9d513d1f1782" tvg-name="Local Now North Platte NE"  group-title="News",Local Now North Platte NE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da17694e8a9d513d1f1782" tvg-name="Local Now North Platte NE (Geo-blocked)"  group-title="News",Local Now North Platte NE (Geo-blocked)
 https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/neNorthPlatte/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da173ea0eaf20e8f7e9fa1" tvg-name="Local Now Glendive MT"  group-title="News",Local Now Glendive MT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da173ea0eaf20e8f7e9fa1" tvg-name="Local Now Glendive MT (Geo-blocked)"  group-title="News",Local Now Glendive MT (Geo-blocked)
 https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtGlendive/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da1923103665567758c0f2" tvg-name="Local Now Helena MT"  group-title="News",Local Now Helena MT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60da1923103665567758c0f2" tvg-name="Local Now Helena MT (Geo-blocked)"  group-title="News",Local Now Helena MT (Geo-blocked)
 https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtHelena/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4d78b5e550b3e07670ae2" tvg-name="Local Now Christmas in July"  group-title="Entertainment",Local Now Christmas in July
@@ -464,9 +458,6 @@ https://zoomer-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60fad801d2c93e51a91f2d8a" tvg-name="One Get Fit TV US"  group-title="Health",One Get Fit TV US
 https://zoomer-onegetfit.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d49e015b182403c0433802" tvg-name="Wild Earth"  group-title="Entertainment",Wild Earth
-https://wildearth-localnow.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ff0b806b34311ba36fd983" tvg-name="Evrgrn Channel"  group-title="Entertainment",Evrgrn Channel
 https://evrgn-localnow.amagi.tv/playlist.m3u8
 
@@ -514,3 +505,42 @@ https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d233daab3ef736f535ee59" tvg-name="PodTV"  group-title="Entertainment",PodTV
 https://ov.ottera.tv/live/master.m3u8?channel=ptv_po
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f97bc2865b7eb86296ab" tvg-name="KULR-TV Billings MT"  group-title="News",KULR-TV Billings MT
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f8e8ae19ce20303a7019" tvg-name="KHQ-TV Spokane WA"  group-title="News",KHQ-TV Spokane WA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613789464fef2b0a1858da8f" tvg-name="Black Belt TV"  group-title="Sports",Black Belt TV
+https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6137884c00b2977bbf748180" tvg-name="Combat Go"  group-title="Sports",Combat Go
+https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61378a381f4dcb3cc97de384" tvg-name="Kick Flix"  group-title="Sports",Kick Flix
+https://ov.ottera.tv/live/master.m3u8?channel=jun_kx
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613784c020542703b5150922" tvg-name="NHRA TV"  group-title="Sports",NHRA TV
+https://ov.ottera.tv/live/master.m3u8?channel=prl_nh
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6111a622ca481a0fb65f4a64" tvg-name="Unbeaten"  group-title="Sports",Unbeaten
+https://unbeaten-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613789aed62dff16bd639f58" tvg-name="Dance Go TV"  group-title="Entertainment",Dance Go TV
+https://ov.ottera.tv/live/master.m3u8?channel=jun_dg
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6148b587ccf9de576e14b513" tvg-name="Xploration Station"  group-title="Entertainment",Xploration Station
+https://amg00681-rotfeldproducti-xploration-localnow-qtn9w.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6137889278a6951b88479c83" tvg-name="A8 ESports"  group-title="Gaming",A8 ESports
+https://ov.ottera.tv/live/master.m3u8?channel=jun_a8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613789ff411ecb2aa6096442" tvg-name="ESport 24"  group-title="Gaming",ESport 24
+https://ov.ottera.tv/live/master.m3u8?channel=jun_es
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613780af4a7886298a003386" tvg-name="Local Now Crime and Punishment"  group-title="Crime",Local Now Crime and Punishment
+https://linear-241.frequency.stream/dist/localnow/241/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f301d663c44cc25551f9" tvg-name="Utah TV"  group-title="Entertainment",Utah TV
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/51901278-b41e-4b0c-a237-9b9b3fb3f2c8.m3u8?adMethod=3&UtahtvLocalNow
