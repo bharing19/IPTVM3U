@@ -212,3 +212,6 @@ https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Gameplay
 https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+
+#EXTINF:-1 ,Blockworks
+https://d2h2fyavn9bij8.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-APlusCinema/m.m3u8
