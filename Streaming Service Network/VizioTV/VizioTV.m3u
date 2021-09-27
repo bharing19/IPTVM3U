@@ -159,7 +159,7 @@ https://food.vizio.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yRs6AC.jpg" group-title="VisioTV",Fox News Now
-https://foxcorona-vizio.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbDAdGi.jpg" group-title="VisioTV",Fox News Corona
 https://foxcorona-vizio.amagi.tv/playlist.m3u8
@@ -473,8 +473,12 @@ https://studio1-lit-vizio.amagi.tv/playlist.m3u8
 https://estrellatv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,Estrella News (Geo)
 https://estrellanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella Games (Geo)
+https://estrellagames-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bein Xtra Spanish (Geo)
 https://beinesp-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra (Geo)
+https://bein-xtra-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,Crackle (Geo)
 https://crackle-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fuse Sweat (Geo)
@@ -487,4 +491,47 @@ https://fusexl-vizio.amagi.tv/playlist.m3u8
 https://jackhannah-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,So Yummy (Geo)
 https://soyummy-vizio.amagi.tv/playlist.m3u8
-
+#EXTINF:-1,Nashville (GEO)
+https://lgpopup-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,DABL (GEO)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1,Whistle TV (Geo)
+https://whistletv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fubo Sports Network (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofubo/CDN/playlist.m3u8
+#EXTINF:-1,Grvty (Geo)
+https://grvty-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Jack Hannah Show (Geo)
+https://jackhannah-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloody Disgusting (Geo)
+https://bloodyd-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Buzzr (Geo)
+https://buzzr-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vizio Investigation (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-crime-vizious/playlist.m3u8
+#EXTINF:-1,Pop Sugar Fitness (Geo)
+https://groupnine-popsugar-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vizio GamerNation (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-gaming-vizious/playlist.m3u8
+#EXTINF:-1,IGN 1 (Geo)
+https://ign-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Contv Anime (GEO)
+https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1,Contv Anime alt (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-contvanime-vizious/playlist.m3u8
+#EXTINF:-1,Estv (Geo)
+https://estv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Latido Music (Geo)
+https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Sensical 2 Up (Geo)
+https://sensical2up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sensical 5 Up (Geo)
+https://sensical5up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sensical 8 Up (Geo)
+https://sensical8up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,DustX (GEO)
+https://dustx-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Home (Geo)
+https://vizio-home-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Oando (Geo)
+https://vizio-oando-vizio.amagi.tv/playlist.m3u8
