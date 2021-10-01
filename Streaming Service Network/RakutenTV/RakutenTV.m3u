@@ -131,7 +131,7 @@ https://hncfree-rakutenuk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Humanity Documentaries (UK)
 https://alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""https://i.imgur.com/pbA56AG.png group-title="",Humanity Documentaries (Fr)
+#EXTINF:-1 tvg-logo=""https://i.imgur.com/pbA56AG.png" group-title="",Humanity Documentaries (Fr)
 https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Humanity Documentaries (It)
 https://alchimie-humanity-documentaries-it-rakuten.amagi.tv/playlist.m3u8
