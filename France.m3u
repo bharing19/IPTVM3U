@@ -647,7 +647,7 @@ https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_
 
 # https://7television.fr/live-my-7-entertainment-television/
 EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (UPD-EXP) (OFFLINE)
-https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w48292500_b5415438.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1jbmI2MmQyaTZ0NmlrNGkybGpoNDMydWM4dCZ1SUQ9MCZ1TmFtZT1HdWVzdGE1NjI3&id=PsBzPwjcNbXW8qDlBB2P&op_id=19&userId=0&videoId=42487&stime=1607141890&etime=1607228290&token=013ea79bde97b849993ba
+
 
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1
 http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
@@ -688,15 +688,10 @@ http://190.2.138.13/animaux/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte 
-https://www.streamaway.net/scripts/filtv.php/playlist.m3u8?ch=1729
-EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte TNT (360p)
-https://s6.tntendirect.com/arte/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (opt-2)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hls
 #https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (OPT-3)
-http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (OPT-4)
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
 #EXTINF:-1  tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (TT) 
@@ -759,37 +754,29 @@ https://edge8.vedge.infomaniak.com/livecast/bblackcaribbean/chunklist_w214652858
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pudkxwh.png" group-title="Musique",BBlack-classic
 https://edge8.vedge.infomaniak.com/livecast/bblackclassik/chunklist_w620926095.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR
-http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (OPT-3)
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
+
+
 #EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (TT)
 plugin://script.module.7of9-live/play/49/play.pvr
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR
-http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR (TT)
 plugin://script.module.7of9-live/play/51/play.pvr
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR
-http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR (TT)
 plugin://script.module.7of9-live/play/52/play.pvr
-#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="Bein 4 Max FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein sports max 4 FR
-http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="Bein 4 Max FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein sports max 4 FR (TT)
 plugin://script.module.7of9-live/play/451/play.pvr
-#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="Bein 5 Max FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein sports max 5 FR
-http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="Bein 5 Max FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein sports max 5 FR (TT)
 plugin://script.module.7of9-live/play/452/play.pvr
-#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein 6 Max FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein sports max 6 FR
-http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein 6 Max FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein sports max 6 FR (TT)
 plugin://script.module.7of9-live/play/453/play.pvr
-#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="Bein 7 Max FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="Sport",Bein sports max 7 FR
-http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="Bein 7 Max FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="Sport",Bein sports max 7 FR (TT)
 plugin://script.module.7of9-live/play/454/play.pvr
 
@@ -800,8 +787,7 @@ plugin://script.module.7of9-live/play/454/play.pvr
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV
 https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/b0486ae3ca4147b0953f02e67e80ac8d/chunklist_ssaiV.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV TNT (360p)
-https://s6.tntendirect.com/bmftv/live/playlist.m3u8
+
 # update link : https://www.dailymotion.com/BFMTV #
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV (DM) (OPT-3)
 plugin://plugin.video.dailymotion_com/?url=xgz4t1&mode=playLiveVideo
@@ -865,10 +851,8 @@ plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 #EXTINF:-1 tvg-id="BSmartTV.fr" tvg-name="B Smart TV FR" tvg-logo="https://i.imgur.com/VCrkp5V.png" group-title="actualités",bsmart (Pour VLC)
 https://www.dailymotion.com/video/x7tn4fp#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8
-http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8
-EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8 TNT (360p)
-https://s6.tntendirect.com/d8/live/playlist.m3u8
+
+
 # https://www.dailymotion.com/video/x5gv5rr 
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8 (DM)
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
@@ -897,16 +881,14 @@ https://www.dailymotion.com/video/x5gv6be#tab_embed.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ (TT)
 plugin://script.module.7of9-live/play/315/play.pvr
 
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FR" tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="thématique",Canal+ Cinema
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEWbl5WaDByc1xGUgwWYuF2Q
+
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FR" tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="thématique",Canal+ Cinema (TT)
 plugin://script.module.7of9-live/play/325/play.pvr
 
 #EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="Canal+ Family FR" tvg-logo="https://i.imgur.com/BfLKvEs.png" group-title="thématique",Canal+ Family (TT)
 plugin://script.module.7of9-live/play/317/play.pvr
 
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Séries FR" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="thématique",Canal+ Series 
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMXZpJXZTByc1xGUgwWYuF2Q
+
 #EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Séries FR" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="thématique",Canal+ Series (TT)
 plugin://script.module.7of9-live/play/323/play.pvr
 
@@ -921,35 +903,16 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25
-https://www.streamaway.net/fra/ch25/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Cherie25-fr.php
-EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25 TNT (360p)
-https://s6.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25 (OPT-2)
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="thématique",CINE+ CLASSIC
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic FR" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="thématique",Cine+ Classic (TT)
 plugin://script.module.7of9-live/play/335/play.pvr
 
-
-
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion 
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRg42bpR3btVEIzVHbQBSZul2Q
-
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion FR" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="thématique",Cine+ Emotion (TT)
 plugin://script.module.7of9-live/play/333/play.pvr
 
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="thématique",CINE+ FAMIZ
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_alUTBZEIzVHbQBSZul2Q
-
-
-
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="thématique",Cine+ Frisson (TT)
 plugin://script.module.7of9-live/play/320/play.pvr
@@ -981,8 +944,7 @@ plugin://plugin.video.dailymotion_com/?url=x69bhnf&mode=playLiveVideo
 #EXTINF:-1 tvg-id="corsairetv.fr" tvg-name="CorsaireTV FR" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="régionale",CorsaireTV (Pour VLC)
 https://www.dailymotion.com/video/x69bhnf#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS
-http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
+
 # https://www.cnews.fr/le-direct #
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (DM)
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
@@ -997,12 +959,10 @@ EXTINF:-1  tvg-id="CrimeDistrict.fr" tvg-name="Crime District FR" tvg-logo="http
 
 
 
-EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar TNT (360p)
-https://s6.tntendirect.com/d17/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-2)
 http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-3)
-http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-4)
 http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 # update link : # https://www.dailymotion.com/video/x5gv5v0
@@ -1113,9 +1073,7 @@ plugin://plugin.video.dailymotion_com/?url=x17qw0a&mode=playLiveVideo
 https://www.dailymotion.com/video/x17qw0a#tab_embed.m3u8
 
 
-# update link : #
-EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 TNT (720p)
-https://s6.tntendirect.com/france2/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (opt 3)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?protocol=hls
@@ -1134,8 +1092,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?p
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?protocol=hls
 
 
-EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 TNT (720p)
-https://s6.tntendirect.com/france3/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="généraliste",France 3 (OPT-2)
 http://edge9.iptvnetwork.net/live/france3/chunks.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-3)
@@ -1145,8 +1102,7 @@ http://190.2.138.13/france3/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-5)
 http://flusonic-4.platinum-tv.com/france3/index.m3u8?token=test
 
-EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 TNT (720p)
-https://s2.tntendirect.com/france4/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-2)
 http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-3)
@@ -1156,8 +1112,7 @@ http://190.2.138.13/france4/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-5)
 http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test
 
-EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 TNT (720p)
-https://s6.tntendirect.com/france5/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-2)
 http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-3)
@@ -1315,8 +1270,6 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli
 https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli (OPT-2)
-http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli (OPT-3)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli (TT)
@@ -1350,7 +1303,7 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 # https://www.idf1.fr/live #
 EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF1 FR" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="régionale",IDF1 (UPD-EXP-Tk)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1623001338~acl=%2fi%2fdclive_1%40103544*~data=hdntl~hmac=46ad0ffea1a687f996b4a096fb32262495d0d1348efec4e18c1d42371d7d139d
+
 #EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF1 FR" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="régionale",IDF1 (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/idf1/get_live_url/?item_id=idf1
 #EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF1 FR" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="régionale",IDF1 (SLT)
@@ -1363,8 +1316,7 @@ http://live.creacast.com/iltv/high/playlist.m3u8
 http://live.creacast.com/iltv/high/chunklist_w1251223309.m3u8
 #http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+ FR" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="Sport",Infosport+
-http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+ FR" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="Sport",Infosport+ (TT)
 plugin://script.module.7of9-live/play/721/play.pvr
 
@@ -1381,8 +1333,6 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-2)
 http://flusonic-4.platinum-tv.com/LCI/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-3)
-http://stream.tvtap.live:8081/live/lci.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (TT)
 plugin://script.module.7of9-live/play/753/play.pvr
 
@@ -1403,8 +1353,7 @@ plugin://plugin.video.twitch/?channel_id=147337432&amp;mode=play
 
 EXTINF:-1 tvg-id="L’Equipe.fr" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="Sport",L'Equipe 21 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/18.php
-#EXTINF:-1 tvg-id="L’Equipe.fr" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="Sport",L'Equipe 21 TNT (360p)
-https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
+
 # update link : https://www.dailymotion.com/lachainelequipe #
 #EXTINF:-1 tvg-id="L’Equipe.fr" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="Sport",L'Equipe 21 Live 1 (DM)
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
@@ -1558,8 +1507,7 @@ https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCeGvSi1Tb8OV
 
 
 
-EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="Musique",NRJ12 TNT (720p)
-https://s6.tntendirect.com/nrj12/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="Musique",NRJ12 (OPT-2)
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
 
@@ -1698,9 +1646,6 @@ EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FR" tvg-logo="https://i.imgur.com/V
 #EXTINF:-1 tvg-id="Rmc.fr" tvg-name="RMC FR" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="Radio",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
-EXTINF:-1  tvg-id="RMCdecouverte.fr" tvg-name="RMC Découverte FR" tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="thématique",RMC Decouverte TNT (720p)
-https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/cnTi1XC.png" group-title="Sport",RMC Sport 1 (TT)
 plugin://script.module.7of9-live/play/598/play.pvr
@@ -1761,14 +1706,12 @@ https://sofytv-samsungfr.amagi.tv/playlist.m3u8
 
 # http://www.souvenirsfromearth.tv/  http://iframe.dacast.com/b/122917/c/491172
 EXTINF:-1 tvg-logo="https://i.imgur.com/y3bM4Kt.png" group-title="",SouvenirsFrome>Earth (UPD-EXP)
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1622660564~exp=1622660964~acl=/i/dclive_1@122827*~hmac=3d4ae788f31a34c8428de2ac45768289b34d0b27a1d4d63c1cfa8217307e2e8c
 
 
 # update link : #
 #EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France FR" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="Sport",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?url=x797sy0&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France FR" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="Sport",Sport en France 
-https://www.streamaway.net/fra/sportfr/index.m3u8|Referer=https://www.streamaway.net/fr/Sportfr.php
+
 #EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France FR" tvg-logo="https://i.imgur.com/Gg3Bizj.png" group-title="Sport",Sport en France (OPT-2)
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1781,7 +1724,7 @@ plugin://plugin.video.youtube/play/?video_id=b3NRW9-C-G4
 #EXTINF:-1 tvg-id="StudioQualita.fr" tvg-name="StudioQualita" tvg-logo="https://i.imgur.com/ivKSa8W.jpg" group-title="Actualité",StudioQualita (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UC4ZNntU3CyEIH8RGH0n_5bw&live=1
 #EXTINF:-1 tvg-id="StudioQualita.fr" tvg-name="StudioQualita" tvg-logo="https://i.imgur.com/ivKSa8W.jpg" group-title="Actualité",StudioQualita
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw/live
 
 # update link : https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ #
 #EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="Radio",Sud Radio (DM)
@@ -1875,41 +1818,29 @@ plugin://plugin.video.dailymotion_com/?url=x7zik43&mode=playLiveVideo
 #EXTINF:-1 tvg-id="TVVendee.fr" tvg-name="TV Vendée FR" tvg-logo="https://i.imgur.com/1VcXicN.jpg" group-title="Locale",TV Vendée (DM)
 plugin://plugin.video.dailymotion_com/?url=x38yjeb&mode=playLiveVideo
 
-# 
-EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 TNT (720p)
-https://s6.tntendirect.com/tf1/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-2)
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-4)
-http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-5)
 http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
 
-
-EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films TNT (360p)
-https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films (OPT-2)
 http://flusonic-4.platinum-tv.com/HD1/index.m3u8?token=test
 
 
-#https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX TNT (720p)
-https://s6.tntendirect.com/nt1/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX (OPT-2)
 http://flusonic-4.platinum-tv.com/NT1/index.m3u8?token=test
 
-# 
+
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" vg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
-
-EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC  TNT (720p)
-https://s6.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC (OPT-2)
 http://flusonic-4.platinum-tv.com/TMC/index.m3u8?token=test
 
@@ -2087,10 +2018,7 @@ https://www.dailymotion.com/video/x7mxymy#tab_embed.m3u8
 #EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=644597699&amp;mode=play
 
-# update link : #
 
-EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 TNT (720p)
-https://s6.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (OPT-3)
 http://flusonic-4.platinum-tv.com/W9/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (TT)
