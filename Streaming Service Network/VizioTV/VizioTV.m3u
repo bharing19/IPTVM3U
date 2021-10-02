@@ -1,9 +1,9 @@
 #EXTM3U
 
+
+# List Provided By Apsattv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C77xAOa.jpg" group-title="VisioTV",★★★★★★★★★★[COLOR gold]VisioTV[/COLOR]★★★★★★★★★★
 0.0.0.0
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWzEbJZ.png" group-title="VisioTV",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioadventuresportsnetwork/CDN/playlist.m3u8
