@@ -6,8 +6,6 @@
 #EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
-plugin://plugin.video.dailymotion_com/?url=x7vidbbg&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAFKBsu.png" group-title="",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8
@@ -27,9 +25,6 @@ https://edge6.vedge.infomaniak.com/livecast/ik:afri4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="",AFRICA7 (DM)
 plugin://plugin.video.dailymotion_com/?url=x7te5yu&mode=playLiveVideo
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/c9aytZa.png" group-title="",Africa24 (YT)
-plugin://plugin.video.youtube/play/?video_id=L5Ppr0JvPws
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/hdlt8lo.png" group-title="",Africa Gospel TV
 https://edge5.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8
@@ -196,10 +191,6 @@ plugin://plugin.video.dailymotion_com/?url=x6cq41k&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7VTtSC.png" group-title="",Def Tv (DM)
 plugin://plugin.video.dailymotion_com/?url=x7uw6jc&mode=playLiveVideo
-
-# http://dtv.sn/home/dtvlive #
-#EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
-https://live1.acangroup.org:1929/acanabr/dtv.stream_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIwIDEyOjQyOjExIEFNJmhhc2hfdmFsdWU9YldJMWtFUG5peU5rQTgxNTJtamh6Zz09JnZhbGlkbWludXRlcz0xMA==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozQGpL2.png" group-title="",Ecclesia TV
 https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
@@ -537,12 +528,6 @@ plugin://plugin.video.dailymotion_com/?url=x7t0ln7&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55cpBp6.png" group-title="",Sun Plus Tv
 https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNwrubO.jpg" group-title="",TFM
-https://lynktelecom2-i.akamaihd.net/hls/live/738603/tfm/tfm/tfm_396p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNwrubO.jpg" group-title="",TFM (DM)
-plugin://plugin.video.dailymotion_com/?url=x7wcr45&mode=playLiveVideo
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?url=x7um00d&mode=playLiveVideo
 
@@ -551,12 +536,6 @@ https://tvlakay.haitilive.net/player/tchhaiti/website/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://radiotelepacific.com/images/logopacific.jpg" group-title="",Tele Pacific
 http://51.81.80.243:2000/live/acw_01/index.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
-https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti (DM)
-plugin://plugin.video.dailymotion_com/?url=x7mcmuu&mode=playLiveVideo
 
 # https://hbiptv.com/telemix/   https://www.telemix.tv/tv-2/ #
 #EXTINF:-1 tvg-logo="https://www.telemix.tv/newstuff/wp-content/uploads/2019/10/logo-mix-2.png" group-title="",telemix.tv
@@ -576,9 +555,6 @@ plugin://plugin.video.youtube/play/?video_id=SMrs1jiXlBU
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="",Tele Eclair | Chaine 4
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="",Tele Haiti
-http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBVbBgy.png" group-title="",Tele Kreol
 http://41.213.129.46:8080/2.ts
@@ -646,8 +622,6 @@ http://connectiktv.ddns.net:5000/vstv/vstv/chunklist_w1854648008.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HKsOeuP.png" group-title="",Vybez Radio (DM)
 plugin://plugin.video.dailymotion_com/?url=x7eob6j&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/4eY0Gjt.png" group-title="",WalfTV Live (DM)
-plugin://plugin.video.dailymotion_com/?url=x5s5vw3&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9gJ1fkC.png" group-title="",WINTER CHANNEL
 http://connectiktv.ddns.me:5000/winterchannel/winterchannel/chunklist_w226229972.m3u8
