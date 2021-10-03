@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sluhay.by/assets/logo_main_big.png" group-title="Music",Sluhay.by 
+#EXTINF:-1 tvg-logo="https://sluhay.by/assets/logo_main_big.png" group-title="Music",★★★★★★★★★★Sluhay.by★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-id="Sluhayby.by" tvg-country="BY" tvg-language="Russia" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="Music",Sluhay.by (720p)
 https://sluhay.by/live/Ch045pub/index.m3u8
