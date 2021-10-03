@@ -5,7 +5,7 @@
 plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
 
-#EXTINF:-1 ,Update Franco 21/06/28
+#EXTINF:-1 ,Update Franco 21/10/03
 0.0.0.0
 
 #EXTINF:-1 tvg-id="AB3.be" tvg-name="AB 3 BE" tvg-logo="https://i.imgur.com/uUsU7ho.jpg" group-title="généraliste",AB3 (720p)
@@ -22,6 +22,10 @@ https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=800000.
 # https://www.rtlplay.be/bel/direct
 #EXTINF:-1 tvg-id="Rtl.be" tvg-name="Bel RTL BE" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="Radio",Bel RTL (720p)
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+
+# https://www.bouke.media/
+#EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke BE" tvg-country="BE" tvg-language="FR" tvg-logo="https://i.imgur.com/sDslD0a.png" group-title="",Bouke
+https://tvl-live.fl.freecaster.net/live/bouke/bouke.m3u8|Referer=https://bouke.fcst.tv/player/embed/3674291?autoplay=true&muted=true
 
 # https://bx1.be/lives/direct-tv/
 #EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1 BE" tvg-logo="https://i.imgur.com/wPm5ATg.png" group-title="généraliste",BX1 (720p)
@@ -157,8 +161,6 @@ http://www.callofliberty.fr/stream/latrois/04.m3u8
 plugin://script.module.7of9-live/play/695/play.pvr
 
 # https://www.rtlplay.be/tvi/direct
-EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL-TVi BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="généraliste",RTL-TVi
-
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL-TVi BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="généraliste",RTL-TVi (720p)
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL-TVi BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-group-title="généraliste",RTL-TVi (302p) (TT)
@@ -262,11 +264,11 @@ https://5592f056abba8.streamlock.net/citytv_2/citytv_2/playlist.m3u8?ref=Ajoinsi
 http://stream1.intronic.nl/ajoinmusic
 
 # https://atv.be/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
 https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
 https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
 
 # https://www.bruzz.be/live/popup/#watch
@@ -335,6 +337,9 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-id="Focus-WTV.be" tvg-name="Focus WTV BE" tvg-logo="https://i.imgur.com/BPpq1Uz.png" group-title="régionale",Focus WTV (360p)
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b850000.m3u8
 
+#EXTINF:-1 tvg-id="HetJournaal.be" tvg-name="Het Journaal BE" tvg-country="BE" tvg-language="Dutch;Flemish" tvg-logo="https://i.imgur.com/m2aoGEh.png" group-title="",Het Journaal
+https://live-vrt.akamaized.net/groupa/live/5c84cb7c-c801-487d-bccc-b8d84d5538c1/live.isml/.m3u8
+
 # https://www.hln.be/
 #EXTINF:-1 tvg-id="HLN.be" tvg-name="HLN BE" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="actualités",HLN LIVE (Adaptative)
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
@@ -356,8 +361,6 @@ https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd_hd.m3u8
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd_high.m3u8
 #EXTINF:-1 tvg-id="Joe.be" tvg-name="JOE BE" tvg-logo="https://i.imgur.com/k1Mka04.jpg" group-title="Radio",JOE  (360p)
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd_low.m3u8
-
-
 
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZZB4gEP.png" group-title="",KADET TV
@@ -456,9 +459,6 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/kZOrSyv.png" group-title="",VIJF TV
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" group-title="",VITAYA TV
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeubhF2.jpg" group-title="",VRT Het Journaal
-https://live-vrt.akamaized.net/groupa/live/5c84cb7c-c801-487d-bccc-b8d84d5538c1/live.isml/.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/djGJlC5.png" group-title="",VTM KAZOOM
 
