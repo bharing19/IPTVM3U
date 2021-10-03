@@ -4,11 +4,19 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dgh4kiX.png" group-title="",★★★★★★★★★★Haiti★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-id="HaitiNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/nahIBW1.jpg" group-title="",Haiti News (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=4IgLSNOaPpQ
+#EXTINF:-1 tvg-id="HaitiNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/nahIBW1.jpg" group-title="",Haiti News (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1d5GJClfJ1_IlJuwV_CtjQ&live=1
 #EXTINF:-1 tvg-id="HaitiNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/nahIBW1.jpg" group-title="",Haiti News (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1d5GJClfJ1_IlJuwV_CtjQ/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC1d5GJClfJ1_IlJuwV_CtjQ/live
 
+#EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="",Haiti Viral News (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=UECspUMGdF4
+#EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="",Haiti Viral News (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcEY2-g-EEefxyYa1gtrk4g&live=1
 #EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="",Haiti Viral News (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcEY2-g-EEefxyYa1gtrk4g/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCcEY2-g-EEefxyYa1gtrk4g/live
 
 #EXTINF:-1 tvg-id="KajouTV.ht" tvg-country="US;HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/5txJUZx.jpg" group-title="",Kajou TV (720p)
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
@@ -19,23 +27,41 @@ https://watch.haitilive.net/stream/netalkole/public/tv/index.m3u8
 #EXTINF:-1 tvg-id="RadioTélé4VEH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/1wuEyIF.jpg" group-title="Religious",Radio Télé 4VEH (720p)
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioTélé4VEH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/1wuEyIF.jpg" group-title="Religious",Radio Télé 4VEH (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=mp-Oylt8wMU
+#EXTINF:-1 tvg-id="RadioTélé4VEH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/1wuEyIF.jpg" group-title="Religious",Radio Télé 4VEH (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClL_aynC_SESNLQEJHqO9MQ&live=1
 #EXTINF:-1 tvg-id="RadioTélé4VEH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/1wuEyIF.jpg" group-title="Religious",Radio Télé 4VEH (720p)
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UClL_aynC_SESNLQEJHqO9MQ/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UClL_aynC_SESNLQEJHqO9MQ/live
 
 #EXTINF:-1 tvg-id="RadioTeleAmen.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/dJvJGDg.jpg" group-title="Religious",Radio Tele Amen FM (360p)
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioTéléAltagrace.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/TbB0KjM.jpg" group-title="",Radio Télé Altagrace (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=lBf1VO02yco
+#EXTINF:-1 tvg-id="RadioTéléAltagrace.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/TbB0KjM.jpg" group-title="",Radio Télé Altagrace (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMRUAEjvPv7HZCUinmjywSA&live=1
 #EXTINF:-1 tvg-id="RadioTéléAltagrace.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/TbB0KjM.jpg" group-title="",Radio Télé Altagrace (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMRUAEjvPv7HZCUinmjywSA/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCMRUAEjvPv7HZCUinmjywSA/live
 
-#EXTINF:-1 tvg-id="RadioTéléEclair.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/8ocCyo7.png" group-title="",Radio Télé Eclair (1080p)
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOvGbDh5biuOqjx6G3CdrQg/live
+#EXTINF:-1 tvg-id="RadioTéléEclair.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/8ocCyo7.png" group-title="",Radio Télé Eclair (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=sFejNUWazqw
+#EXTINF:-1 tvg-id="RadioTéléEclair.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/8ocCyo7.png" group-title="",Radio Télé Eclair (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOvGbDh5biuOqjx6G3CdrQg&live=1
+#EXTINF:-1 tvg-id="RadioTéléEclair.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/8ocCyo7.png" group-title="",Radio Télé Eclair (1080p) [Not 24/7]
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCOvGbDh5biuOqjx6G3CdrQg/live
 
+#EXTINF:-1 tvg-id="" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/QaWwNvo.jpg" group-title="Religious",Radio Télé Pitit Manman Mari (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=GTPsNv4xDiI
+#EXTINF:-1 tvg-id="" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/QaWwNvo.jpg" group-title="Religious",Radio Télé Pitit Manman Mari (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeNHM8XDkZmd2rhV3ZG7Vg&live=1
 #EXTINF:-1 tvg-id="" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/QaWwNvo.jpg" group-title="Religious",Radio Télé Pitit Manman Mari (720p)
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCLeNHM8XDkZmd2rhV3ZG7Vg/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCLeNHM8XDkZmd2rhV3ZG7Vg/live
 
+#EXTINF:-1 tvg-id="RTVC.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/Jp38Rzf.png" group-title="",Radio Télévision Caraïbes (RTVC)  (DM)
+plugin://plugin.video.dailymotion_com/?url=&x81lgjhamp;mode=playLiveVideo
 #EXTINF:-1 tvg-id="RTVC.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/Jp38Rzf.png" group-title="",Radio Télévision Caraïbes (RTVC) (720p)
-https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpkCAlv5YxyPWEpr2He2oJRA)/dm/3/x81lgjh/d/live-2.m3u8
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x81lgjh
 
 #EXTINF:-1 tvg-id="RadioTélévisionHirondelle.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/2gVnoSX.jpg" group-title="",Radio Télévision Hirondelle (480p)
 https://watch.haitilive.net/gethb/rtvh16/index.m3u8
@@ -43,11 +69,24 @@ https://watch.haitilive.net/gethb/rtvh16/index.m3u8
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="",Radio Tele Planet Compas (720p)
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioTeleShalom.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/MSgSKym.png" group-title="",Radio Tele Shalom (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=YVotatz1CM4
+#EXTINF:-1 tvg-id="RadioTeleShalom.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/MSgSKym.png" group-title="",Radio Tele Shalom (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBJ9zxns1hxblYZw4urBd_w&live=1
 #EXTINF:-1 tvg-id="RadioTeleShalom.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/MSgSKym.png" group-title="",Radio Tele Shalom (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCBJ9zxns1hxblYZw4urBd_w/live
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCBJ9zxns1hxblYZw4urBd_w/live
 
-#EXTINF:-1 tvg-id="RadioTeleZenith" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/lf8duJH.jpg" group-title="",Radio Tele Zenith (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrAXDfBLFiTL8kd9TZC4ejQ/live
+#EXTINF:-1 tvg-id="RadioTeleZenith.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/lf8duJH.jpg" group-title="",Radio Tele Zenith (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=r53ampTD2-8
+#EXTINF:-1 tvg-id="RadioTeleZenith.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/lf8duJH.jpg" group-title="",Radio Tele Zenith (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrAXDfBLFiTL8kd9TZC4ejQ&live=1
+#EXTINF:-1 tvg-id="RadioTeleZenith.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/lf8duJH.jpg" group-title="",Radio Tele Zenith (720p) [Not 24/7]
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCrAXDfBLFiTL8kd9TZC4ejQ/live
+
+#EXTINF:-1 tvg-id="Telé6Univers.ht" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti (DM)
+plugin://plugin.video.dailymotion_com/?url=x7mcmuu&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Telé6Univers.ht" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x7mcmuu
 
 #EXTINF:-1 tvg-id="TCH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/6LZVA4x.png" group-title="",Télé Conscience Haïtienne (TCH) (480p)
 https://tvlakay.haitilive.net/website/tchhaiti/player/mono.m3u8
