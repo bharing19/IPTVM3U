@@ -635,6 +635,9 @@ http://190.2.138.13/action/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-2)
 http://flusonic-4.platinum-tv.com/action/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="AirConnectTV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/wjrd7ml.png" group-title="",Air Connect TV
+https://tvmcp.pro-fhi.net:1936/actv/actv/playlist.m3u8
+
 # https://www.alsace20.tv/Live.html 
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/RucdQdp.jpg" group-title="régionale",Alsace 20
 http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
@@ -949,6 +952,9 @@ https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZTL0a00.png" group-title="",ES1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LaqNxAc.png" group-title="",ESA WEB TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://livestream.com/accounts/362/events/6350312
 
 
 EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="actualités",euronews 
