@@ -22,6 +22,8 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/OJbRkQ6.jpg" group-title="",NETALKOLE TV (180p)
 https://watch.haitilive.net/stream/netalkole/public/tv/index.m3u8
+#EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/OJbRkQ6.jpg" group-title="",NETALKOLE TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x72rpek&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="RadioTélé4VEH.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/1wuEyIF.jpg" group-title="Religious",Radio Télé 4VEH (720p)
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
@@ -68,6 +70,9 @@ https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x81lgjh
 
 #EXTINF:-1 tvg-id="RadioTélévisionHirondelle.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/2gVnoSX.jpg" group-title="",Radio Télévision Hirondelle (480p)
 https://watch.haitilive.net/gethb/rtvh16/index.m3u8
+#EXTINF:-1 tvg-id="RadioTélévisionHirondelle.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/2gVnoSX.jpg" group-title="",Radio Télévision Hirondelle (480p) (OPT-2)
+https://play.acwstream.com:2002/live/acw_01/index.m3u8
+
 # http://www.rth2000.com/
 #EXTINF:-1 tvg-id="RTH-TV.us" tvg-country="US;HT" tvg-language="English" tvg-logo="https://i.imgur.com/xxQjIxO.png" group-title="",Radio Tele Horizon 2000 RTH2000TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:202174-1345576/playlist.m3u8
@@ -104,6 +109,9 @@ http://66.175.238.147:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleLouange.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="",Tele Louange (720p)
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ITbqWGC.png" group-title="Haiti",TVA Chaine 30 (OFFLINE)
+#https://watch.haitilive.net/tva/30/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPanou.ht" tvg-country="US;HT" tvg-language="English" tvg-logo="https://i.imgur.com/p5GjWnu.jpg" group-title="",TV Panou (720p)
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
