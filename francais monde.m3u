@@ -28,9 +28,6 @@ plugin://plugin.video.dailymotion_com/?url=x7te5yu&mode=playLiveVideo
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/hdlt8lo.png" group-title="",Africa Gospel TV
 https://edge5.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/hdlt8lo.png" group-title="",Africa Gospel TV (OPT-2)
-https://edge5.vedge.infomaniak.com/livecast/ik:africagospeltv/chunklist_w1671837780.m3u8
-
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/55zy3Cj.png" group-title="",Afrique Media (DM)
 plugin://plugin.video.dailymotion_com/?url=x5dk3kj&mode=playLiveVideo
 
@@ -89,9 +86,6 @@ plugin://plugin.video.dailymotion_com/?url=x7teocz&mode=playLiveVideo
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfPMLEH.png" group-title="",Bel Tv
-https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="FR" tvg-logo="http://www.benie.tv/images/LOGO-NOUVO-BENIE-TV-PROPRE2.png" tvg-name=""  group-title="Fr", benie.tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv.m3u8
 
@@ -118,9 +112,6 @@ http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/wKV2nkg.png" group-title="",Canal de vie télévision
 https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/manifest.m3u8
-
-#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/wKV2nkg.png" group-title="",Canal de vie télévision (OPT-2)
-https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/chunklist_w1709455163.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp97yld.png" group-title="",CANAL HAUSA
 http://41.223.30.250:5000/canalhausa/canalhausa/chunklist_w1964872369.m3u8
@@ -227,12 +218,6 @@ plugin://plugin.video.dailymotion_com/?url=x655zsl&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/SDI9cSj.png" group-title="",Guyane la 1ere (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Zhq9mfm3Asc
 
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/RDokpwD.png" group-title="",Impac TV
-https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fPJqdGy.png" tvg-country="HT" tvg-url="" group-title="",Impact TV (OPT-2)
-https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
-
 # https://www.youtube.com/channel/UCgzADnln0QPAwUUQB0-wDQw #
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=mLxihok6kz0
@@ -245,9 +230,6 @@ plugin://plugin.video.dailymotion_com/?url=x6lvncs&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/r0VPXd1.png" group-title="",Kalac TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/r0VPXd1.png" group-title="",Kalac TV (OPT-2)
-https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w2000759628.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0EYcdLH.png" group-title="",Kameme Tv (DM)
 plugin://plugin.video.dailymotion_com/?url=x6ol8sj&mode=playLiveVideo
@@ -323,18 +305,6 @@ plugin://plugin.video.dailymotion_com/?url=x740psx&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yZm9KoK.png" group-title="",MyTV CHANNEL (OPT-2)
-http://connectiktv.ddns.me:5000/mytvchannel/@mytvchannel/chunklist_w1436812819.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z79qZ9P.png" group-title="",NCI (OPT-2)
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
@@ -420,8 +390,6 @@ https://edge6.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="",rtb.bf (opt-2)
 https://edge6.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w116382828.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKUvRMS.png" group-title="",RSTV5 (DM)
 plugin://plugin.video.dailymotion_com/?url=x3m96sp&mode=playLiveVideo
 
@@ -455,14 +423,6 @@ https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?url=x7um00d&mode=playLiveVideo
-
-# https://hbiptv.com/telemix/   https://www.telemix.tv/tv-2/ #
-#EXTINF:-1 tvg-logo="https://www.telemix.tv/newstuff/wp-content/uploads/2019/10/logo-mix-2.png" group-title="",telemix.tv
-https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
-
-# https://hbiptv.com/tele-caramel/ https://caramelhaiti.net/live-tv/ #
-#EXTINF:-1 tvg-logo="https://radiotelecaramel.com/wp-content/uploads/2020/08/logor.png" group-title="",tele-caramel
-https://watch.haitilive.net/gethb/caramel/tracks-v1a1/mono.m3u8?token=da0799eb671d40beed880c7f5b1b5025f0f391e0-4c73b937b14d9f054b37907bd6304de9-1600054651-1600043851
 
 #EXTINF:-1 tvg-logo="https://tvfamille.org/favicon-192.png" group-title="",TV Famille
 http://streamer1.streamhost.org:1935/salive/GMItvfh/playlist.m3u8
