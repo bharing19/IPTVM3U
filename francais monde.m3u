@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="" group-title="",En Refonte Selon Le Pays
 0.0.0.0
 
+# http://www.kreol.tv/ https://www.youtube.com/user/TeleKreolOfficiel https://www.dailymotion.com/telekreol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBVbBgy.png" group-title="",RE  Tele Kreol (OFFLINE)
+http://41.213.129.46:8080/2.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAFKBsu.png" group-title="",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8
