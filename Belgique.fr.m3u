@@ -16,12 +16,20 @@ https://tvl-live.fl.freecaster.net/live/actv/actv.m3u8|Referer=https://actv.fcst
 #EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" group-title="généraliste",Antenne Centre (720p)
 https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8|Referer=https://actv.fcst.tv/player/embed/3083132?autoplay=true&muted=true
 
+# http://www.belafrikamedia.tv/index.php
+#EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV) (DM)
+plugin://plugin.video.dailymotion_com/?url=x8121fj&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV)
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x8121fj
+#EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV) (For VLC)
+https://www.dailymotion.com/video/x8121fj#tab_embed.m3u8
+
 # https://www.rtlplay.be/bel/direct
 #EXTINF:-1 tvg-id="Rtl.be" tvg-name="Bel RTL BE" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="Radio",Bel RTL (720p)
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 
 # https://www.bouke.media/
-#EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke BE" tvg-country="BE" tvg-language="FR" tvg-logo="https://i.imgur.com/sDslD0a.png" group-title="",Bouke
+#EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke BE" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/sDslD0a.png" group-title="",Bouke
 https://tvl-live.fl.freecaster.net/live/bouke/bouke.m3u8|Referer=https://bouke.fcst.tv/player/embed/3674291?autoplay=true&muted=true
 
 # https://bx1.be/lives/direct-tv/
@@ -196,10 +204,7 @@ http://stream1.intronic.nl/ajoinmusic
 # https://atv.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
-https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV (OFFLINE)
-https://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
+
 
 # https://www.bruzz.be/live/popup/#watch
 #EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (Adaptative)
@@ -208,17 +213,12 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (720p)
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (480p)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (360p)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b850000.m3u8
-#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (240p)
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8
 
 # https://www.bvn.tv/bvnlive/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="généraliste",BVN (480p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=43
-#https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="généraliste",BVN (480p) (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
 
 # https://www.vrt.be/vrtnu/kanalen/canvas/
 #EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",Canvas (540p)
