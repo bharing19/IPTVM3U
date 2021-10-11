@@ -11,6 +11,10 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/adBOVAF.jpg" group-title="",Congrès et Expositions de Bordeaux - Avecsanté (DM) (Non 24/7)
 plugin://plugin.video.dailymotion_com/?url=x84aisv&amp;mode=playLiveVideo
 
+# https://www.dailymotion.com/video/x2e3flj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0OP9bC.png" group-title="",Ouatch TV (DM) (non 24/7)
+plugin://plugin.video.dailymotion_com/?url=x2e3flj&amp;mode=playLiveVideo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sg17qJU.jpg" group-title="", Meurthe-et-Moselle (DM) (Non 24/7)
 plugin://plugin.video.dailymotion_com/?url=x84aikq&amp;mode=playLiveVideo
 
