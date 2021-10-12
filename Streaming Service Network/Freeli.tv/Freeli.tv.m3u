@@ -45,3 +45,8 @@ https://cdnvod.panda-os.com/livehls/5e93c3216986fb55964665d2/master.m3u8
 https://cdnvod.panda-os.com/livehls/5e945d266986fb1f2c30e082/master.m3u8
 #EXTINF:-1 tvg-id="0_uz4j1z8j" tvg-logo="https://static.panda-os.com/p/3572/sp/357200/thumbnail/entry_id/0_uz4j1z8j/version/100012/width/80/height/45/type/3/bgcolor/000000/a.jpg" group-title="",288 | 88Rising
 https://cdnvod.panda-os.com/livehls/5ed9a29c6986fb6bea212262/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wp71pit.jpg" group-title="",HollyWood TV
+https://cdnvod.panda-os.com/livehls/5f23e1986986fb7a5c43ed42/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAF5Dcs.jpg" group-title="",PlugeedTV
+https://cdnvod.panda-os.com/livehls/5f94a9b96986fb2fd93c2d72/master.m3u8
