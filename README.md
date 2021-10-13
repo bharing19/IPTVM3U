@@ -17,6 +17,7 @@ plugin://plugin.video.youtube/play/?video_id=IDHERE
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
 
+If Multiple Live From The same Channel Change &live=2 ...and so on  need to be tested to fit the Channel Naming
 
 ################
 
@@ -41,7 +42,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=URLHERE
 
 Usefull For many  Site That Use .php ending  EX: .php?id=IDHERE
 
-- DASH .mpd Stream  No DMR
+- DASH .mpd Stream  No DMR + No Referrer
 - IF DMR  use https://github.com/Sphinxroot/IPTVM3U/tree/master/StreamFiles%20In%20Kodi
 
 https://streamlink.github.io/plugin_matrix.html
@@ -89,6 +90,15 @@ https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 
 ################
+
+HLS Stream URl can be tricked by using
+
+|User-Agent=
+
+|Referer=
+
+|X-Forwarded-For=
+
 
 
 
