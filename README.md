@@ -32,26 +32,46 @@ plugin://plugin.video.twitch/?channel_id=IDHERE&amp;mode=play
 
 ################
 
+** Token Retreivers **
 
 # Streamlink Tester
+
 #EXTINF:-1 tvg-logo="" group-title="",  (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=
+plugin://plugin.video.streamlink-tester/?action=play&url=URLHERE
 
+Usefull For many  Site That Use .php ending  EX: .php?id=IDHERE
 
-################
+- DASH .mpd Stream  No DMR
+- IF DMR  use https://github.com/Sphinxroot/IPTVM3U/tree/master/StreamFiles%20In%20Kodi
 
+https://streamlink.github.io/plugin_matrix.html
 
 # Send To Kodi
+
 #EXTINF:-1 tvg-logo="" group-title="", (STK)
-plugin://plugin.video.sendtokodi/?
+plugin://plugin.video.sendtokodi/?URLHERE
+
+# Tested  WebSite :
+
+https://www.youtube.com/channel/IDHERE/live
+
+https://www.youtube.com/watch?v=IDHERE
+
+https://www.dailymotion.com/video/IDHERE
+
+https://www.twitch.tv/CHANNELNAMEHERE
+
+https://www.veoh.com/watch/IDHERE
+
+https://vimeo.com/IDHERE
+
+https://ok.ru/live/IDHERE|User-Agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+
+https://dlive.tv/CHANNELNAMEHERE
 
 
 ################
 
-
-# Dailymotion : VLC Only
-#EXTINF:-1 tvg-logo="" group-title="", (For VLC)
-https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 # Dailymotion : LIVE Only
 #EXTINF:-1 tvg-logo="" group-title="", (DM)
@@ -60,6 +80,12 @@ plugin://plugin.video.dailymotion_com/?url=IDHERE&amp;mode=playLiveVideo
 # Dailymotion : VOD Only
 #EXTINF:-1 tvg-logo="" group-title="", (DM_VOD)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=IDHERE
+
+################
+
+# Dailymotion : VLC Only
+#EXTINF:-1 tvg-logo="" group-title="", (For VLC)
+https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 
 ################
