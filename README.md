@@ -47,6 +47,12 @@ Usefull For many  Site That Use .php ending  EX: .php?id=IDHERE
 
 https://streamlink.github.io/plugin_matrix.html
 
+# Tested  WebSite :
+
+https://piczel.tv/watch/CHANNELNAMEHERE
+
+https://goodgame.ru/channel/CHANNELNAMEHERE
+
 # Send To Kodi
 
 #EXTINF:-1 tvg-logo="" group-title="", (STK)
@@ -72,6 +78,7 @@ https://dlive.tv/CHANNELNAMEHERE
 
 https://livestream.com/accounts/IDHERE/events/IDHERE
 
+https://picarto.tv/CHANNELNAMEHERE
 
 ################
 
