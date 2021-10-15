@@ -70,6 +70,8 @@ https://ok.ru/live/IDHERE|User-Agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit
 
 https://dlive.tv/CHANNELNAMEHERE
 
+https://livestream.com/accounts/IDHERE/events/IDHERE
+
 
 ################
 
