@@ -39,6 +39,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lthj6WJ.jpg" group-title="Giniko USA",Alright TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=744
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/114.png" group-title="Giniko USA",Angel TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=114
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O60LGgH.jpg" group-title="Giniko USA",Animal Here (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1014
 
@@ -545,6 +548,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/l
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZG8lb03.jpg" group-title="Giniko USA",Smile Of A Child (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=289
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1157.jpg" group-title="Giniko USA",SMTV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1157
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1317.jpg" group-title="Giniko USA",Sovetskoe TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1317
