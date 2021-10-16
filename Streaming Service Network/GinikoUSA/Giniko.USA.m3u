@@ -283,7 +283,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/l
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1039
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/313.jpg" group-title="Giniko USA",iFILM English
-https://live1.presstv.com/live/ifilmen_360p/index.m3u8
+https://live1.presstv.ir/live/ifilmen.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iholyfield-tv.png" group-title="Giniko USA",iHolyfield TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=704
@@ -371,11 +371,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/w
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1235.jpg" group-title="Giniko USA",MBC Persia (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1235
-
-# https://menandmotors.com/
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/men-motors.png" group-title="Giniko USA",Men & Motors
-https://cloudietv.broadcastcdn.net/CLOUDIETV-MENANDMOTORSUK/video.m3u8
-https://cloudietv.broadcastcdn.net/CLOUDIETV-MENANDMOTORSUK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gq7VwvM.png" group-title="Giniko USA",Miami TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=95
