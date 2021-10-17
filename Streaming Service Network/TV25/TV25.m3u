@@ -32,7 +32,8 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJXfOZM.png" group-title="TV25" ,TV25.10 Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
-#https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJXfOZM.png" group-title="TV25" ,TV25.10 Shop LC (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diT3Q4q.png" group-title="TV25" ,TV25.11 This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
