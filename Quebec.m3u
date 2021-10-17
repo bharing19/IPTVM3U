@@ -45,7 +45,9 @@ plugin://plugin.video.youtube/play/?video_id=JpsPKqZB9SA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (1080p)
-https://iptv.dc-team.com/query?url=https://www.youtube.com/user/bellahdjel/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/user/bellahdjel/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/bellahdjel/live
 
 # https://savoir.tv/endirect
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="éducatif",Canal Savoir (360p)
@@ -62,7 +64,9 @@ plugin://plugin.video.youtube/play/?video_id=ZNC8GxZzGkM
 EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="communautaire",CILE Havre-Saint-Pierre  (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UC0njl-y39pJOwd3iufK7RJQ&live=1
 EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="communautaire",CILE Havre-Saint-Pierre
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
+EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="communautaire",CILE Havre-Saint-Pierre (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
 
 # https://www.cpac.ca/fr/direct/
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="affaires publiques",Cpac (1080p) (Kodi Changez Param Audio)
@@ -109,7 +113,9 @@ plugin://plugin.video.youtube/play/?video_id=x07wPux92gs
 EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (c_id) (OFFLINE)
 plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
 EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (OFFLINE)
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
 
 #EXTINF:-1 tvg-id="GlobalMontrealCKMI.ca" tvg-name="Global Montreal CA" tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="News",Global News Montreal (720p)
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -194,7 +200,9 @@ plugin://plugin.video.youtube/play/?video_id=-mMUzg-f5a4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (676p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCNNsE_Xj2ndAAnQETObPrVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (1080p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
@@ -211,7 +219,9 @@ http://94.130.180.175:8081/live/greektv/chunks.m3u8
 
 # https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg
 #EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (lorsque diffusion) 
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
+#EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="affaires publiques",MTLVille (720p) (lorsque diffusion) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
 
 # https://www.noovo.ca/en-direct
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="généraliste",Noovo (720p) (SLT)
@@ -293,7 +303,9 @@ plugin://plugin.video.youtube/play/?video_id=UyNbOfIg6-A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (720p) (YT)  (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (1080p)
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (v_id)
@@ -301,16 +313,30 @@ plugin://plugin.video.youtube/play/?video_id=wqfquo2cvxg
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (1080p)
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="communautaire",TV Témis (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
 
 #EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="Yoopa CA" tvg-logo="https://i.imgur.com/mZmU170.png" group-title="Anime",Yoopa (TT1)
 plugin://plugin.video.tvone1112/play/2109/play.pvr
-
 
 #####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
+
+# https://www.twitch.tv/fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="",FM93 (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="",FM93 (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/fm93quebec
+
+# https://www.twitch.tv/dupontlematin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="",FM93 Dupont Le Matin (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="",FM93 Dupont Le Matin (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/dupontlematin
+
 
 # https://www.twitch.tv/tvctklive/ https://www.tvctk.com/en_direct.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH)  (non 24/7)
