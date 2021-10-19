@@ -33,6 +33,10 @@ plugin://plugin.video.twitch/?mode=play&channel_name=
 #EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_id)
 plugin://plugin.video.twitch/?channel_id=IDHERE&amp;mode=play
 
+Twitch Channel ID can be found from the site , in The m3u8 link , detected by a hsl or m3u8 stream detector , as per exemple  . Download helper plugin in firefox
+you will find link that begin by https://usher.ttvnw.net/api/channel/hls/?????.m3u8? + A long Token .. in the token search : channel_id String
+
+exemple: https://www.twitch.tv/asot = channel_id%22%3A265735182%2C%22  , the id  will be 265735182
 
 ################
 
@@ -63,7 +67,7 @@ plugin://plugin.video.sendtokodi/?URLHERE
 
 # Tested  WebSite :
 
-https://www.youtube.com/channel/IDHERE/live
+https://www.youtube.com/channel/IDHERE/live ->  No youtube API required to make it work
 
 https://www.youtube.com/watch?v=IDHERE
 
