@@ -19,6 +19,9 @@ plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
 
 If Multiple Live From The same Channel Change &live=2 ...and so on  need to be tested to fit the Channel Naming
 
+
+https://blog.hubspot.com/website/how-to-get-youtube-api-key
+
 ################
 
 
@@ -79,6 +82,7 @@ https://dlive.tv/CHANNELNAMEHERE
 https://livestream.com/accounts/IDHERE/events/IDHERE
 
 https://picarto.tv/CHANNELNAMEHERE
+
 
 ################
 
