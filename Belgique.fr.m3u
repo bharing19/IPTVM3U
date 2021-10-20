@@ -21,6 +21,8 @@ https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000
 plugin://plugin.video.dailymotion_com/?url=x8121fj&amp;mode=playLiveVideo
 #EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV)
 http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x8121fj
+#EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV) (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x8121fj
 #EXTINF:-1 tvg-id="BEL'AFRIKATV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/4km6l2c.png" group-title="",BEL’AFRIKA TV (BAM TV) (For VLC)
 https://www.dailymotion.com/video/x8121fj#tab_embed.m3u8
 
@@ -298,6 +300,12 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_KlNwS1QQ9Q
 plugin://plugin.video.youtube/play/?video_id=VttEhLK3I3I
 #EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC_KlNwS1QQ9QMPRg9dGNHNw&live=1
+
+# https://mix-myday.be/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV
+https://live-aws-eu-central-1.mobcrush.com/hls/7/617012575366181825c2c8d2.m3u8|Referer=https://www.mobcrush.com/mixmydaytv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV (OPT-2)
+https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="Music", MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
