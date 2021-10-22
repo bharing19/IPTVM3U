@@ -33,26 +33,7 @@ https://cdn.stream.bitwave.tv/hls/CodComedyTJ247/index.m3u8|Referer=https://bitw
 ########
 
 
-# https://www.youtube.com/channel/UCxhF3EUzP28b_rVhdXFKWzw
-#EXTINF:-1 tvg-logo="" group-title="",TOP100 WORLD POPULATION LIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=BnyBWOR5peI
 
-#EXTINF:-1 tvg-logo="" group-title="",Coronavirus Pandemic - Real Time Counter (YT)
-plugin://plugin.video.youtube/play/?video_id=NMre6IAAAiU
-
-#EXTINF:-1 tvg-logo="" group-title="",World GDP Live (YT)
-plugin://plugin.video.youtube/play/?video_id=O-VvBpHlJbY
-
-#EXTINF:-1 tvg-logo="" group-title="",World Debt Live (YT)
-plugin://plugin.video.youtube/play/?video_id=q_cFlRI6020
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live
-https://tx.flv.nimo.tv/live/su2449511729040r40cfc3650e424dbfdd6264bad6a79200.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (TWITCH)
-plugin://plugin.video.twitch/?channel_id=192354183&amp;mode=play
-# https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (YT)
-plugin://plugin.video.youtube/play/?video_id=7jH535uXB74
 
 # https://www.theta.tv/blockdown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuh6NJS.png" group-title="",Blockdown
@@ -74,38 +55,9 @@ https://tx.flv.nimo.tv/live/su1939514102053rdf2a0aa1994b3fcf3f78efee9bf53a32.flv
 #EXTINF:-1 tvg-logo="" group-title="",Tronlabs.io
 https://tx.flv.nimo.tv/live/su1939514102677r3d40f3c7a9b657543a718e7d5791f0ec.flv
 
-#EXTINF:-1 tvg-logo="" group-title="",Bloomberg Global Financial News (YT)
-plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
 
-#EXTINF:-1 tvg-logo="" group-title="",Live Forex Signals Forecast EURUSD & USD JPY & GBPUSD H1 & M5 (YT)
-plugin://plugin.video.youtube/play/?video_id=l1vzkhaSbKc
 
-#EXTINF:-1 tvg-logo="" group-title="",Stock Market Today - Data & News (YT)
-plugin://plugin.video.youtube/play/?video_id=eJp1quqE2R8
 
-#EXTINF:-1 tvg-logo="" group-title="",CNBC Awaaz Live | Aaj Ka Taja Khabar | Business News Live | Stock Marke (YT)
-plugin://plugin.video.youtube/play/?video_id=xfrSdASpaXc
-
-#EXTINF:-1 tvg-logo="" group-title="",LIVE CURRENCY STRENGTH METER (YT)
-plugin://plugin.video.youtube/play/?video_id=HESy1_zVNkA
-
-#EXTINF:-1 tvg-logo="" group-title="",Dow Jones stock prices NYSE, LIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=cbqYgHgbbSU
-
-#EXTINF:-1 tvg-logo="" group-title="",Live Price Ladder Trading SP500 ES_F NQ DJIA How To Scalp Nasdaq DJIA Future M82-2 (YT)
-plugin://plugin.video.youtube/play/?video_id=wX1e_de-2jM
-
-#EXTINF:-1 tvg-logo="" group-title="", 2020 US Election Stream (YT)
-plugin://plugin.video.youtube/play/?video_id=qhfFgKlDM8E
-
-#EXTINF:-1 tvg-logo="" group-title="",TOP 50 YOUTUBE FRANCAIS (YT)
-plugin://plugin.video.youtube/play/?video_id=w_3DfBaN89s
-
-#EXTINF:-1 tvg-logo="" group-title="",Top 50 YouTube Live Sub Count  (YT)
-plugin://plugin.video.youtube/play/?video_id=ftMnmPC82qM
-
-#EXTINF:-1 tvg-logo="" group-title="",Top 100 YouTube Live Sub Count (YT)
-plugin://plugin.video.youtube/play/?video_id=SoaZwnGOmvM
 
 ###########
 
@@ -248,10 +200,7 @@ plugin://plugin.video.youtube/play/?video_id=xhaMF0sSZ0Q
 #EXTINF:-1 tvg-logo="" group-title="",Weather Nation
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43a.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
 
