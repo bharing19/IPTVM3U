@@ -1896,6 +1896,9 @@ http://51.210.199.21/hls/stream.m3u8
 http://51.210.199.59/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVarzesh.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Sports",Persiana Varzesh (1080p)
 http://51.210.199.16/hls/stream.m3u8
+# https://www.tishktv.tv/
+#EXTINF:-1 tvg-id="TishkTV.fr" tvg-country="France" tvg-language="Kurdish;Persian;Arabic;Baluchi" tvg-logo="https://i.imgur.com/qcS9vJ2.jpg" group-title="",Tishk TV
+https://server11.ikomg.live/hls/tishk.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/vv/varzesh-tv-farsi-fr.png" group-title="",Varzesh TV Farsi
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/vv/varzesh-tv-farsi-2-fr.png" group-title="",Varzesh TV Farsi 2
