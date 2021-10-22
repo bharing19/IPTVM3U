@@ -40,7 +40,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 
 # https://www.livenewsmag.com/bbc-world-news-live-stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC News - UK
+EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC News - UK
 https://bbc.newscdn.org/vcwGGW1UplYsEbWdyolrLg==,1634613178/LS-ATL-54548-6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="",BeritaSatu - Indonesia
@@ -51,7 +51,6 @@ https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210512T004108.png" group-title="",BNC GO
 https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="",CBC News - Canada
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
@@ -210,6 +209,12 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars The Alex Jones Show - USA
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars War Room - USA
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L357mjp.gif" group-title="",Press TV - Iran
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
@@ -305,7 +310,6 @@ https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/ind
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/7ce28da0-de21-11e9-8ef3-b3d0b3dcfb8b" group-title="",Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★Business News - Stock Market - Crypto★★★★★★★★★★
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_daTfgc4u3k
@@ -407,7 +411,7 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="",Real Vision - USA
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="",Secure Trading Institute(STI) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="",Secure Trading Institute (STI) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9voNLQa-0dTZFRgK8O3fMw/live
 
 #EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="",StockCharts TV
@@ -425,7 +429,6 @@ plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCq7gWVoeUqWZhP
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ZJ1hp4.png" group-title="",Yahoo! Finance (OPT-2)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4k3Iiq.jpg" group-title="",★★★★★★★★★★Earth Monitoring★★★★★★★★★★
 0.0.0.0
