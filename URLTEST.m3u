@@ -32,8 +32,10 @@ https://cdn.stream.bitwave.tv/hls/CodComedyTJ247/index.m3u8|Referer=https://bitw
 
 ########
 
+#EXTINF:-1 tvg-logo="" group-title="",Plug Stereo Tv
+https://live-aws-us-east-1.mobcrush.com/hls/2/616f750986c0ec22255041ae.m3u8|Referer=https://www.mobcrush.com/plugstereofm2
 
-
+########
 
 # https://www.theta.tv/blockdown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuh6NJS.png" group-title="",Blockdown
@@ -46,6 +48,8 @@ https://live3-slivertv.akamaized.net/hls/live/2016040/hls_streamer_us_east_0091/
 # https://www.theta.tv/saltywhitefolks
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W57O9VQ.jpg" group-title="",Saltywhitefolks
 https://live3-slivertv.akamaized.net/hls/live/2016020/hls_streamer_us_east_0071/playlist.m3u8
+
+
 
 # https://www.nimo.tv/live/1049395500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBo6u4q.jpg" group-title="",TheOtterFM
