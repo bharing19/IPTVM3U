@@ -9,6 +9,65 @@
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPDFCub.jpg" group-title="",Very Local (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IL83T8.jpg" group-title="",Very Alabama by WVTM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7Vw6oq2LCbzAhdxF_UcIWg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2hap0H.jpg" group-title="",Very Arkansas by 40/29 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-b1JdevG6fVeb06rRN_Xhw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuYKg00.jpg" group-title="",Very Baltimore by WBAL-TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpmb83_U37eDBlgEezsxK7w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXvNnPs.jpg" group-title="",Very Boston by WCVB (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZhkgaG.jpg" group-title="",Very Carolina by WXII (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0ZsHHC_frpcqneDpMiteCQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1DDTFo.jpg" group-title="",Very Central Coast by KSBW (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EOWilS.jpg" group-title="",Very Champlain Valley by NBC 5 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3KF4ZlaGjyels6A7riZug/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7v6vBUt.jpg" group-title="",Very Cincinnati by WLWT (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkr9qZ5tj9dGd7JvE3a8X4Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgRVIt.jpg" group-title="",Very Iowa by KCCI (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKATGvvbOznaWNZcOBCLGng/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXNBqVZ.jpg" group-title="",Very Jackson by 16 WAPT (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq6jYgbPEh-lttcUsvPCbsg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jygP31t.jpg" group-title="",Very Kansas City by KMBC/KCWE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWTkpYvniGIUe1jeCncFzKw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgtnBfZ.jpg" group-title="",Very Louisville by WLKY (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCojNA7ZvnmGuIvYnm44wl3Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/szlxdKz.jpg" group-title="",Very Maine by WMTW (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvtjfI2zzRl_2W_KpEnuMg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYPBh6Q.jpg" group-title="",Very Milwaukee by WISN 12 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8Tm7Xuz8QekHzjsDxgFNnw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T5OeZmf.jpg" group-title="",Very New Hampshire by WMUR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwuZjWoiT30kDTz0G41Y8gQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awlZ9OH.jpg" group-title="",Very New Mexico by KOAT (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC41xJSNY2xCPC4-gOsRcDcg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A54o66q.jpg" group-title="",Very New Orleans by WDSU (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh6B4Wr5marHaAhH27VR9GA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGjMR1s.jpg" group-title="",Very Oklahoma by KOCO (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoIhMkbeDRBImkGiA5mZp5A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgTaRgy.jpg" group-title="",Very Omaha by KETV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCczdiIilpYSmiF074WMCNiA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4PO6Mu.jpg" group-title="",Very Orlando by WESH 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vl4LfQf.jpg" group-title="",Very Pennsylvania by WGAL (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaqEHP76q9TblVUO3sHFSQQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUsRMwR.jpg" group-title="",Very Pittsburgh by WTAE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWAsWgFVqxDzwExfOdYjAcg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsz5yKF.jpg" group-title="",Very Sacramento by KCRA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-BSVXejMFhhml4V_VyoGxg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cWugAL.jpg" group-title="",Very Savannah by WJCL (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4DGZQHLsQRK3v8lKTGu_Uw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3V7QKz4.jpg" group-title="",Very South Florida by WPBF 25 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeD5NwvPbEZKcu02_v8tUZQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksq6mif.jpg" group-title="",Very Tampa Bay by WMOR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrvIy-EG4lB7w/live
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Crafts
