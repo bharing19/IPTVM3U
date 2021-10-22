@@ -269,6 +269,9 @@ https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLsjRww.jpg" group-title="",The First - USA (OPT-2)
 https://thefirst-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2TutBr.jpg" group-title="",The Recount - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmsrXvrQ1S_61vVO-fNL-Mg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
 https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
