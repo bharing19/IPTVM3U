@@ -7,6 +7,10 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (DM)
+plugin://plugin.video.dailymotion_com/?url=x654ltd&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x654ltd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/adBOVAF.jpg" group-title="",Congrès et Expositions de Bordeaux - Avecsanté (DM) (Non 24/7)
 plugin://plugin.video.dailymotion_com/?url=x84aisv&amp;mode=playLiveVideo
