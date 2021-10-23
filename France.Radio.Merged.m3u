@@ -914,6 +914,11 @@ http://mediam.streamakaci.com/47fm.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMDWEnn.png" group-title="",47FM 80
 https://listen.radioking.com/radio/128992/stream/168832
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDejNAn.jpg" group-title="",B4B Radio Club Dance
+https://radio10.pro-fhi.net:19000/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1cJoWN.jpg" group-title="",B4B Radio Disco Funk
+https://radio9.pro-fhi.net:19164/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
 https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 
