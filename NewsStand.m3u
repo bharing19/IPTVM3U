@@ -332,7 +332,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="",Bloomberg Autralia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="",Bloomberg Australia
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="",Bloomberg Europe
