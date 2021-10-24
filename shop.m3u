@@ -195,6 +195,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4_WjgHnlKssN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5d8iCqu.jpg" group-title="",NS Home Shopping - South Korea
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZJjM4J.png" group-title="",PearlTV - France (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live
+
 # https://www.pearl.de/tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbFWldL.jpg" group-title="",Pearl TV - Germany (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live
