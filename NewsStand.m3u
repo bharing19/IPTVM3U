@@ -94,6 +94,9 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmYZb6f.jpg" group-title="",CNBC TV18 - India
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNNB06W.jpg" group-title="",CNC - China
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="",CNET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
