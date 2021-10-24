@@ -3,7 +3,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwUZyxO.png" group-title="TV25" ,★★★★★★★★★★[COLOR red]TV25[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-# EPG: https://titantvguide.com/?siteid=77198 https://titantvguide.com/api/channels/77198/0783c1ff-05a4-4191-a3d1-6001b496f22b
+# EPG: https://titantvguide.com/?siteid=77198 
+# https://titantvguide.com/api/lineups/77198 
+# https://titantvguide.com/api/eventspage/77198/0783c1ff-05a4-4191-a3d1-6001b496f22b/202110241700/300/32943/12
+# https://titantvguide.com/api/channels/77198/0783c1ff-05a4-4191-a3d1-6001b496f22b
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3lUDTL.jpg" group-title="",Buzzr TV25.1
 https://cdn.igocast.com/channel1_hls/channel1_profile1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFdGPvn.jpg" group-title="",NewsNet TV25.2
