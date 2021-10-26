@@ -12,6 +12,11 @@ plugin://plugin.video.twitch/?mode=play&channel_name=rec103_7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rec103_7
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIQkku1.jpg" group-title="",LesCroutonsTV (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=lescroutonstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIQkku1.jpg" group-title="",LesCroutonsTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lescroutonstv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=yellowradiostation
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (STK)
