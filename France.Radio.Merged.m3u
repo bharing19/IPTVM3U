@@ -1064,4 +1064,5 @@ https://listen.radioking.com/radio/413020/stream/465766
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqv1ick.png" group-title="",Vfm Radio
 http://str0.creacast.com/vfm_hq.mp3
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Radio
+http://yellowradio.ice.infomaniak.ch/yellowradio.mp3
