@@ -12,6 +12,11 @@ plugin://plugin.video.twitch/?mode=play&channel_name=rec103_7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rec103_7
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=yellowradiostation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/yellowradiostation
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (DM)
 plugin://plugin.video.dailymotion_com/?url=x654ltd&amp;mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (STK)
