@@ -300,6 +300,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgp4A6I8LCWrh
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/twit
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title=""Twit TV (STK) (OPT-2)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwY9B5_8QDGP8niZhBtTh8w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title="",Twit (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=twit
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="",TYT Network - USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
