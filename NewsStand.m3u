@@ -90,6 +90,8 @@ https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VtYdCLt.jpg" group-title="",CNBC Africa - South Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zd1JQwZ.jpg" group-title="",CNBC Europe
+https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmYZb6f.jpg" group-title="",CNBC TV18 - India
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
@@ -261,6 +263,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMdktPbSTixA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nMGonRp.png" group-title="",Sky News - UK
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMGonRp.png" group-title="",Sky News - UK (OPT-2)
+https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.smashmalta.com/Icons/1080news.png" group-title="",Smash 7 News - Malta
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
@@ -286,6 +290,9 @@ https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 # http://www.wsj.com/public/page/live-video-event.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
 https://d3qk889yj9a2d2.cloudfront.net/out/v1/3d9b79bc1a934ac9bcd088e3554e91bb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qwqsXT8.png" group-title="",Ticker News - Australia
+https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-times-now2-hsslive-25f-4x3-thumb-large.jpg.png" group-title="",TIMES NOW
 https://news.sechls01.visionip.tv/live/visiontvuk-news-times-now2-hsslive-25f-4x3-SD/chunklist.m3u8
@@ -456,6 +463,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXWD4Mhv_GeIN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X32xBYc.jpg" group-title="",Force Thirteen : Earthquakes (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXWD4Mhv_GeINfjymzjaCsg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojLdgOg.png" group-title="",Fox Wheather - USA
+https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45RcXcp.jpg" group-title="",Kiwi Quakes International Spectros (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH6R4iekU7HkCMTGIfURK7w/live
