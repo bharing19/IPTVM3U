@@ -161,7 +161,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZEKNdL.jpg" group-title="",GB News - UK
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1gI2GM.jpg" group-title="",Global News National- Canada
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1gI2GM.jpg" group-title="",Global News National - Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43KzVyU.jpg" group-title="",Goa365 - India
