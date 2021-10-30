@@ -93,8 +93,8 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 
 # https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ
-#EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (YT) (v_id)
-plugin://plugin.video.youtube/play/?video_id=m3XeEVYNLHM
+#EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCMoJ66iMT0uf60KIAnDEtXQ&live=1
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p)
@@ -180,7 +180,6 @@ https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=52000
 https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
 
 
-
 #######
 
 
@@ -206,7 +205,6 @@ http://stream1.intronic.nl/ajoinmusic
 # https://atv.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="",ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-
 
 # https://www.bruzz.be/live/popup/#watch
 #EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz 24 BE" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="généraliste",Bruzz 24 (Adaptative)
@@ -294,12 +292,13 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a
 #EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV
 https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/playlist.m3u8
 # https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/
-#EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
-#EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=VttEhLK3I3I
+#EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
 #EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC_KlNwS1QQ9QMPRg9dGNHNw&live=1
+#EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
+
 
 # https://mix-myday.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV
@@ -359,6 +358,16 @@ http://137.74.205.201/live2/sterk-3mbps.m3u8
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru (Audio)
 https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8
+
+# https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvV6sGf.jpg" group-title="Radio",Tomorrowland - One World Radio (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvV6sGf.jpg" group-title="Radio",Tomorrowland - One World Radio (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=DY_rFed96mg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvV6sGf.jpg" group-title="Radio",Tomorrowland - One World Radio - Daybreak Sessions Channel (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvV6sGf.jpg" group-title="Radio",Tomorrowland - One World Radio - Daybreak Sessions Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
 
 #EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
