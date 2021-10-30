@@ -8,7 +8,7 @@ all list work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as exce
 
 ################
 
-
+will no longer be used for live ,to mutch time consuming to keep it updated ...
 # Youtube : Video Id :  No API required : link Update required (UPD)
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
 plugin://plugin.video.youtube/play/?video_id=IDHERE
@@ -21,6 +21,7 @@ If Multiple Live From The same Channel Change &live=2 ...and so on  need to be t
 
 
 https://blog.hubspot.com/website/how-to-get-youtube-api-key
+
 
 ################
 
@@ -60,7 +61,14 @@ https://piczel.tv/watch/CHANNELNAMEHERE
 
 https://goodgame.ru/channel/CHANNELNAMEHERE
 
-# Send To Kodi
+http://www.giniko.com/ ; http://www.giniko.com/watch.php?id=IDHERE
+
+https://ginikousa.com/ ; https://ginikousa.com/live.php?id=IDHERE
+
+https://www.watchyour.tv/ ; http://www.watchyour.tv/dvr.php?id=IDHERE
+
+# Send To Kodi  
+18.9 or matrix see here https://github.com/firsttris/plugin.video.sendtokodi
 
 #EXTINF:-1 tvg-logo="" group-title="", (STK)
 plugin://plugin.video.sendtokodi/?URLHERE
@@ -108,14 +116,21 @@ https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 ################
 
-HLS Stream URl can be tricked by using
+HLS Stream URL option can be Required and tricked by using:
 
 |User-Agent=
+Most Common:
+|User-Agent=stream
+|User-Agent=VLC
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+More Here:
+http://useragentstring.com/pages/useragentstring.php?name=All
 
 |Referer=
+Url Referer of the .m3u8 Stream
 
 |X-Forwarded-For=
-
+Usaly It work without a vpn  by simply finding the proper ISP ip/range of the country that match the geo restriction Stream
 
 
 
