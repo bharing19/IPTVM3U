@@ -3,22 +3,22 @@
 
 Hybrid list adapted for kodi using different addons to make the stream work
 
-all list work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as exception of Streamlink Tester  since some dependencies are not ported to python 3 yet
+all Playlist work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as exception of Streamlink Tester  since some dependencies are not ported to python 3 yet
 
 
 ################
 
-will no longer be used for live ,to mutch time consuming to keep it updated ...
+will no longer be used for live ,to mutch time consuming to keep it updated ... only good For Direct Video only
 # Youtube : Video Id :  No API required : link Update required (UPD)
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
 plugin://plugin.video.youtube/play/?video_id=IDHERE
 
+will be used for those who have the api
 # Youtube : Channel ID : API required : No Update required
 #EXTINF:-1 tvg-logo="" group-title="", (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
 
-If Multiple Live From The same Channel Change &live=2 ...and so on  need to be tested to fit the Channel Naming
-
+If Multiple Live From The same Channel , Change &live=2 ... and so on  need to be tested to fit the Channel Naming
 
 https://blog.hubspot.com/website/how-to-get-youtube-api-key
 
@@ -41,7 +41,7 @@ exemple: https://www.twitch.tv/asot = channel_id%22%3A265735182%2C%22  , the id 
 
 ################
 
-** Token Retreivers **
+**** Token Retreivers ****
 
 # Streamlink Tester
 
@@ -89,6 +89,8 @@ https://vimeo.com/IDHERE
 
 https://ok.ru/live/IDHERE|User-Agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
 
+https://ok.ru/video/IDHERE|User-Agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+
 https://dlive.tv/CHANNELNAMEHERE
 
 https://livestream.com/accounts/IDHERE/events/IDHERE
@@ -116,21 +118,20 @@ https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 ################
 
-HLS Stream URL option can be Required and tricked by using:
+HLS Stream URL option can be Required and tricked by using
 
+# User-Agent=
 |User-Agent=
-Most Common:
+# Most Common
 |User-Agent=stream
 |User-Agent=VLC
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-More Here:
+# More Here
 http://useragentstring.com/pages/useragentstring.php?name=All
-
+# Referer=
 |Referer=
 Url Referer of the .m3u8 Stream
-
+# X-Forwarded-For=
 |X-Forwarded-For=
 Usaly It work without a vpn  by simply finding the proper ISP ip/range of the country that match the geo restriction Stream
-
-
 
