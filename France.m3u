@@ -1277,6 +1277,14 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/kuImWCr.jpg" group-title="Religion",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
 
+# https://www.sivu-fibre.com/chaine32 https://www.youtube.com/channel/UChl0zP89T7yZyEwQkCfmmnQ
+#EXTINF:-1 tvg-id="LaChaîne32.fr" tvg-name="LaChaîne32 FR" tvg-logo="https://i.imgur.com/0YjqHHj.jpg" group-title="régionale",la chaîne 32 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UChl0zP89T7yZyEwQkCfmmnQ&live=1
+#EXTINF:-1 tvg-id="LaChaîne32.fr" tvg-name="LaChaîne32 FR" tvg-logo="https://i.imgur.com/0YjqHHj.jpg" group-title="régionale",la chaîne 32 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChl0zP89T7yZyEwQkCfmmnQ/live
+#EXTINF:-1 tvg-id="LaChaîne32.fr" tvg-name="LaChaîne32 FR" tvg-logo="https://i.imgur.com/0YjqHHj.jpg" group-title="régionale",la chaîne 32
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UChl0zP89T7yZyEwQkCfmmnQ/live
+
 # https://www.lci.fr/direct/
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
