@@ -77,6 +77,8 @@ plugin://plugin.video.sendtokodi/?URLHERE
 
 https://fb.watch/IDHERE/
 
+https://www.facebook.com/IDHERE/videos/IDEHERE/
+
 https://www.youtube.com/channel/IDHERE/live ->  No youtube API required to make it work
 
 https://www.youtube.com/watch?v=IDHERE
