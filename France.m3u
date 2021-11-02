@@ -7,6 +7,21 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+
+# https://www.youtube.com/channel/UC_rVcaZvsmAS3GP8isMo3xg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_rVcaZvsmAS3GP8isMo3xg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=QLAEPUMu8HA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_rVcaZvsmAS3GP8isMo3xg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=CqQcHI8egrI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_rVcaZvsmAS3GP8isMo3xg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 3 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=IWSOKnozAq0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=rec103_7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (STK)
