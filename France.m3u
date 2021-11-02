@@ -752,14 +752,26 @@ https://edge8.vedge.infomaniak.com/livecast/bblackclassik/chunklist_w620926095.m
 
 #EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 FR (TT)
 plugin://script.module.7of9-live/play/49/play.pvr
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="Sport",Bein Sports 1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/1.php
 #EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",BeIN Sports 2 FR (TT)
 plugin://script.module.7of9-live/play/51/play.pvr
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="Sport",Bein Sports 2 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/2.php
 #EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",BeIN Sports 3 FR (TT)
 plugin://script.module.7of9-live/play/52/play.pvr
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="Sport",Bein Sports 3 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/3.php
+#EXTINF:-1 tvg-id="BeinSport4.fr" tvg-name="Bein Sport 4 FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein Sports 4 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/10.php
 #EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="Bein 4 Max FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="Sport",Bein sports max 4 FR (TT)
 plugin://script.module.7of9-live/play/451/play.pvr
+#EXTINF:-1 tvg-id="BeinSport5.fr" tvg-name="BeinSport 5 FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein Sports 5 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/11.php
 #EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="Bein 5 Max FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="Sport",Bein sports max 5 FR (TT)
 plugin://script.module.7of9-live/play/452/play.pvr
+#EXTINF:-1 tvg-id="BeinSport6.fr" tvg-name="BeinSport 6 FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein Sports 6 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/12.php
 #EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein 6 Max FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="Sport",Bein sports max 6 FR (TT)
 plugin://script.module.7of9-live/play/453/play.pvr
 #EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="Bein 7 Max FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="Sport",Bein sports max 7 FR (TT)
