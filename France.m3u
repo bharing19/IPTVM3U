@@ -2,11 +2,12 @@
 
 #### Made By Sphinxr00t QC ####
 
-
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+
+#EXTINF:-1 tvg-logo="" group-title="",20 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/20.php
 
 # https://www.youtube.com/channel/UC_rVcaZvsmAS3GP8isMo3xg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 1 (YT) (c_id)
