@@ -333,6 +333,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png" group-title="",USA TODAY - USA (OPT-2)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60df3e18541143002f3b8607
 
+# https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+
 #EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797033/content/1625681252387_tv_ch_256X256_World_News.png" group-title="",Video Elephant World News
 https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-VidElephantWorldNews/playlist.m3u8
 
