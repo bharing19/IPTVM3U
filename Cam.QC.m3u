@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]WebCam Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE SAUF ont le dernier stream dispo ### M.A.J 21/11/03
+0.0.0.0
 
 # https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg https://www.portquebec.ca/a-propos-du-port/webcam/vue-sur-le-fleuve
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (720p) (YT) (c_id)
