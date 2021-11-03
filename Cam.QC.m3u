@@ -22,35 +22,35 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgTZT2xEi6slM
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCgTZT2xEi6slMcLA69Nm3eA/live
 
 # https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (720p) (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCBUbqDfsNeg03Kzafi0kBmg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (1080p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg/live
 
 # https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (720p) (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC7PSbagDNdbl9QLC2Uu7jrQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (1080p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ/live
 
 # https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (720p) (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCE_gsQRBrM5JSGQiINk8kmw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (1080p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw/live
 
 # https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (720p) (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (1080p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA/live
 
 # https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A
@@ -130,12 +130,12 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier / La Ronde (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Université Laval (YT) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Universite Laval (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
 
 # https://www.youtube.com/channel/UC7SNvPidqlswgbV1-W2Z8vw
-#EXTINF:-1 tvg-logo="" group-title="",Rivière Richelieu (YT) (v_id)  (OFFLINE)
+#EXTINF:-1 tvg-logo="" group-title="",Riviere Richelieu (YT) (v_id)  (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=vizETSu3Y2Q
 
 
@@ -163,11 +163,11 @@ plugin://plugin.video.youtube/play/?video_id=pZC4Kl2jMYs
 
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere https://rtsp.me/embed/3yB3SNsr/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (1080p) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Riviere (1080p) (UPD)
 https://mia.rtsp.me/YTFxYwIQA35pBI9aDYbnjg/1630131579/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer https://rtsp.me/embed/7H9hbRNZ/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L´Islet-sur-Mer (1080p) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L Islet-sur-Mer (1080p) (UPD)
 https://mia.rtsp.me/l2GdOvqLK7xMOUMOPv4UzA/1630131709/hls/7H9hbRNZ.m3u8
 
 # https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw
@@ -212,9 +212,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCMZT-xluBrA0ja-ezETqjcg&live=1
 
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Levis (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ZPmKYWbct6U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis 2 (YT) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Levis 2 (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
 
 # 
