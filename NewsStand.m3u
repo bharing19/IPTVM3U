@@ -43,6 +43,14 @@ http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone
 EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC News - UK
 https://bbc.newscdn.org/vcwGGW1UplYsEbWdyolrLg==,1634613178/LS-ATL-54548-6/index.m3u8
 
+# https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="",BeritaSatu - Indonesia
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
