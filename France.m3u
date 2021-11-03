@@ -23,6 +23,14 @@ plugin://plugin.video.youtube/play/?channel_id=UC_rVcaZvsmAS3GP8isMo3xg&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jjcX2U.jpg" group-title="",DOCUMENTAIRE H 3 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=IWSOKnozAq0
 
+# https://www.youtube.com/channel/UCpO0OSNAFLRUpGrNz-bJJHA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4MG1rm.jpg" group-title="Radio",ElectroPosé (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpO0OSNAFLRUpGrNz-bJJHA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4MG1rm.jpg" group-title="Radio",ElectroPosé (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpO0OSNAFLRUpGrNz-bJJHA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4MG1rm.jpg" group-title="Radio",ElectroPosé
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCpO0OSNAFLRUpGrNz-bJJHA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (DM)
 plugin://plugin.video.dailymotion_com/?url=x654ltd&amp;mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6arHCR.jpg" group-title="",Mondial du Lion 2021 (STK)
