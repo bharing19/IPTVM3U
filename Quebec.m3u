@@ -346,7 +346,7 @@ plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
 plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="",SousEcoute (TWITCH)
-plugin://plugin.video.twitch/?mode=play&channel_name=https://www.twitch.tv/sousecoute
+plugin://plugin.video.twitch/?mode=play&channel_name=sousecoute
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="",SousEcoute (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sousecoute
 
