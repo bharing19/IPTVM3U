@@ -39,6 +39,9 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://i.imgur.com/1x4jQRx.png" group-title="régionale",CanalAlpha Jura bernois (720p)
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/chunklist_w447451400_b1000000.m3u8
 
+# https://www.twitch.tv/rgvfm https://gvfm.ch/radiovision/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RWuBnc.jpg" group-title="Radio",GVFM (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=rgvfm
 
 # https://latele.ch/live
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://i.imgur.com/pw62iLA.png" group-title="régionale",La Télé (720p)
@@ -230,7 +233,6 @@ plugin://plugin.video.youtube/play/?video_id=6sT4HAicsbQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA
 
-
 # https://kanal9.ch/direct/
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (Adaptative)
 https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
@@ -240,7 +242,6 @@ https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w171766668_b300
 https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w171766668_b1800720.m3u8
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (1080p) (OPT-2)
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-
 
 # https://qs24.tv/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fW15Ff.jpg" group-title="",QS24.TV
@@ -298,7 +299,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",Swiss Sport TV (720p)
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1352704044_b2628000.m3u8
 
-
 # https://www.tele1.ch/live
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="https://i.imgur.com/6GX9LVu.png" group-title="",tele1 (1080p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/protocol/https/format/applehttp/flavorIds/1_tj9pcgrp,1_ym0klyy9,1_epgizhdj/a.m3u8
@@ -335,7 +335,6 @@ https://livestream05.gruppocdt.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="Tele Ticino CH" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",TeleTicino (720p) (OPT-2)
 https://livestream05.gruppocdt.ch/hls/teleticino_720p/index.m3u8
 
-
 # https://www.telezueri.ch/live
 #EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="Tele Zueri CH" tvg-logo="https://i.imgur.com/95KCgV3.png" group-title="",Tele ZURI (720p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
@@ -351,7 +350,6 @@ https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_t5h46
 # https://wetter.tv/de-CH/vl
 #EXTINF:-1 tvg-id="WetterTV.ch" tvg-name="Wetter TV CH" tvg-logo="https://i.imgur.com/bEzsCqj.jpg" group-title="",Wetter tv (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
-
 
 ######
 
@@ -402,7 +400,7 @@ https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_
 https://tvhosa-pez0302.sctv.ch/http_adaptive_streaming/FMGBDEEAILGONOAG.m3u8
 
 # https://www.suedostschweiz.ch/tv/wilmaa
-EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz (GEO) (OFFLINE)
 0.0.0.0
 
 # https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
