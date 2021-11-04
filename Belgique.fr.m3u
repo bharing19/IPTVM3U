@@ -101,6 +101,10 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMoJ66iMT0uf6
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
 
+# https://www.twitch.tv/radioprimalive https://www.radioprima.be/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCDastT.png" group-title="Radio",Radio Prima (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=radioprimalive
+
 # https://www.ramdammusique.be/ https://www.twitch.tv/ramdammusique/
 #EXTINF:-1 tvg-id="RamdamMusique.be" tvg-name="RamdamMusique BE" tvg-logo="https://i.imgur.com/QRfY9ie.png" group-title="Radio",RamdamMusique (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
