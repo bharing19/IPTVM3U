@@ -553,10 +553,6 @@ plugin://plugin.video.youtube/play/?video_id=eP2zoWRr0QM
 EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2VIe (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=j3fruDO5WYA
 
-# https://www.youtube.com/channel/UCQwwi5nkwfwWPCqGt1oItOQ
-EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV (YT) (OffLINE)
-plugin://plugin.video.youtube/play/?video_id=DRkPiGWzq30
-
 # https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jc8Y5se.jpg" group-title="Anime",WB Kids (YT) (UPD) (OffLINE)
 plugin://plugin.video.youtube/play/?video_id=8u5toeTsV_Q
@@ -1844,7 +1840,7 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCE5RkgB9e4fN
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2Vie
 https://oraocdn.net:1943/tv2vie-ssl/chunks.m3u8?nimblesessionid=80849547
 
-# update link : #
+# 
 #EXTINF:-1 tvg-id="France" tvg-name="TV3V" tvg-logo="https://i.ibb.co/ZY9Q2Qf/logo-tv3v.png" group-title="régionale",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="régionale",TV3v
@@ -1852,8 +1848,7 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="régionale",TV3v (OPT-2)
 https://tv3v.live-kd.com/live/tv3v/livestream/chunklist_w1537066310.m3u8
 
-# update link : #
-
+# 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DpyP5jm/TV5Style.png" group-title="",TV5MONDE FBS (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/37-TV5MONDEFBS/37-TV5MONDEFBS.php
 
@@ -1925,6 +1920,14 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCqpMa9xCkOZy
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/QYzPiI5.jpg" group-title="",Unearth
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+# https://www.twitch.tv/valloiretv https://www.youtube.com/channel/UCQwwi5nkwfwWPCqGt1oItOQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=valloiretv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/valloiretv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV
+http://free.fullspeed.tv/query?url=https://www.twitch.tv/valloiretv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mN5XrhH.png" group-title="",Vetzen (DM)
 plugin://plugin.video.dailymotion_com/?url=x7vy373&mode=playLiveVideo
