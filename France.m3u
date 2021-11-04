@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+# https://www.twitch.tv/reptout
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIq8pfc.jpg" group-title="",ReptOut (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=reptout
 
 # https://www.twitch.tv/pulsradiocom
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCJgcVi.png" group-title="Radio",pulsradiocom (TWITCH) (C_N)
