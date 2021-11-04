@@ -58,6 +58,10 @@ plugin://plugin.video.twitch/?mode=play&channel_name=f2radio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="",Radio Valle Du Var (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=rvvmicroouvert
 
+# https://www.twitch.tv/slivecentrefrance http://s-live.cf/s-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DH1OViA.png" group-title="Radio",S-Live (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=slivecentrefrance
+
 #EXTINF:-1 tvg-logo="" group-title="",20 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/20.php
 
