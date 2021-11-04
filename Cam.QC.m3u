@@ -69,6 +69,20 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_Ch-3wys3clM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (1080p)
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ/live
 
+# https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g https://meteochicoutimi.com/cameras-en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=NDAseUxzxng
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (UDP)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=NDAseUxzxng
+
 # https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCuzgHxvrQYJ0J8mT-I4B8ZA&live=1
