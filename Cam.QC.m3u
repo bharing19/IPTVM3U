@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]WebCam Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE SAUF ont le dernier stream dispo ### M.A.J 21/11/03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE  ont le dernier stream dispo ### M.A.J 21/11/03
 0.0.0.0
 
 # https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg https://www.portquebec.ca/a-propos-du-port/webcam/vue-sur-le-fleuve
@@ -147,7 +147,6 @@ plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Universite Laval (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
 
-
 # https://www.youtube.com/channel/UC7SNvPidqlswgbV1-W2Z8vw
 #EXTINF:-1 tvg-logo="" group-title="",Riviere Richelieu (YT) (v_id)  (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=vizETSu3Y2Q
@@ -173,8 +172,6 @@ plugin://plugin.video.youtube/play/?video_id=83CV9u4l1jk
 
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM06 BLVD. GAÉTAN-LABERGE - Caméra en direction du Pont de l'Île-des-soeurs (YT)
 plugin://plugin.video.youtube/play/?video_id=pZC4Kl2jMYs
-
-
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere https://rtsp.me/embed/3yB3SNsr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Riviere (1080p) (UPD)
@@ -219,11 +216,8 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (v_id) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=ODnzfnsD5lY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (c_id) (OFFLINE)
 plugin://plugin.video.youtube/play/?channel_id=UCMZT-xluBrA0ja-ezETqjcg&live=1
-
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Levis (YT) (OFFLINE)
@@ -257,7 +251,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCpV6Dn5hiout62phgZk9oEw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCpV6Dn5hiout62phgZk9oEw&live=2
 
-
 # https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCP75K5I7jvpakDxSYthM8TQ&live=1
@@ -266,13 +259,21 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCP75K5I7jvpak
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ/live
 
-# https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=AQfdEhFS2LE
+# https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCURjrBQ-UcxspbA7bEPxIMA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA/live
 
 # https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=izeiE6mkaZ0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWVJdQnJhHT60DF9yfKESjA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA/live
 
 # https://www.youtube.com/channel/UCQ9A7p6ZCy6dFEwQ_nEYllg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAD9tzy.jpg" group-title="",Montreal/Verdun Quiet Street and Bird Feeder Cam (YT) (OFFLINE)
@@ -290,7 +291,6 @@ plugin://plugin.video.youtube/play/?video_id=g10G5jOx3mk
 https://stream-ue1-delta.dropcam.com/nexus_aac/3be32e8fae8549af94cb0b529620e20f/playlist.m3u8?public=R3STi1PWyD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="Cam",Roulez Electrique 2 (Trois-Rivieres)
 https://stream-us1-charlie.dropcam.com/nexus_aac/d7cafad4b123472f98368b92242a9ccc/playlist.m3u8?public=Oz02RhBwP6
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtoB8O9.jpg" group-title="",cam Levis
 http://74.58.127.206:83/GetData.cgi?CH=1
@@ -338,4 +338,3 @@ rtsp://206.167.65.192:5542/cam/realmonitor?channel=1&subtype=0&unicast=true&prot
 # https://mont-comi.ca/ https://www.ipcamlive.com/5a348b49b950e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNJ2VW8.png" group-title="",Parc du Mont-Comi (TK)
 https://s13.ipcamlive.com/streams/0dxf8w3zvmv2e9mbg/stream.m3u8
-
