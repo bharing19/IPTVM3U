@@ -168,9 +168,8 @@ https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd&title=BNN
 
 # update link https://www.youtube.com/watch?v=lYXdhqg6DmM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
+EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
-
 
 # https://cable14now.com/live-streams/
 # https://cable14now.com/live-streams/video/?videoId=104
@@ -191,7 +190,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
 # https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT) (OffLine)
+EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
@@ -240,7 +239,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (Token)
 
 
 # https://www.cheknews.ca/live-news-british-columbia/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",Cheknews (News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
+EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",Cheknews (News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://iptv-all.lanesh4d0w.codes/canada/chek-news
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Toronto
@@ -274,17 +273,13 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680608/1242843915001_7/master.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
@@ -342,23 +337,19 @@ https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab0172
 https://tna5.bozztv.com/jesstv/index.m3u8|Referer=https://ssh101.com/
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=c9WAYHgSyUc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCGPU8_iKvmGJwVERzwN0h7Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=PnuYn_lodVM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCJI0dlZn0CiOjnS8MuKLFVA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/730zfnG.png" group-title="Legislative",Legislative Assembly British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/b36211f9/b36211f9_1_1229000/chunklist.m3u8
@@ -395,6 +386,14 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0pvnOZf.png" group-title="",Northbay tv
 http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
+# https://www.twitch.tv/novascotiatelevision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=novascotiatelevision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/novascotiatelevision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth
+http://free.fullspeed.tv/query?url=https://www.twitch.tv/novascotiatelevision
+
 # http://ntv.ca/web-tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
 https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
@@ -430,12 +429,10 @@ http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=UOw7XXlzS-A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UC_DweJsPH4mvcRU3aFwVtqg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -462,8 +459,6 @@ plugin://script.module.7of9-live/play/413/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
@@ -472,18 +467,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids (OPT-2)
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 
-
-
-
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=cQAp0XWYLNo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCGPPdIn67ZCLhhHABoQpNUw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
-
-
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",wcgtv
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
@@ -494,16 +482,11 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/didwYeQ.png" group-title="",WHL
 0.0.0.0
 
-
-
-
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
-#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=azl07uA79pA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
 
 
 ##########
