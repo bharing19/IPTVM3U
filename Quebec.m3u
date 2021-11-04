@@ -93,6 +93,10 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Local",CTB-TV (1080p)
 https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 
+# https://www.twitch.tv/djmixradio https://djmix.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=djmixradio
+
 # https://emcitv.com/direct/
 #EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
 https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
