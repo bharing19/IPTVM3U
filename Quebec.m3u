@@ -15,14 +15,6 @@ plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
-# https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g
-#EXTINF:-1 tvg-logo="" group-title="",MeteoChicoutimi (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=1
-#EXTINF:-1 tvg-logo="" group-title="",MeteoChicoutimi (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=dgTMBAD7Vvs
-#EXTINF:-1 tvg-logo="" group-title="",MeteoChicoutimi
-http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=dgTMBAD7Vvs
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 
