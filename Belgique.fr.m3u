@@ -67,12 +67,16 @@ https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MaTele.be" tvg-name="MA TELE BE" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="régionale",MA Télé (1080p)
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8
 
+# https://www.twitch.tv/maxfmath https://www.maxfm.be/video/
+#EXTINF:-1 tvg-id="Maxfm.be" tvg-name="Max FM BE"  tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="Radio",Max FM 92.9 (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=maxfmath
+
 # https://www.nrj.be/replay
-#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (Adaptative)
+#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ BE" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (Adaptative)
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
-#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (1080p)
+#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ BE" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (1080p)
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1972638762_b2800435.m3u8
-#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (720p)
+#EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ BE" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (720p)
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1972638762_b1431072.m3u8
 
 # https://www.notele.be/it105-md5-direct.html
@@ -82,9 +86,9 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u
 # https://www.rtlplay.be/plug/direct
 EXTINF:-1 tvg-logo="https://i.imgur.com/NjxtF5D.png" group-title="",PLUG RTL
 
-# https://www.radiobonheur.be/bonheurtv-test/
-#EXTINF:-1 tvg-id="RadioBonheur.be"  tvg-name="Radio Bonheur BE" tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="Radio",Radio BonheurTV (1080p) (TWITCH)
-plugin://plugin.video.twitch/?channel_id=471368155&amp;mode=play
+# https://www.radiobonheur.be/bonheurtv-test/ https://www.twitch.tv/bonheurtv 
+#EXTINF:-1 tvg-id="RadioBonheur.be"  tvg-name="Radio Bonheur BE" tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="Radio",Radio BonheurTV 87.7 FM (1080p) (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=bonheurtv
 
 # https://www.radiocontact.be/live/
 #EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact BE" tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Radio",Radio Contact 102.2 FM Brussels (Adaptative)
@@ -93,10 +97,10 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 
 # https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ
-#EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCMoJ66iMT0uf60KIAnDEtXQ&live=1
+#EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p)
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
 
@@ -104,7 +108,8 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMoJ66iMT0uf
 #EXTINF:-1 tvg-id="RamdamMusique.be" tvg-name="RamdamMusique BE" tvg-logo="https://i.imgur.com/QRfY9ie.png" group-title="Radio",RamdamMusique (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="",RFM Charleroi (TWITCH) (OFFLINE)
+# https://www.twitch.tv/rfmhit https://www.twitch.tv/hitrfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="Radio",RFM Charleroi (TWITCH) (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=506204176&amp;mode=play
 
 # https://www.rtc.be/live #
@@ -301,10 +306,14 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_KlNwS1QQ9Q
 
 
 # https://mix-myday.be/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV
-https://live-aws-eu-central-1.mobcrush.com/hls/7/617012575366181825c2c8d2.m3u8|Referer=https://www.mobcrush.com/mixmydaytv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV (OPT-2)
+#EXTINF:-1 tvg-id="Mix-Myday.be" tvg-name="Mix-Myday BE" tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV
+https://live-aws-eu-central-1.mobcrush.com/hls/3/6183009e07e1a7724a3e7d14.m3u8|Referer=https://www.mobcrush.com/mixmydaytv
+#EXTINF:-1 tvg-id="Mix-Myday.be" tvg-name="Mix-Myday BE" tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV (OPT-2)
 https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
+# https://www.twitch.tv/mixmydaytv
+#EXTINF:-1 tvg-id="Mix-Myday.be" tvg-name="Mix-Myday BE" tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",mixmydaytv (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=mixmydaytv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="Music", MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
@@ -369,7 +378,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvV6sGf.jpg" group-title="Radio",Tomorrowland - One World Radio - Daybreak Sessions Channel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
 
-#EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
+#EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="Radio",TOPradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="",TVL
