@@ -876,6 +876,9 @@ https://s2.citrus3.com:8304/stream?type=.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stFPdY1.jpg" group-title="",Radio Country Acadienne
 http://151.80.44.127:8293/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="",DJMIX.CA
+https://azct1.cheapazuracast.xyz/radio/8060/radio.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNP5wjo.jpg" group-title="",★★★★★★★★★★ChroniX★★★★★★★★★★
 0.0.0.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihnR33t.png" group-title="",ChroniX | Radio
