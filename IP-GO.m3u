@@ -13,6 +13,12 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpwlTKp.png" group-title="",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VMTLb5.png" group-title="",CLASSIQUE TV Cult Movies
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZu12CR.png" group-title="",CLASSIQUE TV Cinema Noir
+https://stmv1.srvif.com/classiquen/classiquen/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwjE4c7.png" group-title="",CLASSIQUE WESTERN
 https://stmv1.srvif.com/classique2/classique2/playlist.m3u8
 
@@ -21,6 +27,9 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/inDyrJ6.png" group-title="",GOSPEL CARTOON TV
 https://stmv1.srvif.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWZPsLf.jpg" group-title="",GOSPEL MUSIC SHOWS
+https://stmv1.srvif.com/gmusic2/gmusic2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LWZPsLf.jpg" group-title="",GOSPEL MUSIC TELEVISION
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
