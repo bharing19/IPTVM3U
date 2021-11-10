@@ -474,10 +474,6 @@ https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Youtube France Live en triage[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
-# https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA
-EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=CIC87bQ7CVA
-
 # https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA
 EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="Anime",Barbie Français (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ngYU2ftBPd4
@@ -718,6 +714,17 @@ plugin://plugin.video.youtube/play/?channel_id=UCMkQQZsNdRVZ3N7Oj6jVnyg&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg/live
 #EXTINF:-1 tvg-name="AstrocenterTV" tvg-logo="https://i.imgur.com/J7kdtWw.png" group-title="",AstrocenterTV 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg/live
+
+# https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=CIC87bQ7CVA
+# https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0XkRJqxFGeZTta1OUqq3fw&live=1
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw/live
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw/live
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
