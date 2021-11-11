@@ -127,6 +127,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixsSXBy.png" group-title="",CNN Philippines - Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w36527446.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQI8SnK.png" group-title="",CVM TV - Jamaica
+https://api.new.livestream.com/accounts/28804553/events/8882602/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BECWTyh.jpg" group-title="",CVR News - India (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo1SikMuMQ1jDQBwO9N0ocA/live
 
@@ -178,6 +181,15 @@ https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja4ofUz.jpg" group-title="",India Today - India
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars The Alex Jones Show - USA
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars War Room - USA
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 # https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOMgZvF.png" group-title="",JoyNews - Ghana (STK)
@@ -236,14 +248,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/playlist.m3u8?p=samsu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2VbU3w.jpg" group-title="",One America News - USA
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars The Alex Jones Show - USA
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars War Room - USA
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m8LloCA.jpg" group-title="",Pluto TV News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L357mjp.gif" group-title="",Press TV - Iran
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
@@ -288,6 +294,15 @@ https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.smashmalta.com/Icons/1080news.png" group-title="",Smash 7 News - Malta
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
+
+# https://www.twitch.tv/startvtanzania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="",StarTv Tanzania (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=startvtanzania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="",StarTv Tanzania (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/startvtanzania
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGOpnyW.png" group-title="",Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCT1iE4.png" group-title="",Talk Radio TV 
 https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
@@ -415,6 +430,9 @@ https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rl4nROp.png" group-title="",DeFinance
 https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbDOQsS.png" group-title="",ET Now - India
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LrGBkOh.png" group-title="",Fat Pig Signals Trading Live : Bitcoin Live Algorithm and Cryptocurrency (STK)
 plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live
@@ -463,6 +481,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9voNLQa-0dTZ
 
 #EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="",StockCharts TV
 https://iptv-all.lanesh4d0w.codes/united-states/stockchartstv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwMBiKJ.png" group-title="",TastyTrade - USA
+https://bcovlive-a.akamaihd.net/r85c9d6fdf4a549089fcbd16f45b4cf3a/us-west-2/6057994532001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="",TD Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
