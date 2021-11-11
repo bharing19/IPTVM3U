@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 21/11/03
+#EXTINF:-1 ,update 21/11/11
 0.0.0.0
 
 
@@ -177,6 +177,12 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp01a-9c9
 EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
 
+# https://www.breakfasttelevision.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5si41TF.png" group-title="",Breakfast Television (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrygFy9ZCNFrR3vtElhXaJg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5si41TF.png" group-title="",Breakfast Television (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrygFy9ZCNFrR3vtElhXaJg/live
+
 # https://cable14now.com/live-streams/
 # https://cable14now.com/live-streams/video/?videoId=104
 EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1 (TK)
@@ -194,6 +200,12 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+
+# https://www.canadian-museums.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddnQl1m.jpg" group-title="",Canadian Museums TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5oLtIrghupa0H38cU2YUWw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddnQl1m.jpg" group-title="",Canadian Museums TV (SLT)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5oLtIrghupa0H38cU2YUWw/live
 
 # https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ
 EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT) (OffLine)
@@ -243,10 +255,14 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (t
 # https://www.chch.com/live/
 EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (Token)
 
-
 # https://www.cheknews.ca/live-news-british-columbia/
 EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",Cheknews (News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://iptv-all.lanesh4d0w.codes/canada/chek-news
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (YT) (c_id)(not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC_J7-3J3yJPhIBMbPlo4o0w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (SLT)(not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_J7-3J3yJPhIBMbPlo4o0w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Toronto
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
@@ -258,7 +274,6 @@ https://citynewsregional-i.akamaihd.net/hls/live/553720/CityNews-Montreal/master
 https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CITY TV
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
@@ -388,6 +403,11 @@ https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1495472612.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2NVXjc.png" group-title="",NET TV Toronto (OPT-2)
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (SLT)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwh4LBW-FLuLVjD92NL-Cpw/live
+
 # http://watch.northbaytv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0pvnOZf.png" group-title="",Northbay tv
 http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -484,9 +504,10 @@ https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",wcgtv Pub Sessions
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
-# https://whl.ca/whllive
-EXTINF:-1 tvg-logo="https://i.imgur.com/didwYeQ.png" group-title="",WHL
-0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (SLT)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
 
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
@@ -505,6 +526,11 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV (OPT-2)
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (YT) (c_id)(not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCm79XEl3myfkTROlWkwgYKQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (SLT) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm79XEl3myfkTROlWkwgYKQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV
 http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
