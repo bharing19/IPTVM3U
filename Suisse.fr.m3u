@@ -196,6 +196,10 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://www.blick.ch/video/
+#EXTINF:-1 tvg-id="Blick.ch" tvg-name="Blick CH" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9G37gn9.png" group-title="",Blic TV
+https://bcovlive-a.akamaihd.net/985edbdde34c4a6b8a9679609fdd22f8/eu-central-1/4772533039001/3aee249144a84c0c865010baa0fd02f1/playlist_dvr_ssaiM.m3u8?
+
 # http://elittv.ch/index.php
 #EXTINF:-1 tvg-id="Elittv.ch" tvg-name="ELIT TV CH" tvg-logo="https://i.imgur.com/VuuPjOZ.png" group-title="",Elit Tv (720p)
 http://source2.primetime.ch:2981/play/elittv/index.m3u8
@@ -258,9 +262,9 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_dfdx
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_dfdxqb3w/tl/main/st/0/t/10NcUn3xOgel-Y8Yzz6J0A/index-s32.m3u8
 
 # https://radio3i.ch/diretta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Radio",Radio 3i (Adaptative)
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-name="Radio3i CH" tvg-country="CH" tvg-language="Italian" tvg-logo="https://radio3i.ch/assets/images/logo3i.png" group-title="Music",Radio3i (Adaptative)
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Radio",Radio 3i (720p)
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-name="Radio3i CH" tvg-country="CH" tvg-language="Italian" tvg-logo="https://radio3i.ch/assets/images/logo3i.png" group-title="Music",Radio3i (720p)
 https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8
 
 # https://radio.argovia.ch/shows/blick-ins-argovia-studio-131499687
