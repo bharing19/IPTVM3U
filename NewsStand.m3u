@@ -48,8 +48,7 @@ https://bbc.newscdn.org/vcwGGW1UplYsEbWdyolrLg==,1634613178/LS-ATL-54548-6/index
 plugin://plugin.video.youtube/play/?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="",BeritaSatu - Indonesia
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -361,8 +360,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
 
 #EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797033/content/1625681252387_tv_ch_256X256_World_News.png" group-title="",Video Elephant World News
 https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-VidElephantWorldNews/playlist.m3u8
