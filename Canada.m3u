@@ -161,6 +161,7 @@ https://6ec0e0181a60431a899f1aae5e76a016.mediatailor.us-east-1.amazonaws.com/v1/
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",More Live Channel Can Be found in TVTAP and Livenet Addons
 0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
@@ -259,9 +260,9 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (Token)
 EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",Cheknews (News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://iptv-all.lanesh4d0w.codes/canada/chek-news
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (YT) (c_id)(not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (YT) (c_id) (not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UC_J7-3J3yJPhIBMbPlo4o0w&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (SLT)(not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (SLT) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_J7-3J3yJPhIBMbPlo4o0w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Toronto
@@ -307,6 +308,12 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV sound only
 https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/manifest.m3u8
+
+# https://www.youtube.com/user/ccacurling/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 
 #https://www.cvtv.org/livefeed/21
 #EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 21
