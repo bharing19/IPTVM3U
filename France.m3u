@@ -1915,28 +1915,46 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="régionale",TV3v (OPT-2)
 https://tv3v.live-kd.com/live/tv3v/livestream/chunklist_w1537066310.m3u8
 
-# 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DpyP5jm/TV5Style.png" group-title="",TV5MONDE FBS (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/37-TV5MONDEFBS/37-TV5MONDEFBS.php
 
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.ibb.co/DpyP5jm/TV5Style.png" group-title="France",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
+#EXTINF:-1 tvg-ID="TV5MondeAsie.fr" tvg-name="TV5Monde Asie FR" tvg-language="French" tvg-logo="https://i.imgur.com/9eQvHeK.jpg" group-title="", TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8?|X-Forwarded-For=203.116.221.170
+
+#EXTINF:-1 tvg-ID="TV5MondeFBS.fr" tvg-name="TV5Monde France Belgique Suisse (FBS) FR" tvg-language="French" tvg-logo="https://i.imgur.com/PlWmvLT.jpg" group-title="",TV5 Monde France Belgique Suisse
+http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_1.m3u8?|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="TV5Monde Europe FR" tvg-language="French" tvg-logo="https://i.imgur.com/JDyFqjW.jpg" group-title="", TV5 Monde Europe
+https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8?|X-Forwarded-For=31.3.228.238
+
+# https://live.tv5monde.com/infoplus.html
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5 Monde Info (OPT-2)
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5 Monde Info (OPT-3)
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-ID="TV5MondePacifique.fr" tvg-name="TV5Monde Pacifique FR" tvg-language="French" tvg-logo="https://i.imgur.com/Sf0WhY0.jpg" group-title="",TV5 Monde Pacifique
+https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8?|X-Forwarded-For=101.102.235.71
+#EXTINF:-1 tvg-ID="TV5MondePacifique.fr" tvg-name="TV5Monde Pacifique FR" tvg-language="French" tvg-logo="https://i.imgur.com/Sf0WhY0.jpg" group-title="",TV5 Monde Pacifique (Korea)
+https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8?|X-Forwarded-For=203.116.221.170
+#EXTINF:-1 tvg-ID="TV5MondePacifique.fr" tvg-name="TV5Monde Pacifique FR" tvg-language="French" tvg-logo="https://i.imgur.com/Sf0WhY0.jpg" group-title="",TV5 Monde Pacifique (Japan)
+https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8?|X-Forwarded-For=203.116.221.170
+#EXTINF:-1 tvg-ID="TV5MondePacifique.fr" tvg-name="TV5Monde Pacifique FR" tvg-language="French" tvg-logo="https://i.imgur.com/Sf0WhY0.jpg" group-title="",TV5 Monde Pacifique (English)
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8?|X-Forwarded-For=203.116.221.170
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5 Monde Style FR" tvg-language="French" tvg-logo="https://i.imgur.com/eQ8PkNP.png" group-title="",TV5 Monde Style
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8?|X-Forwarded-For=203.116.221.170
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5 Monde Style FR" tvg-language="French" tvg-logo="https://i.imgur.com/eQ8PkNP.png" group-title="",TV5 Monde Style (Sub-English)
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8?|X-Forwarded-For=203.116.221.170
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5 Monde Style FR" tvg-language="French" tvg-logo="https://i.imgur.com/eQ8PkNP.png" group-title="",TV5 Monde Style (Sub-Chinese)
+https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8?|X-Forwarded-For=203.116.221.170
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5 Monde Style FR" tvg-language="French" tvg-logo="https://i.imgur.com/eQ8PkNP.png" group-title="",TV5 Monde Style (Sub-Taiwan)
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8?|X-Forwarded-For=203.116.221.170
+
+EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name=" TV5" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" tvg-country="FR"  group-title="",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 
 #  https://www.dailymotion.com/video/x3wqv8b http://8montblanc.fr/le-direct/
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-name="8 Mont-Blanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="régionale",TV8 Montblanc (DM)
