@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 21/11/11
+#EXTINF:-1 ,update 21/11/20
 0.0.0.0
 
 
@@ -249,6 +249,11 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 # https://www.cbc.ca/player/play/1866224707562
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thAavMy.png" group-title="News",CBC The National (new stream at 9:00pm EDT)
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMGwB0O.jpg" group-title="Sport",CBC OC Olympic Channel (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://link.theplatform.com/s/ExhSPC/I4J5_4HlEuaO/meta.smil?feed=CBC%20Gem%20Live%20Linear%20-%20PROD&manifest=m3u&format=smil&mbr=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMGwB0O.jpg" group-title="Sport",CBC OC Olympic Channel (STK)
+plugin://plugin.video.sendtokodi/?http://link.theplatform.com/s/ExhSPC/I4J5_4HlEuaO/meta.smil?feed=CBC%20Gem%20Live%20Linear%20-%20PROD&manifest=m3u&format=smil&mbr=true
 
 # https://cfjctoday.com/streaming/ https://view.vzaar.com/playlists/14389
 EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
