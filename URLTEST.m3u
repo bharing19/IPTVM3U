@@ -2,9 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="",TEST
-plugin://plugin.video.youtube/channel/UCS3tQ9kjiBJqTz0SkZAsSuQ
+plugin://plugin.video.youtube/channel/UCS3tQ9kjiBJqTz0SkZAsSuQ/
 #EXTINF:-1 tvg-logo="" group-title="",TEST 2
-plugin://plugin.video.youtube/user/toutv
+plugin://plugin.video.youtube/user/toutv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wr4Exr7.png" group-title="",Bitwave.tv
 0.0.0.0
