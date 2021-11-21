@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="",LIST TEST RAW
-https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/NewsStand.m3u
-#EXTINF:-1 tvg-logo="" group-title="",LIST TEST REG
-https://github.com/Sphinxroot/IPTVM3U/blob/master/NewsStand.m3u
+#EXTINF:-1 tvg-logo="" group-title="",TEST
+plugin://plugin.video.youtube/channel/UCS3tQ9kjiBJqTz0SkZAsSuQ
+#EXTINF:-1 tvg-logo="" group-title="",TEST 2
+plugin://plugin.video.youtube/user/toutv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wr4Exr7.png" group-title="",Bitwave.tv
 0.0.0.0
