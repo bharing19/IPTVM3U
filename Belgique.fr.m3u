@@ -4,11 +4,17 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
-#EXTINF:-1 ,Update  21/11/04
+#EXTINF:-1 ,Update  21/11/22
 0.0.0.0
 
 #EXTINF:-1 tvg-id="AB3.be" tvg-name="AB 3 BE" tvg-logo="https://i.imgur.com/uUsU7ho.jpg" group-title="généraliste",AB3 (720p)
 http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+
+# https://www.twitch.tv/afm_radiolive http://www.afm-radioamay.be/
+#EXTINF:-1 tvg-logo="http://www.afm-radioamay.be/_frame/extra-small-logo-final-couleur-min.png" group-title="Radio",AFM Radio (106.3 FM) (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=afm_radiolive
+#EXTINF:-1 tvg-logo="http://www.afm-radioamay.be/_frame/extra-small-logo-final-couleur-min.png" group-title="Radio",AFM Radio (106.3 FM) (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/afm_radiolive
 
 # https://www.antennecentre.tv/ 
 #EXTINF:-1 tvg-id="AntenneCentre.be" tvg-name="Antenne Centre BE" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" group-title="généraliste",Antenne Centre (adaptative)
@@ -70,6 +76,9 @@ https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8
 # https://www.twitch.tv/maxfmath https://www.maxfm.be/video/
 #EXTINF:-1 tvg-id="Maxfm.be" tvg-name="Max FM BE"  tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="Radio",Max FM 92.9 (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=maxfmath
+#EXTINF:-1 tvg-id="Maxfm.be" tvg-name="Max FM BE"  tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="Radio",Max FM 92.9 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/maxfmath
+
 
 # https://www.nrj.be/replay
 #EXTINF:-1 tvg-id="nrj.be" tvg-name="NRJ BE" tvg-logo="https://i.imgur.com/CDmCV2U.png" group-title="Radio",NRJ (Adaptative)
@@ -86,6 +95,8 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u
 # https://www.radiobonheur.be/bonheurtv-test/ https://www.twitch.tv/bonheurtv 
 #EXTINF:-1 tvg-id="RadioBonheur.be"  tvg-name="Radio Bonheur BE" tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="Radio",Radio BonheurTV 87.7 FM (1080p) (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=bonheurtv
+ #EXTINF:-1 tvg-id="RadioBonheur.be"  tvg-name="Radio Bonheur BE" tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="Radio",Radio BonheurTV 87.7 FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/bonheurtv 
 
 # https://www.radiocontact.be/live/
 #EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact BE" tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Radio",Radio Contact 102.2 FM Brussels (Adaptative)
@@ -104,10 +115,16 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMoJ66iMT0uf
 # https://www.twitch.tv/radioprimalive https://www.radioprima.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCDastT.png" group-title="Radio",Radio Prima (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=radioprimalive
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/PCDastT.png" group-title="Radio",Radio Prima(STK)
+plugin://plugin.video.sendtokodi/?ttps://www.twitch.tv/radioprimalive
 
-# https://www.ramdammusique.be/ https://www.twitch.tv/ramdammusique/
+
+# https://www.ramdammusique.be/ https://www.twitch.tv/ramdammusique
 #EXTINF:-1 tvg-id="RamdamMusique.be" tvg-name="RamdamMusique BE" tvg-logo="https://i.imgur.com/QRfY9ie.png" group-title="Radio",RamdamMusique (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
+#EXTINF:-1 tvg-id="RamdamMusique.be" tvg-name="RamdamMusique BE" tvg-logo="https://i.imgur.com/QRfY9ie.png" group-title="Radio",RamdamMusique (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/ramdammusique
+
 
 # https://www.twitch.tv/rfmhit https://www.twitch.tv/hitrfm
 EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="Radio",RFM Charleroi (TWITCH) (OFFLINE)
