@@ -331,8 +331,9 @@ https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
+# https://www.genesis360radiotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
-https://tna5.bozztv.com/Genesis360radio/index.m3u8|Referer=https://ssh101.com
+https://media.streambrothers.com:1936/8214/8214/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV (TT)
 plugin://script.module.7of9-live/play/659/play.pvr
@@ -366,7 +367,7 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 #EXTINF:1 tvg-id="GlobalNewsWinnipeg.ca" tvg-name="Global News Winnipeg" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/EyfpCkY.jpg" group-title="News",Global News Winnipeg (720p)
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUoz7bo.png" group-title="Local",Jess TV (Lethbridge) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUoz7bo.png" group-title="Local",Jess TV (Lethbridge) (720p) (OFFLINE)
 https://tna5.bozztv.com/jesstv/index.m3u8|Referer=https://ssh101.com/
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q
