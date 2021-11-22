@@ -5,6 +5,12 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+# https://www.twitch.tv/clarktvfr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPK9UV3.png" group-title="",clarktvfr (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=clarktvfr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPK9UV3.png" group-title="",clarktvfr (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/clarktvfr
+
 # https://www.twitch.tv/reptout
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HIq8pfc.jpg" group-title="",ReptOut (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=reptout
