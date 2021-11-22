@@ -5,6 +5,23 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+# https://www.twitch.tv/lesnumeriques
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRvPgHk.jpg" group-title="",lesnumeriques (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=lesnumeriques
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRvPgHk.jpg" group-title="",lesnumeriques (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lesnumeriques
+
+# https://www.twitch.tv/simpsonsvf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVF9nQb.jpg" group-title="",simpsonsVF (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=simpsonsvf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVF9nQb.jpg" group-title="",simpsonsVF (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/simpsonsvf
+
+# https://www.twitch.tv/brooklyn___99
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mypSHw.jpg" group-title="",série Brooklyn 99 (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=brooklyn___99
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mypSHw.jpg" group-title="",série Brooklyn 99 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/brooklyn___99
 
 # https://www.twitch.tv/samueletienne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHYvStp.jpg" group-title="",LaMatinéeEstTienne (TWITCH) (C_N)
