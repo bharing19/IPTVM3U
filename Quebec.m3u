@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/11/13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/11/24
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - national anthem of Quebec (YT)
@@ -45,7 +45,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/bellahdjel/live
 
-
 # https://savoir.tv/endirect
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="Educatif",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
@@ -60,7 +59,6 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire"
 plugin://plugin.video.youtube/play/?channel_id=UC0njl-y39pJOwd3iufK7RJQ&live=1
 EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
-
 
 # https://www.cpac.ca/fr/direct/
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (1080p) (Kodi Changez Param Audio)
@@ -198,7 +196,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNNsE_Xj2ndAA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (1080p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
-
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (Audio)
@@ -294,7 +291,6 @@ plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 
-
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
@@ -320,8 +316,16 @@ plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/dupontlematin
 
 # https://www.twitch.tv/tvctklive/ https://www.tvctk.com/en_direct.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="Communautaire",tvctk (TWITCH)  (non 24/7)
-plugin://plugin.video.twitch/?channel_id=137988294&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=tvctklive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
+
+# https://www.twitch.tv/quebecreveille
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=quebecreveille
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/quebecreveille
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH)
 plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
@@ -334,6 +338,12 @@ plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
 plugin://plugin.video.twitch/?mode=play&channel_name=sousecoute
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="Humour",SousEcoute (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sousecoute
+
+# https://www.twitch.tv/lestudioquebecois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=lestudioquebecois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lestudioquebecois
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="Radio",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
@@ -360,10 +370,6 @@ plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 # https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec. (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ivx9Q1wk0Bo
-
-# https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
-#EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=RsDywUsR438
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
