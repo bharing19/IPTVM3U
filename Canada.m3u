@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 21/11/20
+#EXTINF:-1 ,update 21/11/25
 0.0.0.0
 
 
@@ -382,8 +382,8 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCJI0dlZn0CiOjnS8MuKLFVA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/730zfnG.png" group-title="Legislative",Legislative Assembly British Columbia
 https://wowzaprod140-i.akamaihd.net/hls/live/840203/b36211f9/b36211f9_1_1229000/chunklist.m3u8
@@ -418,7 +418,7 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwh4LBW-FLuLVjD92NL-Cpw/live
 
 # http://watch.northbaytv.com/
@@ -470,8 +470,8 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UC_DweJsPH4mvcRU3aFwVtqg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -509,8 +509,8 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCGPPdIn67ZCLhhHABoQpNUw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",wcgtv
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
@@ -519,14 +519,14 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
 
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
-#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
+#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
 
 
 ##########
@@ -542,7 +542,7 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (YT) (c_id)(not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCm79XEl3myfkTROlWkwgYKQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (SLT) (not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm79XEl3myfkTROlWkwgYKQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV
@@ -567,12 +567,10 @@ https://5dd3981940faa.streamlock.net/awaznews/awaznews/chunklist_w442300692.m3u8
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 
 # https://www.youtube.com/channel/UCQ7qoIYMBBAatIUxioSxv8Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=0fzbgAZTz0Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCQ7qoIYMBBAatIUxioSxv8Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ7qoIYMBBAatIUxioSxv8Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXyhkUt.png" group-title="",BAPS Canada Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQ7qoIYMBBAatIUxioSxv8Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
@@ -636,12 +634,10 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 http://cdn.samtv.ca/hamdard/index.m3u8
 
 # https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (v_id) (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=wequd3_0Xm4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCGGJSYbYXtyy6T1oN-MU9bQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
@@ -651,9 +647,11 @@ https://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClXLCyy.png" group-title="",IBC Tamil TV Canada
 https://ibctamilcanada-origin.ibctamil.com/transcode/ibccanada.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixUSfk3.png" group-title="Canada",IC Net
-http://70.52.163.119:1935/ICNET/ngrp:my.stream_all/playlist.m3u8
-http://70.52.163.119:1935/ICNET/ngrp:my.stream_all/chunklist_w436009258_b3604247.m3u8
+# https://icnet.tv/
+#EXTINF:-1 tvg-id="ICnettv1.ca" tvg-name="ICnet tv 1" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/MmK1RDT.png" group-title="",iCNET 1
+https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ICnettv2.ca" tvg-name="ICnet tv 2" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/kmdLzzG.png" group-title="",iCNET 2 Academic
+https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
@@ -664,12 +662,11 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 plugin://plugin.video.youtube/play/?video_id=SCtxOSPVePw
 
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD-EXP)
-https://edge1.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1118049029_b1752070.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1zNXJuM2doazk3bGRqazh2aWwycnNvaXE3byZ1SUQ9MCZ1TmFtZT1HdWVzdDUyZGMx&id=HnU1Qrr8whBtrwfIBGPL
+EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD-EXP)
+
 
 # Update Link : http://itctv.ca/live/ #
-#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD-EXP)
-https://dcunilive89-lh.akamaihd.net/i/dclive_1@827634/master.m3u8?hdnea=st=1601731069~exp=1601731469~acl=/i/dclive_1@827634*~hmac=2b0a86b3ea34fd614d49018e9e82868214eab2bec44ff2b139814ec0fc2587e4
+EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD-EXP)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
