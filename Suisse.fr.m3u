@@ -4,6 +4,14 @@
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
 
+# https://www.clipmyhorse.tv/en_EU/fei-tv
+# https://www.youtube.com/channel/UCb3uedNKWKG7gGDYQJ1VsWg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTAO7fb.png" group-title="",FEI TV (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCb3uedNKWKG7gGDYQJ1VsWg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTAO7fb.png" group-title="",FEI TV (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCb3uedNKWKG7gGDYQJ1VsWg&live=2
+
+
 # https://www.youtube.com/channel/UCzLB2h38nyHSIaALzwtPvfg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBfBtGk.jpg" group-title="",24/7 LIVE | Webcams (YT)
 plugin://plugin.video.youtube/play/?video_id=XfnADfPnyIE
@@ -224,18 +232,18 @@ https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
 
 # https://www.handelsregister.tv/ https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT)
-plugin://plugin.video.youtube/play/?video_id=1dUAsKTPg7Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=&UC-LkziTVeh7uoG_PqjS015glive=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (720p) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=522040568&amp;mode=play
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=6sT4HAicsbQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV(YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7pVPkfQFqLa3asf8OGUcvA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA/live
 
 # https://kanal9.ch/direct/
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (Adaptative)
@@ -253,7 +261,7 @@ https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.s
 
 # https://www.musig24.tv/ https://livestream.com/accounts/16598383/events/8687407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24 (UPD)
-http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/222812044.m3u8
+http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/227667628.m3u8
 
 # https://www.radio24.ch/shows/radio-24-video-live-stream-131287047
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="Radio",Radio 24 102.8
@@ -268,7 +276,7 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8
 
 # https://radio.argovia.ch/shows/blick-ins-argovia-studio-131499687
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NdOdT0d.png" group-title="",Radio Argovia 90.3 FM Aarau (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/NdOdT0d.png" group-title="",Radio Argovia 90.3 FM Aarau (OFFLINE)
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TinWvGg.png" group-title="",Radio Pilatus TV
@@ -283,12 +291,9 @@ http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-id="Royal-TV.ch" tvg-name="Royal TV CH" tvg-logo="https://i.imgur.com/7U0ocaO.png" group-title="Music",Royal TV (720p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://royal-tv.ch/index.php
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT)
 plugin://script.module.7of9-live/play/724/play.pvr
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
 plugin://script.module.7of9-live/play/725/play.pvr
@@ -379,25 +384,19 @@ https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKk
 plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
 
 EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV (UDP)
-https://edge1.tikilive.com:8443/html5_tikilive/56544/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTU2NTQ0JmNOYW1lPUxhYmVsJTIwVFYlMjAxJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q0OThmNA==&id=eXi2JCAh1wLWJVRcAnsO
 
 EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV 2 (UDP)
-https://edge2.tikilive.com:8443/html5_tikilive/34778/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0Nzc4JmNOYW1lPUxhYmVsJTIwVFYlMjAyJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q4YmY1Yg==&id=_iGrklyc0YKwHntGAnse
 
 EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
-https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q3MDAzMg==&id=Ol-YcLxPRf0lcKWxAnsj
 
 # http://www.nettv.live/European/Switzerland/3942.html #
 EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
-https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w966065155_b756038.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0M2NjYQ%3D%3D&id=-YSCb9ULshH47ZiRAqDP
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 EXTINF:-1 tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
-https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1687245770_b1115112.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPWoyZW5kZXB1dHEyYWZ1MGh0dThzdWh0MGVzJnVJRD0wJnVOYW1lPUd1ZXN0N2UyNGI%3D&id=X9Cpe-Ig5H2MNUhiAqDF
 
 # update link : http://www.nettv.live/tv/view.php?aid=3943 #
 EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock (UDP)
-https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1184035176_b819678.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0NDkxNQ%3D%3D&id=5fgjM3MRxl_hsHCcAqDK
 
 # https://www.auftanken.tv/livestream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (NA) Token
