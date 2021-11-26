@@ -181,6 +181,26 @@ https://mia.rtsp.me/YTFxYwIQA35pBI9aDYbnjg/1630131579/hls/3yB3SNsr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L Islet-sur-Mer (1080p) (UPD)
 https://mia.rtsp.me/l2GdOvqLK7xMOUMOPv4UzA/1630131709/hls/7H9hbRNZ.m3u8
 
+# https://www.youtube.com/channel/UCBTEDJknS_R16IVvcX7kkrQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=9
+
 # https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
 plugin://plugin.video.youtube/play/?video_id=QGppPIIP5Yg
