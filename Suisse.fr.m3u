@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
@@ -204,6 +204,10 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_600_a-b.m3u8?sd=
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://www.alpen-welle.ch/live/
+#EXTINF:-1 tvg-id="Alpen-Welle.ch" tvg-name="alpen-welle" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lKofRLM.png" group-title="",Alpen-WelleTV
+https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
+
 # https://www.blick.ch/video/
 #EXTINF:-1 tvg-id="Blick.ch" tvg-name="Blick CH" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9G37gn9.png" group-title="",Blic TV
 https://bcovlive-a.akamaihd.net/985edbdde34c4a6b8a9679609fdd22f8/eu-central-1/4772533039001/3aee249144a84c0c865010baa0fd02f1/playlist_dvr_ssaiM.m3u8?
@@ -223,6 +227,10 @@ https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
 https://nesertv.live/DRITATV-5879/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",Drita TV (1080p)
 https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
+
+# https://energy.ch/energyTV
+EXTINF:-1 tvg-logo="" group-title="",Energy TV
+https://edge17.vedge.infomaniak.com/livecast/ik:energytv/manifest.m3u8?spark=4766da73-0d7c-4453-a916-91eb5c949c9c&token=
 
 # http://folx.tv/live/ http://www.centraltv.fr/music/folx-music-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
