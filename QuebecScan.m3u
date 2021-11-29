@@ -93,13 +93,18 @@ https://broadcastify.cdnstream1.com/12829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AchRfEE.png" group-title="", ★★★★★★★★★★ communication radio aeroport ★★★★★★★★★★
 0.0.0.0
 
+# https://www.youtube.com/channel/UCmJ5oRoAbKiTnKLx9chJ_lg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",Montreal CYUL Live ATC (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmJ5oRoAbKiTnKLx9chJ_lg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",Montreal CYUL Live ATC (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmJ5oRoAbKiTnKLx9chJ_lg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CYUL Approach/Departure
 https://s1-bos.liveatc.net/cyul_app?nocache=2021022115473949085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CYUL Approach/Departure
 https://s1-sjc.liveatc.net/cyul_app?nocache=2021022115502264495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CYUL Approach/Departure
 https://s1-fmt2.liveatc.net/cyul_app?nocache=2021022115504120782
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",CYUL De-icing Ops
 https://s1-fmt2.liveatc.net/cyul_ice?nocache=2021022115520159113
