@@ -4,61 +4,67 @@
 #EXTINF:-1 tvg-logo="http://www.giniko.com/images/logo.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR] World TV★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1163.png" group-title="Giniko USA", AF | Afghanistan
-https://gintna100.tulix.tv/gin_live/afghanistan/f850e334f9834e3f4f8d37b69ecd0ed9/60336751/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/310.jpg" group-title="Giniko USA",AF | ATN News (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=310
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/310.jpg" group-title="Giniko USA",AF | ATN News
-https://gintna100.tulix.tv/gin_live/atn-news/9537423f23dba41a900c5df5fb8c2af1/603367a1/index.m3u8
-#https://bozztv.com/36bay2/gin/giniko_atn_news_700kb_36bay2/index.m3u8
-#https://bozztv.com/36bay2/gin/giniko_atn_news_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/937.jpg" group-title="Giniko USA",AF | Pamir TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=937
 
-
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1165.jpg" group-title="Giniko USA",AF | Payam e Afghan TV
-https://gintna100.tulix.tv/gin_live/payam-e-afghantv/2d4e49458a32687be8d813edf0b03f5e/60285f5e/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/649.jpg" group-title="Giniko USA",AF | Tamadon
-https://gintna100.tulix.tv/gin_live/tamadon/56f496cf382bb151523532d56786de96/60286011/index.m3u8
-
-p://nimlive3.giniko.com/zhwandoon/zhwandoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDEwOjQ1OjQ0IFBNJmhhc2hfdmFsdWU9eFdvNEFFQ1FnT0IvMVBrS0tVOEJZdz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/649.jpg" group-title="Giniko USA",AF | Tamadon (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=649
 
 ######
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/328.png" group-title="Giniko USA",DZ | Canal Algerie
-https://gintna100.tulix.tv/gin_live/canalalgerie/1559d21046fa5649bb583e70ec418cae/60286137/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/328.png" group-title="Giniko USA",DZ | Canal Algerie (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=328
 
 ######
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/110.jpg" group-title="Giniko USA",AM | Kentron TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=110
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/970.jpg" group-title="Giniko USA",AM | Public Television of Armenia
-https://gintna100.tulix.tv/gin_live/1tvarm/815648efbff3a793464e055553badcdd/60286312/index.m3u8
-
-######
-
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1185.png" group-title="Giniko USA", BR | Band News
-https://gintna100.tulix.tv/gin_live/band-news-hd/4e5395b3b07eff2139b419b3352c6889/602b072c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1193.png" group-title="Giniko USA", BR | GLOBO
-https://gintna100.tulix.tv/gin_live/globo/938dd3c4f63ab6adc16e105ea68170eb/602b0743/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/970.jpg" group-title="Giniko USA",AM | Public Television of Armenia (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=970
 
 ######
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1185.png" group-title="Giniko USA", BR | Band News (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1185
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/297.png" group-title="Giniko USA",CN | CNC World
-https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/index.m3u8
-https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1193.png" group-title="Giniko USA", BR | GLOBO (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1193
 
 ######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/960.png" group-title="Giniko USA",CN | CCTV 4 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=960
+
+######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1229.png" group-title="Giniko USA",HR | CROTV HD (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1229
+
+######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1224.png" group-title="Giniko USA",DJ | RTD DJIBOUTI (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=1224
+
+######
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/675.jpeg" group-title="Giniko USA",FR | Giniko Euro News
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=675
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/15.jpeg" group-title="Giniko USA",FR | Giniko Fashion
-https://bozztv.com/36bay2/gin/giniko_fashiontv_800kb_36bay2/index.m3u8
-https://bozztv.com/36bay2/gin/giniko_fashiontv_800kb_36bay2/tracks-v1a1/mono.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=15
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/971.png" group-title="Giniko USA",FR | RTI1
-https://gintna100.tulix.tv/gin_live/cyctv/d0c3225a637006f13492877bf0ab3c47/60286482/index.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=971
 
 ######
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1107.png" group-title="Giniko USA",GE | 1 TV Ganatleba
 https://gintna100.tulix.tv/gin_live/2ndtv/ba1685cdf6ab795bfe251f71e08f16a4/602864a0/index.m3u8
