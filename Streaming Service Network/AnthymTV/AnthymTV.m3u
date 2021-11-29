@@ -1,9 +1,9 @@
 #EXTM3U
 
-# https://www.anthymtv.com/channels 
+# https://www.anthymtv.com/lineup
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEDobKB.png" group-title="",★★★★★★★★★★AnthymTV★★★★★★★★★★
-0.0.0.0
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Cranium/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 # https://www.anthymtv.com/americana
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PluABW9.png" group-title="Classics",Americanna Channel
