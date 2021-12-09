@@ -20,14 +20,12 @@ BBC <http://www.bbc.co.uk/>
   * Skip to local navigation <#blq-local-nav>
   * Accessibility Help <http://www.bbc.co.uk/accessibility/>
 
-
     BBC iD
 
 Sign in <https://ssl.bbc.co.uk/id/signin>
 
   * Settings <https://ssl.bbc.co.uk/id/settings>
   * Sign out <https://ssl.bbc.co.uk/id/signout>
-
 
     bbc.co.uk navigation
 
@@ -42,7 +40,6 @@ Sign in <https://ssl.bbc.co.uk/id/signin>
 Search term:
 
 Search
-
 
     More… <http://www.bbc.co.uk/a-z/>
 
@@ -66,13 +63,11 @@ Full A-Zof BBC sites <http://www.bbc.co.uk/a-z/>
 BBC R&D <http://www.bbc.co.uk/rd>
 MPEG DASH Test Media
 
-
   BBC DASH Testcard Stream
 
 1 hour on demand stream
 
 Return to main index <http://rdmedia.bbc.co.uk/>
-
 
     Description
 
@@ -94,7 +89,6 @@ also versions in the debugging section without events for use when
 testing other aspects of DASH playback in clients which do not yet
 support events.
 
-
       Video Representations
 
 Encoded frame size 	Frame rate 	Scan type 	Profile and level 	Approx
@@ -113,13 +107,11 @@ bitrate 	Representation ID
 1280x720 	50 	Progressive 	High 3.2 	5,072kbps 	1280x720p50
 1920x1080 	25 	Interlaced 	High 4.0 	8,060kbps 	1920x1080i25
 
-
       Audio Representations
 
 Encoding 	Sampling rate 	Number of channels 	Representation ID
 128 kbps AAC-LC 	48kHz 	2 	128kbps
 320 kbps AAC-LC 5.1 	48kHz 	5.1 	320kbps-5_1
-
 
     Main MPDs
 
@@ -135,14 +127,12 @@ representation.
   * MPD which contains only audio
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-audio.mpd>
 
-
     Additional variants for specific test scenarios
 
 The MPDs listed in this section use features which are not used in the
 above streams, but may be used in real scenarios for a variety of
 reasons. These streams should all play correctly in the same way as the
 main MPDs, unless specifically noted.
-
 
       Streams with events in the audio representations
 
@@ -160,7 +150,6 @@ same inband events are present in both audio and video representations.
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-nosurround-ctv-events_on_both.mpd>
   * MPD containing only a stereo audio representation with inband events
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-audio-events.mpd>
-
 
       Streams with presentationTimeOffset values
 
@@ -185,7 +174,6 @@ to 00:20:01:23 and audio and video should be aligned correctly.
   * MPD with audio - with presentation time offset on that audio track
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-pto_audio.mpd>
 
-
       Streams with only relative BaseURLs and MPD redirects
 
 The first stream here contains only relative BaseURLs in the MPD - this
@@ -206,7 +194,6 @@ have followed the redirect and then the player will not be tested).
   * MPD which uses a redirect to the above MPD (ensure you copy this
     link to provide to a DASH player)
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/deadend/client_manifest-nosurround-ctv-relative.mpd>
-
 
       Streams with multiple language components
 
@@ -241,7 +228,6 @@ were given by people speaking different languages.
     per language)
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-nosurround-ctv-multimainlang.mpd>
 
-
     Additional variants for debugging purposes
 
 Some additional formats and MPDs are available to assist in the
@@ -249,7 +235,6 @@ debugging of clients. These reduce the features used to make it easier
 to identify what is causing problems for a client. However, as a result
 of these changes, these do not represent streams which would be used in
 a real service.
-
 
       Streams without events
 
@@ -262,7 +247,6 @@ not supporting events.
   * MPD without events and with representations intended for Connected
     TV clients
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-ctv.mpd>
-
 
       Streams with only stereo audio
 
@@ -278,7 +262,6 @@ client not supporting two audio adaptation sets.
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-nosurround-ctv.mpd>
   * MPD which contains only stereo audio
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-audio-nosurround.mpd>
-
 
       Streams without DVB extensions
 
@@ -305,7 +288,6 @@ This option does not include DVB specified extensions within the MPD.
     representations intended for Connected TV clients
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-nosurround-ctv-nodvb.mpd>
 
-
       Streams without the interlaced representation
 
 This option contains video representations intended for Connected TV
@@ -324,7 +306,6 @@ devices, but excluding the 1920x1080i25 representation.
   * MPD without surround sound or events or 1920x1080i25
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-nosurround-nointerlace.mpd>
 
-
       Streams with only one video and one audio representation
 
 This option has only a 1280x720p50 video representation and a stereo
@@ -339,7 +320,6 @@ audio representation.
   * MPD with 1 audio and 1 video representation wihtout DVB extensions
     or events
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-720p-stereo-nodvb.mpd>
-
 
       Streams with 1kHz audio test tone
 
@@ -367,11 +347,9 @@ cause such errors.
   * MPD with a 1kHz tone audio representation
     <http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-audio-1kHz.mpd>
 
-
     Contact
 
 For enquiries please email: dash@rd.bbc.co.uk <mailto:dash@rd.bbc.co.uk>
-
 
     Change History
 
@@ -383,7 +361,6 @@ Added missing maxSegmentDuration attribute to MPD elements.
 Added streams with only one representation per adaptation set.
 Added streams with events in audio representations.
 27/10/2014	Initial release.
-
 
     BBC links
 
@@ -410,59 +387,3 @@ Read more. <http://www.bbc.co.uk/help/web/links/>
 in your current browser, you will not be able to get the full visual
 experience. Please consider upgrading your browser software or enabling
 style sheets (CSS) if you are able to do so.*
-
-Hauteur maximale : 20 sur 26
-Masquer la barre de téléchargement
-Ctrl + Shift + Z = Afficher/Masquer la barre de téléchargement
-Téléchargements
-Gestionnaire de téléchargements (S3)
-Retirer
-Clic gauche : Retirer les téléchargements terminés
-Clic droit : Annuler le dernier retrait
-100%
-Historique
-La liste de téléchargement est vide
-playlist(38).m3u8
-Inc.
-Inc.
-1 Kio
--.--
-playlist(38).m3u8
-Source:
-	
-De :
-	
-Vers :
-	
-C:\Users\Usager\Downloads\playlist(38).m3u8
-État :
-	
-1 Kio / Valeur inconnue ( -.-- )
-Taille du fichier :
-	
-1 Kio
-Analyse de l'antivirus :
-	
-Horaire de démarrage :
-	
-2021.09.09 - 01:54:03
-Durée du téléchargement :
-	
-00:04
-Temps restant :
-	
-Valeur inconnue
-Progression :
-	
-Valeur inconnue
-Vitesse moyenne :
-	
-342 octets/s
-
-Double-clic de souris : mettre en pause/reprendre le téléchargement
-Clic milieu de souris : annuler le téléchargement
-Double-clic de souris : ouvrir le fichier
-Double-clic de souris + Ctrl : ouvrir le répertoire
-Clic milieu de souris : retirer de la liste
-Clic milieu de souris + Ctrl : supprimer du système
-Appui sur un bouton de la souris + Ctrl : glisser & déposer
