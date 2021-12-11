@@ -65,7 +65,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeD5NwvPbEZKc
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrvIy-EG4lB7w/live
 
 
-
+# https://www.watchdigitv.com/watch-live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHg9ydf.png" group-title="",Digi-TV
+https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
