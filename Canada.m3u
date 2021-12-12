@@ -284,6 +284,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CITY TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrLVNXE.png" group-title="",CP24
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CP24H_AtopItci_2015_01_12_HD/hls_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
@@ -307,6 +309,9 @@ plugin://script.module.7of9-live/play/691/play.pvr
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV News
+http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
@@ -476,6 +481,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_DweJsPH4mvc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network
+http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network (OPT-2)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
@@ -492,6 +499,8 @@ plugin://script.module.7of9-live/play/235/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",TSN 4 (TT)
 plugin://script.module.7of9-live/play/412/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5
+http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5 (TT)
 plugin://script.module.7of9-live/play/413/play.pvr
 
