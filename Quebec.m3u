@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/11/24
-0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/12/13
+plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - national anthem of Quebec (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
@@ -54,12 +54,6 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
 
-# https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ
-EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre  (c_id) (YT)
-plugin://plugin.video.youtube/play/?channel_id=UC0njl-y39pJOwd3iufK7RJQ&live=1
-EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
-
 # https://www.cpac.ca/fr/direct/
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (1080p) (Kodi Changez Param Audio)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
@@ -93,6 +87,12 @@ https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 plugin://plugin.video.twitch/?mode=play&channel_name=djmixradio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/djmixradio
+
+# https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqBkf3j.jpg" group-title="Religion",Église de la Victoire (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCY3_KU8qXQeNnPQ_YHI00mw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqBkf3j.jpg" group-title="Religion",Église de la Victoire (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live
 
 # https://emcitv.com/direct/
 #EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
@@ -225,6 +225,12 @@ https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
 
+# https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (YT) (c_id) (non 24/7)
+plugin://plugin.video.youtube/play/?channel_id=&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ/live
+
 # https://seletlumieretv.org/endirect/?muid=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
@@ -354,6 +360,12 @@ plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red](OFFLINE)[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre  (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UC0njl-y39pJOwd3iufK7RJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
+
 # http://www.ctrb.tv/CTRB-en-direct.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJeNba.jpg" group-title="Communautaire",CTRB  (OFFLINE)
 http://unifi.fleetinfo.info:1935/CTRB/myStream/playlist.m3u8
@@ -366,10 +378,6 @@ plugin://plugin.video.youtube/play/?video_id=kdei8o0LcJg
 plugin://plugin.video.youtube/play/?video_id=_6_7wGYj2E4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
-
-# https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec. (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=ivx9Q1wk0Bo
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
