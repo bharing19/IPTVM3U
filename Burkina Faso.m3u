@@ -4,9 +4,9 @@
 plugin://plugin.video.youtube/play/?video_id=DzzPfNLJ4hY
 
 # https://www.twitch.tv/3tvbf https://3tv.bf/index.php/le-direct
-#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (TWITCH) (C_N) [Not 24/7]
+#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (TWITCH) (C_N) (Non 24/7)
 plugin://plugin.video.twitch/?mode=play&channel_name=3tvbf
-#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (STK)
+#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/3tvbf
 
 # https://bf1.tv/
@@ -24,7 +24,7 @@ https://edge7.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 
 # https://www.twitch.tv/elbetheltv https://www.mbiie.net/el-bethel-tv/
-#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (TWITCH) (C_N)
+#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (TWITCH) (C_N) (Non 24/7)
 plugin://plugin.video.twitch/?mode=play&channel_name=elbetheltv
-#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (STK)
+#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/elbetheltv
