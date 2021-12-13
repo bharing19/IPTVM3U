@@ -88,11 +88,11 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://strfla72.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
 # https://www.rti.ci/
-#EXTINF:-1 tvg-id="rti1.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title=""RTI 1
+#EXTINF:-1 tvg-id="rti1.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rti2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title=""RTI 2 (OFFLINE)
+#EXTINF:-1 tvg-id="rti2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 2 (OFFLINE)
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rti3.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title=""RTI 3 (OFFLINE)
+#EXTINF:-1 tvg-id="rti3.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 3 (OFFLINE)
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRCI.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_radioci_gris.png" group-title="",Radio RCI (OFFLINE)
 https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
