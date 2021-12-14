@@ -174,10 +174,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1800000=5-mp4a_65200_fra=1.m3u8
 
 
-# https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=hIhzg0sqYFk
-
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/qJ4ykc8.png" group-title="",GC TV
 https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 
@@ -335,10 +331,6 @@ https://5dcabf026b188.streamlock.net/mrcompas2/planet/chunklist_w1880315901.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-
-# https://www.youtube.com/channel/UCCGUxmYh-xFp2o3zo2Ow8WA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UJKO70.png" group-title="",Radio Gabon (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=9UGvh6VNYbI
 
 # https://www.tv2vie.org/television-yt/ https://www.youtube.com/channel/UCuccXjjXi06oaSdAyznqUjQ #
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2VIE (YT) (UPD)
