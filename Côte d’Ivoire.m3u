@@ -106,3 +106,14 @@ https://video1.getstreamhosting.com:1936/8858/8858/playlist.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7t0ln7&mode=playLiveVideo
 #EXTINF:-1 tvg-id="SurnaturelTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/wCs0j42.jpg" group-title="",Surnaturel TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7t0ln7
+
+# http://tchamantv.atwebpages.com/Live.html https://www.tchamantv.ci/
+#EXTINF:-1 tvg-id="Tchamantv.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/E7TOm10.png" group-title="",TCHAMAN TV
+http://207.180.246.101:1935/live/smil:myStream.smil/playlist.m3u8
+http://207.180.246.101:1935/live/smil:myStream.smil/chunklist_w274234037_b978000_sleng.m3u8
+
+
+# https://www.aplusivoire.ci/live GEO
+# https://www.7info.ci/
+# https://www.facebook.com/tvalbayane/
+# IvoireTv music https://www.youtube.com/channel/UCRIdBk9om8sDozNEVJeCbTg
