@@ -10,9 +10,9 @@ EXTINF:-1 tvg-id="-" tvg-name="-" tvg-country="GA" tvg-language="French" tvg-log
 0.0.0.0
 
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw
-#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-country="GA" tvg-language="French" tvg-logo="" group-title="",Gabon 24 (YT) (c_id)
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-country="GA" tvg-language="French" tvg-logo="https://i.imgur.com/jDzAqTm.png" group-title="",Gabon 24 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC7E__Dp9FSIgt6iMa5_uvlw&live=1
-#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-country="GA" tvg-language="French" tvg-logo="" group-title="",Gabon 24 (STK)
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-country="GA" tvg-language="French" tvg-logo="https://i.imgur.com/jDzAqTm.png" group-title="",Gabon 24 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw/live
 
 # https://www.youtube.com/channel/UCE9sfwXdK8rsK24gBIZXWFg http://www.gabonews.com/spip.php?page=live
