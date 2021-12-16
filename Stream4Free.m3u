@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]TEST UPD Chaque jours[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yMqaUr.png",★★★★★★★★★★[COLOR blue]La Maj Des Liens Doivent Etre Fait Chaque jours , Mais par Manque de temps il Possbible quils ne le soient pas[/COLOR]★★★★★★★★★★
 0.0.0.0
 # https://www.stream4free.live/tv-live-france
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kx7pO3C.png" group-title="",★★★★★★★★★★Stream4Free : LIve TV★★★★★★★★★★
@@ -101,3 +101,66 @@ https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c115265
 https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/futurama-fr.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmQf8gK.jpg" group-title="",That 70 Show
 https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/70show.m3u8|User-Agent=stream
+# https://www.stream4free.live/tv-show-series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kx7pO3C.png" group-title="",★★★★★★★★★★Stream4Free : TV Show Anglais★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xocq96c.jpg" group-title="",Family Guy
+https://sv7.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/familyguy.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEu9sLk.jpg" group-title="",South Park
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/spark.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s5vdbzW.jpg" group-title="",Simpsons
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/simpsons.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9CDsbq.gif" group-title="",American Dad
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/americanxxx.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBmzQRf.jpg" group-title="",Friends
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/friends.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhE5uhN.jpg" group-title="",Futurama
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/xfuturama.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5OfQLI.jpg" group-title="",The Office
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/theoffice.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrUd4GT.png" group-title="",Seinfeld
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/seinfeld.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMBqBgh.jpg" group-title="",The Big Bang Theory
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/tbbangtheory.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6Vp9kq.jpg" group-title="",Bobs Burgers
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/s4fbobsburger.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9mRVyI.jpg" group-title="",Always Sunny
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/sunny.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjdpLCm.png" group-title="",How I Met Your Mother
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/himym.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eMpm0f.jpg" group-title="",King Of The Hill
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/kinghillhxd.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pCgzojX.jpg" group-title="",Rick And Morty
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/rick.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rwzzUU.png" group-title="",Games Of Thrones
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/gamehd.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QM7qpa8.jpg" group-title="",Archer
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/archerxhd.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMl8vkt.jpg" group-title="",Breaking Bad
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/s4fbreakxbad.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6B2ipR.jpg" group-title="",Greendale College
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/community.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91v362.jpg" group-title="",Adventure Time
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/adventure.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRYHaX4.jpg" group-title="",House
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/house.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A97LKzV.jpg" group-title="",Son Of Anarchy
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/sonsofanarf4.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8iz1wh.jpg" group-title="",Scrubs
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/scrubs.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2vXolL.jpg" group-title="",The Cleveland Show
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/xxcleveland.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdTQ7c3.jpg" group-title="",Aqua Teen Hunger Force
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/aquasx.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IijQJtQ.jpg" group-title="",Workaholics
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/workaholics.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7pj9HF.jpg" group-title="",The Walking Dead
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/xxwalkingdead.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSoZXt1.png" group-title="",Malcolm In The Middle
+https://sv2.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/malcolm.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T99YfO9.jpg" group-title="",Brickleberry
+https://sv2.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/brickleberry.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlOaeZw.jpg" group-title="",Poker Stream
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/xpokerhd.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNWlUzm.jpg" group-title="",Triptank
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/triptank.m3u8|User-Agent=stream
