@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]TEST UPD Chaque jours[/COLOR]★★★★★★★★★★
+0.0.0.0
+# https://www.stream4free.live/tv-live-france
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kx7pO3C.png" group-title="",★★★★★★★★★★Stream4Free : LIve TV★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LPUvii.png" group-title="",Arte
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/artefrance.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmbESQA.jpg" group-title="",BMFTV
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/bfmwc.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppnYsLu.png" group-title="",C8
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/d8france.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUjSxHf.jpg" group-title="",CNEWS
+https://sv10.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/cnewsfr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqEiM3e.jpg" group-title="",CSTAR
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/cstarfrance.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DR1jAB5.jpg" group-title="",Euronews
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/euroinfos.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtogeWq.png" group-title="",France 2
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/francetv2.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zjob0KJ.png" group-title="",France 3
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/france3.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOvyeTs.png" group-title="",France 4
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/france4.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR4yKFU.png" group-title="",France 5
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/france5.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mAWCGny.png" group-title="",France24
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/france24.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqtQurH.png" group-title="",L Equipe 21
+https://sv7.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/lequipe.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0jSlp9.jpg" group-title="",LCI
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/lci.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1d8qVva.png" group-title="",M6
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/m6france.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9O0Ewu.jpg" group-title="",National Geographic
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/natgeo.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xf1zwZH.jpg" group-title="",NRJ12
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/nrj12fr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHQ9UCr.jpg" group-title="",Public Senat
+https://sv10.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/lachainep.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FIS9Cy.jpg" group-title="",TF1
+https://sv7.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/tf2-HD.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryJLFDD.png" group-title="",TF1 Series
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/hd1.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JssKyjB.png" group-title="",TFX
+https://sv7.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/tfx.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuMFxO7.png" group-title="",TMC
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/tmc.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mt0SaOZ.jpg" group-title="",RMC DECOUVERTE
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/rmc.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgvBKwr.jpg" group-title="",RMC Story
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/numero23.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aycIfAL.png" group-title="",TV5 Monde
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/tv5.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDVxPhv.jpg" group-title="",W9
+https://sv1.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/w9france.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kx7pO3C.png" group-title="",★★★★★★★★★★Stream4Free : Series★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhGcEWV.png" group-title="",Stargate
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/stargate.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUxBipf.jpg" group-title="",Kaamelott
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/kaamelott.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBjQ7oR.jpg" group-title="",Southpark
+https://sv2.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/southpark-fr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2fTECX.jpg" group-title="",Simpsons
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/simpsonsfr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Krx7UhX.jpg" group-title="",Dragonball-dbz
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/sangoku.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIyoYLI.jpg" group-title="",H Intégrale
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/hintegrale.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMrRXDG.jpg" group-title="",L'Univers
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/specialinvest.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIJNVYI.jpg" group-title="",Special Investigation
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/specialinvest.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d09vKij.jpg" group-title="",TV Sciences
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/scientifique.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiz2ls3.jpg" group-title="",Nature HD
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/naturehd.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZZmZVG.jpg" group-title="",Camera Café
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/cameracafe.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Re8NuuH.jpg" group-title="",Enquete Exclusive
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/enquetexclusive.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNY4jSW.jpg" group-title="",Soda
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/soda.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pZ0dXX.jpg" group-title="",J irai dormir chez vous
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/antoine.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiVuY8H.jpg" group-title="",TV Replay
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/nanar-replay.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pV2q64A.jpg" group-title="",Man VS Wild
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/manvswild.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFIpVcK.jpg" group-title="",Divers Docs
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/divers.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U44UAnG.jpg" group-title="",Finance et Mondialisme
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/mondialisation.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaqCJrH.jpg" group-title="",Un Gars Une fille
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/ungarsunefille.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geUImZV.jpg" group-title="",Family Guy
+https://sv0.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/familyguyfr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCnQGCD.jpg" group-title="",Futurama
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/futurama-fr.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmQf8gK.jpg" group-title="",That 70 Show
+https://sv4.data-stream.top/0f0f2e8c5026cba45a6472d7de4054c89e55f312a96c8c11526502dc7c69c45e/hls/70show.m3u8|User-Agent=stream
