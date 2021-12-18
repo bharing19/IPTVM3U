@@ -49,7 +49,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="",BeritaSatu - Indonesia
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
@@ -252,6 +251,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L357mjp.gif" group-title="",Press TV - Iran
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJ4ZNII.jpg"group-title="",PTV - Pakistan
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vBtSPx.png" group-title="",PTV (People's Television) - Philippines  Filipino:English (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJCUbMaY593_4SN1QPG7NFQ/live
