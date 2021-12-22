@@ -6,7 +6,6 @@
 # Channel Logos  =  From EPG Generator or by player
 # Host https://autopilot.catcast.tv/content/  https://v2.catcast.tv/content/
 # Channel Player =   https://catcast.tv/player/IDHERE?autoplay=0
-# #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 # WebSite  https://catcast.tv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fihZoh2.png" group-title="",★★★★★★★★★★CatCastTV★★★★★★★★★★
@@ -20,6 +19,9 @@ https://autopilot.catcast.tv/content/39792/index.m3u8
 
 #EXTINF:-1 tvg-id="37909" tvg-logo="https://img.catcast.tv/uploads/27022020/37909-5e58228d42413.jpg" group-title="",A21 Network | Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="40791" tvg-logo="https://img.catcast.tv/uploads/03102021/logos/40791-6159827b48fef.png" group-title="",AVD TV
+https://autopilot.catcast.tv/content/40791/index.m3u8
 
 #EXTINF:-1 tvg-id="35676" tvg-logo="https://img.catcast.tv/logos/d0cc8d946cd346b6c05663f57e58ad0c.png" group-title="",ANIME канал
 https://v2.catcast.tv/content/35676/index.m3u8
@@ -96,6 +98,9 @@ https://autopilot.catcast.tv/content/36251/index.m3u8
 #EXTINF:-1 tvg-id="33816" tvg-logo="nologo.png" group-title="",Metal TV  (no EPG)
 http://autopilot.catcast.tv/content/33816/index.m3u8
 
+#EXTINF:-1 tvg-id="40660" tvg-logo="https://img.catcast.tv/uploads/08112021/logos/40660-61893f884df5a.png" group-title="",NorMax
+https://autopilot.catcast.tv/content/40660/index.m3u8
+
 #EXTINF:-1 tvg-id="39116" tvg-logo="https://img.catcast.tv/uploads/13092020/logos/39116-5f5e25008ba82.png" group-title="",MUSIC 1 HD (no EPG)
 https://autopilot.catcast.tv/content/39116/index.m3u8
 
@@ -110,6 +115,9 @@ https://autopilot.catcast.tv/content/39759/index.m3u8
 
 #EXTINF:-1 tvg-id="38197" tvg-logo="nologo.png" group-title="",ТВОЕ ТВ (no EPG)
 https://autopilot.catcast.tv/content/38197/index.m3u8
+
+#EXTINF:-1 tvg-id="39678" tvg-logo="nologo.png" group-title="",Telebox  (no EPG)
+https://s2.catcast.tv/content/39678/index.m3u8
 
 #EXTINF:-1 tvg-id="391" tvg-logo="https://img.catcast.tv/uploads/09072021/logos/391-60e8444c6c0c6.png" group-title="Music",TRANCE IS STAR TV
 http://tis.catcast.tv/content/391/index.m3u8
