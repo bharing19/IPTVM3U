@@ -69,6 +69,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHg9ydf.png" group-title="",Digi-TV
 https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 
+# https://watchseinfeld.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWQzrZc.jpg" group-title="",Seinfeld 24/7
+https://2.watchseinfeld.net/hls/seinfeld/src/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
 http://cdn.tvmatic.net/comedy.m3u8
