@@ -4,15 +4,36 @@
 #EXTINF:-1,Streamlink Tester Addon required  ... tag (SLT) Links
 0.0.0.0
 
+#EXTINF:-1,Eurosport RU
+https://5-61-37-25.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,Eurosport 1
+https://95-213-172-221.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,Eurosport 2
+https://95-213-172-221.livesports24.online/ruseurosport2.m3u8
+
 #EXTINF:-1,Setanta Sports 1
 https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Setanta Sports 1
+https://95-213-172-221.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Setanta Sports 1 
+https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1,Setanta Sports 1 HD
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1,Setanta Sports 1
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1,Setanta Sports 1 HD
 https://95-213-224-186.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+https://95-213-224-187.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1,Setanta Sports 2
+https://95-213-172-213.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1,Setanta Sports 2
+https://95-213-172-221.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1,Setanta Sports 2 
+https://185-106-121-77.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+https://95-213-224-187.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
@@ -21,10 +42,173 @@ https://77-247-178-24.livesports24.online/setantaplusru.m3u8
 https://95-213-224-182.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
 https://95-213-224-179.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1,Setanta Sports 2
-https://95-213-172-213.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
 https://95-213-224-187.livesports24.online/setantaplusru.m3u8
+
+#EXTINF:-1,Setanta Sports UA
+https://5-61-37-22.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports Ukraine
+https://95-213-172-221.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports Ukraine 
+https://185-106-121-77.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD
+https://95-213-172-213.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD
+https://95-213-224-187.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 ,Setanta Sports HD UA
+https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sport Ukraine [FHD]
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports Ukraine [FHD]
+https://77-247-178-24.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports+ Ukraine
+https://95-213-172-221.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1,Setanta Sports + HD
+https://95-213-224-182.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1,Setanta Sports + 
+https://185-106-121-77.livesports24.online/setantaplusukr.m3u8
+
+#EXTINF:-1,Беларусь 5
+https://95-213-224-176.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5
+https://185-107-80-245.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 5 INT
+https://185-198-56-56.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 ,Беларусь 5
+https://95-213-224-187.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5 HD
+https://95-213-172-221.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 ,Беларусь 5 HD
+https://95-213-172-213.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5 HD
+https://185-106-121-77.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5 [FHD]
+https://77-247-178-24.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5 [FHD]
+https://95-213-224-175.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Беларусь 5 [FHD]
+https://95-213-172-221.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 5 [FHD]
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1,Футбол
+https://77-247-178-24.livesports24.online/footballrus.m3u8
+#EXTINF:-1,Футбол [SD]
+https://185-107-80-245.livesports24.online/footballrus.m3u8
+#EXTINF:-1,Футбол [SD]
+https://95-213-224-175.livesports24.online/footballrus.m3u8
+#EXTINF:-1 ,Футбол [SD]
+https://95-213-224-186.livesports24.online/footballrus.m3u8
+#EXTINF:-1 ,Телеканал Футбол
+https://185-106-121-77.livesports24.online/footballrus.m3u8
+#EXTINF:-1 ,Футбол
+https://95-213-172-221.livesports24.online/footballrus.m3u8
+
+#EXTINF:-1, Футбол 1
+https://95-213-224-176.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1
+https://185-106-121-77.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1
+https://95-213-172-213.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8?982266587780a
+
+#EXTINF:-1,Футбол 1
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1 HD
+https://95-213-172-221.livesports24.online/uafootballua1.m3u8?929001857066a
+#EXTINF:-1,Футбол 1HD [UA] [HQ]
+https://95-213-224-186.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1 HD [UA] [HQ]
+https://185-198-56-58.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1 HD
+https://77-247-178-24.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1 HD
+https://185-107-80-245.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 1 HD
+https://185-198-56-58.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 ,Футбол 1 HD
+https://95-213-224-187.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1,Футбол 2
+https://95-213-224-185.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 UA
+https://95-213-172-222.livesports24.online/fooootball2.m3u8
+#EXTINF:1,Футбол 2 
+https://95-213-224-180.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2
+https://185-107-80-245.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2
+https://95-213-224-186.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 UA
+https://95-213-172-213.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.5.0
+https://95-213-172-221.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 
+https://185-106-121-77.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 HD
+https://95-213-224-176.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 HD
+https://95-213-224-187.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,ФУТБОЛ 2 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,ФУТБОЛ 2 HD
+https://185-198-56-58.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол 2 HD 
+https://185-106-121-101.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1,Футбол 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8?982266587780a 
+#EXTINF:-1,Футбол 3 
+https://185-106-121-77.livesports24.online/football3ua.m3u8
+#EXTINF:-1,Футбол 3
+https://77-247-178-24.livesports24.online/football3ua.m3u8?989494459868a
+#EXTINF:-1,Футбол 3
+https://95-213-224-185.livesports24.online/football3ua.m3u8?9810756664472a
+#EXTINF:-1,Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.5.0
+https://95-213-172-221.livesports24.online/football3ua.m3u8?929001857066a
+#EXTINF:-1 ,Футбол 3 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/football3ua.m3u8
+#EXTINF:-1 ,Футбол 3 HD [UA] [HQ]
+https://95-213-224-186.livesports24.online/football3ua.m3u8
+#EXTINF:-1 ,ФУТБОЛ 3 HD [UA] [HQ]
+https://185-198-56-58.livesports24.online/football3ua.m3u8
+#EXTINF:-1 ,ФУТБОЛ 3 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/football3ua.m3u8
+#EXTINF:-1 ,Футбол 3 HD
+https://95-213-172-213.livesports24.online/football3ua.m3u8
+#EXTINF:-1 ,Футбол 3 HD UA
+https://95-213-224-187.livesports24.online/football3ua.m3u8
+
+#EXTINF:-1,Спорт 1 [укр] [SD]
+https://77-247-178-24.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Спорт 1
+https://95-213-172-221.livesports24.online/sport1ua.m3u8?929001857066a
+#EXTINF:-1,Sport 1 Украина
+https://95-213-224-186.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 ,Спорт 1 Украина [SD]
+https://95-213-224-186.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Sport 1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Sport 1 
+https://95-213-224-187.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Sport 1 
+https://185-106-121-77.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Sport 1 
+https://95-213-224-182.livesports24.online/sport1ua.m3u8?929001857066a
+
+#EXTINF:-1,УНІАН
+https://185-106-121-77.livesports24.online/uniantv.m3u8
+
+####
 
 #EXTINF:-1,HD1  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
