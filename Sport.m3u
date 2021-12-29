@@ -274,7 +274,7 @@ https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkass5a.smil/playl
 #EXTINF:-1,Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
-https://admdn2ta.cdn.mgmlcdn.com/adsports3/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn2ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Abu Dhabi Sports 3
 https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
@@ -305,6 +305,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1,TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
+#EXTINF:-1,ESPN BRASIL
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
 ####
 
