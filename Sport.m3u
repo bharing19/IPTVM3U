@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,World Sport
+0.0.0.0
+
 # https://sportzonline.to/prog.txt
 #EXTINF:-1,Streamlink Tester Addon required  ... tag (SLT) Links
 0.0.0.0
@@ -10,6 +13,17 @@ https://5-61-37-25.livesports24.online/eurosport1ru.m3u8
 https://95-213-172-221.livesports24.online/eurosport1ru.m3u8
 #EXTINF:-1,Eurosport 2
 https://95-213-172-221.livesports24.online/ruseurosport2.m3u8
+
+#EXTINF:-1,MATH PREMIER
+https://95-213-224-180.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,MATCH 1
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,Футбол 1
+https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,МАТЧ! 1 
+https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,МАТЧ!
+https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1,Setanta Sports 1
 https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
@@ -208,6 +222,67 @@ https://185-106-121-77.livesports24.online/uniantv.m3u8
 
 ####
 
+#EXTINF:-1, BEIN SPORT AR 1
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1, BEIN SPORT AR 2
+http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORT AR 3
+http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORT AR 4
+http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORT AR 5
+http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORT AR 6
+http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORT AR 1 PREMIUM
+http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1, BEIN SPORT AR 2 PREMIUM
+http://45.94.31.45/bar165002/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1, BEIN SPORT AR 3 PREMIUM
+http://45.94.31.45/bar165003/tracks-v1a1/mono.m3u8?SBN
+
+#EXTINF:-1,BT SPORT HD 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BT SPORT HD 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1, SKY SPORTS
+https://tunelive.net:3412/stream/play.m3u8
+
+#EXTINF:-1, YAYA LIVE
+http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8
+
+#EXTINF:-1,EUROSPORT 1
+http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
+
+#EXTINF:-1,A Spor (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live
+#EXTINF:-1,San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:-1,Al Kass Sports 1
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/playlist.m3u8
+#EXTINF:-1,Al Kass Sports 2
+https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkas2b.smil/playlist.m3u8
+#EXTINF:-1,Al Kass Sports 4
+https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkass4a.smil/playlist.m3u8
+#EXTINF:-1,Al Kass Sports 5
+https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkass5a.smil/playlist.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports 1
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+https://admdn2ta.cdn.mgmlcdn.com/adsports3/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1,TürkmenTV Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+####
+
 #EXTINF:-1,HD1  (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/hd/hd1.php
 #EXTINF:-1,HD2  (SLT)
@@ -280,19 +355,17 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://emb.apl52.me/pla
 #EXTINF:-1,totalhdsport (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://totalhdsport.xyz/hd/10.php
 
+####
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png" group-title="Sport",RTM Tokyo 2020 Channel 1 (HD)
-https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png" group-title="Sport",RTM Tokyo 2020 Channel 2 (HD)
-https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png" group-title="Sport",RTM Tokyo 2020 Channel 3 (HD)
-https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png" group-title="Sport",RTM Tokyo 2020 Channel 4 (HD)
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png" group-title="Sport",RTM Tokyo 2020 Channel 5 (HD)
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1,BT SPORT 1
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-
+#EXTINF:-1,BEIN SPORT 1 TRUE VISIONS
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1,BEIN SPORT 1 TRUE VISIONS
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV_01 
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -304,11 +377,19 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV_05 
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
+#EXTINF:-1,SPORTTV 1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1,eurosport1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-
 
 #EXTINF:-1,Premier Football HD 1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -321,14 +402,46 @@ https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1,Premier Football HD 5
 https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1,True​ ​Sport​ HD
+#EXTINF:-1, Premier Football HD 1 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1, Premier Football HD 2 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1, Premier Football HD 3 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1, Premier Football HD 4 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+
+#EXTINF:-1,True Sport HD
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1,True​ ​Sport​ HD2
+#EXTINF:-1,True Sport HD2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1,True​ ​Sport​ HD3
+#EXTINF:-1,True Sport HD3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1,True​ ​Sport​ HD4
+#EXTINF:-1,True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1, BEIN SPORT EXTRA ES
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+#EXTINF:-1, LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
+#EXTINF:-1, LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1, ELEVEN SPORT 2
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1, TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="",DUBAI SPORTS 1
@@ -406,4 +519,13 @@ http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 #EXTINF:-1,OLIMPIC 16
 http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png" group-title="Sport",RTM Tokyo 2020 Channel 1 (HD)
+https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png" group-title="Sport",RTM Tokyo 2020 Channel 2 (HD)
+https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png" group-title="Sport",RTM Tokyo 2020 Channel 3 (HD)
+https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png" group-title="Sport",RTM Tokyo 2020 Channel 4 (HD)
+https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png" group-title="Sport",RTM Tokyo 2020 Channel 5 (HD)
+https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
