@@ -78,6 +78,12 @@ plugin://plugin.video.dailymotion_com/?url=&x81lgjhamp;mode=playLiveVideo
 #EXTINF:-1 tvg-id="RTVC.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/Jp38Rzf.png" group-title="",Radio Télévision Caraïbes (RTVC) (720p)
 https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x81lgjh
 
+# https://www.youtube.com/channel/UCsrshxT_qpz5TAiBLZwyUOw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHwNT3P.jpg" group-title="",Radio Television Nationale D'Haiti RTNH (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsrshxT_qpz5TAiBLZwyUOw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHwNT3P.jpg" group-title="",Radio Television Nationale D'Haiti RTNH (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsrshxT_qpz5TAiBLZwyUOw/live
+
 #EXTINF:-1 tvg-id="RadioTélévisionHirondelle.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/2gVnoSX.jpg" group-title="",Radio Télévision Hirondelle (480p)
 https://watch.haitilive.net/gethb/rtvh16/index.m3u8
 #EXTINF:-1 tvg-id="RadioTélévisionHirondelle.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/2gVnoSX.jpg" group-title="",Radio Télévision Hirondelle (480p) (OPT-2)
