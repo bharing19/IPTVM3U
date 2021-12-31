@@ -551,3 +551,31 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="",WeatherSpy - USA (OPT-2)
 https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+
+# https://www.youtube.com/channel/UCf92Atj0eNFKOBBdZfiIwsQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1wy0wx.jpg" group-title="",Solar Monitoring (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCf92Atj0eNFKOBBdZfiIwsQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1wy0wx.jpg" group-title="",Solar Monitoring (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCf92Atj0eNFKOBBdZfiIwsQ/live
+
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/U1lxFpZ.jpg" group-title="",STIRR - NASA TV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 1
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 2
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 3
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 1
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 2
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 3
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 4
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
