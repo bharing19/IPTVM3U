@@ -314,6 +314,35 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1,ESPN BRASIL
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
+# https://www.sportsala.cc/
+#EXTINF:-1,Sony Six
+https://s1.123zcast.com:8050/hls/sonysixendia.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=sonysixendia&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1,Willow Cricket
+https://s1.123zcast.com:8050/hls/willowusa.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=willowusa&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1,Sky Sports Cricket
+https://s1.123zcast.com:8050/hls/skyscric.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=skyscric&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1,Sky Sports Mix
+https://s1.123zcast.com:8050/hls/skysmixx.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=skysmixx&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1,Sky Sports F1
+https://s1.123zcast.com:8050/hls/skysfor1.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=skysfor1&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1,SuperSport Action
+https://s1.123zcast.com:8050/hls/superspaction.m3u8|Referer=https://123zcast.com/embed.php?player=desktop&v=superspaction&vw=100%&vh=520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+
+
+#EXTINF:-1,BEIN SPORTS 3HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 4HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 5HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 6HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 7HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 8HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 9HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 ####
 
 #EXTINF:-1,HD1  (SLT)
