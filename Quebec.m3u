@@ -227,7 +227,7 @@ https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b26
 
 # https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (YT) (c_id) (non 24/7)
-plugin://plugin.video.youtube/play/?channel_id=&live=1
+plugin://plugin.video.youtube/play/?channel_id=UC5juy2fbHq4kKmpUq3IkHoQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ/live
 
