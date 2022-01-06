@@ -214,6 +214,14 @@ https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4i15HFL.png" group-title="",NDTV - India
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
+# https://newscentral.africa/watch-live/ https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa
+https://helga.iptv2022.com/news_central/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPLKy4Ypb4mfblbjJI8Aljw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxSjxFL.jpg" group-title="",Newsmax - USA
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxSjxFL.jpg" group-title="",Newsmax - USA (OPT-2)
@@ -327,7 +335,10 @@ https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
 https://d3qk889yj9a2d2.cloudfront.net/out/v1/3d9b79bc1a934ac9bcd088e3554e91bb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qwqsXT8.png" group-title="",Ticker News - Australia
+# https://tickernews.co/where-to-watch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/netrt12.jpg" group-title="",Ticker NEWS - Australia
+https://helga.iptv2022.com/Ticker_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/netrt12.jpg" group-title="",Ticker NEWS - Australia (OPT-2)
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-times-now2-hsslive-25f-4x3-thumb-large.jpg.png" group-title="",TIMES NOW
