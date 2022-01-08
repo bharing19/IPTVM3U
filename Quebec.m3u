@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 21/12/16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/01/08
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
@@ -201,10 +201,13 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (Audio)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 
+#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-name="Meteo-Media CA" tvg-logo="https://i.imgur.com/nRvOVp3.png" group-title="Météo",MétéoMédia (720p)
+http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8
+
 # http://greektimes.ca/greektv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
 
 # https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg
@@ -338,7 +341,7 @@ plugin://plugin.video.twitch/?mode=play&channel_name=quebecreveille
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/quebecreveille
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH) (non 24/7)
 plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
 
 # https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
