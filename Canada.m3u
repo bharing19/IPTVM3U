@@ -630,6 +630,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCijum8ufGvG9ydfByx1E8yg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
 
+#EXTINF:-1 tvg-id="WTN.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/w-copy.png" group-title="",W Network
+http://encodercdn1.frontline.ca/kamino/output/W_Network_720p/playlist.m3u8
+
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
