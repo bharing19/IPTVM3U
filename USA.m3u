@@ -64,22 +64,67 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeD5NwvPbEZKc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksq6mif.jpg" group-title="",Very Tampa Bay by WMOR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrvIy-EG4lB7w/live
 
-#EXTINF:-1 tvg-id="WKBW-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/abc-logo-2013-butterscotch-us.png" group-title="Local",ABC Buffalo NY (WKBW-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
 #EXTINF:-1 tvg-id="WCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="Local",CBS Tallahassee FL (WCTV1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WIVB-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="Local",CBS Buffalo NY (WIVB-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-id="WTWC-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="Local",Fox Tallahassee FL (WTWC-TV1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="Local",Fox Buffalo NY (WUTV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-id="WTLH.us" tvg-country="US" tvg-language="English" tvg-logo="https://sc.dish.com/shared/images/station-logos/HERIC.png" group-title="Classic",Heroes & Icons Tallahassee FL (WTLH1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WTWC-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Tallahassee FL (WTWC-TV1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WGRZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Buffalo NY (WGRZ1) (720p)
+
+
+#EXTINF:-1 tvg-id="WKBW-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Buffalo NY (WKBW-TV1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Detroit MI (WXYZ-TV1) (720p)
+http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KOMOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Seattle WA (KOMO-TV1) (720p)
+http://encodercdn1.frontline.ca/yavin/output/ABC_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KXLYTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Spokane WA (KXLY-TV1) (720p)
+http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WIVB-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Buffalo NY (WIVB-TV1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="WWJ-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Detroit MI (WWJ-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KIRO-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Seattle WA (KIRO-TV1) (720p)
+http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cnn.png" group-title="News",CNN (720p)
+http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WFXT.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Boston MA (WFXT1) (720p)
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Buffalo NY (WUTV1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
+http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WUHF.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",FOX Rochester NY (WUHF-DT1) (720p)
+http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KCPQ.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Seattle WA (KCPQ1) (720p)
+http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KAYUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",FOX Spokane WA (KAYU-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="News",MSNBC (720p)
+http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WBTS-CD.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Boston MA (WBTS-CD1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WGRZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Buffalo NY (WGRZ1) (720p)
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="KING-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Seattle WA (KING-TV1) (720p)
+http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KHQTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Spokane WA (KHQ-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WNED.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Buffalo NY (WNED-TV) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_PBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="KCTSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Seattle WA (KCTS-TV1) (720p)
+http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KSPSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Spokane WA (KSPS-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Peachtree.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/320px-WPCH-TV_logo.svg.png" group-title="General",Peachtree TV Atlanta GA (WPCH-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WPIX.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="Local",The CW New York NY (WPIX1) (720p)
+http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WGN-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wgn-america-us.png" group-title="Local",WGN Chicago IL (WGN-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 
 # https://www.watchdigitv.com/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHg9ydf.png" group-title="",Digi-TV
