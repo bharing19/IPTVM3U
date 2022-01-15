@@ -193,10 +193,10 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrygFy9ZCNFrR
 # https://cable14now.com/live-streams/
 # https://cable14now.com/live-streams/video/?videoId=104
 EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 1 (TK)
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1623497884&iimae0UC2astarttime=1623483484&iimae0UC2ahash=oOrxFHi4M4YenlfF9Q_Yma9pwAvbaZUYJhmL0b20t8A=
+
 # https://cable14now.com/live-streams/video/?videoId=592
 EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2 (TK)
-https://flowcaster1-ch.cdn.clearcable.net/C14LS2/smil:C14LS2.smil/playlist.m3u8?iimae0UC2aendtime=1623499102&iimae0UC2astarttime=1623484702&iimae0UC2ahash=lICml9LD-0n4U8iaIcsbeSftc8kI3UMOP12GgFgl7rY=
+
 
 # http://camptv.ca/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guKuGPh.png" group-title="",camptv (OFFLINE)
@@ -335,9 +335,6 @@ plugin://script.module.7of9-live/play/691/play.pvr
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV News
-http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTVDrama.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CTV_drama_channel.png" group-title="",CTVDrama
 http://encodercdn1.frontline.ca/encoder183/output/CTV_Drama_720p/playlist.m3u8
@@ -495,8 +492,6 @@ http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/lives
 plugin://plugin.video.twitch/?mode=play&channel_name=novascotiatelevision
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/novascotiatelevision
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth
-http://free.fullspeed.tv/query?url=https://www.twitch.tv/novascotiatelevision
 
 # http://ntv.ca/web-tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
@@ -623,8 +618,15 @@ https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",WCGTV Pub Sessions
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
+# https://www.youtube.com/channel/UCjKq-J6gMrDCPOdZdXOUuVA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6fBtAL.jpg" group-title="",Western Standard - Monday to Friday at 11:30AM (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjKq-J6gMrDCPOdZdXOUuVA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6fBtAL.jpg" group-title="",Western Standard - Monday to Friday at 11:30AM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjKq-J6gMrDCPOdZdXOUuVA/live
+
+# https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+plugin://plugin.video.youtube/play/?channel_id=UCijum8ufGvG9ydfByx1E8yg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
 
