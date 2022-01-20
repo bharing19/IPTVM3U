@@ -180,7 +180,7 @@ https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOgsBb8.jpg" group-title="",BNN Bloomberg Canada (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd&title=BNN
 
-# update link https://www.youtube.com/watch?v=lYXdhqg6DmM
+#  https://www.youtube.com/channel/UCAEz85vDEpU9I4EVi8u4xIg
 EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
 
@@ -310,6 +310,12 @@ http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CMT.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cmtcanada.png" group-title="",CMT
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CMTHD_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
+# https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCZ9Z3-VJcSMSqrWRORMlRjQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ/live
 
 #EXTINF:-1 tvg-id="CPACOttawaEn.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CPAC.png" group-title="",Cpac
 http://encodercdn1.frontline.ca/yavin/output/CPAC_English_720p/playlist.m3u8
@@ -459,6 +465,20 @@ https://lin10.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjEnQm9.jpg" group-title="",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
+# https://www.youtube.com/channel/UC3eyhFvHAXJtwQmeXtU9XTg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC3eyhFvHAXJtwQmeXtU9XTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government (STK)  (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3eyhFvHAXJtwQmeXtU9XTg/live
+# https://www.gov.mb.ca/legislature/committees/committee_broadcasts.html
+EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 254 (not 24/7)
+0.0.0.0
+EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 255 (not 24/7)
+0.0.0.0
+# https://www.gov.mb.ca/legislature/business/house_broadcasts.html
+EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - House Broadcasts (not 24/7)
+0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
@@ -501,8 +521,14 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://c.streamhoster.com/embed/media/Wwsd4L/iBSBWpa9sr2/S1PftBsAMPu_5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario
+# https://saultonline.com/onntv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario (OFFLINE)
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
+# https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCr7gh2Z4NzcMlRdwqavYcgw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
 
 #EXTINF:-1 tvg-id="OMNI1.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/omni1.png" group-title="",OMNI 1
 http://encodercdn1.frontline.ca/geonosis/output/OMNI1_720p/playlist.m3u8
@@ -531,12 +557,11 @@ http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Pacific_720p/playlist.m3
 
 #EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsnetontario.png" group-title="Sport",Sportsnet Ontario
 http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Ontario_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario (TT)
+plugin://script.module.7of9-live/lay/214/play.pvr
 
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsnetwest.png" group-title="Sport",Sportsnet West
 http://encodercdn1.frontline.ca/bespin/output/Sportsnet_West_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario (TT)
-plugin://script.module.7of9-live/lay/214/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportrtsnet One (TT)
 plugin://script.module.7of9-live/play/417/play.pvr
@@ -613,6 +638,12 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGPPdIn67ZCLh
 #EXTINF:-1 tvg-id="Vision.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/vision.png" group-title="",Vision TV
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_VISON_AtopItci_2015_01_12_SD/hls_sd.m3u8
 
+# https://www.youtube.com/channel/UCHqm6pHW77RGi6nlMvK0yMQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Evn0CD1.jpg" group-title="Weather",WatchWx (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHqm6pHW77RGi6nlMvK0yMQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Evn0CD1.jpg" group-title="Weather",WatchWx (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHqm6pHW77RGi6nlMvK0yMQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",WCGTV Brandon
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",WCGTV Pub Sessions
@@ -633,14 +664,14 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9y
 #EXTINF:-1 tvg-id="WTN.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/w-copy.png" group-title="",W Network
 http://encodercdn1.frontline.ca/kamino/output/W_Network_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/yestv.png" group-title="",yes TV
+http://encodercdn1.frontline.ca/kamino/output/YESTV_Hamilton_720p/playlist.m3u8
+
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
-
-#EXTINF:-1 tvg-id="YesTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/yestv.png" group-title="",yes TV
-http://encodercdn1.frontline.ca/kamino/output/YESTV_Hamilton_720p/playlist.m3u8
 
 ##########
 
