@@ -294,22 +294,11 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/0.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA Audio
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/05.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2)
+EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (OPT-2)
-https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA (720p) (OPT-2)
-https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA (720p) (OPT-2)
-https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2b)
+EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2b)
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (OPT-2b)
-https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA (720p) (OPT-2b)
-https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA (720p) (OPT-2b)
-https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
+
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_url/?item_id=tva
 
